@@ -1,0 +1,272 @@
+[
+  {
+    "name": "ICRA 2022",
+    "period": "23-27 May 2022",
+    "deadline": "",
+    "city": "Philadelphia",
+    "country": "USA",
+    "link": "",
+    "type": "Conference"
+  },
+  {
+    "name": "RSS 2022",
+    "period": "June 27–July 1",
+    "deadline": "",
+    "city": "New York",
+    "country": "USA",
+    "link": "https://roboticsconference.org/",
+    "type": "Conference"
+  },
+  {
+    "name": "IEEE CASE 18th International Conference on Automation Science and Engineering",
+    "period": "20-24 August",
+    "deadline": "",
+    "city": "Mexico city",
+    "country": "Mexico",
+    "link": "http://case2022.org/index.html",
+    "type": "Conference"
+  },
+  {
+    "name": "RO-MAN 31st IEEE International Conference on Robot & Human Interactive Communication (RO-MAN).",
+    "period": "29 August - 2 Sept",
+    "deadline": "1 July (early bid)",
+    "city": "Naples",
+    "country": "Italy",
+    "link": "http://www.smile.unina.it/ro-man2022/",
+    "type": "Conference"
+  },
+  {
+    "name": "CLAWAR",
+    "period": "12th-14th September",
+    "deadline": "",
+    "city": "Azzore (Ponta Delgada)",
+    "country": "Portugal",
+    "link": "https://clawar.org/clawar2022/",
+    "type": "Conference"
+  },
+  {
+    "name": "ICDL 2022 IEEE International Conference on Development and Learning (ICDL 2022)",
+    "period": "12-15 Semptember",
+    "deadline": "",
+    "city": "London",
+    "country": "UK",
+    "link": "https://icdl2022.qmul.ac.uk/",
+    "type": "Conference"
+  },
+  {
+    "name": "ICMLR 2022: 16. International Conference on Machine Learning for Robotics",
+    "period": "15-16 Septempber",
+    "deadline": "",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "link": "",
+    "type": "Conference"
+  },
+  {
+    "name": "ECML PKDD (with Active inference workshop)",
+    "period": "19th-23rd September",
+    "deadline": "31-08 early bid",
+    "city": "Grenoble (but hibrid)",
+    "country": "France",
+    "link": "https://2022.ecmlpkdd.org/",
+    "type": "Conference"
+  },
+  {
+    "name": "SAB 2022 - The 16th International Conference on Simulation of Adaptive Behavior",
+    "period": "20-23 September",
+    "deadline": "",
+    "city": "Cergy-Pontoise",
+    "country": "France",
+    "link": "sab2022.sciencesconf.org",
+    "type": "Conference"
+  },
+  {
+    "name": "ICMLTCE 2022: 16. International Conference on Machine Learning Techniques for Control Engineering",
+    "period": "27-28 Sept",
+    "deadline": "",
+    "city": "Instabul",
+    "country": "Turkey",
+    "link": "https://waset.org/machine-learning-techniques-for-control-engineering-conference-in-september-2022-in-istanbul",
+    "type": "Conference"
+  },
+  {
+    "name": "CAIS 2022",
+    "period": "3-6 October",
+    "deadline": "",
+    "city": "Oklahoma city, OK",
+    "country": "USA",
+    "link": "https://nameutor.com/name/19/",
+    "type": "Conference"
+  },
+  {
+    "name": "IEEE CBS 2022 nternational Conference on Cyborg and Bionic Systems ",
+    "period": "October 20-21",
+    "deadline": "",
+    "city": "Wuhan",
+    "country": "China",
+    "link": "http://www.icbs2022.com/ ",
+    "type": "Conference"
+  },
+  {
+    "name": "IROS 2022",
+    "period": "23-27 October",
+    "deadline": "",
+    "city": "Kyoto",
+    "country": "Japan",
+    "link": "https://iros2022.org/contributing/call-for-papers/",
+    "type": "Conference"
+  },
+  {
+    "name": "MODELS 2022",
+    "period": "23-28 October",
+    "deadline": "",
+    "city": "Montreal",
+    "country": "Canada",
+    "link": "https://conf.researchr.org/home/models-2022",
+    "type": "Conference"
+  },
+  {
+    "name": "SSRR 2022 IEEE International Conference on Safety, Security, and Rescue Robotics (SSRR)",
+    "period": "NOVEMBER 8 - 10 2022",
+    "deadline": "",
+    "city": "Sevilla",
+    "country": "Spain",
+    "link": "https://ssrr2022.org/index.html",
+    "type": "Conference"
+  },
+  {
+    "name": "SINCONF 2022 IEEE International Conference on Security of Information and Networks",
+    "period": "11-13 November",
+    "deadline": "",
+    "city": "Sousse",
+    "country": "Tunisia",
+    "link": "https://www.sinconf.org/sin2022/index.html",
+    "type": "Conference"
+  },
+  {
+    "name": "ROSE AbuDABI",
+    "period": "14-15 NOV",
+    "deadline": "",
+    "city": "ABUDABI",
+    "country": "",
+    "link": "https://rose2022.ieee-ims.org/",
+    "type": "Conference"
+  },
+  {
+    "name": "AAAI Fall Symposium on “Artificial Intelligence for Human-Robot Interaction”",
+    "period": "November 17-19",
+    "deadline": "",
+    "city": "Arlington, VA",
+    "country": "USA",
+    "link": "https://ai-hri.github.io/2022/",
+    "type": "Conference"
+  },
+  {
+    "name": "The 10th RSI International Conference on Robotics and Mechatronics",
+    "period": "22-24 November",
+    "deadline": "",
+    "city": "Tehran",
+    "country": "Iran",
+    "link": "https://icrom.ir/",
+    "type": "Conference"
+  },
+  {
+    "name": "ROBOT2022 – Fifth Iberian Robotics Conference ",
+    "period": "23-25 November 23-25",
+    "deadline": "Early Registration: Sep 06, 2022",
+    "city": "Zaragoza",
+    "country": "Spain",
+    "link": "http://iberianroboticsconf.eu/",
+    "type": "Conference"
+  },
+  {
+    "name": "Humanoids ",
+    "period": "28-30 November",
+    "deadline": "accept not 26 sept",
+    "city": "ginowan, okinawa",
+    "country": "Japan",
+    "link": "https://www.humanoids2022.org/",
+    "type": "Conference"
+  },
+  {
+    "name": "The 6th IEEE International Conference on Agents (Online)",
+    "period": "28-30 November",
+    "deadline": "",
+    "city": "Adelaide",
+    "country": "Australia",
+    "link": "https://zhcaonctu.wixsite.com/ieee-ica-2022",
+    "type": "Conference"
+  },
+  {
+    "name": "ML Berlin Conf (Hybrid)",
+    "period": "28 November - 2 December",
+    "deadline": "",
+    "city": "Berlin",
+    "country": "Germany",
+    "link": "https://mlconference.ai/berlin/",
+    "type": "Conference"
+  },
+  {
+    "name": "IRC 2022",
+    "period": "5-7 December",
+    "deadline": "Paper Sub: semptember 24, 2022",
+    "city": "Napoli",
+    "country": "Italy",
+    "link": "https://www.ieee-irc.org /",
+    "type": "Conference"
+  },
+  {
+    "name": "Conf. Decision and Control (CDC)",
+    "period": "6-9 Dec",
+    "deadline": "",
+    "city": "Cancun",
+    "country": "Mexico",
+    "link": "https://cdc2022.ieeecss.org/",
+    "type": "Conference"
+  },
+  {
+    "name": "ACRA 2022",
+    "period": "6-8 December",
+    "deadline": "",
+    "city": "Brisbane",
+    "country": "Australia",
+    "link": "https://www.araa.asn.au/conference/acra-2022/",
+    "type": "Conference"
+  },
+  {
+    "name": "HAI 2022",
+    "period": "December 5-8",
+    "deadline": "",
+    "city": "Christchurch",
+    "country": "New Zealand ",
+    "link": "https://hai-conference.net/hai2022/",
+    "type": "Conference"
+  },
+  {
+    "name": "IEEE RITA - 10th International Conference on Robot Intelligence Technology and Applications.",
+    "period": "December 7-9",
+    "deadline": "",
+    "city": "Gold Coast",
+    "country": "Australia",
+    "link": "http://2022.icrita.org/",
+    "type": "Conference"
+  },
+  {
+    "name": "(ICSR 2022) International Conference on Social Robotics",
+    "period": "13-16 December 2022",
+    "deadline": "",
+    "city": "Firenze",
+    "country": "Italy",
+    "link": "https://www.icsr2022.it/",
+    "type": "Conference"
+  },
+  {
+    "name": "CoRL - 6th Annual Conference on Robot [and Automation!] Learning",
+    "period": "Dec 14-18",
+    "deadline": "",
+    "city": "Auckland",
+    "country": "New Zealand ",
+    "link": "https://corl2022.org/",
+    "type": "Conference"
+  }
+]

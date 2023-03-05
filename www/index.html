@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Fancy Table Data Viewer</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+     
+    <script
+        type="text/javascript" charset="utf8"
+        src="https://code.jquery.com/jquery-3.6.3.js"
+        integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM="
+        crossorigin="anonymous">
+    </script>
+    
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.13.3/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.13.3/js/dataTables.bootstrap5.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.3/css/dataTables.bootstrap5.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.3/js/jquery.dataTables.min.js" />
+        
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+    <script type="text/javascript" charset="utf8" src="data/conf2022.json"></script>
+    <script type="text/javascript" charset="utf8" src="data/school2022.json"></script>
+    <script type="text/javascript" charset="utf8" src="data/conf2023.json"></script>
+    <script type="text/javascript" charset="utf8" src="data/school2023.json"></script>    
+    <script type="text/javascript" charset="utf8" src="data/conf2024.json"></script>    
+    <script type="text/javascript" charset="utf8" src="data/school2024.json"></script>  
+      
+    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <link
+        rel="stylesheet"
+        type="text/css"
+        href="//github.com/downloads/lafeber/world-flags-sprite/flags32.css"
+    />
+    <script type="text/javascript" charset="utf8" src="js/lib.js"></script>
+
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <h2>Robotics conferences and Summer Schools</h2>
+
+    <ul class="nav nav-tabs">
+        <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">2024
+            <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="#conf2024Container">Conferences</a></li>
+              <li><a href="#school2024Container">Summer Schools</a></li>
+            </ul>
+        </li>
+        <li class="dropdown active">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">2023
+            <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="#conf2023Container">Conferences</a></li>
+              <li><a href="#school2023Container">Summer Schools</a></li>
+            </ul>
+        </li>
+        <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">2022
+            <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="#conf2022Container">Conferences</a></li>
+              <li><a href="#school2022Container">Summer Schools</a></li>
+            </ul>
+        </li>
+    </ul>
+
+
+    <div class="tab-content">
+      <div id="conf2022Container" class="tab-pane fade in"></div> 
+      <div id="school2022Container" class="tab-pane fade in"></div> 
+      
+      <div id="conf2023Container" class="tab-pane fade in active"></div>
+      <div id="school2023Container" class="tab-pane fade in"></div> 
+      
+      <div id="conf2024Container" class="tab-pane fade in"></div> 
+      <div id="school2024Container" class="tab-pane fade in"></div>  
+    </div>
+    
+    
+</div>
+
+</body>
+</html>
+

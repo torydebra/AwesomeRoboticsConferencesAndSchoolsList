@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Summer School   'Deformations in Robotics'",
+    "period": "July 4th-8th, 2022",
+    "deadline": "May 30th 2022",
+    "city": "Villeneuve d’Ascq (Lille)",
+    "country": "France",
+    "link": "https://defrobotics2022.sciencesconf.org/",
+    "type": "School"
+  },
+  {
+    "name": "EECI-IGS various summer schools",
+    "period": "July 11 - 15",
+    "deadline": "",
+    "city": "Zurich",
+    "country": "Swiss",
+    "link": "http://www.eeci-igsc.eu/           ",
+    "type": "School"
+  },
+  {
+    "name": "Deep Learning Summer School",
+    "period": "July 25-29",
+    "deadline": "No, but increasing prices",
+    "city": "Las Palmas de Gran Canaria",
+    "country": "Spain",
+    "link": "https://irdta.eu/deeplearn/2022su/",
+    "type": "School"
+  },
+  {
+    "name": "IEEE RAS Summer School",
+    "period": "1-5 August 2022",
+    "deadline": "1 June ",
+    "city": "Praga",
+    "country": "Czech",
+    "link": "http://mrs.felk.cvut.cz/summer-school-2022/",
+    "type": "School"
+  },
+  {
+    "name": "Managing Fleets of Robots with ROS2 (constructsim summer school)",
+    "period": "26-26 August",
+    "deadline": "",
+    "city": "Barcelona",
+    "country": "Spain",
+    "link": "https://www.theconstructsim.com/managing-fleets-robots-ros2-summer-school/",
+    "type": "School"
+  },
+  {
+    "name": "Summer School on Service-Based and Cloud Robotics",
+    "period": "20-22 Semptember",
+    "deadline": "15 May 2022",
+    "city": "Palma de Majorca",
+    "country": "Spain",
+    "link": "",
+    "type": "School"
+  },
+  {
+    "name": "DeepLearn 2022 Autumn",
+    "period": "October 17-21",
+    "deadline": "No, but increasing prices",
+    "city": "Luleå",
+    "country": "Sweden",
+    "link": "https://irdta.eu/deeplearn/2022au/",
+    "type": "School"
+  },
+  {
+    "name": "1ère Edition de l'Ecole du GT8  Apprentissage et Neurosciences pour la Robotique ",
+    "period": "October 20 to 23",
+    "deadline": "10 October",
+    "city": "Moliets et Maa (Landes)",
+    "country": "France",
+    "link": "https://sites.google.com/view/ecoledugt8/accueil",
+    "type": "School"
+  },
+  {
+    "name": "Surgical Imaging and Vision WINTER SCHOOL",
+    "period": "5-9 December",
+    "deadline": "30th September 2022",
+    "city": "London",
+    "country": "UK",
+    "link": "https://www.imperial.ac.uk/hamlyn-centre/names--global-engagement/hamlyn-winter-school-on-surgical-imaging-and-vision/",
+    "type": "School"
+  }
+]

@@ -1,7 +1,9 @@
 [
   {
-    "name": " IoT interoperability and the Web of Things (IIWOT’23",
-    "period": "08-11 January",
+    "shortName": "IIWOT",
+    "name": " IoT interoperability and the Web of Things",
+    "start": "2023-01-08",
+    "end": "2023-01-11",
     "deadline": "",
     "city": "",
     "country": "",
@@ -9,17 +11,21 @@
     "type": "Conference"
   },
   {
-    "name": "SII 2023 IEEE/SICE International Symposium on System Integrations (SII).",
-    "period": "January 17-20",
-    "deadline": "Submission deadline: August 1, 2022",
+    "shortName": "SII",
+    "name": "SII 2023 IEEE/SICE International Symposium on System Integrations",
+    "start": "2023-01-17",
+    "end": "2023-01-20",
+    "deadline": "2022-08-01",
     "city": "Atlanta",
     "country": "USA",
     "link": "https://www.sice-si.org/SII2023/",
     "type": "Conference"
   },
   {
-    "name": "INTERNATIONAL CONFERENCE ON AUTOMATION, ROBOTICS AND APPLICATIONS (ICARA 2023)",
-    "period": "Feb 10-12",
+    "shortName": "ICARA",
+    "name": "International Conference on Automation, Robotics, and Applications",
+    "start": "2023-02-10",
+    "end": "2023-02-12",
     "deadline": "",
     "city": "Abu Dhabi",
     "country": "United Arab Emirates",
@@ -27,548 +33,670 @@
     "type": "Conference"
   },
   {
-    "name": "Robotics in Aquaculture” to be held at Aquaculture America 2023",
-    "period": "Feb 23-26",
+    "shortName": "RobAq",
+    "name": "Robotics in Aquaculture to be held at Aquaculture America",
+    "start": "2023-02-23",
+    "end": "2023-02-26",
     "deadline": "",
     "city": "New Orleans, LA",
     "country": "USA",
     "link": "",
     "type": "Workshop"
   },
-  {
-    "name": "ICAART International Conference on Agents and Artificial Intelligence",
-    "period": "Feb 22-24",
+  {    
+    "shortName": "ICAART",
+    "name": "International Conference on Agents and Artificial Intelligence",
+    "start": "2023-02-22",
+    "end": "2023-02-24",
     "deadline": "",
     "city": "Lisbon",
     "country": "Portugal",
     "link": "https://icaart.scitevents.org/Home.aspx",
     "type": "Conference"
   },
-  {
+  {    
+    "shortName": "",
     "name": "International Conference on Machine Learning Technologies",
-    "period": "March 10-12",
+    "start": "2023-03-10",
+    "end": "2023-03-12",
     "deadline": "",
     "city": "Stockholm",
     "country": "Sweden",
     "link": "",
     "type": "Conference"
   },
-  {
-    "name": "18th Annual ACM/IEEE International Conference on Human Robot Interaction (HRI)",
-    "period": "March 13-16",
-    "deadline": "Voulonteer: 12-01 (free registration) variable autonomy workshop: 20-01",
+  {    
+    "shortName": "HRI",
+    "name": "ACM/IEEE International Conference on Human Robot Interaction",
+    "start": "2023-03-13",
+    "end": "2023-03-16",
+    "deadline": "",
     "city": "Stockholm",
     "country": "Sweden",
     "link": "https://humanrobotinteraction.org/2023/",
     "type": "Conference"
   },
-  {
+  {    
+    "shortName": "ERF",
     "name": "European Robotics Forum",
-    "period": "14 – 16 March",
+    "start": "2023-03-14",
+    "end": "2023-03-16",
     "deadline": "",
     "city": "Odense",
     "country": "Denmark",
     "link": "https://erf2023.sdu.dk/",
     "type": "Workshop"
   },
-  {
-    "name": "Robotics & Emerging Technology' for Shellfish Aquaculture",
-    "period": "March 26 - March 30",
+  {    
+    "shortName": "RETSA",
+    "name": "Robotics & Emerging Technology for Shellfish Aquaculture",
+    "start": "2023-03-26",
+    "end": "2023-03-30",
     "deadline": "",
     "city": "Baltimore, Maryland",
     "country": "USA",
     "link": "",
     "type": "Workshop"
   },
-  {
-    "name": "ACM Symposium on Applied Computing (SAC)",
-    "period": "March 27 - April 2, 2023",
+  {    
+    "shortName": "SAC",
+    "name": "ACM Symposium on Applied Computing",
+    "start": "2023-03-27",
+    "end": "2023-04-02",
     "deadline": "Paper submission: Oct. 15,  2022",
     "city": "Tallinn",
     "country": "Estonia",
     "link": "http://www.sigapp.org/sac/sac2023/",
     "type": "Conference"
   },
-  {
-    "name": "ICML 2023: 17. International Conference on M-Learning",
-    "period": "April 12-13",
+  {    
+    "shortName": "ICML",
+    "name": "International Conference on M-Learning",
+    "start": "2023-04-12",
+    "end": "2023-04-13",
     "deadline": "",
     "city": "Venice",
     "country": "Italy",
     "link": "https://waset.org/m-learning-conference-in-april-2023-in-venice",
     "type": "Conference"
   },
-  {
-    "name": "Austrian Robotics Workshop (ARW)",
-    "period": "April 12-13, 2023",
+  {    
+    "shortName": "ARW",
+    "name": "Austrian Robotics Workshop",
+    "start": "2023-04-12",
+    "end": "2023-04-13",
     "deadline": "",
     "city": "Linz",
     "country": "Austria",
     "link": "https://www.roboticsworkshop.at/",
     "type": "Conference"
   },
-  {
-    "name": "2023 8TH INT. CONF. ON CONTROL AND ROBOTICS ENGINEERING (ICCRE 2023)",
-    "period": "April 14-16",
+  {    
+    "shortName": "ICCRE",
+    "name": "International Conference on Control and Robotics Engineering",
+    "start": "2023-04-14",
+    "end": "2023-04-16",
     "deadline": "",
     "city": "Niigata",
     "country": "Japan",
     "link": "http://www.iccre.org/",
     "type": "Conference"
   },
-  {
-    "name": "International Conference on Autonomous Robot Systems and Competitions ",
-    "period": "April 26-27, 2023 ",
+  {    
+    "shortName": "ICARSC",
+    "name": "International Conference on Autonomous Robot Systems and Competitions",
+    "start": "2023-04-26",
+    "end": "2023-04-27",
     "deadline": "",
     "city": "Tomar",
     "country": "Portugal",
     "link": "https://www.icarsc.pt/",
     "type": "Conference"
   },
-  {
+  {    
+    "shortName": "EDUCON",
     "name": "IEEE Global engineering education conference",
-    "period": "1-4 may 2023",
-    "deadline": "5 december 2022 & 31 Oct 2022 (abstract)",
+    "start": "2023-05-01",
+    "end": "2023-05-04",
+    "deadline": "2022-10-31",
     "city": "Kuwait city",
     "country": "Kuwait",
     "link": "http://2023.ieee-educon.org/",
     "type": ""
   },
-  {
-    "name": "REEDCON2023 - International Conference on Recent Advances in Electrical, Electronics & Digital Healthcare Technologies,",
-    "period": "1-3 May 2023",
+  {    
+    "shortName": "REEDCON",
+    "name": "International Conference on Recent Advances in Electrical, Electronics & Digital Healthcare Technologies",
+    "start": "2023-05-01",
+    "end": "2023-05-03",    
     "deadline": "",
     "city": "New Delhi",
     "country": "India",
     "link": "https://reedconjmi.com/",
     "type": "Conference"
   },
-  {
-    "name": "KAUST Research Conference on Robotics and Autonomy 2023",
-    "period": "May 08 - May 10",
+  {    
+    "shortName": "KAUST",
+    "name": "Research Conference on Robotics and Autonomy",
+    "start": "2023-05-08",
+    "end": "2023-05-10",
     "deadline": "",
     "city": "Thuwal",
     "country": "Saudi Arabia",
     "link": "https://cemse.kaust.edu.sa/robotokaust",
     "type": "Conference"
   },
-  {
+  {    
+    "shortName": "CPS-IOT",
     "name": "Cyber-Physical Systems and Internet-of-Things Week",
-    "period": "May 9-12",
+    "start": "2023-05-09",
+    "end": "2023-05-12",
     "deadline": "",
     "city": "San Antonio, TEXAS",
     "country": "USA",
     "link": "https://cps-iot-week2023.cs.utsa.edu/events.php",
     "type": "Conference"
   },
-  {
-    "name": "ICCAD International Conference od Control, Automation and Diagnosis",
-    "period": "May 10-12",
+  {    
+    "shortName": "ICCAD",
+    "name": "International Conference od Control, Automation and Diagnosis",
+    "start": "2023-05-10",
+    "end": "2023-05-12",
     "deadline": "",
     "city": "Rome",
     "country": "Italy",
     "link": "https://www.iccad-conf.com/",
     "type": "Conference"
   },
-  {
-    "name": "ICSE, the IEEE/ACM International Conference on Software Engineering",
-    "period": "14-20 May",
+  {    
+    "shortName": "ICSE",
+    "name": "IEEE/ACM International Conference on Software Engineering",
+    "start": "2023-05-14",
+    "end": "2023-05-20",
     "deadline": "",
     "city": "Melbourne",
     "country": "Australia",
     "link": "https://conf.researchr.org/home/icse-2023",
     "type": "Conference"
   },
-  {
-    "name": "ICRL International Conference on Learning Representations",
-    "period": "Exp May 1-5",
+  {    
+    "shortName": "ICRL",
+    "name": "International Conference on Learning Representations",
+    "start": "2023-05-01",
+    "end": "2023-05-05",
     "deadline": "",
     "city": "Kigali expected",
     "country": "Rwanda expected",
     "link": "https://iclr.cc/Conferences/2023",
     "type": "Conference"
   },
-  {
-    "name": "ICRA 2023 ",
-    "period": "May 29 - June 2",
-    "deadline": "Paper Sub: Sept 15, 2022 (accept Jan 31, 2023) (final March 1, 2023) (Reg: March 31, 2023) (Final accepted manuscript to RA-L from March 2022 to Nov 2022 will be eligible for presentation at ICRA 2023.)",
+  {    
+    "shortName": "ICRA",
+    "name": "International Conference on Robotics and Automation",
+    "start": "2023-05-29",
+    "end": "2023-06-02",
+    "deadline": "2022-09-15",
     "city": "London, Royal Victoria Dock 1 Western Gateway, London E16 1XL",
     "country": "UK",
     "link": "https://www.icra2023.org/",
     "type": "Conference"
   },
-  {
+  {    
+    "shortName": "AAMAS",
     "name": "International Conference on Autonomous Agents and Multiagent Systems",
-    "period": "May 29 - June 2",
+    "start": "2023-05-29",
+    "end": "2023-06-02",
     "deadline": "",
     "city": "London",
     "country": "UK",
     "link": "https://aamas2023.soton.ac.uk/",
     "type": "Conference"
   },
-  {
+  {    
+    "shortName": "MLP",
     "name": "ML Prague",
-    "period": "May 27-29  expected",
+    "start": "2023-06-02",
+    "end": "2023-06-04",
     "deadline": "",
     "city": "Prague",
     "country": "Czech Republic",
     "link": "https://mlprague.com/",
     "type": "Workshop"
   },
-  {
-    "name": " 18th Symposium on Software Engineering for Adaptive and Self-Managing Systems",
-    "period": "May 2023",
+  {    
+    "shortName": "SEAMS",
+    "name": "Symposium on Software Engineering for Adaptive and Self-Managing Systems",
+    "start": "2023-05-15",
+    "end": "2023-05-16",
     "deadline": "",
     "city": "Melbourne",
     "country": "Australia",
     "link": " https://conf.researchr.org/home/seams-2023",
     "type": "Conference"
   },
-  {
-    "name": "2023 IEEE Conference on Advanced Robotics and its Social Impact (ARSO).",
-    "period": "June 5-7 2023",
-    "deadline": "January 31",
-    "city": "BE(R)LIN!",
+  {    
+    "shortName": "ARSO",
+    "name": "IEEE Conference on Advanced Robotics and its Social Impact ARSO",
+    "start": "2023-06-05",
+    "end": "2023-06-07",
+    "deadline": "2023-01-31",
+    "city": "Berlin",
     "country": "Germany",
     "link": "https://attend.ieee.org/arso-2022/",
     "type": "Conference"
   },
-  {
-    "name": "Conference on Robots and Vision (CRV 2023)",
-    "period": "June 6 - June 8, 2023",
-    "deadline": "March 12, 2023 ",
+  {    
+    "shortName": "CRV",
+    "name": "Conference on Robots and Vision",
+    "start": "2023-06-06",
+    "end": "2023-06-08",
+    "deadline": "2023-12-03",
     "city": "Montreal",
     "country": "Canada",
     "link": "https://www.computerrobotvision.org/",
     "type": "Conference"
   },
-  {
-    "name": "International Conference on Unmanned Aircraft Systems, ICUAS ’23",
-    "period": "June 6-9",
+  {    
+    "shortName": "ICUAS",
+    "name": "International Conference on Unmanned Aircraft Systems",
+    "start": "2023-06-06",
+    "end": "2023-06-09",
     "deadline": "",
     "city": "Warsaw",
     "country": "Poland",
     "link": "http://www.uasconferences.com/2023_icuas/",
     "type": "Conference"
   },
-  {
-    "name": "10th CIS-RAM!",
-    "period": "09 – 12 June 2023",
+  {    
+    "shortName": "CIS-RAM",
+    "name": "CIS-RAM",
+    "start": "2023-06-09",
+    "end": "2023-06-12",
     "deadline": "",
     "city": "Penang",
     "country": "Malaysia",
     "link": "http://www.cis-ram.org/2023/",
     "type": "Conference"
   },
-  {
-    "name": "32nd International Conference on Robotics in Alpe-Adria-Danube Region, RAAD2023",
-    "period": "June 14-16 2023",
-    "deadline": "January 20",
+  {    
+    "shortName": "RAAD",
+    "name": "International Conference on Robotics in Alpe-Adria-Danube Region",
+    "start": "2023-06-14",
+    "end": "2023-06-16",
+    "deadline": "2023-01-20",
     "city": "Bled",
     "country": "Slovenia",
     "link": "https://raad.ijs.si/",
     "type": "Conference"
   },
-  {
-    "name": "European control community ECC",
-    "period": "June 13-16",
+  {    
+    "shortName": "ECC",
+    "name": "European control community",
+    "start": "2023-06-13",
+    "end": "2023-06-16",
     "deadline": "",
     "city": "Bucharest",
     "country": "Romania",
     "link": "https://ecc23.euca-ecc.org/",
     "type": "Workshop"
   },
-  {
+  {    
+    "shortName": "ISSM",
     "name": "International Symposium on Smart Materials",
-    "period": "June 14 – June 15, 2023",
+    "start": "2023-06-14",
+    "end": "2023-06-15",
     "deadline": "",
     "city": "Leoben",
     "country": "Austria",
     "link": "https://polymer.events/international_symposium/.",
     "type": "Workshop"
   },
-  {
-    "name": "18th Annual System Of Systems Engineering Conference",
-    "period": "June 14th – 16th 2023",
+  {    
+    "shortName": "SOS",
+    "name": "Annual System Of Systems Engineering Conference",
+    "start": "2023-06-14",
+    "end": "2023-06-16",
     "deadline": "",
     "city": "Lille",
     "country": "France",
     "link": "http://www.sosengineering.org/2023/",
     "type": "Conference"
   },
-  {
-    "name": "The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023",
-    "period": "June 18-22",
+  {    
+    "shortName": "CVPR",
+    "name": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "start": "2023-06-18",
+    "end": "2023-06-22",
     "deadline": "",
     "city": "Vancouver",
     "country": "Canada",
     "link": "https://cvpr2023.thecvf.com/Conferences/2023",
     "type": "Conference"
   },
-  {
-    "name": "The 14th International Conference on Information Processing in Computer-Assisted Interventions (IPCAI)",
-    "period": "June 20-21 2023",
+  {    
+    "shortName": "IPCAI",
+    "name": "International Conference on Information Processing in Computer-Assisted Interventions",
+    "start": "2023-06-20",
+    "end": "2023-06-21",
     "deadline": "",
     "city": "Munich",
     "country": "Germany",
     "link": "https://sites.google.com/view/ipcai-2023/home",
     "type": "Conference"
   },
-  {
-    "name": "Hybrid Human-Artificial Intelligence (HHAI 2023)",
-    "period": "June 26-30",
-    "deadline": "Abstract submission: February 10th, 2023 Paper submission: February 17th, 2023",
+  {    
+    "shortName": "HHAI",
+    "name": "Hybrid Human-Artificial Intelligence",
+    "start": "2023-06-26",
+    "end": "2023-06-30",
+    "deadline": "2023-02-17",
     "city": "Munich",
     "country": "Germany",
     "link": "https://www.hhai-conference.org/",
     "type": "Conference"
   },
-  {
-    "name": "ML Berlin conf attended in MUNICH (Hybrid)",
-    "period": "June 27 - 29 expected",
+  {    
+    "shortName": "MLBerlin",
+    "name": "ML Berlin",
+    "start": "2023-06-19",
+    "end": "2023-06-22",
     "deadline": "",
     "city": "Munich",
     "country": "Germany",
     "link": "https://mlconference.ai/munich/",
     "type": "Conference"
   },
-  {
-    "name": "International Conference on Ubiquitous Robots (UR 2023) ",
-    "period": "June 25-28",
+  {    
+    "shortName": "UR",
+    "name": "International Conference on Ubiquitous Robots",
+    "start": "2023-06-25",
+    "end": "2023-06-28",
     "deadline": "",
     "city": "Honolulu",
     "country": "Hawaii",
     "link": "https://2023.ubiquitousrobots.org",
     "type": "Conference"
   },
-  {
+  {    
+    "shortName": "CABLECON",
     "name": "International Conference on Cable-Driven Parallel Robots",
-    "period": "June 25 to June 28",
+    "start": "2023-06-25",
+    "end": "2023-06-28",
     "deadline": "",
     "city": "Nantes",
     "country": "France",
     "link": "https://cablecon2023.sciencesconf.org/",
     "type": "Conference"
   },
-  {
-    "name": "2023 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)",
-    "period": "June 28-30 2023",
+  {    
+    "shortName": "AIM",
+    "name": "IEEE/ASME International Conference on Advanced Intelligent Mechatronics",
+    "start": "2023-06-28",
+    "end": "2023-06-30",
     "deadline": "",
     "city": "Seattle, Washington",
     "country": "USA",
     "link": "http://www.aim2023.org/index.html",
     "type": "Conference"
   },
-  {
-    "name": "18th International Conference on Intelligent Autonomous Systems ",
-    "period": "July 4 - 7, 2023",
+  {    
+    "shortName": "IAS",
+    "name": "International Conference on Intelligent Autonomous Systems ",
+    "start": "2023-07-04",
+    "end": "2023-07-07",
     "deadline": "",
     "city": "Suwon",
     "country": "Korea",
     "link": "https://ias-18.org/",
     "type": "Conference"
   },
-  {
+  {    
+    "shortName": "AIR",
     "name": "Advances In Robotics",
-    "period": "July 5 – 8, 2023",
+    "start": "2023-07-05",
+    "end": "2023-07-08",
     "deadline": "",
     "city": "Ropar",
     "country": "India",
     "link": "https://advancesinrobotics.com/2023/",
     "type": "Conference"
   },
-  {
+  {    
+    "shortName": "ICAPS",
     "name": "International Conference on Automated Planning and Scheduling",
-    "period": "July 8-13",
+    "start": "2023-07-08",
+    "end": "2023-07-13",
     "deadline": "",
     "city": "Prague",
     "country": "Czech Republic",
     "link": "https://icaps23.icaps-conference.org/home/",
     "type": "Conference"
   },
-  {
+  {    
+    "shortName": "IFAC",
     "name": "IFAC World Congress 2023",
-    "period": "July 9-14, 2023",
-    "deadline": "Feb.  1, 2023: Discussion papers (Regular)",
+    "start": "2023-07-09",
+    "end": "2023-07-14",
+    "deadline": "2023-02-01",
     "city": "Yokohama",
     "country": "Japan",
     "link": "https://www.ifac2023.org/",
     "type": "Conference"
   },
-  {
-    "name": "RSS Pioneers (See RSS below) ",
-    "period": "Jul 9, 2023",
-    "deadline": "Fri Feb 10 2023 04:30:00 GMT+0530 (Ora standard dell’India)",
+  {    
+    "shortName": "RSSP",
+    "name": "RSS Pioneers (See RSS)",
+    "start": "2023-07-09",
+    "end": "2023-07-09",
+    "deadline": "2023-02-10",
     "city": "Daegu",
     "country": "Korea",
     "link": "https://sites.google.com/view/rsspioneers2023/",
     "type": "Conference"
   },
-  {
-    "name": "RSS (Robotics science and system) ",
-    "period": "10-14 July",
-    "deadline": "February 3rd, 2023",
+  {    
+    "shortName": "RSS",
+    "name": "Robotics science and system",
+    "start": "2023-07-10",
+    "end": "2023-07-14",
+    "deadline": "2023-02-03",
     "city": "Daegu",
     "country": "Korea",
     "link": "https://roboticsconference.org/",
     "type": "Conference"
   },
-  {
-    "name": "IEEE World Haptics 2023 ",
-    "period": "10th to 13th of July 2023",
-    "deadline": "February 3, 2023",
+  {    
+    "shortName": "WH",
+    "name": "IEEE World Haptics",
+    "start": "2023-07-10",
+    "end": "2023-07-13",
+    "deadline": "2023-02-03",
     "city": "Delft",
     "country": "Netherlands",
     "link": "https://2023.worldhaptics.org/",
     "type": "Conference"
   },
-  {
-    "name": " First International Symposium on Trustworthy Autonomous Systems (TAS '23) ",
-    "period": "11-12 July 2023",
-    "deadline": "1 March 2023",
+  {    
+    "shortName": "TAS",
+    "name": "International Symposium on Trustworthy Autonomous Systems",
+    "start": "2023-07-11",
+    "end": "2023-07-12",
+    "deadline": "2023-03-01",
     "city": "Edinburgh",
     "country": "UK",
     "link": "https://symposium.tas.ac.uk",
     "type": "Conference"
   },
-  {
+  {    
+    "shortName": "ICML",
     "name": "International Conference on Machine Learning",
-    "period": "July 24-30",
+    "start": "2023-07-24",
+    "end": "2023-07-30",
     "deadline": "",
     "city": "Seul",
     "country": "South Korea",
     "link": "https://icml.cc/Conferences/FutureMeetings",
     "type": "Conference"
   },
-  {
-    "name": "CASE  Conference on Automation Science and Engineering",
-    "period": "Aug 26-29",
+   {    
+    "shortName": "CASE",
+    "name": "Conference on Automation Science and Engineering",
+    "start": "2023-08-26",
+    "end": "2023-08-29",
     "deadline": "",
     "city": "Auckland",
     "country": "New Zealand",
     "link": "https://case2023.org/",
     "type": "Conference"
   },
-  {
-    "name": "ROMAN 32nd IEEE International Conference on Robot and Human Interactive Communication.",
-    "period": "Aug 28-31",
-    "deadline": "March 17, 2023",
+  {    
+    "shortName": "ROMAN",
+    "name": "IEEE International Conference on Robot and Human Interactive Communication",
+    "start": "2023-08-28",
+    "end": "2023-08-31",
+    "deadline": "2023-03-17",
     "city": "Paradise Hotel, Busan, ",
     "country": "Korea",
     "link": "http://ro-man2023.org/main",
     "type": "Conference"
   },
-  {
-    "name": "11th European Conference on Mobile Robots",
-    "period": "4-7 September 2023",
+  {    
+    "shortName": "ECMR",
+    "name": "European Conference on Mobile Robots",
+    "start": "2023-09-04",
+    "end": "2023-09-07",
     "deadline": "",
     "city": "Coimbra",
     "country": "Portugal",
     "link": "https://ecmr2023.isr.uc.pt/",
     "type": "Conference"
   },
-  {
-    "name": "17th Mechatronics International Conference",
-    "period": "11-12-13 September 2023",
-    "deadline": "31 March 2023",
+   {    
+    "shortName": "MIC",
+    "name": "Mechatronics International Conference",
+    "start": "2023-09-11",
+    "end": "2023-09-13",
+    "deadline": "2023-03-31",
     "city": "Leuven",
     "country": "Belgium",
     "link": "https://mechatronics2023.eu/",
     "type": "Conference"
   },
-  {
-    "name": "Towards Autonomous Robotic Systems' (TAROS)",
-    "period": "September 13-15, 2023",
-    "deadline": "30 April 23",
+  {    
+    "shortName": "TAROS",
+    "name": "Towards Autonomous Robotic Systems",
+    "start": "2023-09-13",
+    "end": "2023-09-15",
+    "deadline": "2023-04-30",
     "city": "Cambridge",
     "country": "UK",
     "link": "https://taros-conference.org/",
     "type": "Conference"
   },
-  {
+  {    
+    "shortName": "ISR",
     "name": "International Symposium on Robotics",
-    "period": "September 26 to 27 2023",
+    "start": "2023-09-26",
+    "end": "2023-09-27",
     "deadline": "",
     "city": "Stuttgart",
     "country": "Germany",
     "link": "https://www.isr-robotics.org/en",
     "type": "Conference"
   },
-  {
-    "name": "ICVS 14th International Conference on Computer Vision Systems",
-    "period": "27-29 Sept",
+  {    
+    "shortName": "ICVS",
+    "name": "International Conference on Computer Vision Systems",
+    "start": "2023-09-27",
+    "end": "2023-09-29",
     "deadline": "",
     "city": "Vienna",
     "country": "Austria",
     "link": "https://icvs2023.conf.tuwien.ac.at/",
     "type": "Conference"
   },
-  {
-    "name": "ICCV Int. Conf Computer Vision",
-    "period": "30 Sept - 6 Oct",
+  {    
+    "shortName": "ICCV",
+    "name": "International Conference Computer Vision",
+    "start": "2023-09-30",
+    "end": "2023-10-06",
     "deadline": "",
     "city": "Paris",
     "country": "France",
     "link": "https://iccv2023.thecvf.com/",
     "type": "Conference"
   },
-  {
-    "name": "ECAI European Conference on Artificial Intelligence",
-    "period": "1-6 Oct",
+  {    
+    "shortName": "ECAI",
+    "name": "European Conference on Artificial Intelligence",
+    "start": "2023-10-01",
+    "end": "2023-10-06",
     "deadline": "",
     "city": "Krakow",
     "country": "Poland",
     "link": "https://ecai2023.eu/",
     "type": "Conference"
   },
-  {
-    "name": "IEEE IROS 2023",
-    "period": "1-5 Oct",
-    "deadline": "March 1, 2023: Deadline for Paper submissions;March 15, 2023: Deadline for Workshop/Tutorial proposals",
+  {    
+    "shortName": "IROS",
+    "name": "IEEE International Conference on Intelligent Robots and Systems",
+    "start": "2023-10-01",
+    "end": "2023-10-05",
+    "deadline": "2023-03-01",
     "city": "Detroit",
     "country": "USA",
     "link": "https://ieee-iros.org/",
     "type": "Conference"
   },
-  {
-    "name": "Climbing and Walking Robots and the Support Technologies for Mobile Machines (CLAWAR 2023).",
-    "period": "02 – 04 October 2023,",
+  {    
+    "shortName": "CLAWAR",
+    "name": "Climbing and Walking Robots and the Support Technologies for Mobile Machines",
+    "start": "2023-10-02",
+    "end": "2023-10-04",
     "deadline": "",
     "city": "Florianópolis",
     "country": "Brazil",
     "link": "https://clawar.org/clawar23/.",
     "type": "Conference"
   },
-  {
-    "name": "International Conference on Multimodal Interaction (ICMI 2023)",
-    "period": "9-13 October 2023",
-    "deadline": "May 1 paper sub",
+  {    
+    "shortName": "ICMI",
+    "name": "International Conference on Multimodal Interaction ",
+    "start": "2023-10-09",
+    "end": "2023-10-13",
+    "deadline": "2023-05-01",
     "city": "Paris",
     "country": "France",
     "link": "https://icmi.acm.org/2023/",
     "type": "Conference"
   },
-  {
-    "name": "International Conference on Advanced Robotics (ICAR 2023) ",
-    "period": "5 to 8 December 2023.",
-    "deadline": "14 July 2023 paper sub",
+  {    
+    "shortName": "ICAR",
+    "name": "International Conference on Advanced Robotics",
+    "start": "2023-12-05",
+    "end": "2023-12-08",
+    "deadline": "2023-07-14",
     "city": "Abu Dhabi",
     "country": "United Arab Emirates",
     "link": "https://sites.google.com/view/2023icar/home-page?authuser=0",
     "type": "Conference"
   },
-  {
-    "name": "IEEE Robotic Computing (IRC) ",
-    "period": "Dec 11-13",
-    "deadline": "September 1, 2023 PT",
+  {    
+    "shortName": "IRC",
+    "name": "IEEE Robotic Computing",
+    "start": "2023-12-11",
+    "end": "2023-12-13",
+    "deadline": "2023-09-1",
     "city": "Laguna Hills, California",
     "country": "USA",
     "link": "https://www.ieee-irc.org/",
     "type": ""
   },
-  {
-    "name": "CDC 2023 62nd Conference on Decision and Control",
-    "period": "Dec 13-15",
+  {    
+    "shortName": "CDC",
+    "name": "Conference on Decision and Control",
+    "start": "2023-12-13",
+    "end": "2023-12-15",
     "deadline": "",
     "city": "Singapore",
     "country": "Singapore",

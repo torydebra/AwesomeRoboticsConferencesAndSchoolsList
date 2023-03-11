@@ -1,11 +1,13 @@
 [
   {
+    "shortName": "ICML",
     "name": "International Conference on Machine Learning",
-    "period": "July 19 -27",
-    "deadline": "Early reg (by 31 oct 22): 50 USD - Late 75 USD",
+    "start": "2024-07-19",
+    "end": "2024-07-27",
+    "deadline": "",
     "city": "Vienna",
     "country": "Austria",
     "link": "https://icml.cc/Conferences/FutureMeetings",
     "type": "Conference"
-  },
+  }
 ]

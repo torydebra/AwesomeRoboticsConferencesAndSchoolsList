@@ -1,8 +1,4 @@
-
-//jquyery style includes
-//$.getScript("js/drawFlagRender.js");
-            
-
+           
 $(document).ready(function() {
 
     const years = ["2022", "2023", "2024"];
@@ -15,7 +11,6 @@ $(document).ready(function() {
         },
         { 
             data: "name",
-            render: addLinkRender,
         },
         { 
             data: "start",
@@ -27,10 +22,12 @@ $(document).ready(function() {
         },
         { 
             data: "deadline",
-            //render: dateRender,
+            render: dateRender,
         },
-        { data: "period" },
-        { data: "city" },
+        { 
+            data: "city",
+            render: addAddressLinkRender,
+        },
         { 
             data: "country",
             className: 'f32', // css style used for world-flags-sprite
@@ -38,6 +35,11 @@ $(document).ready(function() {
         },
         { 
             data: "link",
+            visible: false,
+            searchable: false,
+        },  
+        { 
+            data: "addressLink",
             visible: false,
             searchable: false,
         },  
@@ -63,6 +65,10 @@ $(document).ready(function() {
                 data: jsondata,
                 columns: dataTableColumns,
                 order: [[2, 'asc']],
+                lengthMenu: [
+                    [50, -1],
+                    [50, 'All'],
+                ],
             });
 
         })

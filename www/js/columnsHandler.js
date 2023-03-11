@@ -26,30 +26,24 @@ function addTableContainer(type, year, dataTableColumns) {
   if (type === 'conf') {
   
     div.innerHTML = `
-        <table id="`+ 'conf' + year +`" class="cell-border" style="width:100%">
-            <thead>
+        <table id="`+ 'conf' + year +`" class="table table-hover table-striped" style="width:100%">
+            <thead class="thead-dark">
                 <tr>` + htmlCols + `</tr>
             </thead>
             <tbody>
             </tbody>
-            <tfoot>
-                <tr>` + htmlCols + `</tr>
-            </tfoot>
         </table>
     `;
     
   } else if (type === 'school') {
           
     div.innerHTML = `
-        <table id="`+ 'school' + year +`" class="cell-border" style="width:100%">
-            <thead>
+        <table id="`+ 'school' + year +`" class="table table-hover table-striped" style="width:100%">
+            <thead class="thead-dark">
                 <tr>` + htmlCols + `</tr>
             </thead>
             <tbody>
             </tbody>
-            <tfoot>
-                <tr>` + htmlCols + `</tr>
-            </tfoot>
         </table>
     `; 
   }

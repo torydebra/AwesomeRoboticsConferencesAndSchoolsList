@@ -308,6 +308,8 @@ function dateRender(data, type, row, meta) {
         if (data) {
             const date = luxon.DateTime.fromFormat(data, "y-MM-dd");
             
+
+            
             return date.toFormat('d MMM');
         }
     }
@@ -315,4 +317,53 @@ function dateRender(data, type, row, meta) {
     return data;
 }
 
+function dateRenderDeadline(data, type, row, meta) {
+    //row has all the other column data of this row!
 
+    if (type === 'display') {
+       
+        if (data) {
+            const date = luxon.DateTime.fromFormat(data, "y-MM-dd");
+            
+            return date.toFormat('d MMM y');
+        }
+    }
+
+    return data;
+}
+
+function colorRow(row, data, displayNum, displayIndex, dataIndex) {
+    
+    let now = new Date();
+
+    if (data["start"]) {
+        
+        let start = new Date(data["start"]);
+        
+        if (start < now) {
+            //$('td', row).css('background-color', '#f5c6cb') //low red
+            $('td', row).addClass('table-danger') //low red
+            
+        } else if (start.setMonth(start.getMonth() - 1) < now) {
+            //$('td', row).css('background-color', '#feeeba') //low yellow
+            $('td', row).addClass('table-warning') //low yellow
+        }
+    }
+    
+    if (data["deadline"]) { 
+        
+        let deadline = new Date(data["deadline"]);
+        
+        if (deadline < now) {
+            //$('tr', row).css('background-color', '#aaaaa') //low red
+            $(row).find('td:eq(4)').css('color', 'red');
+            //$(row).find('td:eq(4)').css('background-color', 'red');
+
+            
+        } else if (deadline.setMonth(deadline.getMonth() - 1) < now) {
+            $(row).find('td:eq(4)').css('color', 'orange');
+        }
+
+    }
+        
+}

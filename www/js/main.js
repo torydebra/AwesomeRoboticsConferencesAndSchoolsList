@@ -7,29 +7,36 @@ $(document).ready(function() {
     dataTableColumns = [
         { 
             data: "shortName",
+            title: "Acronym",
             render: addLinkRender,
         },
         { 
             data: "name",
+            title: "Name",
         },
         { 
             data: "start",
+            title: "Start Date",
             render: dateRender,
         },
         { 
             data: "end",
+            title: "End Date",
             render: dateRender,
         },
         { 
             data: "deadline",
-            render: dateRender,
+            title: "Deadline",
+            render: dateRenderDeadline,
         },
         { 
             data: "city",
+            title: "Location",
             render: addAddressLinkRender,
         },
         { 
             data: "country",
+            title: "Country",
             className: 'f32', // css style used for world-flags-sprite
             render: drawFlagRender,
         },
@@ -69,6 +76,7 @@ $(document).ready(function() {
                     [50, -1],
                     [50, 'All'],
                 ],
+                "rowCallback": colorRow,
             });
 
         })

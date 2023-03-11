@@ -14,13 +14,15 @@
     
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.13.3/js/jquery.dataTables.min.js"></script>
     <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.13.3/js/dataTables.bootstrap5.min.js"></script>
-
+    <script type="text/javascript" charset="utf8" src="https://cdnjs.cloudflare.com/ajax/libs/luxon/2.3.1/luxon.min.js"></script>
+    
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.2.0/css/bootstrap.min.css"/>
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.3/css/dataTables.bootstrap5.min.css" />
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.3/js/jquery.dataTables.min.js" />
         
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    
+    <script type="text/javascript" charset="utf8" src="https://cdn.jsdelivr.net/npm/luxon@3.3.0/build/global/luxon.min.js"></script>
 
     <script type="text/javascript" charset="utf8" src="data/conf2022.json"></script>
     <script type="text/javascript" charset="utf8" src="data/school2022.json"></script>
@@ -35,7 +37,11 @@
         type="text/css"
         href="//github.com/downloads/lafeber/world-flags-sprite/flags32.css"
     />
-    <script type="text/javascript" charset="utf8" src="js/lib.js"></script>
+    
+    
+    <script type="text/javascript" charset="utf8" src="js/columnsHandler.js"></script>
+    <script type="text/javascript" charset="utf8" src="js/dataTableRenders.js"></script>
+    <script type="text/javascript" charset="utf8" src="js/main.js"></script>
 
 
 </head>
@@ -46,7 +52,7 @@
 
     <h2>Robotics conferences and Summer Schools</h2>
 
-    <ul class="nav nav-tabs">
+<!--    <ul class="nav nav-tabs">
         <li class="dropdown">
             <a class="dropdown-toggle" data-toggle="dropdown" href="#">2024
             <span class="caret"></span></a>
@@ -71,18 +77,26 @@
               <li><a href="#school2022Container">Summer Schools</a></li>
             </ul>
         </li>
+    </ul>-->
+    <ul class="nav nav-tabs">
+        <li><a data-toggle="tab" href="#conf2024Container">Conf 2024</a></li>
+        <li><a data-toggle="tab" href="#school2024Container">School 2024</a></li>
+        <li class="active"><a data-toggle="tab" href="#conf2023Container">Conf 2023</a></li>
+        <li><a data-toggle="tab" href="#school2023Container">School 2023</a></li>
+        <li><a data-toggle="tab" href="#conf2022Container">Conf 2022</a></li>
+        <li><a data-toggle="tab" href="#school2022Container">School 2022</a></li>
     </ul>
 
 
-    <div class="tab-content">
+    <div id="tableContainers" class="tab-content">
       <div id="conf2022Container" class="tab-pane fade in"></div> 
-      <div id="school2022Container" class="tab-pane fade in"></div> 
+      <div id="school2022Container" class="tab-pane fade in"></div>
       
-      <div id="conf2023Container" class="tab-pane fade in active"></div>
-      <div id="school2023Container" class="tab-pane fade in"></div> 
+      <div id="conf2023Container" class="tab-pane fade in active"></div> 
+      <div id="school2023Container" class="tab-pane fade in"></div>
       
       <div id="conf2024Container" class="tab-pane fade in"></div> 
-      <div id="school2024Container" class="tab-pane fade in"></div>  
+      <div id="school2024Container" class="tab-pane fade in"></div>
     </div>
     
     

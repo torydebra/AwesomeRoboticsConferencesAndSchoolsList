@@ -5,9 +5,10 @@
     "start": "2023-01-08",
     "end": "2023-01-11",
     "deadline": "",
-    "city": "",
-    "country": "",
-    "link": "http://iiwot23.nws.cs.unibo.it/  https://ccnc2023.ieee-ccnc.org/",
+    "city": "Las Vegas",
+    "country": "USA",
+    "link": "http://iiwot23.nws.cs.unibo.it/",
+    "addressLink": "https://goo.gl/maps/dLPW3g67jmZttMjNA",
     "type": "Conference"
   },
   {
@@ -55,7 +56,7 @@
     "type": "Conference"
   },
   {    
-    "shortName": "",
+    "shortName": "ICMLT",
     "name": "International Conference on Machine Learning Technologies",
     "start": "2023-03-10",
     "end": "2023-03-12",
@@ -99,11 +100,11 @@
     "type": "Workshop"
   },
   {    
-    "shortName": "SAC",
-    "name": "ACM Symposium on Applied Computing",
+    "shortName": "ACM",
+    "name": "Symposium on Applied Computing",
     "start": "2023-03-27",
     "end": "2023-04-02",
-    "deadline": "Paper submission: Oct. 15,  2022",
+    "deadline": "2022-10-15",
     "city": "Tallinn",
     "country": "Estonia",
     "link": "http://www.sigapp.org/sac/sac2023/",
@@ -225,8 +226,8 @@
     "start": "2023-05-01",
     "end": "2023-05-05",
     "deadline": "",
-    "city": "Kigali expected",
-    "country": "Rwanda expected",
+    "city": "Kigali",
+    "country": "Rwanda",
     "link": "https://iclr.cc/Conferences/2023",
     "type": "Conference"
   },
@@ -686,10 +687,11 @@
     "name": "IEEE Robotic Computing",
     "start": "2023-12-11",
     "end": "2023-12-13",
-    "deadline": "2023-09-1",
+    "deadline": "2023-09-01",
     "city": "Laguna Hills, California",
     "country": "USA",
     "link": "https://www.ieee-irc.org/",
+    "addressLink": "https://goo.gl/maps/QD5uVamshBFUiUGF7",
     "type": ""
   },
   {    

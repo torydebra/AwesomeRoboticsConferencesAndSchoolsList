@@ -1,110 +1,158 @@
 [
   {
     "name": "Latin American Summer School on Cognitive Robotics",
-    "period": "3-6 Jan",
-    "deadline": "Early reg (by 31 oct 22): 50 USD - Late 75 USD",
+    "deadline": "",
     "city": "SANTIAGO",
     "country": "CILE",
-    "link": "",
-    "type": "School"
+    "link": "https://lacoro.org/",
+    "type": "School",
+    "shortName": "LACORO",
+    "start": "2023-01-03",
+    "end": "2023-01-06",
+    "addressLink": "https://goo.gl/maps/pZbpNurtMicUNs5m8",
+    "note": ""
   },
   {
     "name": "EECI-IGS various summer schools",
-    "period": "Febraury-March (M1 M8)",
-    "deadline": "early 15-01",
+    "deadline": "",
     "city": "various",
     "country": "",
     "link": "http://www.eeci-igsc.eu/doc/users/975/bib/2022-2023/eeciigsc2023programfinal.pdf",
-    "type": "School"
+    "type": "School",
+    "shortName": "EECI-IGS",
+    "start": "2023-02-01",
+    "end": "2023-03-30",
+    "addressLink": "",
+    "note": ""
   },
   {
     "name": "DeepLearn Winter",
-    "period": "January 17-21",
     "deadline": "",
     "city": "Bournemouth",
     "country": "UK",
     "link": "https://irdta.eu/deeplearn/2023wi/",
-    "type": "School"
+    "type": "School",
+    "shortName": "DLWI",
+    "start": "2023-01-17",
+    "end": "2023-01-21",
+    "addressLink": "",
+    "note": ""
   },
   {
     "name": "EECI-IGS various summer schools",
-    "period": "April-June (M9 M23)",
-    "deadline": "early 19-03",
+    "deadline": "2023-03-19",
     "city": "various",
     "country": "",
     "link": "http://www.eeci-igsc.eu/doc/users/975/bib/2022-2023/eeciigsc2023programfinal.pdf",
-    "type": "School"
+    "type": "School",
+    "shortName": "EECI-IGS",
+    "start": "2023-04-01",
+    "end": "2023-06-30",
+    "addressLink": "",
+    "note": ""
   },
   {
-    "name": "spring school on Mechanical aspects and applications of Haptics",
-    "period": "April 17-21",
+    "name": "Spring school on Mechanical aspects and applications of Haptics",
     "deadline": "",
-    "city": "?",
+    "city": "La Valletta",
     "country": "Malta",
     "link": "https://www.intuitive-itn.eu",
-    "type": "School"
+    "type": "School",
+    "shortName": "INT",
+    "start": "2023-04-17",
+    "end": "2023-04-21",
+    "addressLink": "",
+    "note": ""
   },
   {
     "name": "IFToMM Italy International Summer School On Human-Centred Robotics.",
-    "period": "June 26-30",
-    "deadline": "May 15, 2023",
+    "deadline": "2023-05-15",
     "city": "Ancona",
     "country": "Italy",
     "link": "https://human.univpm.it/human/",
-    "type": "School"
+    "type": "School",
+    "shortName": "HCR",
+    "start": "2023-06-26",
+    "end": "2023-06-30",
+    "addressLink": "",
+    "note": ""
   },
   {
-    "name": "IEEE RAS Summer School on Multi-robot systems",
-    "period": "July 3.-7",
+    "name": "Summer School on Multi-robot systems",
     "deadline": "",
     "city": "Prague",
     "country": "Czech Republic",
     "link": "http://mrs.felk.cvut.cz/summer-school-2023/",
-    "type": "School"
+    "type": "School",
+    "shortName": "RASPRAGUE",
+    "start": "2023-07-03",
+    "end": "2023-07-07",
+    "addressLink": "",
+    "note": ""
   },
   {
     "name": "ETH Robotics Summer School",
-    "period": "9 - 14 July 2023",
-    "deadline": " 24 March 2023",
+    "deadline": "2023-03-24",
     "city": "Geneva",
     "country": "Switzerland",
     "link": "https://robotics-summerschool.ethz.ch/",
-    "type": "School"
+    "type": "School",
+    "shortName": "ETHRSS",
+    "start": "2023-07-09",
+    "end": "2023-07-14",
+    "addressLink": "",
+    "note": ""
   },
   {
-    "name": "LISBON MACHINE LEARNING SUMMER SCHOOL",
-    "period": "14-20 July 2023",
-    "deadline": "May 15th (early)",
+    "name": "Machine Learning Summer School",
+    "deadline": "2023-05-15",
     "city": "Lisbon",
     "country": "Portugal",
     "link": "http://lxmls.it.pt/2023/",
-    "type": "School"
+    "type": "School",
+    "shortName": "LML",
+    "start": "2023-07-14",
+    "end": "2023-07-20",
+    "addressLink": "",
+    "note": ""
   },
   {
     "name": "ELLIS Summer School on Probabilistic Machine Learning - Cambridge Unit",
-    "period": "July 17-21",
-    "deadline": "Not published yet ",
+    "deadline": "",
     "city": "Cambridge ",
     "country": "United Kingdom",
-    "link": "ELLIS Summer School on Probabilistic Machine Learning - Cambridge Unit",
-    "type": "School"
+    "link": "https://ellis.eu/events/ellis-summer-school-on-probabilistic-machine-learning-cambridge-unit",
+    "type": "School",
+    "shortName": "ELLIS",
+    "start": "2023-07-17",
+    "end": "2023-07-21",
+    "addressLink": "",
+    "note": ""
   },
   {
     "name": "Mediterranean Machine Learning Summer School",
-    "period": "Aug 28 - 2 Sept",
-    "deadline": "Tue Feb 28 2023 04:30:00 GMT+0530 (Ora standard dell’India)",
-    "city": "Thessaloniki (Iannis's House)",
+    "deadline": "2023-02-28",
+    "city": "Thessaloniki",
     "country": "Greece",
     "link": "https://www.m2lschool.org/",
-    "type": "School"
+    "type": "School",
+    "shortName": "MML",
+    "start": "2023-08-28",
+    "end": "2023-09-02",
+    "addressLink": "",
+    "note": ""
   },
   {
-    "name": "IFTOMM SIMERO Summer School on Singularities of Mechanisms and Robotic Manipulators",
-    "period": "September 18-22, 2023",
-    "deadline": "July 31, 2022 early",
+    "name": "Summer School on Singularities of Mechanisms and Robotic Manipulators",
+    "deadline": "2023-07-31",
     "city": "Nantes",
     "country": "France",
     "link": "https://www.simero.org/index.php",
-    "type": "School"
+    "type": "School",
+    "shortName": "SIMERO",
+    "start": "2023-09-18",
+    "end": "2023-09-22",
+    "addressLink": "",
+    "note": ""
   }
 ]

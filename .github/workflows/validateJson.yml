@@ -1,0 +1,27 @@
+name: Validate JSONs
+
+on:
+  pull_request:
+    branches: ["master"]
+
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["master"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  verify-json-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout files
+        uses: Bhacaz/checkout-files@v2
+        with:
+          files: www/data
+          branch: ${{ github.head_ref || github.ref_name }}
+      - name: Validate JSON
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: www/data/schema.json
+          INPUT_JSONS: www/data/conf2022.json,www/data/conf2023.json,www/data/conf2024.json,www/data/school2022.json,www/data/school2023.json,www/data/school2024.json,

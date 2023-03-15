@@ -1,0 +1,29 @@
+name: HTML Preview
+
+on:
+  pull_request:
+    branches: ["master"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  
+permissions:
+   pull-requests: write
+
+jobs:
+  html-preview:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: HTML Preview
+        id: html_preview
+        uses: pavi2410/html-preview-action@v2
+        with:
+          html_file: 'www/index.html'
+      - name: Comment PR
+        uses: thollander/actions-comment-pull-request@v2
+        with:
+          message: ${{ format('Click [here]({0}) to preview the HTML page after your PR!', steps.html_preview.outputs.url) }}
+          reactions: rocket
+          comment_tag: preview
+

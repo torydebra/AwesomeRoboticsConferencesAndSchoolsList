@@ -20,7 +20,8 @@
     "city": "Atlanta",
     "country": "USA",
     "link": "https://www.sice-si.org/SII2023/",
-    "type": "Conference"
+    "type": "Conference",
+    "addressLink": "https://goo.gl/maps/iA2KsyQrgL2Zk7zB7"
   },
   {
     "shortName": "ICARA",

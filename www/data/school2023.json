@@ -78,6 +78,19 @@
     "note": ""
   },
   {
+    "name": "EECI-IGSC Learning-based predictive control",
+    "deadline": "",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "link": "http://www.eeci-igsc.eu/",
+    "type": "School",
+    "shortName": "EECI-IGSC",
+    "start": "2023-06-26",
+    "end": "2023-06-30",
+    "addressLink": "https://eeciigsc.web-events.fr//doc/users/975/bib/2022-2023/m22eeciethzurichlogisticalinformation.pdf",
+    "note": "Learning-based Model Predictive Control (MPC) provides advanced control systems with the capability to exploit real-time collected information to improve performance in face of uncertainty, at the same time maintaining high safety standards. This is a crucial requirement of next generation control applications, such as autonomous passenger cars, or autonomous aerial, marine and ground drones for civil applications. In established industrial systems, such a capability can also bring significant benefits, reducing commissioning time and cost, and the effects of product/process variability. After a brief review of fundamentals of MPC, the course presents an overview of existing learning-based MPC methods, followed by a deep-dive into theory and applications of selected techniques for different problem settings. These include stochastic and unknown-but-bounded uncertainty, and reactive techniques. A discussion on advanced topics and active research directions concludes the module."
+  },
+  {
     "name": "Summer School on Multi-robot systems",
     "deadline": "",
     "city": "Prague",

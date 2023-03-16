@@ -365,6 +365,18 @@
     "type": "Conference"
   },
   {    
+    "shortName": "L4DC",
+    "name": "Learning for Dynamics & Control Conference",
+    "start": "2023-06-15",
+    "end": "2023-06-16",
+    "deadline": "",
+    "city": "Philadelphia PA",
+    "country": "USA",
+    "link": "https://l4dc.seas.upenn.edu/",
+    "type": "Conference",
+    "addressLink": "https://goo.gl/maps/tWza6yeWTYWJbERo9"
+  },
+  {    
     "shortName": "CVPR",
     "name": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
     "start": "2023-06-18",

@@ -143,6 +143,19 @@
     "note": ""
   },
   {
+    "name": "Embodied Intelligence – Perception and Learning in Nature and Robotics",
+    "deadline": "2023-03-31",
+    "city": "Berlin",
+    "country": "Germany",
+    "link": "https://www.scienceofintelligence.de/summerschool/",
+    "type": "School",
+    "shortName": "SCIoI-ISAB",
+    "start": "2023-08-21",
+    "end": "2023-08-25",
+    "addressLink": "https://goo.gl/maps/d5hisGN9u2A7FxTb8",
+    "note": "In this summer school at the Excellence Cluster Science of Intelligence in Berlin, we would like to explore alternative paths towards efficient and sustainable robot perception and learning: efficient AI for individual artificial agents and teams. Inspired by insights of biologically intelligent systems (e.g. ant colonies, fish schools, and honey bees) AI has been going through immense progress. Efforts range from discovering simple yet efficient behavioral principles that allow solving complex tasks, to novel biologically inspired technological developments, such as event-based cameras, which open novel opportunities for efficient robot perception."
+  },
+  {
     "name": "Mediterranean Machine Learning Summer School",
     "deadline": "2023-02-28",
     "city": "Thessaloniki",
@@ -152,7 +165,7 @@
     "shortName": "MML",
     "start": "2023-08-28",
     "end": "2023-09-02",
-    "addressLink": "",
+    "addressLink": "https://goo.gl/maps/4XGrk9ZeDJ38m22p9",
     "note": ""
   },
   {

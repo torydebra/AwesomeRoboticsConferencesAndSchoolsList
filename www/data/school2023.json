@@ -117,6 +117,19 @@
     "note": ""
   },
   {
+    "name": "International Computer Vision Summer School",
+    "deadline": "2023-03-31",
+    "city": "Punta Sampieri - Scicli",
+    "country": "Italy",
+    "link": "https://iplab.dmi.unict.it/icvss2023/",
+    "type": "School",
+    "shortName": "ICVSS",
+    "start": "2023-07-09",
+    "end": "2023-07-15",
+    "addressLink": "https://goo.gl/maps/BhybXuThQugcoTMM6",
+    "note": "The seventeenth edition of the International Computer Vision Summer School aims to provide both an objective and clear overview and an in-depth analysis of the state-of-the-art research in Computer Vision. The last decade has seen a revolution in the theory and application of computer vision and machine learning. The next decade will see machine perception in embodied systems which learn representations for and from action and interaction."
+  },
+  {
     "name": "Machine Learning Summer School",
     "deadline": "2023-05-15",
     "city": "Lisbon",

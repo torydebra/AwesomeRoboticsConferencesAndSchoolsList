@@ -57,6 +57,7 @@ const countryList = {
   Cuba: 'CU',
   Cyprus: 'CY',
   'Czech Republic': 'CZ',
+  Czech: 'CZ',
   Češka: 'CZ',
   Denmark: 'DK',
   Djibouti: 'DJ',
@@ -365,5 +366,22 @@ function colorRow(row, data, displayNum, displayIndex, dataIndex) {
         }
 
     }
+
+}
+
+function costRender(data, type, row, meta) {
+    //row has all the other column data of this row!
+    
+   if (type === 'display') {
+       
+        let costNote = row['costNote'];
         
+        if (costNote) {
+            return '<a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-content="' + costNote + '">' + data + ' *</a>'
+
+        }
+
+    }
+
+    return data;
 }

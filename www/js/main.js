@@ -4,7 +4,7 @@ $(document).ready(function() {
     const years = ["2022", "2023", "2024"];
     const types = ["conf", "school"];
         
-    dataTableColumns = [
+    dataTableColumnsConf = [
         { 
             data: "shortName",
             title: "Acronym",
@@ -56,9 +56,80 @@ $(document).ready(function() {
             searchable: false,
         },    
     ];
+    
+    dataTableColumnsSchool = [
+        { 
+            data: "shortName",
+            title: "Acronym",
+            render: addLinkRender,
+        },
+        { 
+            data: "name",
+            title: "Name",
+        },
+        { 
+            data: "start",
+            title: "Start Date",
+            render: dateRender,
+        },
+        { 
+            data: "end",
+            title: "End Date",
+            render: dateRender,
+        },
+        { 
+            data: "deadline",
+            title: "Deadline",
+            render: dateRenderDeadline,
+        },
+        { 
+            data: "cost",
+            title: "Cost",
+            render: costRender,
+            orderable: false,
+        },
+        { 
+            data: "costNote",
+            visible: false,
+            searchable: false,
+        },
+        { 
+            data: "city",
+            title: "Location",
+            render: addAddressLinkRender,
+        },
+        { 
+            data: "country",
+            title: "Country",
+            className: 'f32', // css style used for world-flags-sprite
+            render: drawFlagRender,
+        },
+        { 
+            data: "link",
+            visible: false,
+            searchable: false,
+        },  
+        { 
+            data: "addressLink",
+            visible: false,
+            searchable: false,
+        },  
+        { 
+            data: "type",
+            visible: false,
+            searchable: false,
+        },    
+    ];
         
     years.forEach((year) => {
     types.forEach((type) => {
+        
+        let dataTableColumns = [];
+        if (type === "conf") {
+            dataTableColumns = dataTableColumnsConf;
+        } else if (type === "school") {
+            dataTableColumns = dataTableColumnsSchool;
+        }
         
         addTableContainer(type, year, dataTableColumns);
 
@@ -77,16 +148,18 @@ $(document).ready(function() {
                     [50, 'All'],
                 ],
                 "rowCallback": colorRow,
+                "initComplete": function (setting, json) {
+                    $('#' + type + year + ' [data-toggle="popover"]').popover()
+                }
             });
 
         })
-        .fail(function(jqXHR, textStatus, errorThrown) { console.log('getJSON request failed! ' + textStatus); })
+        .fail(function(jqXHR, textStatus, errorThrown) { console.log('getJSON request failed! ' + textStatus + ' ' + errorThrown); })
         .done(function() {})
-
-
-
     });
     });
+    
+
 
 
 });

@@ -69,7 +69,15 @@
 			},
 			"note": {
 				"type": "string"
-			}
+			},
+			"cost": {
+				"type": "string",
+                "maxLength": 20
+			},
+			"costNote": {
+				"type": "string",
+                "maxLength": 100
+            }
 		},
 		"additionalProperties": false,
 		"required": ["shortName", "name", "start", "end", "city", "country", "type"]

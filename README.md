@@ -25,7 +25,8 @@ I created this half for fun and half for learning something new. Double check on
 
 ## Contributing
 ### Add/Update Conference or School
-The `javascript` magic parses `json` files from the [www/data](www/data) folder that are manually updated. Files are divided per year and per type (e.g. `conf2022` or `school2024`)  
+The `javascript` magic parses `json` files from the [www/data](www/data) folder that are manually updated. Files are divided per year and per type (e.g. `conf2022` or `school2024`).  
+You can open PR directly with the addition/update you want to add. A github action is set to validate the updates against the schema at [www/data/schema.json](www/data/schema.json).  
 After locating the right file, this is the json schema for an entry:
 ```json
 {
@@ -54,7 +55,19 @@ After locating the right file, this is the json schema for an entry:
 - `note` Additional info that will be displayed soon in the table
 - Not very important, but it may be nice to put the entry ordered by start date, since everything is already like this
 
-You can open PR directly with the addition/update. A github action is set to validate the updates against the schema at [www/data/schema.json](www/data/schema.json).
+#### School Data Addendum
+For schools additional entry may be put:
+```json
+{
+    ...
+    "cost": ""
+    "costNote": ""
+},
+```
+
+- `cost`, the price, as a string (max lenght 20). Since prices vary a lot depending on lot of factors, put here the min/max (do not forget to put the currency with the proper symbol)
+- `costNote`, here additional info about the price can be added. Can be any string (max lenght 100), e.g. I found this format the shortest but still including all usual info: _students/academics/other early(late) : €350(400)/400(500)/600(700)_. Do no put here things like meals/travel included to not overflow the popover. These additional info can be added in the `note` entry.
+
 
 ### Other Contributions
 HTML, JS, Github-Actions and anything else about fixes and improvements are welcomed!
@@ -76,6 +89,7 @@ Distributed under the GLP-3.0 License. See `LICENSE.md` for more information.
 * [best-README-Template](https://github.com/othneildrew/Best-README-Template) For the readme itself
 * [ChatGPT](https://openai.com/blog/chatgpt) For a crazy stuff about [cache busting](https://github.com/torydebra/AwesomeRoboticsConferencesAndSchoolsList/blob/master/.github/workflows/static.yml#L37-L43) and monkey code-writing
 * [FontAwesome](https://fontawesome.com/) Icons! Icons everywhere!
+* [Popper](https://popper.js.org/) Unlucky name library to show popovers. BTW, the style of the doc website is probably the best of all times
 
 ### Github Actions
 * [validate-json-action](https://github.com/OrRosenblatt/validate-json-action) Validate json against a schema

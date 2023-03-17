@@ -15,8 +15,8 @@
   {
     "name": "EECI-IGS various summer schools",
     "deadline": "",
-    "city": "Zurich",
-    "country": "Swiss",
+    "city": "",
+    "country": "various",
     "link": "http://www.eeci-igsc.eu/",
     "type": "School",
     "shortName": "EECIIGS",
@@ -49,7 +49,9 @@
     "start": "2022-09-01",
     "end": "2022-09-05",
     "addressLink": "",
-    "note": ""
+    "note": "",
+    "cost": "€532.4-713.9",
+    "costNote": "Students/Academics/Industry: €532.4/€617.1/€713.9"
   },
   {
     "name": "Summer School on Service-Based and Cloud Robotics",

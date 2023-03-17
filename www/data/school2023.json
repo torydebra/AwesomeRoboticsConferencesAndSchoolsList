@@ -9,6 +9,8 @@
     "shortName": "LACORO",
     "start": "2023-01-03",
     "end": "2023-01-06",
+    "cost": "$50-300",
+    "costNote": "students/academics/professional early(late) : free($50)/$100($150)/$200($300)", 
     "addressLink": "https://goo.gl/maps/pZbpNurtMicUNs5m8",
     "note": ""
   },
@@ -22,6 +24,8 @@
     "shortName": "EECI-IGS",
     "start": "2023-02-01",
     "end": "2023-03-30",
+    "cost": "€350-€800",
+    "costNote": "academics/industrial early(late) : €350(450)/€600(800). 150€ low education priority countries", 
     "addressLink": "",
     "note": ""
   },
@@ -35,6 +39,8 @@
     "shortName": "DLWI",
     "start": "2023-01-17",
     "end": "2023-01-21",
+    "cost": "340€-580€",
+    "costNote": "multiple early registration ranging from 340€ to 580€", 
     "addressLink": "",
     "note": ""
   },
@@ -48,6 +54,8 @@
     "shortName": "EECI-IGS",
     "start": "2023-04-01",
     "end": "2023-06-30",
+    "cost": "€350-€800",
+    "costNote": "academics/industrial early(late) : €350(450)/€600(800). 150€ low education priority countries", 
     "addressLink": "",
     "note": ""
   },
@@ -56,11 +64,13 @@
     "deadline": "",
     "city": "La Valletta",
     "country": "Malta",
-    "link": "https://www.intuitive-itn.eu",
+    "link": "https://www.intuitive-itn.eu/research-school-3/",
     "type": "School",
     "shortName": "INT",
     "start": "2023-04-17",
     "end": "2023-04-21",
+    "cost": "free",
+    "costNote": "", 
     "addressLink": "",
     "note": ""
   },
@@ -74,7 +84,9 @@
     "shortName": "HCR",
     "start": "2023-06-26",
     "end": "2023-06-30",
-    "addressLink": "",
+    "cost": "€235-€250",
+    "costNote": "IFToMM member/non: 235€/250€", 
+    "addressLink": "https://goo.gl/maps/6Nb4LH4VxmhtXdfz5",
     "note": ""
   },
   {
@@ -87,6 +99,8 @@
     "shortName": "EECI-IGSC",
     "start": "2023-06-26",
     "end": "2023-06-30",
+    "cost": "€350-€800",
+    "costNote": "academics/industrial early(late) : €350(450)/€600(800). 150€ low education priority countries", 
     "addressLink": "https://eeciigsc.web-events.fr//doc/users/975/bib/2022-2023/m22eeciethzurichlogisticalinformation.pdf",
     "note": "Learning-based Model Predictive Control (MPC) provides advanced control systems with the capability to exploit real-time collected information to improve performance in face of uncertainty, at the same time maintaining high safety standards. This is a crucial requirement of next generation control applications, such as autonomous passenger cars, or autonomous aerial, marine and ground drones for civil applications. In established industrial systems, such a capability can also bring significant benefits, reducing commissioning time and cost, and the effects of product/process variability. After a brief review of fundamentals of MPC, the course presents an overview of existing learning-based MPC methods, followed by a deep-dive into theory and applications of selected techniques for different problem settings. These include stochastic and unknown-but-bounded uncertainty, and reactive techniques. A discussion on advanced topics and active research directions concludes the module."
   },
@@ -100,6 +114,8 @@
     "shortName": "RASPRAGUE",
     "start": "2023-07-03",
     "end": "2023-07-07",
+    "cost": "€532,40-€ 883,30",
+    "costNote": "students/academics/professional early(late) : €532,40(665,50)/617,10(762,30)/713,90(883,30)", 
     "addressLink": "",
     "note": ""
   },
@@ -113,6 +129,8 @@
     "shortName": "ETHRSS",
     "start": "2023-07-09",
     "end": "2023-07-14",
+    "cost": "free",
+    "costNote": "", 
     "addressLink": "",
     "note": ""
   },
@@ -126,6 +144,8 @@
     "shortName": "ICVSS",
     "start": "2023-07-09",
     "end": "2023-07-15",
+    "cost": "€550-€985",
+    "costNote": "students/academics/others : €550/775/985", 
     "addressLink": "https://goo.gl/maps/BhybXuThQugcoTMM6",
     "note": "The seventeenth edition of the International Computer Vision Summer School aims to provide both an objective and clear overview and an in-depth analysis of the state-of-the-art research in Computer Vision. The last decade has seen a revolution in the theory and application of computer vision and machine learning. The next decade will see machine perception in embodied systems which learn representations for and from action and interaction."
   },
@@ -136,9 +156,11 @@
     "country": "Portugal",
     "link": "http://lxmls.it.pt/2023/",
     "type": "School",
-    "shortName": "LML",
+    "shortName": "LxMLS",
     "start": "2023-07-14",
     "end": "2023-07-20",
+    "cost": "€350-€700",
+    "costNote": "students/academics/other early(late) : €350(400)/400(500)/600(700)", 
     "addressLink": "",
     "note": ""
   },
@@ -147,11 +169,13 @@
     "deadline": "",
     "city": "Cambridge ",
     "country": "United Kingdom",
-    "link": "https://ellis.eu/events/ellis-summer-school-on-probabilistic-machine-learning-cambridge-unit",
+    "link": "http://www.ellis.eng.cam.ac.uk/cambridge-ellis-machine-learning-summer-school-2023/",
     "type": "School",
     "shortName": "ELLIS",
     "start": "2023-07-17",
     "end": "2023-07-21",
+    "cost": "",
+    "costNote": "", 
     "addressLink": "",
     "note": ""
   },
@@ -165,6 +189,8 @@
     "shortName": "DLSU",
     "start": "2023-07-17",
     "end": "2023-07-21",
+    "cost": "340€-580€",
+    "costNote": "multiple early registration ranging from 340€ to 580€", 
     "addressLink": "https://goo.gl/maps/TimHTG2f5MsUSXq86",
     "note": "DeepLearn 2023 Summer will be a research training event with a global scope aiming at updating participants on the most recent advances in the critical and fast developing area of deep learning."
   },
@@ -178,6 +204,8 @@
     "shortName": "SCIoI-ISAB",
     "start": "2023-08-21",
     "end": "2023-08-25",
+    "cost": "free",
+    "costNote": "", 
     "addressLink": "https://goo.gl/maps/d5hisGN9u2A7FxTb8",
     "note": "In this summer school at the Excellence Cluster Science of Intelligence in Berlin, we would like to explore alternative paths towards efficient and sustainable robot perception and learning: efficient AI for individual artificial agents and teams. Inspired by insights of biologically intelligent systems (e.g. ant colonies, fish schools, and honey bees) AI has been going through immense progress. Efforts range from discovering simple yet efficient behavioral principles that allow solving complex tasks, to novel biologically inspired technological developments, such as event-based cameras, which open novel opportunities for efficient robot perception."
   },
@@ -191,6 +219,8 @@
     "shortName": "MML",
     "start": "2023-08-28",
     "end": "2023-09-02",
+    "cost": "free-€250",
+    "costNote": "students/academics/industry: free(100 deposit)/200/250", 
     "addressLink": "https://goo.gl/maps/4XGrk9ZeDJ38m22p9",
     "note": ""
   },
@@ -204,6 +234,8 @@
     "shortName": "SIMERO",
     "start": "2023-09-18",
     "end": "2023-09-22",
+    "cost": "€400-500",
+    "costNote": "IFToMM countries/non early(late): €400(450)/€450(500)", 
     "addressLink": "",
     "note": ""
   }

@@ -156,6 +156,19 @@
     "note": ""
   },
   {
+    "name": "DeepLearn 2023 Summer",
+    "deadline": "",
+    "city": "Las Palmas de Gran Canaria",
+    "country": "Spain",
+    "link": "https://deeplearn.irdta.eu/2023su/",
+    "type": "School",
+    "shortName": "DLSU",
+    "start": "2023-07-17",
+    "end": "2023-07-21",
+    "addressLink": "https://goo.gl/maps/TimHTG2f5MsUSXq86",
+    "note": "DeepLearn 2023 Summer will be a research training event with a global scope aiming at updating participants on the most recent advances in the critical and fast developing area of deep learning."
+  },
+  {
     "name": "Embodied Intelligence – Perception and Learning in Nature and Robotics",
     "deadline": "2023-03-31",
     "city": "Berlin",

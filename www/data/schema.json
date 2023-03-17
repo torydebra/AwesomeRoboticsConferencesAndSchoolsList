@@ -77,7 +77,7 @@
 			"costNote": {
 				"type": "string",
                 "maxLength": 100
-			},
+            }
 		},
 		"additionalProperties": false,
 		"required": ["shortName", "name", "start", "end", "city", "country", "type"]

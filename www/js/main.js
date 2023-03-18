@@ -28,6 +28,7 @@ $(document).ready(function() {
             data: "deadline",
             title: "Deadline",
             render: dateRenderDeadline,
+            defaultContent: "",
         },
         { 
             data: "city",
@@ -44,16 +45,24 @@ $(document).ready(function() {
             data: "link",
             visible: false,
             searchable: false,
+            defaultContent: "",
         },  
         { 
             data: "addressLink",
             visible: false,
             searchable: false,
+            defaultContent: "",
         },  
         { 
             data: "type",
             visible: false,
             searchable: false,
+        },    
+        { 
+            data: "note",
+            visible: false,
+            searchable: false,
+            defaultContent: "",
         },    
     ];
     
@@ -81,17 +90,20 @@ $(document).ready(function() {
             data: "deadline",
             title: "Deadline",
             render: dateRenderDeadline,
+            defaultContent: "",
         },
         { 
             data: "cost",
             title: "Cost",
             render: costRender,
             orderable: false,
+            defaultContent: "",
         },
         { 
             data: "costNote",
             visible: false,
             searchable: false,
+            defaultContent: "",
         },
         { 
             data: "city",
@@ -108,17 +120,25 @@ $(document).ready(function() {
             data: "link",
             visible: false,
             searchable: false,
+            defaultContent: "",
         },  
         { 
             data: "addressLink",
             visible: false,
             searchable: false,
+            defaultContent: "",
         },  
         { 
             data: "type",
             visible: false,
             searchable: false,
-        },    
+        },
+        { 
+            data: "note",
+            visible: false,
+            searchable: false,
+            defaultContent: "",
+        },
     ];
         
     years.forEach((year) => {
@@ -137,7 +157,8 @@ $(document).ready(function() {
         
             var jsondata = data;
             
-            addIfNotExist(jsondata, dataTableColumns);
+            //solved with defaultContent option
+            //addIfNotExist(jsondata, dataTableColumns);
 
             $("#" + type + year).DataTable({
                 data: jsondata,

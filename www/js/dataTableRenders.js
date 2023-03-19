@@ -357,16 +357,40 @@ function colorRow(row, data, displayNum, displayIndex, dataIndex) {
         
         if (deadline < now) {
             //$('tr', row).css('background-color', '#aaaaa') //low red
-            $(row).find('td:eq(4)').css('color', 'red');
-            //$(row).find('td:eq(4)').css('background-color', 'red');
+            $(row).find('td:eq(5)').css('color', 'red');
+            //$(row).find('td:eq(5)').css('background-color', 'red');
 
             
         } else if (deadline.setMonth(deadline.getMonth() - 1) < now) {
-            $(row).find('td:eq(4)').css('color', 'orange');
+            $(row).find('td:eq(5)').css('color', 'orange');
         }
 
     }
+    
+    if (data['note']) {
+        let cell= $(row).find('td:eq(0)');
+        
+        cell.addClass("dt-control");
+        cell.css('padding-left', '4px');
+    }
+}
 
+function addButtonNoteListener(table, type, year) {
+    
+    $('#' + type + year + ' tbody').on('click', 'td.dt-control', function () {
+        var tr = $(this).closest('tr');
+        var row = table.row(tr);
+
+        if (row.child.isShown()) {
+            //This row is already open - close it
+            row.child.hide();
+            tr.removeClass('shown');
+        } else {
+            //Open this row
+            row.child("<p>" + row.data().note + "</p>").show();
+            tr.addClass('shown');
+        }
+    });
 }
 
 function costRender(data, type, row, meta) {

@@ -5,6 +5,12 @@ $(document).ready(function() {
     const types = ["conf", "school"];
         
     dataTableColumnsConf = [
+        {
+            orderable: false,
+            data: null,
+            defaultContent: '',
+            title: "",
+        },
         { 
             data: "shortName",
             title: "Acronym",
@@ -67,6 +73,12 @@ $(document).ready(function() {
     ];
     
     dataTableColumnsSchool = [
+        {
+            orderable: false,
+            data: null,
+            defaultContent: '',
+            title: '',
+        },
         { 
             data: "shortName",
             title: "Acronym",
@@ -160,19 +172,24 @@ $(document).ready(function() {
             //solved with defaultContent option
             //addIfNotExist(jsondata, dataTableColumns);
 
-            $("#" + type + year).DataTable({
+            var table = $("#" + type + year).DataTable({
                 data: jsondata,
                 columns: dataTableColumns,
-                order: [[2, 'asc']],
+                order: [[3, 'asc']],
                 lengthMenu: [
                     [50, -1],
                     [50, 'All'],
                 ],
                 "rowCallback": colorRow,
                 "initComplete": function (setting, json) {
-                    $('#' + type + year + ' [data-toggle="popover"]').popover()
+                    $('#' + type + year + ' [data-toggle="popover"]').popover();
+                    
                 }
             });
+            
+            // Add event listener for opening and closing details
+            addButtonNoteListener(table, type, year);
+
 
         })
         .fail(function(jqXHR, textStatus, errorThrown) { console.log('getJSON request failed! ' + textStatus + ' ' + errorThrown); })

@@ -70,7 +70,9 @@ For schools additional entry may be put:
 
 
 ### Other Contributions
-HTML, JS, Github-Actions and anything else about fixes and improvements are welcomed!
+HTML, JS, Github-Actions and anything else about fixes and improvements are welcomed!  
+
+If you want to visualize the page locally, you can not simply open the index.html with the browser, since for CORS something stuff json file won't load. You should set up a local server and go to localhost through the browser, the simplest way I found is to run `python3 -m http.server` inside the `www` folder and visit `http://localhost:8000/` 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

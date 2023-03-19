@@ -585,7 +585,20 @@
     "link": "https://ecmr2023.isr.uc.pt/",
     "type": "Conference"
   },
-   {    
+  {    
+    "shortName": "EPIA",
+    "name": "Portuguese Conference on Artificial Intelligence",
+    "start": "2023-09-05",
+    "end": "2023-09-08",
+    "deadline": "2023-04-16",
+    "city": "Faial Island, Azores",
+    "country": "Portugal",
+    "link": "https://epia2023.inesctec.pt/",
+    "addressLink": "https://goo.gl/maps/LX6KHycdv9xWiCgWA",
+    "type": "Conference",
+    "note": "The purpose of the EPIA conference is to promote research in all areas of AI, covering both theoretical/foundational issues and applications, and the scientific exchange among researchers, engineers and practitioners in related disciplines. The Program Chairs for EPIA 2023, together with the International Steering Committee, have selected a number of different thematic tracks to be featured on the conference, covering a wide spectrum of AI topics."
+  },
+  {    
     "shortName": "MIC",
     "name": "Mechatronics International Conference",
     "start": "2023-09-11",

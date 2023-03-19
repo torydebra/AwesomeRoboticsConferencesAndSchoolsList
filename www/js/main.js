@@ -5,6 +5,12 @@ $(document).ready(function() {
     const types = ["conf", "school"];
         
     dataTableColumnsConf = [
+        {
+            orderable: false,
+            data: null,
+            defaultContent: '',
+            title: "",
+        },
         { 
             data: "shortName",
             title: "Acronym",
@@ -28,6 +34,7 @@ $(document).ready(function() {
             data: "deadline",
             title: "Deadline",
             render: dateRenderDeadline,
+            defaultContent: "",
         },
         { 
             data: "city",
@@ -44,20 +51,34 @@ $(document).ready(function() {
             data: "link",
             visible: false,
             searchable: false,
+            defaultContent: "",
         },  
         { 
             data: "addressLink",
             visible: false,
             searchable: false,
+            defaultContent: "",
         },  
         { 
             data: "type",
             visible: false,
             searchable: false,
         },    
+        { 
+            data: "note",
+            visible: false,
+            searchable: false,
+            defaultContent: "",
+        },    
     ];
     
     dataTableColumnsSchool = [
+        {
+            orderable: false,
+            data: null,
+            defaultContent: '',
+            title: '',
+        },
         { 
             data: "shortName",
             title: "Acronym",
@@ -81,17 +102,20 @@ $(document).ready(function() {
             data: "deadline",
             title: "Deadline",
             render: dateRenderDeadline,
+            defaultContent: "",
         },
         { 
             data: "cost",
             title: "Cost",
             render: costRender,
             orderable: false,
+            defaultContent: "",
         },
         { 
             data: "costNote",
             visible: false,
             searchable: false,
+            defaultContent: "",
         },
         { 
             data: "city",
@@ -108,17 +132,25 @@ $(document).ready(function() {
             data: "link",
             visible: false,
             searchable: false,
+            defaultContent: "",
         },  
         { 
             data: "addressLink",
             visible: false,
             searchable: false,
+            defaultContent: "",
         },  
         { 
             data: "type",
             visible: false,
             searchable: false,
-        },    
+        },
+        { 
+            data: "note",
+            visible: false,
+            searchable: false,
+            defaultContent: "",
+        },
     ];
         
     years.forEach((year) => {
@@ -137,21 +169,27 @@ $(document).ready(function() {
         
             var jsondata = data;
             
-            addIfNotExist(jsondata, dataTableColumns);
+            //solved with defaultContent option
+            //addIfNotExist(jsondata, dataTableColumns);
 
-            $("#" + type + year).DataTable({
+            var table = $("#" + type + year).DataTable({
                 data: jsondata,
                 columns: dataTableColumns,
-                order: [[2, 'asc']],
+                order: [[3, 'asc']],
                 lengthMenu: [
                     [50, -1],
                     [50, 'All'],
                 ],
                 "rowCallback": colorRow,
                 "initComplete": function (setting, json) {
-                    $('#' + type + year + ' [data-toggle="popover"]').popover()
+                    $('#' + type + year + ' [data-toggle="popover"]').popover();
+                    
                 }
             });
+            
+            // Add event listener for opening and closing details
+            addButtonNoteListener(table, type, year);
+
 
         })
         .fail(function(jqXHR, textStatus, errorThrown) { console.log('getJSON request failed! ' + textStatus + ' ' + errorThrown); })

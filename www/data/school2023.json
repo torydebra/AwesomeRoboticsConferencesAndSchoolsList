@@ -238,5 +238,20 @@
     "costNote": "IFToMM countries/non early(late): €400(450)/€450(500)", 
     "addressLink": "",
     "note": ""
+  },
+  {
+    "name": "Summer School on Human-Robot Interaction",
+    "deadline": "2023-05-05",
+    "city": "Chęciny",
+    "country": "Poland",
+    "link": "https://hill.psych.uw.edu.pl/hri-summer-school/",
+    "type": "School",
+    "shortName": "HRIP",
+    "start": "2023-09-18",
+    "end": "2023-09-23",
+    "cost": "€660",
+    "costNote": "available 50% discounts and full fee waiver", 
+    "addressLink": "https://goo.gl/maps/uZ4GQm6j7bwzyNCH8",
+    "note": "The School aims at reframing some of the key questions in HRI, which are pertinent both to social and to general robotics. Robots are extensions of our abilities to act in the physical world, but, at least equally importantly, they are modulators of human-human relations. Thus bringing humane sensitivity to robotics research means not only researching the shapes and abilities of the systems themselves, but also what kinds of agents do we, humans, want to have in the loops of our interactions."
   }
 ]

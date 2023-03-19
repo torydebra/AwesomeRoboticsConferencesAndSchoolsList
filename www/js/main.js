@@ -1,5 +1,18 @@
-           
 $(document).ready(function() {
+
+    $.fn.dataTable.ext.buttons.past = {
+        text: 'Hiding Past',
+        className: 'btn-secondary btn-sm',
+        action: pastButtonOnClick
+    }; 
+    $.fn.dataTable.ext.buttons.pastDeadline = {
+        text: 'Showing Past Deadline',
+        className: 'btn-info btn-sm',
+        action: pastDeadlineButtonOnClick
+    }; 
+
+    $.fn.dataTable.ext.search.push(pastFilter);
+    $.fn.dataTable.ext.search.push(pastDeadlineFilter);
 
     const years = ["2022", "2023", "2024"];
     const types = ["conf", "school"];
@@ -173,6 +186,7 @@ $(document).ready(function() {
             //addIfNotExist(jsondata, dataTableColumns);
 
             var table = $("#" + type + year).DataTable({
+                
                 data: jsondata,
                 columns: dataTableColumns,
                 order: [[3, 'asc']],
@@ -184,6 +198,23 @@ $(document).ready(function() {
                 "initComplete": function (setting, json) {
                     $('#' + type + year + ' [data-toggle="popover"]').popover();
                     
+                },
+                //first row default was (without buttons) with -12 and - 16 :
+                //"<'row'<'col-sm-12 col-md-6'l><'col-sm-12 col-md-6'f>>"
+                dom: "<'row'<'col-sm'l><'col-sm'B><'col-sm'f>>" +
+                        "<'row'<'col-sm-12'tr>>" +
+                        "<'row'<'col-sm-12 col-md-5'i><'col-sm-12 col-md-7'p>>",
+                buttons: {        
+                    buttons: [
+                        'past',
+                        'pastDeadline',
+                    ],
+                    dom: {
+                        container: {
+                            className: 'dt-buttons text-center flex-wrap',
+                            tag: "div"
+                        }
+                    }
                 }
             });
             

@@ -75,6 +75,21 @@
     "note": ""
   },
   {
+    "name": "Screw-theory Based Methods In Robotics",
+    "deadline": "",
+    "city": "Delft",
+    "country": "Netherlands",
+    "link": "https://www.summerscrews2023.nl/",
+    "type": "School",
+    "shortName": "STMR",
+    "start": "2023-06-18",
+    "end": "2023-06-24",
+    "cost": "€499",
+    "costNote": "", 
+    "addressLink": "https://goo.gl/maps/1c5X4yoK72fK2aJw6",
+    "note": "The program will introduce basic theoretical notions in a rigorous manner, with a focus on examples, applications, and exercises. This summer school is suitable for Ph.D. students, post-docs, M.Sc. students, and academic staff, as well as participants from industry who want to enhance their skills in this field."
+  },
+  {
     "name": "IFToMM Italy International Summer School On Human-Centred Robotics.",
     "deadline": "2023-05-15",
     "city": "Ancona",

@@ -632,6 +632,19 @@
     "type": "Conference"
   },
   {    
+    "shortName": "ICANN",
+    "name": "International Conference on Artificial Neural Networks",
+    "start": "2023-09-26",
+    "end": "2023-09-29",
+    "deadline": "2023-04-09",
+    "city": "Heraklion city, Crete",
+    "country": "Greece",
+    "link": "https://e-nns.org/icann2023/",
+    "addressLink": "https://goo.gl/maps/NKy7VoJyzjxUYBui9",
+    "type": "Conference",
+    "note": "ICANN 2023 will feature tracks in Brain inspired Computing, Machine learning, and Artificial Neural Networks, with strong cross-disciplinary interactions and applications. All research fields dealing with Neural Networks will be present at the Conference. More details about Conference topics.",
+  },
+  {    
     "shortName": "ICVS",
     "name": "International Conference on Computer Vision Systems",
     "start": "2023-09-27",

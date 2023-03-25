@@ -233,6 +233,19 @@
     "type": "Conference"
   },
   {    
+    "shortName": "DSRS",
+    "name": "Dutch Soft Robotics Symposium",
+    "start": "2023-05-15",
+    "end": "2023-05-17",
+    "deadline": "2023-03-30",
+    "city": "Enschede",
+    "country": "Netherlands",
+    "link": "https://www.dsrs2023.nl/",
+    "addressLink": "https://goo.gl/maps/fPeFjKY8XCJNeNNs8",
+    "type": "Conference",
+    "note": "This event will highlight the current status and future challenges in the field of soft robotics from the perspectives of research, development, and application."
+  },
+  {    
     "shortName": "ICRA",
     "name": "International Conference on Robotics and Automation",
     "start": "2023-05-29",

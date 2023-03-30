@@ -264,9 +264,10 @@
     "start": "2023-05-29",
     "end": "2023-06-02",
     "deadline": "2022-09-15",
-    "city": "London, Royal Victoria Dock 1 Western Gateway, London E16 1XL",
+    "city": "London",
     "country": "UK",
     "link": "https://www.icra2023.org/",
+    "addressLink": "https://goo.gl/maps/vNkD6LqEviYhypuQ9",
     "type": "Conference"
   },
   {    

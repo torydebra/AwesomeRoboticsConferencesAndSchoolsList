@@ -111,6 +111,19 @@
     "link": "http://www.sigapp.org/sac/sac2023/",
     "type": "Conference"
   },
+   {    
+    "shortName": "RoboSoft",
+    "name": "International Conference on Soft Robotics",
+    "start": "2023-04-03",
+    "end": "2023-04-07",
+    "deadline": "2022-11-01",
+    "city": "Singapore",
+    "country": "Singapore",
+    "link": "https://softroboticsconference.org/",
+    "addressLink": "https://goo.gl/maps/NG7yQNCsBhtRZ9kR7",
+    "type": "Conference",
+    "note": "In this 2023 edition, we aim to dive deeper into the novelty and utility of soft robotics in supporting sustainable development across the world, ranging from sustainable healthcare and agriculture, to sustainable industrialization and cities. We will see new ground-breaking ‘green’ frontiers across the spectrum of soft robotics research, and highly impactful soft robots now deployed within the various industry sectors to support the sustainable development efforts. RoboSoft 2023 will be a great nexus for all of us to share, ideate and build a sustainable world for future generations."
+  },
   {    
     "shortName": "ICML",
     "name": "International Conference on M-Learning",

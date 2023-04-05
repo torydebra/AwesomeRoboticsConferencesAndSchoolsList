@@ -652,10 +652,11 @@
     "name": "International Symposium on Robotics",
     "start": "2023-09-26",
     "end": "2023-09-27",
-    "deadline": "",
+    "deadline": "2023-05-05",
     "city": "Stuttgart",
     "country": "Germany",
     "link": "https://www.isr-robotics.org/en",
+    "addressLink": "https://goo.gl/maps/WW2kuuSTBRf8rs3h9",
     "type": "Conference"
   },
   {    

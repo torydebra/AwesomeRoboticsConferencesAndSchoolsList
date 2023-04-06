@@ -579,7 +579,19 @@
     "link": "https://icml.cc/Conferences/FutureMeetings",
     "type": "Conference"
   },
-   {    
+  {    
+    "shortName": "IJCAI",
+    "name": "International Joint Conference on Artificial Intelligence",
+    "start": "2023-08-19",
+    "end": "2023-08-25",
+    "deadline": "2023-01-18",
+    "city": "Macao",
+    "country": "China",
+    "link": "https://ijcai-23.org/",
+    "addressLink": "https://goo.gl/maps/4z2edye5u2xDJ34G6",
+    "type": "Conference"
+  },  
+  {    
     "shortName": "CASE",
     "name": "Conference on Automation Science and Engineering",
     "start": "2023-08-26",

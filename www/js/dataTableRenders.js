@@ -279,7 +279,27 @@ function drawFlagRender(data, type, row, meta) {
             country = countryList[data].toLowerCase();
         }
 
-        return '<span class="flag ' + country + '"></span> ' + data;
+        return '<span class="flag ' + country + '"></span> <span class="d-none d-sm-inline">' + data + '</span>';
+    }
+
+    return data;
+}
+
+function nameRender(data, type, row, meta) {
+    //row has all the other column data of this row!
+    
+   if (type === 'display') {
+       
+        let name = row['name'];
+        
+        if(name) {
+//             return '<span class="d-inline-block text-truncate" style="max-width: 300px;" data-toggle="tooltip" data-placement="top" title="'+
+//             name+'">'+name+'</span>'
+             
+            return '<span tabindex="0" role="button" data-toggle="popover" data-trigger="hover" class="truncate" data-content="' + name + '">' + name + '</span>'
+
+        }
+
     }
 
     return data;
@@ -396,7 +416,7 @@ function costRender(data, type, row, meta) {
         let costNote = row['costNote'];
         
         if (costNote) {
-            return '<a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-content="' + costNote + '">' + data + ' *</a>'
+            return '<a tabindex="0" role="button" data-toggle="popover" data-trigger="hover" data-content="' + costNote + '">' + data + ' *</a>'
 
         }
 
@@ -447,6 +467,13 @@ function responsiveRenderer( api, rowIdx, columns ) {
     
     var data = $.map( columns, function ( col, i ) {
         if (col.hidden && (col.data != '') ) {
+            
+            let element = col.data;
+
+            if (col.title === "Name") { 
+                element = $(element).text();
+            }
+            
             color = "";
             if (col.title === "Deadline") {
                 let cat = categorizeDate(col.data);
@@ -456,10 +483,15 @@ function responsiveRenderer( api, rowIdx, columns ) {
                     color = "orange";
                 }
             }
+            
+            if (col.title === "Country") { 
+                element = $(element).text();
+            }
+            
             return `
                 <li style="padding:0" data-dtr-index="`+col.columnIndex+`" data-dt-row="`+col.rowIndex+`" data-dt-column="`+col.columnIndex+`">
                     <span class="dtr-title">`+col.title+`</span> 
-                    <span class="dtr-data" style="color:`+color+`">`+col.data+`</span>
+                    <span class="dtr-data" style="color:`+color+`">`+element+`</span>
                 </li> 
             `;
         } else {

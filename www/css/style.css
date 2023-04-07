@@ -6,3 +6,23 @@
     progress {
         width: 100%;
     }
+
+.truncate {
+  max-width: 150px;
+  overflow: hidden;
+  display: inline-block;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+@media screen and (min-width: 1000px) {
+    .truncate {
+      max-width: 300px;
+    }    
+}
+
+@media screen and (min-width: 1200px) {
+    .truncate {
+      max-width: 400px;
+    }    
+}

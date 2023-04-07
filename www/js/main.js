@@ -34,6 +34,7 @@ $(document).ready(function() {
         { 
             data: "name",
             title: "Name",
+            render: nameRender,
             responsivePriority: 7,
         },
         { 
@@ -64,7 +65,7 @@ $(document).ready(function() {
         { 
             data: "country",
             title: "Country",
-            className: 'f32', // css style used for world-flags-sprite
+            className: 'text-center f32', // f32 css style used for world-flags-sprite
             render: drawFlagRender,
             responsivePriority: 3,
         },
@@ -111,6 +112,7 @@ $(document).ready(function() {
         { 
             data: "name",
             title: "Name",
+            render: nameRender,
             responsivePriority: 8,
         },
         { 
@@ -216,6 +218,7 @@ $(document).ready(function() {
                 "rowCallback": colorRow,
                 "initComplete": function (setting, json) {
                     $('#' + type + year + ' [data-toggle="popover"]').popover();
+                    $('#' + type + year + ' [data-toggle="tooltip"]').tooltip();
                 },
                 //first row default was (without buttons) with -12 and - 16 :
                 //"<'row'<'col-sm-12 col-md-6'l><'col-sm-12 col-md-6'f>>"

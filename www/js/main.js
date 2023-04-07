@@ -239,7 +239,8 @@ $(document).ready(function() {
                 },
                 responsive: {
                     details: {
-                        renderer: responsiveRenderer
+                        renderer: responsiveRenderer,
+                        type: "column"
                     }
                 }
             });

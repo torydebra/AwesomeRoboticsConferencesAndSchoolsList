@@ -367,12 +367,30 @@ function colorRow(row, data, displayNum, displayIndex, dataIndex) {
 
     }
     
-    if (data['note']) {
-        let cell= $(row).find('td:eq(0)');
+//     if (data['note']) {
+//         let cell= $(row).find('td:eq(0)');
+//         
+//         cell.addClass("dt-control");
+//         cell.css('padding-left', '4px');
+//     }
+}
+
+
+function costRender(data, type, row, meta) {
+    //row has all the other column data of this row!
+    
+   if (type === 'display') {
+       
+        let costNote = row['costNote'];
         
-        cell.addClass("dt-control");
-        cell.css('padding-left', '4px');
+        if (costNote) {
+            return '<a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-content="' + costNote + '">' + data + ' *</a>'
+
+        }
+
     }
+
+    return data;
 }
 
 function addButtonNoteListener(table, type, year) {
@@ -393,19 +411,46 @@ function addButtonNoteListener(table, type, year) {
     });
 }
 
-function costRender(data, type, row, meta) {
-    //row has all the other column data of this row!
+
+function addTableListeners(table) {
     
-   if (type === 'display') {
-       
-        let costNote = row['costNote'];
-        
-        if (costNote) {
-            return '<a tabindex="0" role="button" data-toggle="popover" data-trigger="focus" data-content="' + costNote + '">' + data + ' *</a>'
-
+    // Add event listener for opening and closing details
+    // Not used anymore since now is handled by responsive plugin
+    //addButtonNoteListener(table, type, year);
+    
+    table.on( 'responsive-resize', function ( e, datatable, columns ) {
+        table.rows('.parent').nodes().to$().find('td:first-child').trigger('click');
+    } );
+    
+    table.on('click', 'td.dtr-control', function () {
+        if ($(this).parent().next().hasClass("child")) {
+            $(this).parent().next().find('[data-toggle="popover"]').popover();
         }
+    });
+}
 
+
+
+function responsiveRenderer( api, rowIdx, columns ) {
+    
+    var data = $.map( columns, function ( col, i ) {
+        if (col.hidden && (col.data != '') ) {
+            console.log(col);
+            console.log(rowIdx);
+            return `
+                <li style="padding:0" data-dtr-index="`+col.columnIndex+`" data-dt-row="`+col.rowIndex+`" data-dt-column="`+col.columnIndex+`">
+                    <span class="dtr-title">`+col.title+`</span> 
+                    <span class="dtr-data">`+col.data+`</span>
+                </li> 
+            `;
+        } else {
+            return '';
+        }
+    } ).join('');
+    
+    if (data) {
+        return $('<ul data-dtr-index="'+rowIdx+'" class="dtr-details" />').append( data )
+    } else {
+        return false;
     }
-
-    return data;
 }

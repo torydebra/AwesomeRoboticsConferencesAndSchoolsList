@@ -23,42 +23,50 @@ $(document).ready(function() {
             data: null,
             defaultContent: '',
             title: "",
+            className: "dtr-control",
         },
         { 
             data: "shortName",
             title: "Acronym",
             render: addLinkRender,
+            responsivePriority: 1,
         },
         { 
             data: "name",
             title: "Name",
+            responsivePriority: 7,
         },
         { 
             data: "start",
             title: "Start Date",
             render: dateRender,
+            responsivePriority: 2,
         },
         { 
             data: "end",
             title: "End Date",
             render: dateRender,
+            responsivePriority: 4,
         },
         { 
             data: "deadline",
             title: "Deadline",
             render: dateRenderDeadline,
             defaultContent: "",
+            responsivePriority: 6,
         },
         { 
             data: "city",
             title: "Location",
             render: addAddressLinkRender,
+            responsivePriority: 5,
         },
         { 
             data: "country",
             title: "Country",
             className: 'f32', // css style used for world-flags-sprite
             render: drawFlagRender,
+            responsivePriority: 3,
         },
         { 
             data: "link",
@@ -79,8 +87,9 @@ $(document).ready(function() {
         },    
         { 
             data: "note",
-            visible: false,
+            title: "Note",
             searchable: false,
+            className: "none",
             defaultContent: "",
         },    
     ];
@@ -91,31 +100,37 @@ $(document).ready(function() {
             data: null,
             defaultContent: '',
             title: '',
+            className: "dtr-control",
         },
         { 
             data: "shortName",
             title: "Acronym",
             render: addLinkRender,
+            responsivePriority: 1,
         },
         { 
             data: "name",
             title: "Name",
+            responsivePriority: 8,
         },
         { 
             data: "start",
             title: "Start Date",
             render: dateRender,
+            responsivePriority: 2,
         },
         { 
             data: "end",
             title: "End Date",
             render: dateRender,
+            responsivePriority: 4,
         },
         { 
             data: "deadline",
             title: "Deadline",
             render: dateRenderDeadline,
             defaultContent: "",
+            responsivePriority: 7,
         },
         { 
             data: "cost",
@@ -123,6 +138,7 @@ $(document).ready(function() {
             render: costRender,
             orderable: false,
             defaultContent: "",
+            responsivePriority: 6,
         },
         { 
             data: "costNote",
@@ -134,12 +150,14 @@ $(document).ready(function() {
             data: "city",
             title: "Location",
             render: addAddressLinkRender,
+            responsivePriority: 5,
         },
         { 
             data: "country",
             title: "Country",
             className: 'f32', // css style used for world-flags-sprite
             render: drawFlagRender,
+            responsivePriority: 3,
         },
         { 
             data: "link",
@@ -160,9 +178,10 @@ $(document).ready(function() {
         },
         { 
             data: "note",
-            visible: false,
+            title: "Note",
             searchable: false,
             defaultContent: "",
+            className: "none",
         },
     ];
         
@@ -197,7 +216,6 @@ $(document).ready(function() {
                 "rowCallback": colorRow,
                 "initComplete": function (setting, json) {
                     $('#' + type + year + ' [data-toggle="popover"]').popover();
-                    
                 },
                 //first row default was (without buttons) with -12 and - 16 :
                 //"<'row'<'col-sm-12 col-md-6'l><'col-sm-12 col-md-6'f>>"
@@ -215,12 +233,15 @@ $(document).ready(function() {
                             tag: "div"
                         }
                     }
+                },
+                responsive: {
+                    details: {
+                        renderer: responsiveRenderer
+                    }
                 }
             });
-            
-            // Add event listener for opening and closing details
-            addButtonNoteListener(table, type, year);
 
+            addTableListeners(table)
 
         })
         .fail(function(jqXHR, textStatus, errorThrown) { console.log('getJSON request failed! ' + textStatus + ' ' + errorThrown); })
@@ -228,7 +249,4 @@ $(document).ready(function() {
     });
     });
     
-
-
-
 });

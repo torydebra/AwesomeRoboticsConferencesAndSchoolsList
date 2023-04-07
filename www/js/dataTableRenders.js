@@ -447,9 +447,7 @@ function responsiveRenderer( api, rowIdx, columns ) {
     
     var data = $.map( columns, function ( col, i ) {
         if (col.hidden && (col.data != '') ) {
-            console.log(col);
             color = "";
-            console.log(col.title);
             if (col.title === "Deadline") {
                 let cat = categorizeDate(col.data);
                 if (cat === 0) {

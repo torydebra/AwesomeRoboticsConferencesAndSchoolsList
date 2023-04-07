@@ -254,6 +254,22 @@ const countryList = {
 
 }
 
+function categorizeDate(date) {
+    
+    let now = new Date();
+    let given = new Date(date);
+    
+    if (given < now) {
+        return 0;
+        
+    } else if (given.setMonth(given.getMonth() - 1) < now) {
+        return 1;
+    }
+    
+    return 2;
+    
+}
+
 function drawFlagRender(data, type, row, meta) {
     
     if (type === 'display') {
@@ -309,8 +325,6 @@ function dateRender(data, type, row, meta) {
         if (data) {
             const date = luxon.DateTime.fromFormat(data, "y-MM-dd");
             
-
-            
             return date.toFormat('d MMM');
         }
     }
@@ -335,17 +349,15 @@ function dateRenderDeadline(data, type, row, meta) {
 
 function colorRow(row, data, displayNum, displayIndex, dataIndex) {
     
-    let now = new Date();
-
     if (data["start"]) {
         
-        let start = new Date(data["start"]);
+        let cat = categorizeDate(data["start"]);
         
-        if (start < now) {
+        if (cat === 0) {
             //$('td', row).css('background-color', '#f5c6cb') //low red
             $('td', row).addClass('table-danger') //low red
             
-        } else if (start.setMonth(start.getMonth() - 1) < now) {
+        } else if (cat === 1) {
             //$('td', row).css('background-color', '#feeeba') //low yellow
             $('td', row).addClass('table-warning') //low yellow
         }
@@ -353,15 +365,15 @@ function colorRow(row, data, displayNum, displayIndex, dataIndex) {
     
     if (data["deadline"]) { 
         
-        let deadline = new Date(data["deadline"]);
+        let cat = categorizeDate(data["deadline"]);
         
-        if (deadline < now) {
+        if (cat === 0) {
             //$('tr', row).css('background-color', '#aaaaa') //low red
             $(row).find('td:eq(5)').css('color', 'red');
             //$(row).find('td:eq(5)').css('background-color', 'red');
 
             
-        } else if (deadline.setMonth(deadline.getMonth() - 1) < now) {
+        } else if (cat === 1) {
             $(row).find('td:eq(5)').css('color', 'orange');
         }
 
@@ -436,11 +448,20 @@ function responsiveRenderer( api, rowIdx, columns ) {
     var data = $.map( columns, function ( col, i ) {
         if (col.hidden && (col.data != '') ) {
             console.log(col);
-            console.log(rowIdx);
+            color = "";
+            console.log(col.title);
+            if (col.title === "Deadline") {
+                let cat = categorizeDate(col.data);
+                if (cat === 0) {
+                    color = "red";
+                } else if (cat === 1) {
+                    color = "orange";
+                }
+            }
             return `
                 <li style="padding:0" data-dtr-index="`+col.columnIndex+`" data-dt-row="`+col.rowIndex+`" data-dt-column="`+col.columnIndex+`">
                     <span class="dtr-title">`+col.title+`</span> 
-                    <span class="dtr-data">`+col.data+`</span>
+                    <span class="dtr-data" style="color:`+color+`">`+col.data+`</span>
                 </li> 
             `;
         } else {

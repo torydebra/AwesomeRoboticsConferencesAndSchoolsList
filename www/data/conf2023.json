@@ -751,6 +751,19 @@
     "type": "Conference"
   },
   {    
+    "shortName": "ROSCON",
+    "name": "ROS Conference",
+    "start": "2023-10-18",
+    "end": "2023-10-20",
+    "deadline": "2023-07-09",
+    "city": "New Orleans",
+    "country": "USA",
+    "link": "https://roscon.ros.org/2023/",
+    "addressLink": "https://goo.gl/maps/fAo69kUsCqmxCuvY6",
+    "type": "Conference",
+    "note": "ROSCon is a developers conference, in the model of PyCon and BoostCon. Following the success of our past events, this year’s ROSCon will be our twelveth ROSCon and held in New Orleans, Louisiana, USA. Similar to previous years, the two-day program will comprise of technical talks and tutorials that will introduce you to new tools and libraries, as well as teach you more about the ones you already know. The bulk of the program will be 10-30 minute presentations (some may be longer or shorter) along with panel discussions, lightning talks, demonstrations, and workshops."
+  },
+  {    
     "shortName": "ICAR",
     "name": "International Conference on Advanced Robotics",
     "start": "2023-12-05",

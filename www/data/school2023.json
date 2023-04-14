@@ -225,6 +225,21 @@
     "note": "DeepLearn 2023 Summer will be a research training event with a global scope aiming at updating participants on the most recent advances in the critical and fast developing area of deep learning."
   },
   {
+    "name": "European Summer School on Artificial Intelligence",
+    "deadline": "",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "link": "https://essai.si/",
+    "type": "School",
+    "shortName": "ESSAI",
+    "start": "2023-07-24",
+    "end": "2023-07-28",
+    "cost": "400€-1100€",
+    "costNote": "students/academics/other early[regular](late) : €400[500](600) / 550[650](750) / 900[1000](1100)", 
+    "addressLink": "https://goo.gl/maps/GRAXQWU9Cd4RDrP57",
+    "note": "The European Summer School on Artificial Intelligence (ESSAI) is a direct product of European AI research being increasingly coordinated and scaled up across projects, research organisations and countries. ESSAI’s immediate predecessors are the Advanced Course on AI (ACAI), organised since 1985 under the auspices of the European Association for Artificial Intelligence (EurAI), and the TAILOR Summer School on Trustworthy AI organised since 2021 by the European ICT-48 Network of Excellence on Trustworthy AI through Integrating Learning, Optimisation and Reasoning. Last year, these two schools were already co-located in Barcelona with two parallel tracks as well as joint events."
+  },
+  {
     "name": "Embodied Intelligence – Perception and Learning in Nature and Robotics",
     "deadline": "2023-03-31",
     "city": "Berlin",

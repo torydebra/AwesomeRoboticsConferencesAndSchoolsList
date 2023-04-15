@@ -761,7 +761,9 @@
     "city": "Paris",
     "country": "France",
     "link": "https://icmi.acm.org/2023/",
-    "type": "Conference"
+    "addressLink": "",
+    "type": "Conference",
+    "note": "ICMI is the premier international forum for multidisciplinary research on multimodal human-human and human-computer interaction, interfaces, and system development. The conference focuses on theoretical and empirical foundations, component technologies, and combined multimodal processing techniques that define the field of multimodal interaction analysis, interface design, and system development."
   },
   {    
     "shortName": "ROSCON",
@@ -788,6 +790,19 @@
     "addressLink": "https://goo.gl/maps/CWhoKmAYDL7hvkmw9",
     "type": "Conference",
     "note": "This conference follows a series of successful international conferences initiated in 2004 by the INTUITION Network of Excellence in Virtual and Augmented Reality, supported by the European Commission until 2008. Embedded within the Joint Virtual Reality Conferences (JVRC) from 2009 to 2013, it was known as the EuroVR international conferences from 2014 and until 2020. This year, EuroXR will be held collocated with Immersive Tech Week (formerly VRDays)."
+  },
+  {    
+    "shortName": "HAI",
+    "name": "International Conference on Human-Agent Interaction",
+    "start": "2023-12-04",
+    "end": "2023-12-07",
+    "deadline": "2023-05-26",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "link": "https://hai-conference.net/hai2023/",
+    "addressLink": "https://goo.gl/maps/xngg2RwBBPfzNbjv5",
+    "type": "Conference",
+    "note": "The Eleventh International Conference on Human-Agent Interaction (HAI 2023) aims to be the premier interdisciplinary venue for discussing and disseminating state-of-the-art research and results that have implications across conventional interaction boundaries including robots, software agents and digitally-mediated human-human communication. HAI will gather researchers from fields spanning engineering, computer science, psychology and sociology, and will cover diverse topics, including: human-robot interaction, affective computing, computer-supported collaborative work, gaming and serious games, artificial intelligence, and more."
   },
   {    
     "shortName": "ICAR",

@@ -736,8 +736,21 @@
     "deadline": "",
     "city": "Florianópolis",
     "country": "Brazil",
-    "link": "https://clawar.org/clawar23/.",
+    "link": "https://clawar.org/clawar23/",
     "type": "Conference"
+  },
+  {    
+    "shortName": "CAIS",
+    "name": "OkIP International Conference on Automated and Intelligent Systems",
+    "start": "2023-10-02",
+    "end": "2023-10-05",
+    "deadline": "2023-05-23",
+    "city": "Oklahoma",
+    "country": "USA",
+    "link": "https://eventutor.com/e/CAIS003",
+    "addressLink": "https://goo.gl/maps/WMsprSJ7RuZjZrGD9",
+    "type": "Conference",
+    "note": "The conference aims to bring together scholars from different disciplinary backgrounds to emphasize dissemination of ongoing research and development in the field. Proposals are solicited describing original works in the fields (see Scientific Tracks menu option) and related technologies. CAIS will include a peer-reviewed program of technical, industrial and poster sessions."
   },
   {    
     "shortName": "ICMI",

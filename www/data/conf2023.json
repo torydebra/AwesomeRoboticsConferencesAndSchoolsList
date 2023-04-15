@@ -764,6 +764,19 @@
     "note": "ROSCon is a developers conference, in the model of PyCon and BoostCon. Following the success of our past events, this year’s ROSCon will be our twelveth ROSCon and held in New Orleans, Louisiana, USA. Similar to previous years, the two-day program will comprise of technical talks and tutorials that will introduce you to new tools and libraries, as well as teach you more about the ones you already know. The bulk of the program will be 10-30 minute presentations (some may be longer or shorter) along with panel discussions, lightning talks, demonstrations, and workshops."
   },
   {    
+    "shortName": "EuroXR",
+    "name": "EuroXR International Conference",
+    "start": "2023-11-01",
+    "end": "2023-12-01",
+    "deadline": "2023-04-24",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "link": "https://www.euroxr-association.org/conference2023",
+    "addressLink": "https://goo.gl/maps/CWhoKmAYDL7hvkmw9",
+    "type": "Conference",
+    "note": "This conference follows a series of successful international conferences initiated in 2004 by the INTUITION Network of Excellence in Virtual and Augmented Reality, supported by the European Commission until 2008. Embedded within the Joint Virtual Reality Conferences (JVRC) from 2009 to 2013, it was known as the EuroVR international conferences from 2014 and until 2020. This year, EuroXR will be held collocated with Immersive Tech Week (formerly VRDays)."
+  },
+  {    
     "shortName": "ICAR",
     "name": "International Conference on Advanced Robotics",
     "start": "2023-12-05",

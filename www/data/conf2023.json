@@ -481,6 +481,18 @@
     "type": "Conference"
   },
   {    
+    "shortName": "CoDIT",
+    "name": "International Conference on Control, Decision and Information Technologies",
+    "start": "2023-07-03",
+    "end": "2023-07-06",
+    "deadline": "2023-03-18",
+    "city": "Rome",
+    "country": "Italy",
+    "link": "https://codit2023.com/",
+    "addressLink": "https://goo.gl/maps/CG2xciWm18uQLHqJ7",
+    "type": "Conference"
+  }, 
+  {    
     "shortName": "IAS",
     "name": "International Conference on Intelligent Autonomous Systems ",
     "start": "2023-07-04",

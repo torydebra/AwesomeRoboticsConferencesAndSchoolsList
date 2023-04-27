@@ -1,4 +1,16 @@
 [
+   {
+    "shortName": "AIM",
+    "name": "International Conference on Advanced Intelligent Mechatronics",
+    "start": "2024-07-15",
+    "end": "2024-07-28",
+    "deadline": "2024-02-08",
+    "city": "Boston",
+    "country": "USA",
+    "link": "https://www.aim2024.org/",
+    "type": "Conference",
+    "addressLink": "https://goo.gl/maps/C4QuwDDT53EBwcdA8"
+  }
   {
     "shortName": "ICML",
     "name": "International Conference on Machine Learning",

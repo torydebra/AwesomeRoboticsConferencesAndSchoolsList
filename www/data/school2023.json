@@ -149,6 +149,21 @@
     "addressLink": "",
     "note": ""
   },
+   {
+    "name": "Maritime Informatics & Robotics",
+    "deadline": "2023-05-30",
+    "city": "Syros",
+    "country": "Greece",
+    "link": "https://summer-schools.aegean.gr/Maritime2023",
+    "type": "School",
+    "shortName": "Maritime2023",
+    "start": "2023-07-03",
+    "end": "2023-07-12",
+    "cost": "€500-€550",
+    "costNote": "early is 01-04-2023", 
+    "addressLink": "https://goo.gl/maps/ifP3CHDUd6KyiUoL6",
+    "note": "The goal of the school is to provide an introduction and comprehensive overview of Maritime Informatics and Marine Technology, with a special focus on their application to Robotics. There will be a strong emphasis on the practical application of the learned concepts during the “on the water” testing experiments and sea trials."
+  },
   {
     "name": "ETH Robotics Summer School",
     "deadline": "2023-03-24",

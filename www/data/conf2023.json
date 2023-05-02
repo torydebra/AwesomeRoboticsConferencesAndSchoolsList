@@ -817,6 +817,19 @@
     "note": "The annual M2VIP conference aims at facilitating the exchange of ideas and developments in all aspects of Advances in Mechatronics and Machine Vision. Mechatronics is regarded as the fusion of mechanical, electrical and computer engineering for the design and development of mechatronic products while machine vision brings a sense of intelligence."
   },
   {    
+    "shortName": "ISER",
+    "name": "International Symposium on Experimental Robotics",
+    "start": "2023-11-26",
+    "end": "2023-11-30",
+    "deadline": "2023-07-07",
+    "city": "Chiang Mai",
+    "country": "Thailand",
+    "link": "https://iser2023.org/",
+    "addressLink": "https://goo.gl/maps/nzcjZsnnjxhxhxpw8",
+    "type": "Conference",
+    "note": "ISER encourages submission of papers with validation of robotics theory and principles by physical experiments or new experimental paradigms and designs that facilitate theoretical advances."
+  },
+  {    
     "shortName": "EuroXR",
     "name": "EuroXR International Conference",
     "start": "2023-11-29",

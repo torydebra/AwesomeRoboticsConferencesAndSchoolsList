@@ -211,7 +211,7 @@
   },
   {
     "name": "ELLIS Summer School on Probabilistic Machine Learning - Cambridge Unit",
-    "deadline": "",
+    "deadline": "2023-05-15",
     "city": "Cambridge ",
     "country": "United Kingdom",
     "link": "http://www.ellis.eng.cam.ac.uk/cambridge-ellis-machine-learning-summer-school-2023/",
@@ -219,10 +219,10 @@
     "shortName": "ELLIS",
     "start": "2023-07-17",
     "end": "2023-07-21",
-    "cost": "",
+    "cost": "free",
     "costNote": "", 
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://goo.gl/maps/Wx4WgiAqCJYqKtj49?coh=178572&entry=tt",
+    "note": "The Cambridge Ellis Unit Summer School on Probabilistic Machine Learning is a distinguished course offered to graduate students, researchers and professionals, featuring engaging experts in their respective field and/or world-recognized professionals speaking about advanced machine learning concepts."
   },
   {
     "name": "DeepLearn 2023 Summer",

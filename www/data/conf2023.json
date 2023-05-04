@@ -817,6 +817,19 @@
     "note": "The annual M2VIP conference aims at facilitating the exchange of ideas and developments in all aspects of Advances in Mechatronics and Machine Vision. Mechatronics is regarded as the fusion of mechanical, electrical and computer engineering for the design and development of mechatronic products while machine vision brings a sense of intelligence."
   },
   {    
+    "shortName": "CAIP",
+    "name": "International Conference on AI for People: Democratizing AI",
+    "start": "2023-11-24",
+    "end": "2023-11-26",
+    "deadline": "2023-07-14",
+    "city": "Bologna",
+    "country": "Italy",
+    "link": "https://caip.eai-conferences.org/2023/",
+    "addressLink": "https://goo.gl/maps/bPz9PE3ygggYChwQ6",
+    "type": "Conference",
+    "note": "The International Conference on “AI for People” was born out of the idea of shaping Artificial Intelligence technology around human and societal needs. While Artificial Intelligence (AI) can be a beneficial tool, its development and its deployment impact society and the environment in ways that need to be thoroughly addressed and confronted."
+  },
+  {    
     "shortName": "ISER",
     "name": "International Symposium on Experimental Robotics",
     "start": "2023-11-26",

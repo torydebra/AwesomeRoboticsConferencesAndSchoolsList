@@ -472,12 +472,13 @@
   {    
     "shortName": "AIM",
     "name": "IEEE/ASME International Conference on Advanced Intelligent Mechatronics",
-    "start": "2023-06-28",
-    "end": "2023-06-30",
-    "deadline": "",
-    "city": "Seattle, Washington",
+    "start": "2023-06-27",
+    "end": "2023-07-01",
+    "deadline": "2023-02-10",
+    "city": "Seattle, WA",
     "country": "USA",
     "link": "http://www.aim2023.org/index.html",
+    "addressLink": "https://goo.gl/maps/gEQiEkqgXox8ZgyA8",
     "type": "Conference"
   },
   {    

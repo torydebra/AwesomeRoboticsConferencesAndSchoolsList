@@ -780,6 +780,19 @@
     "note": "ICMI is the premier international forum for multidisciplinary research on multimodal human-human and human-computer interaction, interfaces, and system development. The conference focuses on theoretical and empirical foundations, component technologies, and combined multimodal processing techniques that define the field of multimodal interaction analysis, interface design, and system development."
   },
   {    
+    "shortName": "IECON",
+    "name": "Conference of the IEEE Industrial Electronics Society",
+    "start": "2023-10-16",
+    "end": "2023-10-19",
+    "deadline": "2023-05-31",
+    "city": "Singapore",
+    "country": "Singapore",
+    "link": "https://www.iecon2023.org/",
+    "addressLink": "https://goo.gl/maps/hTKvfhztNEFJ7RBS6",
+    "type": "Conference",
+    "note": "IECON is the flagship annual conference of IES and returns to Singapore for the first time after 1988. It aims to create a forum for scientists and practising engineers throughout the world to present the latest research findings and ideas in the areas of Industrial Electronics, and possible contributions toward sustainable development and environment preservation."
+  },
+  {    
     "shortName": "ROSCON",
     "name": "ROS Conference",
     "start": "2023-10-18",

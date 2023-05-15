@@ -622,10 +622,12 @@
     "start": "2023-08-28",
     "end": "2023-08-31",
     "deadline": "2023-03-17",
-    "city": "Paradise Hotel, Busan, ",
+    "city": "Busan",
     "country": "Korea",
     "link": "http://ro-man2023.org/main",
-    "type": "Conference"
+    "addressLink": "https://goo.gl/maps/7PP1x5dh76TtFbJh6",
+    "type": "Conference",
+    "note": "The conference covers a wide range of topics related to Robot and Human Interactive Communication, involving theories, methodologies, technologies, empirical and experimental studies. Papers related to the study of robotic technology, psychology, cognitive science, artificial intelligence, human factors, ethics and policies, interaction-based robot design and other topics related to human-robot interaction are welcome."
   },
   {    
     "shortName": "ECMR",

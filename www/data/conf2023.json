@@ -808,6 +808,19 @@
     "note": "ROSCon is a developers conference, in the model of PyCon and BoostCon. Following the success of our past events, this year’s ROSCon will be our twelveth ROSCon and held in New Orleans, Louisiana, USA. Similar to previous years, the two-day program will comprise of technical talks and tutorials that will introduce you to new tools and libraries, as well as teach you more about the ones you already know. The bulk of the program will be 10-30 minute presentations (some may be longer or shorter) along with panel discussions, lightning talks, demonstrations, and workshops."
   },
   {    
+    "shortName": "IRIM",
+    "name": "Italian Institute for Robotics and Intelligent Machines event",
+    "start": "2023-10-20",
+    "end": "2023-10-22",
+    "deadline": "2023-08-11",
+    "city": "Rome",
+    "country": "Italy",
+    "link": "https://i-rim.it/en/i-rim-conference-2023/",
+    "addressLink": "https://goo.gl/maps/hzV9umFYmnPzB9CV9",
+    "type": "Conference",
+    "note": "The event aims to offer an important opportunity for academics, researchers, and industrial actors working in the Robotics and Intelligent Machines sectors, to network, present the progress of research and tackle new challenges with particular attention to the perspectives and opportunities in Italy. This year the event will be held from 20th to 22nd of October 2023, at Fiera di Roma in collaboration with Maker Faire."  
+  },
+  {    
     "shortName": "IFToMMWC",
     "name": "IFToMM World Congress",
     "start": "2023-11-05",

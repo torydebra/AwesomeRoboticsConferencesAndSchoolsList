@@ -1,5 +1,18 @@
 [
-   {
+  {
+    "shortName": "HRI",
+    "name": "ACM/IEEE International Conference on Human-Robot Interaction",
+    "start": "2024-03-11",
+    "end": "2024-03-14",
+    "deadline": "2023-09-29",
+    "city": "Boulder",
+    "country": "USA",
+    "link": "https://humanrobotinteraction.org/2024/",
+    "type": "Conference",
+    "addressLink": "https://goo.gl/maps/V38Us98mFmTaW41w9",
+    "note": "The conference theme for HRI 2024 is HRI in the real world and will focus on key HRI theories, designs, studies, systems, and technical advances that aim to bring HRI out of the lab and into everyday life. We encourage the community to consider what it means to do HRI in practice, and ways to bring it into the mainstream."
+  },
+  {
     "shortName": "AIM",
     "name": "International Conference on Advanced Intelligent Mechatronics",
     "start": "2024-07-15",

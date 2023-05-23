@@ -922,6 +922,18 @@
     "type": "Conference"
   },
   {    
+    "shortName": "ICIST",
+    "name": "International Conference on Information Science and Technology",
+    "start": "2023-12-08",
+    "end": "2023-12-14",
+    "deadline": "2023-08-01",
+    "city": "Cairo",
+    "country": "Egypt",
+    "link": "https://conference.cs.cityu.edu.hk/icist",
+    "type": "Conference",
+    "note": "As a cradle of civilization, the conference site features long historical and rich cultural heritages. Following the successes of previous events, ICIST 2023 aims to provide a high-level international forum for scientists, engineers, and educators to present the state of the art of research and applications in related fields. The conference will feature preconference, tutorials, plenary speeches given by world-renowned scholars, regular sessions with broad coverage, and special sessions focusing on popular topics and pre-conference tutorials/workshops to warm up the main event."
+  },
+  {    
     "shortName": "IRC",
     "name": "IEEE Robotic Computing",
     "start": "2023-12-11",

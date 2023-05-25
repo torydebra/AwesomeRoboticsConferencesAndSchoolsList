@@ -1,5 +1,18 @@
 [
   {
+    "shortName": "HICSS",
+    "name": "Hawaii International Conference on System Sciences",
+    "start": "2024-01-03",
+    "end": "2024-01-06",
+    "deadline": "2023-06-15",
+    "city": "Honolulu",
+    "country": "USA",
+    "link": "https://hicss.hawaii.edu/",
+    "type": "Conference",
+    "addressLink": "https://goo.gl/maps/GiqEzTTRmBpDxnX37",
+    "note": ""
+  },
+  {
     "shortName": "HRI",
     "name": "ACM/IEEE International Conference on Human-Robot Interaction",
     "start": "2024-03-11",

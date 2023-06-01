@@ -270,6 +270,36 @@
     "note": "In this summer school at the Excellence Cluster Science of Intelligence in Berlin, we would like to explore alternative paths towards efficient and sustainable robot perception and learning: efficient AI for individual artificial agents and teams. Inspired by insights of biologically intelligent systems (e.g. ant colonies, fish schools, and honey bees) AI has been going through immense progress. Efforts range from discovering simple yet efficient behavioral principles that allow solving complex tasks, to novel biologically inspired technological developments, such as event-based cameras, which open novel opportunities for efficient robot perception."
   },
   {
+    "name": "CVML Short Course: Deep Learning and Computer Vision",
+    "deadline": "",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "link": "https://icarus.csd.auth.gr/cvml-short-course-deep-learning-and-computer-vision-2023/",
+    "type": "School",
+    "shortName": "CVML",
+    "start": "2023-08-28",
+    "end": "2023-08-29",
+    "cost": "€210-€300",
+    "costNote": "students/standard (late): 210(245)/300(350)", 
+    "addressLink": "https://goo.gl/maps/RpftYAS4ApLREdEg9",
+    "note": "This two-day short course focuses on Deep Learning and Computer Vision theory, their applications in the above-mentioned diverse domains and new challenges ahead. It consists of two parts (A, B) and each of them including 8 one-hour lectures and related material (slide pdfs, lecture videos, understanding questionnaires)."
+  },
+  {
+    "name": "CVML Programming Short Course and Workshop on Deep Learning and Computer Vision",
+    "deadline": "",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "link": "https://icarus.csd.auth.gr/cvml-programming-short-course-and-workshop-on-deep-learning-and-computer-vision-2023/",
+    "type": "School",
+    "shortName": "CVML-P",
+    "start": "2023-08-30",
+    "end": "2023-09-01",
+    "cost": "€50-€200",
+    "costNote": "students/standard (late): 50(60)/200(200)", 
+    "addressLink": "https://goo.gl/maps/RpftYAS4ApLREdEg9",
+    "note": "This three-day short course provides an in-depth presentation of programming tools and techniques for various computer vision and deep learning problems.  The target application domains are autonomous systems (e.g., real time object detection) and digital/social media analysis for Natural Disaster Management. The short course consists of three parts (A, B, C), each having lectures and programming workshops with hands-on lab exercises." 
+  },
+  {
     "name": "Mediterranean Machine Learning Summer School",
     "deadline": "2023-02-28",
     "city": "Thessaloniki",

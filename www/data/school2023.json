@@ -330,6 +330,21 @@
     "note": ""
   },
   {
+    "name": "Robotics Summer School Constrained based robot programming",
+    "deadline": "2023-07-05",
+    "city": "Leuven",
+    "country": "Belgium",
+    "link": "",
+    "type": "School",
+    "shortName": "RSSCRP",
+    "start": "2023-09-13",
+    "end": "2023-09-16",
+    "cost": "€550",
+    "costNote": "", 
+    "addressLink": "https://goo.gl/maps/eJ2xD9LfmQjb49Md9",
+    "note": "This Summer School advances your understanding and skills (including hands-on experience) in high-level multi-robot manipulation and mobile navigation, following the constraint-based task specification approach developed since several decades at the Department of Mechanical Engineering, KU Leuven, Belgium."
+  },
+  {
     "name": "Summer School on Singularities of Mechanisms and Robotic Manipulators",
     "deadline": "2023-07-31",
     "city": "Nantes",

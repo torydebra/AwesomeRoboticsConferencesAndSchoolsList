@@ -571,6 +571,19 @@
     "type": "Conference"
   },
   {    
+    "shortName": "BIOBIOS",
+    "name": "International Conference on Biomimetic and Biohybrid Systems",
+    "start": "2023-07-10",
+    "end": "2023-07-13",
+    "deadline": "",
+    "city": "Genoa",
+    "country": "Italy",
+    "link": "https://livingmachinesconference.eu/2023/",
+    "addressLink": "https://goo.gl/maps/cHd7QNSdfZsbpFk96",
+    "type": "Conference",
+    "note": "The development of future real-world technologies will depend strongly on our understanding and harnessing of the principles underlying living systems and the flow of communication signals between living and artificial systems."
+  },
+  {    
     "shortName": "TAS",
     "name": "International Symposium on Trustworthy Autonomous Systems",
     "start": "2023-07-11",

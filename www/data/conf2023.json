@@ -899,6 +899,19 @@
     "note": "This conference follows a series of successful international conferences initiated in 2004 by the INTUITION Network of Excellence in Virtual and Augmented Reality, supported by the European Commission until 2008. Embedded within the Joint Virtual Reality Conferences (JVRC) from 2009 to 2013, it was known as the EuroVR international conferences from 2014 and until 2020. This year, EuroXR will be held collocated with Immersive Tech Week (formerly VRDays)."
   },
   {    
+    "shortName": "ACRA",
+    "name": "Australasian Conference on Robotics and Automation",
+    "start": "2023-12-04",
+    "end": "2023-12-06",
+    "deadline": "2023-09-18",
+    "city": "Sydney",
+    "country": "Australia",
+    "link": "UNSW Kensington Campus",
+    "addressLink": "https://goo.gl/maps/EoArq8fwLAWbX3549",
+    "type": "Conference",
+    "note": "Since 1999, ACRA has brought together Australian and New Zealand researchers and students in robotics, automation, and mechatronics. It provides a forum to present a breadth of research activities to the broader Australasian community. ACRA is a quality, peer-reviewed conference featured in Scopus, Google Scholar, and other ranking engines. "
+  },
+  {    
     "shortName": "HAI",
     "name": "International Conference on Human-Agent Interaction",
     "start": "2023-12-04",

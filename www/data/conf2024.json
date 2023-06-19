@@ -26,6 +26,19 @@
     "note": "The conference theme for HRI 2024 is HRI in the real world and will focus on key HRI theories, designs, studies, systems, and technical advances that aim to bring HRI out of the lab and into everyday life. We encourage the community to consider what it means to do HRI in practice, and ways to bring it into the mainstream."
   },
   {
+    "shortName": "SAC-IRMAS",
+    "name": "ACM/SIGAPP Symposium On Applied Computing - Track Intelligent Robotics and Multi-Agent Systems",
+    "start": "2024-04-08",
+    "end": "2024-04-12",
+    "deadline": "2023-09-15",
+    "city": "Avila",
+    "country": "Spain",
+    "link": "https://sac2024-irmas.isr.uc.pt/",
+    "type": "Conference",
+    "addressLink": "https://goo.gl/maps/MTdd6bGNmjGNjczP9",
+    "note": "Robotics is a multidisciplinary research area that presents an enormous potential. It concerns about developing intelligent robotic systems that are capable of making decisions and acting autonomously in real and unpredictable environments to accomplish tasks and assist humans in relevant application domains for society. Several complex problems require the use of teams of robots that share some of the same challenges studied in MAS."
+  },
+  {
     "shortName": "AIM",
     "name": "International Conference on Advanced Intelligent Mechatronics",
     "start": "2024-07-15",

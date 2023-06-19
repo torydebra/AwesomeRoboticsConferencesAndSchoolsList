@@ -39,6 +39,19 @@
     "note": "Robotics is a multidisciplinary research area that presents an enormous potential. It concerns about developing intelligent robotic systems that are capable of making decisions and acting autonomously in real and unpredictable environments to accomplish tasks and assist humans in relevant application domains for society. Several complex problems require the use of teams of robots that share some of the same challenges studied in MAS."
   },
   {
+    "shortName": "ARK",
+    "name": "ADVANCES IN ROBOT KINEMATICS",
+    "start": "2024-06-30",
+    "end": "2024-07-04",
+    "deadline": "2023-01-15",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "link": "https://ark2024.org/",
+    "type": "Conference",
+    "addressLink": "https://goo.gl/maps/hyTLcxi4YkuATe9D7",
+    "note": "ARK – Advances in Robot Kinematics is a boutique robotics international series of symposia. My first idea to organize a specialized conference on robot kinematics dates back to 1986. The initial supporters of this idea were scientists of the highest reputation, such as B. Roth, O. Khatib, K. Waldron, J. Angeles, V. Parenti-Castelli, M. McCarthy, M. Stanisic, B. Siciliano and others. At the first symposium, which I organized in Ljubljana in 1988, we agreed that we would organize ARK symposia every two years in the area of the Mediterranean and the Alps. So far, 18 symposia have been held. The proceedings are published in the form of edited books, which have been published by Springer (initially Kluwer) from the very beginning."
+  },
+  {
     "shortName": "AIM",
     "name": "International Conference on Advanced Intelligent Mechatronics",
     "start": "2024-07-15",

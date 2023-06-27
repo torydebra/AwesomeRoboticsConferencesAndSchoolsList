@@ -330,6 +330,21 @@
     "note": ""
   },
   {
+    "name": "Summer School on Robotics and Intelligent Machines",
+    "deadline": "2023-06-27",
+    "city": "Volterra",
+    "country": "Italy",
+    "link": "https://www.santannapisa.it/en/alta-formazione/1st-doctoral-summer-school-robotics-and-intelligent-machines-drims2-ay-20222023",
+    "type": "School",
+    "shortName": "DRIMS2",
+    "start": "2023-08-30",
+    "end": "2023-09-05",
+    "cost": "€375-€475",
+    "costNote": "", 
+    "addressLink": "https://goo.gl/maps/KdEeWtr9kghVLHX27",
+    "note": "The course has been designed to provide advanced and specialized training in this rapidly evolving field, with an interdisciplinary approach that integrates theory and practice. Specifically, the course aims to provide the knowledge and skills necessary to develop robots and intelligent machines capable of operating in complex environments, such as those found in biomedical, industrial, and service applications. Participants will gain advanced expertise in fields such as robot design, sensors and artificial perception, control, and human-machine interaction."
+  },
+  {
     "name": "Robotics Summer School Constrained based robot programming",
     "deadline": "2023-07-05",
     "city": "Leuven",

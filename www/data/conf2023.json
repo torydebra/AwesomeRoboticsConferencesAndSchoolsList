@@ -762,10 +762,11 @@
     "name": "Climbing and Walking Robots and the Support Technologies for Mobile Machines",
     "start": "2023-10-02",
     "end": "2023-10-04",
-    "deadline": "",
+    "deadline": "2023-08-05",
     "city": "Florianópolis",
     "country": "Brazil",
     "link": "https://clawar.org/clawar23/",
+    "addressLink": "https://goo.gl/maps/eDtjPyEikGQT6ke88",
     "type": "Conference"
   },
   {    
@@ -832,6 +833,19 @@
     "addressLink": "https://goo.gl/maps/hzV9umFYmnPzB9CV9",
     "type": "Conference",
     "note": "The event aims to offer an important opportunity for academics, researchers, and industrial actors working in the Robotics and Intelligent Machines sectors, to network, present the progress of research and tackle new challenges with particular attention to the perspectives and opportunities in Italy. This year the event will be held from 20th to 22nd of October 2023, at Fiera di Roma in collaboration with Maker Faire."  
+  },
+  {    
+    "shortName": "AAAI",
+    "name": "AAAI Fall Symposium Series - Agent Teaming in Mixed-Motive Situations",
+    "start": "2023-10-25",
+    "end": "2023-10-27",
+    "deadline": "2023-08-17",
+    "city": "Arlington",
+    "country": "USA",
+    "link": "https://successmuri.org/workshops/fss23/",
+    "addressLink": "",
+    "type": "Conference",
+    "note": ""
   },
   {    
     "shortName": "IFToMMWC",

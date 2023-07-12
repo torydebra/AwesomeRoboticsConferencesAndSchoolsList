@@ -952,6 +952,18 @@
     "note": "The Eleventh International Conference on Human-Agent Interaction (HAI 2023) aims to be the premier interdisciplinary venue for discussing and disseminating state-of-the-art research and results that have implications across conventional interaction boundaries including robots, software agents and digitally-mediated human-human communication. HAI will gather researchers from fields spanning engineering, computer science, psychology and sociology, and will cover diverse topics, including: human-robot interaction, affective computing, computer-supported collaborative work, gaming and serious games, artificial intelligence, and more."
   },
   {    
+    "shortName": "ICSR",
+    "name": "International Conference of Social Robotics",
+    "start": "2023-12-04",
+    "end": "2023-12-07",
+    "deadline": "2023-08-07",
+    "city": "Doha",
+    "country": "Qatar",
+    "link": "https://icsr23.qa/",
+    "addressLink": "https://goo.gl/maps/qWrENkTiw1Pjdj8j7",
+    "type": "Conference"
+  },
+  {    
     "shortName": "ROBIO",
     "name": "International Conference on Robotics and Biomimetics",
     "start": "2023-12-04",

@@ -980,10 +980,11 @@
     "name": "International Conference on Advanced Robotics",
     "start": "2023-12-05",
     "end": "2023-12-08",
-    "deadline": "2023-07-14",
+    "deadline": "2023-07-31",
     "city": "Abu Dhabi",
     "country": "United Arab Emirates",
     "link": "https://sites.google.com/view/2023icar/home-page?authuser=0",
+    "addressLink": "https://goo.gl/maps/d9jfyyCSyX6yA4CU6",
     "type": "Conference"
   },
   {    

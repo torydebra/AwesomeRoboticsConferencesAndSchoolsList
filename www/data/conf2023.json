@@ -516,6 +516,17 @@
     "type": "Conference"
   },
   {    
+    "shortName": "ICARM",
+    "name": " International Conference on Advanced Robotics and Mechatronics",
+    "start": "2023-07-08",
+    "end": "2023-07-10",
+    "deadline": "2023-02-28",
+    "city": "Sanya",
+    "country": "China",
+    "link": "http://www.ieee-arm.org/",
+    "type": "Conference"
+  },
+  {    
     "shortName": "ICAPS",
     "name": "International Conference on Automated Planning and Scheduling",
     "start": "2023-07-08",
@@ -686,6 +697,17 @@
     "city": "Cambridge",
     "country": "UK",
     "link": "https://taros-conference.org/",
+    "type": "Conference"
+  },
+  {    
+    "shortName": "ICORR",
+    "name": "International Conference on Rehabilitation Robotics",
+    "start": "2023-09-24",
+    "end": "2023-09-28",
+    "deadline": "2023-05-15",
+    "city": "Singapore",
+    "country": "Singapore",
+    "link": "https://www.rehabweek.org/society-information/icorr-international-conference-on-rehabilitation-robotics/",
     "type": "Conference"
   },
   {    
@@ -861,6 +883,28 @@
     "note": "The IFToMM World Congress is held every 4 years and is the largest congress on mechanism and machine science. It provides an opportunity for researchers, scholars and students with interests in the theory and practice of mechanisms and machines for sharing new ideas, experiences, and discussing future developments."
   },
   {    
+    "shortName": "ICDL",
+    "name": "IEEE International Conference on Development and Learning 2023",
+    "start": "2023-11-09",
+    "end": "2023-11-11",
+    "deadline": "2023-07-31",
+    "city": "Macau",
+    "country": "China",
+    "link": "https://www.icdl-2023.org/",
+    "type": "Conference"
+  },
+  {    
+    "shortName": "SSRR",
+    "name": "IEEE International Conference on Safety, Security, and Rescue Robotics",
+    "start": "2023-11-13",
+    "end": "2023-11-15",
+    "deadline": "2023-08-19",
+    "city": "Fukushima",
+    "country": "Japan",
+    "link": "https://ssrr2023.org/",
+    "type": "Conference"
+  },
+  {    
     "shortName": "M2VIP",
     "name": "International conference on mechatronics and machine vision in practice",
     "start": "2023-11-21",
@@ -924,6 +968,18 @@
     "addressLink": "https://goo.gl/maps/CWhoKmAYDL7hvkmw9",
     "type": "Conference",
     "note": "This conference follows a series of successful international conferences initiated in 2004 by the INTUITION Network of Excellence in Virtual and Augmented Reality, supported by the European Commission until 2008. Embedded within the Joint Virtual Reality Conferences (JVRC) from 2009 to 2013, it was known as the EuroVR international conferences from 2014 and until 2020. This year, EuroXR will be held collocated with Immersive Tech Week (formerly VRDays)."
+  },
+  {    
+    "shortName": "MRS",
+    "name": " International Symposium on Multi-Robot and Multi-Agent Systems",
+    "start": "2023-12-04",
+    "end": "2023-12-05",
+    "deadline": "2023-07-07",
+    "city": "Boston",
+    "country": "USA",
+    "link": "https://sites.bu.edu/mrs2023/",
+    "addressLink": "https://goo.gl/maps/X7bYNE9t3mkS4mPVA",
+    "type": "Conference"
   },
   {    
     "shortName": "ACRA",

@@ -52,6 +52,19 @@
     "note": "Robotics is a multidisciplinary research area that presents an enormous potential. It concerns about developing intelligent robotic systems that are capable of making decisions and acting autonomously in real and unpredictable environments to accomplish tasks and assist humans in relevant application domains for society. Several complex problems require the use of teams of robots that share some of the same challenges studied in MAS."
   },
   {
+    "shortName": "SEAMS",
+    "name": "International Conference on Software Engineering for Adaptive and Self-Managing Systems",
+    "start": "2024-04-15",
+    "end": "2024-04-16",
+    "deadline": "2023-10-06",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "link": "https://conf.researchr.org/home/seams-2024",
+    "type": "Conference",
+    "addressLink": "https://goo.gl/maps/d7rFdhuN2cVLL1nE9",
+    "note": "SEAMS is a CORE-A ranked conference that applies software engineering methods, techniques, processes, and tools to support the construction of safe, performant, and cost-effective self-adaptive and autonomous systems that provide self-* properties like self-configuration, self-healing, self-optimization, and self-protection."
+  },
+  {
     "shortName": "ARK",
     "name": "Advances in Robot Kinematics",
     "start": "2024-06-30",

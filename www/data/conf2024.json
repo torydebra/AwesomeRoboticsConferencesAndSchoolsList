@@ -99,5 +99,18 @@
     "country": "Austria",
     "link": "https://icml.cc/Conferences/FutureMeetings",
     "type": "Conference"
+  },
+  {
+    "shortName": "BioRob",
+    "name": "IEEE EMB International Conference on Biomedical Robotics and Biomechatronics",
+    "start": "2024-09-01",
+    "end": "2024-09-04",
+    "deadline": "2023-12-15",
+    "city": "Heidelberg",
+    "country": "Germany",
+    "link": "https://www.biorob2024.org/",
+    "type": "Conference",
+    "addressLink": "https://goo.gl/maps/8ttKQK215bK97j4e7",
+    "note": "BioRob delves into both theoretical and practical challenges arising from the integration of robotics and mechatronics into medicine and biology. The main objective of Biorobotics is to evaluate biological systems through a 'biomechatronic' lens, striving to unravel the scientific and engineering principles that underpin their exceptional performance. This deep comprehension of biological system functions, behaviors, and interactions serves two primary purposes: to inform the design and creation of new, high-performance bio-inspired machinery and systems for various applications, and to foster the development of innovative nano-, micro-, and macro-devices that can act upon, replace, or assist human beings in areas such as disease prevention, diagnostics, surgical procedures, prosthetics, rehabilitation, and personal assistance."
   }
 ]

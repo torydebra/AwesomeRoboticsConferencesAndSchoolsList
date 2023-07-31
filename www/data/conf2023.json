@@ -679,14 +679,15 @@
   },
   {    
     "shortName": "MIC",
-    "name": "Mechatronics International Conference",
+    "name": "Mechatronics Forum International Conference",
     "start": "2023-09-11",
-    "end": "2023-09-13",
-    "deadline": "2023-03-31",
+    "end": "2023-09-12",
+    "deadline": "2023-08-04",
     "city": "Leuven",
     "country": "Belgium",
     "link": "https://mechatronics2023.eu/",
-    "type": "Conference"
+    "type": "Conference",
+    "addressLink": "https://goo.gl/maps/APKz4WadJBpy9miB6"
   },
   {    
     "shortName": "TAROS",

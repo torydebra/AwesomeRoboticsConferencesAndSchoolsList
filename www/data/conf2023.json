@@ -858,6 +858,19 @@
     "note": "The event aims to offer an important opportunity for academics, researchers, and industrial actors working in the Robotics and Intelligent Machines sectors, to network, present the progress of research and tackle new challenges with particular attention to the perspectives and opportunities in Italy. This year the event will be held from 20th to 22nd of October 2023, at Fiera di Roma in collaboration with Maker Faire."  
   },
   {    
+    "shortName": "WearRAconEU",
+    "name": "WearRAcon Europe",
+    "start": "2023-10-25",
+    "end": "2023-10-26",
+    "deadline": "2023-08-27",
+    "city": "Duesseldorf",
+    "country": "Germany",
+    "link": "https://www.aplusa.de/de/Programm/Konferenzen/WearRAcon_Europe ",
+    "addressLink": "",
+    "type": "Conference",
+    "note": ""
+  },
+  {    
     "shortName": "AAAI",
     "name": "AAAI Fall Symposium Series - Agent Teaming in Mixed-Motive Situations",
     "start": "2023-10-25",

@@ -65,6 +65,19 @@
     "note": "SEAMS is a CORE-A ranked conference that applies software engineering methods, techniques, processes, and tools to support the construction of safe, performant, and cost-effective self-adaptive and autonomous systems that provide self-* properties like self-configuration, self-healing, self-optimization, and self-protection."
   },
   {
+    "shortName": "UR",
+    "name": "International Conference on Ubiquitous Robots",
+    "start": "2024-06-24",
+    "end": "2024-06-27",
+    "deadline": "2024-01-10",
+    "city": "New York",
+    "country": "USA",
+    "link": "https://2024.ubiquitousrobots.org/",
+    "type": "Conference",
+    "addressLink": "https://goo.gl/maps/77je5mnezqEy6rjn9",
+    "note": "Since its inception in 2004, Ubiquitous Robots has now established itself as a leading mid-size robotics conference, bringing together robotics researchers from around the world who share the vision that robots, like mobile phones, will become ubiquitous in our daily lives, and help connect and empower humans"
+  },
+  {
     "shortName": "ARK",
     "name": "Advances in Robot Kinematics",
     "start": "2024-06-30",

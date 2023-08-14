@@ -1103,5 +1103,18 @@
     "country": "Singapore",
     "link": "http://ieeecss.org/event/62nd-conference-decision-and-control",
     "type": "Conference"
+  },
+  {    
+    "shortName": "ICRoM",
+    "name": "International Conference on Robotics and Mechatronics",
+    "start": "2023-12-19",
+    "end": "2023-12-21",
+    "deadline": "2023-09-25",
+    "city": "Tehran",
+    "country": "Iran",
+    "addressLink": "https://goo.gl/maps/Pxtp9eLbUsCKbNNq6",
+    "link": "https://icrom.ir/",
+    "type": "Conference",
+    "note": "The 11th RSI International Conference on Robotics and Mechatronics (ICRoM 2023) is organized by the Robotics Society of Iran (RSI) with the support of the Academy of Sciences of IR Iran, and collaboration of related scientific societies."
   }
 ]

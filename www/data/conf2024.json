@@ -52,6 +52,19 @@
     "note": "Robotics is a multidisciplinary research area that presents an enormous potential. It concerns about developing intelligent robotic systems that are capable of making decisions and acting autonomously in real and unpredictable environments to accomplish tasks and assist humans in relevant application domains for society. Several complex problems require the use of teams of robots that share some of the same challenges studied in MAS."
   },
   {
+    "shortName": "ROBOSOFT",
+    "name": "IEEE International Conference on Soft Robotics ",
+    "start": "2024-04-14",
+    "end": "2024-04-17",
+    "deadline": "2023-11-15",
+    "city": "San Diego, CA",
+    "country": "USA",
+    "link": "https://softroboticsconference.org/",
+    "type": "Conference",
+    "addressLink": "https://goo.gl/maps/kndkRkHvKwdToxpx8",
+    "note": "Reflecting this intersection of technology and environment, this year's conference theme is 'Soft Robotics for Exploration'. The demands of exploration require adaptive, resilient, and autonomous systems, whether mapping the earth's surface and ocean depths, or inspecting within the human body. We invite workshop and paper submissioms that advance soft robotics for navigating uncertain environments with safety, dexterity, and autonomy. We also encourage submissions outside of the area of exploration that highlight new developments in soft robotics."
+  },
+  {
     "shortName": "SEAMS",
     "name": "International Conference on Software Engineering for Adaptive and Self-Managing Systems",
     "start": "2024-04-15",

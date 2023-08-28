@@ -39,6 +39,19 @@
     "note": "The conference theme for HRI 2024 is HRI in the real world and will focus on key HRI theories, designs, studies, systems, and technical advances that aim to bring HRI out of the lab and into everyday life. We encourage the community to consider what it means to do HRI in practice, and ways to bring it into the mainstream."
   },
   {
+    "shortName": "HAPTICS",
+    "name": "IEEE Haptics Symposium",
+    "start": "2024-04-07",
+    "end": "2024-04-10",
+    "deadline": "2023-10-12",
+    "city": "Long Beach, CA",
+    "country": "USA",
+    "link": "https://2024.hapticssymposium.org/",
+    "type": "Conference",
+    "addressLink": "https://goo.gl/maps/G4HGeT1s64L7nfo16",
+    "note": "Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum of research in neuroscience, perception, engineering, and design, focused on sharing new advances in our understanding of the sense of touch, sparking new collaborations, and envisioning a future in which physical interactions are enriched through haptic technologies."
+  },
+  {
     "shortName": "SAC-IRMAS",
     "name": "ACM/SIGAPP Symposium On Applied Computing - Track Intelligent Robotics and Multi-Agent Systems",
     "start": "2024-04-08",
@@ -78,6 +91,45 @@
     "note": "SEAMS is a CORE-A ranked conference that applies software engineering methods, techniques, processes, and tools to support the construction of safe, performant, and cost-effective self-adaptive and autonomous systems that provide self-* properties like self-configuration, self-healing, self-optimization, and self-protection."
   },
   {
+    "shortName": "ICRA",
+    "name": "IEEE International Conference on Robotics and Automation",
+    "start": "2024-05-13",
+    "end": "2024-05-17",
+    "deadline": "2023-09-15",
+    "city": "Yokohama",
+    "country": "Japan",
+    "link": "https://2024.ieee-icra.org/",
+    "type": "Conference",
+    "addressLink": "https://goo.gl/maps/mS38bkXnDbce9WTp8",
+    "note": "This year's conference theme is ``CONNECT+,'' reflecting the conference's aim of helping to build relationships and potential collaborations with participants within and outside their field of study. The port city of Yokohama is the symbol of Japan's opening to the outside world, and ICRA 2024 will become the symbol of Robotics' opening to the new society with many other fields. ICRA brings together robotics researchers, students and industrial partners from around the world to discuss the latest innovations and breakthroughs, highlighting the role of robotics and automation in addressing global challenges"
+  },
+  {
+    "shortName": "ARSO",
+    "name": "IEEE International Conference on Advanced Robotics and Its Social Impacts",
+    "start": "2024-05-20",
+    "end": "2024-05-22",
+    "deadline": "2024-01-31",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "link": "https://ieee-arso.org/",
+    "type": "Conference",
+    "addressLink": "https://goo.gl/maps/Q147cFZyYYQMnwvR6",
+    "note": "Advanced robots are expected to enter in promising applications in our future society and bring substantial impacts. The increasing implementation of AI-based components even broadens their fields of application. To ensure that these impacts are positively reflected, today, we need to extend views not only on technical aspects but also on social challenges that we might face, which include safety, regulation, ethics, human factors, and philosophy."
+  },
+  {
+    "shortName": "ICUAS",
+    "name": "International Conference on Unmanned Aircraft Systems",
+    "start": "2024-06-04",
+    "end": "2024-06-07",
+    "deadline": "2024-02-04",
+    "city": "Chania - Crete",
+    "country": "Greece",
+    "link": "https://uasconferences.com/2024_icuas/",
+    "type": "Conference",
+    "addressLink": "https://goo.gl/maps/1wK899UaMTnsatj79",
+    "note": "ICUAS focuses on civil and public domain applications and on the societal impact of unmanned aviation, and its effect on everyday quality of life."
+  },
+  {
     "shortName": "UR",
     "name": "International Conference on Ubiquitous Robots",
     "start": "2024-06-24",
@@ -104,16 +156,30 @@
     "note": "ARK – Advances in Robot Kinematics is a boutique robotics international series of symposia. My first idea to organize a specialized conference on robot kinematics dates back to 1986. The initial supporters of this idea were scientists of the highest reputation, such as B. Roth, O. Khatib, K. Waldron, J. Angeles, V. Parenti-Castelli, M. McCarthy, M. Stanisic, B. Siciliano and others. At the first symposium, which I organized in Ljubljana in 1988, we agreed that we would organize ARK symposia every two years in the area of the Mediterranean and the Alps. So far, 18 symposia have been held. The proceedings are published in the form of edited books, which have been published by Springer (initially Kluwer) from the very beginning."
   },
   {
+    "shortName": "RoMoCo",
+    "name": "International Workshop on Robot Motion and Control",
+    "start": "2024-07-02",
+    "end": "2024-07-04",
+    "deadline": "2024-01-26",
+    "city": "Poznań",
+    "country": "Poland",
+    "link": "http://romoco.put.poznan.pl/",
+    "type": "Conference",
+    "addressLink": "https://goo.gl/maps/Y2iUaZheQbh2pNMq5",
+    "note": ""
+  },
+  {
     "shortName": "AIM",
-    "name": "International Conference on Advanced Intelligent Mechatronics",
+    "name": "IEEE/ASME International Conference on Advanced Intelligent Mechatronics",
     "start": "2024-07-15",
-    "end": "2024-07-28",
+    "end": "2024-07-18",
     "deadline": "2024-02-08",
-    "city": "Boston",
+    "city": "Boston, MA",
     "country": "USA",
     "link": "https://www.aim2024.org/",
     "type": "Conference",
-    "addressLink": "https://goo.gl/maps/C4QuwDDT53EBwcdA8"
+    "addressLink": "https://goo.gl/maps/A9VhbfnwiaSVQifV7",
+    "note": ""
   },
   {
     "shortName": "ICML",
@@ -127,6 +193,19 @@
     "type": "Conference"
   },
   {
+    "shortName": "CASE",
+    "name": "IEEE International Conference on Automation Science and Engineering",
+    "start": "2024-08-28",
+    "end": "2024-09-01",
+    "deadline": "2024-03-01",
+    "city": "Bari",
+    "country": "Italy",
+    "link": "https://www.case2024.org/",
+    "type": "Conference",
+    "addressLink": "https://goo.gl/maps/7yTbw63uFQgKmW5A6",
+    "note": "The conference will focus on Automation 5.0: automation everywhere for better and smarter living and will include tutorials and workshops, a technical program of presentations, keynote lectures, and social events. The conference will cover a wide range of topics on Systems, Automation, Control theory, Autonomous Systems, Discrete Event Systems, Smart Cities, Robotics, Building Automation, Smart Mobility, Information and Communication Technologies, and Factory 4.0."
+  },
+  {
     "shortName": "BioRob",
     "name": "IEEE EMB International Conference on Biomedical Robotics and Biomechatronics",
     "start": "2024-09-01",
@@ -138,5 +217,18 @@
     "type": "Conference",
     "addressLink": "https://goo.gl/maps/8ttKQK215bK97j4e7",
     "note": "BioRob delves into both theoretical and practical challenges arising from the integration of robotics and mechatronics into medicine and biology. The main objective of Biorobotics is to evaluate biological systems through a 'biomechatronic' lens, striving to unravel the scientific and engineering principles that underpin their exceptional performance. This deep comprehension of biological system functions, behaviors, and interactions serves two primary purposes: to inform the design and creation of new, high-performance bio-inspired machinery and systems for various applications, and to foster the development of innovative nano-, micro-, and macro-devices that can act upon, replace, or assist human beings in areas such as disease prevention, diagnostics, surgical procedures, prosthetics, rehabilitation, and personal assistance."
+  },
+  {
+    "shortName": "Humanoids",
+    "name": "IEEE-RAS International Conference on Humanoid Robots",
+    "start": "2024-11-26",
+    "end": "2024-11-28",
+    "deadline": "",
+    "city": "Nancy",
+    "country": "France",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   }
 ]

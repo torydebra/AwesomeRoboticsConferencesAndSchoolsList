@@ -39,6 +39,19 @@
     "note": "The conference theme for HRI 2024 is HRI in the real world and will focus on key HRI theories, designs, studies, systems, and technical advances that aim to bring HRI out of the lab and into everyday life. We encourage the community to consider what it means to do HRI in practice, and ways to bring it into the mainstream."
   },
   {
+    "shortName": "ERF",
+    "name": "European Robotics Forum",
+    "start": "2024-03-13",
+    "end": "2024-03-15",
+    "deadline": "2023-11-01",
+    "city": "Rimini",
+    "country": "Italy",
+    "link": "https://erf2024.eu/",
+    "type": "Conference",
+    "addressLink": "https://goo.gl/maps/uQAbu7SmvmzfS7jZA",
+    "note": "The event will see the leading experts, both academic and industrial, at international level in robotics come together in the vibrant city of Rimini and will see the presence of the major European companies with interests in this field. The forum has a unique structure and is specifically designed to encourage interaction between end-users, researchers, technology producers with the ultimate goal of improving industrial competitiveness, fostering scientific progress, stimulating networking between stakeholders in the field, and identifying new impactful application scenarios for robotics."
+  },
+  {
     "shortName": "HAPTICS",
     "name": "IEEE Haptics Symposium",
     "start": "2024-04-07",

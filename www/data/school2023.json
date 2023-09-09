@@ -389,6 +389,21 @@
     "addressLink": "https://goo.gl/maps/uZ4GQm6j7bwzyNCH8",
     "note": "The School aims at reframing some of the key questions in HRI, which are pertinent both to social and to general robotics. Robots are extensions of our abilities to act in the physical world, but, at least equally importantly, they are modulators of human-human relations. Thus bringing humane sensitivity to robotics research means not only researching the shapes and abilities of the systems themselves, but also what kinds of agents do we, humans, want to have in the loops of our interactions."
   },
+   {
+    "name": "Adaptive Intelligent Robots with Soft Hands: Methods and Experiments",
+    "deadline": "2023-10-01",
+    "city": "Cala Ratjada, Mallorca",
+    "country": "Spain",
+    "link": "https://summer2023.reconcycle.eu/",
+    "type": "School",
+    "shortName": "ReconCycle",
+    "start": "2023-10-23",
+    "end": "2023-10-26",
+    "cost": "€500",
+    "costNote": "Accomodation and food included", 
+    "addressLink": "https://goo.gl/maps/VvPgHri44EubrgEKA",
+    "note": "The goal of this summer school is to transfer advanced robotics and computer vision knowledge to graduate students and younger postdocs with a focus on modern adaptive methods. These methods will be from AI (network learning), but also from different fields of robotics including adaptive control as well as the introduction of modern, highly adaptive robotic hands to teach participants about the mechanical as well as control- and cognitive-related power of adaptation in computer vision and robotics."
+  },
   {
     "name": "Hamlyn Winter School on Surgical Imaging and Vision",
     "deadline": "2023-09-22",

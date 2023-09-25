@@ -232,6 +232,19 @@
     "note": "BioRob delves into both theoretical and practical challenges arising from the integration of robotics and mechatronics into medicine and biology. The main objective of Biorobotics is to evaluate biological systems through a 'biomechatronic' lens, striving to unravel the scientific and engineering principles that underpin their exceptional performance. This deep comprehension of biological system functions, behaviors, and interactions serves two primary purposes: to inform the design and creation of new, high-performance bio-inspired machinery and systems for various applications, and to foster the development of innovative nano-, micro-, and macro-devices that can act upon, replace, or assist human beings in areas such as disease prevention, diagnostics, surgical procedures, prosthetics, rehabilitation, and personal assistance."
   },
   {
+    "shortName": "SAB",
+    "name": "International Conference on Simulation of Adaptive Behavior",
+    "start": "2024-09-09",
+    "end": "2024-09-12",
+    "deadline": "2023-04-01",
+    "city": "Irvine CA",
+    "country": "USA",
+    "link": "https://sites.uci.edu/sab2024/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/VXeTcdk3SSZfzRHB7",
+    "note": "The Simulation of Adaptive Behavior (SAB) interdisciplinary conference brings together researchers in artificial intelligence, artificial life, computer science, cybernetics, ethology, evolutionary biology, neuroscience, robotics, and many other fields, to further our understanding of the behaviors and underlying mechanisms that allow natural animals and artificial agents to adapt and survive in complex, dynamic and uncertain environments. Animats denote the connection between animals and synthetic agents. The conference focuses on models and experiments designed to help characterize and compare various organizational principles and architectures underlying adaptive behavior in real animals and in animats."
+  },
+  {
     "shortName": "Humanoids",
     "name": "IEEE-RAS International Conference on Humanoid Robots",
     "start": "2024-11-26",

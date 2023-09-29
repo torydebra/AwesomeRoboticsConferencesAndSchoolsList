@@ -245,6 +245,19 @@
     "note": "The Simulation of Adaptive Behavior (SAB) interdisciplinary conference brings together researchers in artificial intelligence, artificial life, computer science, cybernetics, ethology, evolutionary biology, neuroscience, robotics, and many other fields, to further our understanding of the behaviors and underlying mechanisms that allow natural animals and artificial agents to adapt and survive in complex, dynamic and uncertain environments. Animats denote the connection between animals and synthetic agents. The conference focuses on models and experiments designed to help characterize and compare various organizational principles and architectures underlying adaptive behavior in real animals and in animats."
   },
   {
+    "shortName": "IROS",
+    "name": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
+    "start": "2024-10-14",
+    "end": "2024-10-18",
+    "deadline": "",
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "link": "https://iros2024-abudhabi.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/9D28AzaeTXWeu8an9",
+    "note": "IROS is one of the largest and most important robotics research conferences in the world, attracting researchers, academics, and industry professionals from around the globe. Established in 1988, IROS provides a platform for the international robotics community to exchange knowledge and ideas about the latest advances in intelligent robots and smart machines."
+  },
+  {
     "shortName": "Humanoids",
     "name": "IEEE-RAS International Conference on Humanoid Robots",
     "start": "2024-11-26",

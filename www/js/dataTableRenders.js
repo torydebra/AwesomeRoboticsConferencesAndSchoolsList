@@ -257,17 +257,30 @@ const countryList = {
 
 function categorizeDate(date) {
     
-    let now = new Date();
     let given = new Date(date);
-    
-    if (given < now) {
+    let now = new Date();
+    let today = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate() ));
+
+    if(given.getTime() < today.getTime())  {
         return 0;
-        
-    } else if (given.setMonth(given.getMonth() - 1) < now) {
+    }
+    else if (given.setMonth(given.getMonth() - 1) < now) {
         return 1;
     }
     
-    return 2;
+    return 2
+    
+//     let now = new Date();
+//     let given = new Date(date);
+//     
+//     if (given < now) {
+//         return 0;
+//         
+//     } else if (given.setMonth(given.getMonth() - 1) < now) {
+//         return 1;
+//     }
+//     
+//     return 2;
     
 }
 
@@ -370,9 +383,9 @@ function dateRenderDeadline(data, type, row, meta) {
 
 function colorRow(row, data, displayNum, displayIndex, dataIndex) {
     
-    if (data["start"]) {
+    if (data["end"]) {
         
-        let cat = categorizeDate(data["start"]);
+        let cat = categorizeDate(data["end"]);
         
         if (cat === 0) {
             //$('td', row).css('background-color', '#f5c6cb') //low red

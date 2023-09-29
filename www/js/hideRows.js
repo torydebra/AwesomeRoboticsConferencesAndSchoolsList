@@ -42,15 +42,24 @@ function pastFilter(settings, data, dataIndex) {
         return true;
     }
     
+    let start = new Date(data[4]);
     let now = new Date();
-    let start = new Date(data[3]);
-    
-    if (start > now) {
-        return true;
-        
-    } else  {
+    let today = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate() ));
+
+    if(start.getTime() < today.getTime())  {
         return false;
     }
+    else {
+        return true;
+    }
+
+    
+//     if (start > now) {
+//         return true;
+//         
+//     } else  {
+//         return false;
+//     }
 }
 
 function pastDeadlineFilter(settings, data, dataIndex) {
@@ -60,14 +69,30 @@ function pastDeadlineFilter(settings, data, dataIndex) {
     if (showPastDeadline || (! data[5]) ) {
         return true;
     }
-
-    let deadline = new Date(data[5]);
-    let now = new Date();
     
-    if (deadline > now) {
-        return true;
-        
-    } else  {
+    
+    let deadline = new Date(data[5]) // data[5] has no time or timezone?
+    let now = new Date();
+    //https://stackoverflow.com/questions/2698725/comparing-date-part-only-without-comparing-time-in-javascript
+    //trick to consider today as not pasted, not considering the timezone
+    let today = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate() ));
+
+    if(deadline.getTime() < today.getTime()) {
+        //console.log("date is past");
         return false;
     }
+    //else if(userEntered.getTime() == today.getTime())
+    //    console.log("date is today");
+    //else
+    //  console.log("date is future");
+    else {
+        return true;
+    }
+    
+//     if (deadline >= now) {
+//         return true;
+//         
+//     } else  {
+//         return false;
+//     }
 }

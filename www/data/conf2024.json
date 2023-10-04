@@ -156,6 +156,19 @@
     "note": "Since its inception in 2004, Ubiquitous Robots has now established itself as a leading mid-size robotics conference, bringing together robotics researchers from around the world who share the vision that robots, like mobile phones, will become ubiquitous in our daily lives, and help connect and empower humans"
   },
   {
+    "shortName": "EUROHAPTICS",
+    "name": "Eurohaptics",
+    "start": "2024-06-30",
+    "end": "2024-07-03",
+    "deadline": "2024-01-26",
+    "city": "Lille",
+    "country": "France",
+    "link": "http://2024.eurohaptics.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/u2ypk9Xpxw58nYN17",
+    "note": "We are excited to announce that this year, we are organizing a dedicated “Art/Design” track, providing a unique opportunity to explore the intersection of haptics with creativity and design. Furthermore, we are committed to strengthening our ties with industrial partners. Eurohaptics 2024 will feature job dating sessions and an industry forum, facilitating meaningful connections between academia and industry, and fostering collaborative opportunities that drive haptic technology forward."
+  },
+  {
     "shortName": "ARK",
     "name": "Advances in Robot Kinematics",
     "start": "2024-06-30",

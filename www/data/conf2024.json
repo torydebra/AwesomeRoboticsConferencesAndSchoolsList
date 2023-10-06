@@ -26,6 +26,32 @@
     "note": ""
   },
   {
+    "shortName": "ICARA",
+    "name": "International Conference on Automation, Robotics, and Applications",
+    "start": "2024-02-22",
+    "end": "2024-02-24",
+    "deadline": "2023-11-05",
+    "city": "Athens",
+    "country": "Greece",
+    "link": "http://www.icara.us/index.html",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/5CEAPh7Z38ogo3547",
+    "note": "The 10th International Conference on Automation, Robotics, and Applications (ICARA 2024) provides a platform for researchers, engineers, and industry professionals to exchange knowledge, share research findings, and discuss the latest advancements in the field. The conference aims to foster collaboration and innovation in automation and robotics, covering a wide range of topics including autonomous systems, control algorithms, intelligent robots, machine vision, human-robot interaction, and applications in various industries."
+  },
+  {
+    "shortName": "ICMRE",
+    "name": "International Conference on Mechatronics and Robotics Engineering",
+    "start": "2024-02-27",
+    "end": "2024-02-29",
+    "deadline": "2023-11-09",
+    "city": "Milan",
+    "country": "Italy",
+    "link": "http://www.icmre.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/AADzhzpU9HvLP7N77",
+    "note": "The conference aims to stimulate interdisciplinary cooperation and create a space to discuss the emerging trends and challenges in mechatronics and robotics engineering. The rich program includes keynote speeches, interactive workshops, paper presentations, and poster sessions. Key areas of interest cover a broad spectrum including autonomous systems, robotic applications of artificial intelligence, control systems, sensors and actuators, human-robot interaction, and intelligent automation. By prioritizing knowledge exchange and networking, ICMRE offers a conducive environment for attendees to engage in productive dialogues and form beneficial collaborations."
+  },
+  {
     "shortName": "HRI",
     "name": "ACM/IEEE International Conference on Human-Robot Interaction",
     "start": "2024-03-11",
@@ -50,6 +76,32 @@
     "type": "Conference",
     "addressLink": "https://goo.gl/maps/uQAbu7SmvmzfS7jZA",
     "note": "The event will see the leading experts, both academic and industrial, at international level in robotics come together in the vibrant city of Rimini and will see the presence of the major European companies with interests in this field. The forum has a unique structure and is specifically designed to encourage interaction between end-users, researchers, technology producers with the ultimate goal of improving industrial competitiveness, fostering scientific progress, stimulating networking between stakeholders in the field, and identifying new impactful application scenarios for robotics."
+  },
+  {
+    "shortName": "ICCAE",
+    "name": "International Conference on Computer and Automation Engineering",
+    "start": "2024-03-14",
+    "end": "2024-03-16",
+    "deadline": "2023-10-25",
+    "city": "Melbourne",
+    "country": "Australia",
+    "link": "http://www.iccae.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/qFs8YYhcJTFpJMbE9",
+    "note": "The conference aims to bring together global experts, researchers, practitioners, and industry leaders to share their latest research results, explore new areas of research and development, and discuss the challenges and practical solutions in Computer and Automation Engineering. Through collaborative discussion and knowledge sharing, the conference aims to contribute to shaping the future of this exciting and rapidly evolving field."
+  },
+  {
+    "shortName": "EERC",
+    "name": "International Conference On Electrical Engineering, Control And Robotics",
+    "start": "2024-03-29",
+    "end": "2024-03-31",
+    "deadline": "2023-11-10",
+    "city": "Guangzhou",
+    "country": "China",
+    "link": "http://www.eecr.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/pvpJAkGjwDwiMdWC6",
+    "note": "the 10th International Conference on Electrical Engineering, Control and Robotics (EECR 2024) will be held in Guangzhou, China during March 29-31, 2024. It's co-sponsored by IEEE, IEEE Robotics and Automation Society, and South China Agricultural University, China. The goal of this conference is to foster pure and applied researches in recognition of academic and industry, and to encourage interdisciplinary and international collaboration for the participants."
   },
   {
     "shortName": "HAPTICS",
@@ -217,6 +269,19 @@
     "country": "Austria",
     "link": "https://icml.cc/Conferences/FutureMeetings",
     "type": "Conference"
+  },
+  {
+    "shortName": "ROMAN",
+    "name": "IEEE International Conference on Robot and Human Interactive Communication",
+    "start": "2024-08-26",
+    "end": "2024-09-30",
+    "deadline": "",
+    "city": "Pasadena, CA",
+    "country": "USA",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   },
   {
     "shortName": "CASE",

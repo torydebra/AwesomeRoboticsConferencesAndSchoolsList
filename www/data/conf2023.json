@@ -1058,6 +1058,30 @@
     "type": "Conference"
   },
   {    
+    "shortName": "CRC",
+    "name": "International Conference on Control, Robotics and Cybernetics",
+    "start": "2023-12-08",
+    "end": "2023-12-10",
+    "deadline": "",
+    "city": "Changsha",
+    "country": "China",
+    "link": "http://www.iccrc.org/index.html",
+    "type": "Conference",
+    "note": ""
+  },
+  {    
+    "shortName": "ICMERR",
+    "name": "International Conference on Mechanical Engineering and Robotics Research",
+    "start": "2023-12-08",
+    "end": "2023-12-10",
+    "deadline": "",
+    "city": "Krakow",
+    "country": "Poland",
+    "link": "http://www.icmerr.com/",
+    "type": "Conference",
+    "note": ""
+  },
+  {    
     "shortName": "ICIST",
     "name": "International Conference on Information Science and Technology",
     "start": "2023-12-08",
@@ -1102,6 +1126,28 @@
     "city": "Singapore",
     "country": "Singapore",
     "link": "http://ieeecss.org/event/62nd-conference-decision-and-control",
+    "type": "Conference"
+  },
+  {    
+    "shortName": "ICARCE",
+    "name": " International Conference on Automation, Robotics and Computer Engineering",
+    "start": "2023-12-14",
+    "end": "2023-12-16",
+    "deadline": "",
+    "city": "Wuhan",
+    "country": "China",
+    "link": "http://www.icarce.com/",
+    "type": "Conference"
+  },
+  {    
+    "shortName": "RAAI",
+    "name": "International Conference on Robotics, Automation and Artificial Intelligence",
+    "start": "2023-12-14",
+    "end": "2023-12-16",
+    "deadline": "",
+    "city": "Singapore",
+    "country": "Singapore",
+    "link": "http://www.raai.net/",
     "type": "Conference"
   },
   {    

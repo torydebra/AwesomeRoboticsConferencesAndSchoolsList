@@ -336,6 +336,19 @@
     "note": "IROS is one of the largest and most important robotics research conferences in the world, attracting researchers, academics, and industry professionals from around the globe. Established in 1988, IROS provides a platform for the international robotics community to exchange knowledge and ideas about the latest advances in intelligent robots and smart machines."
   },
   {
+    "shortName": "DARS",
+    "name": "International Symposium on Distributed Autonomous Robotic Systems",
+    "start": "2024-10-28",
+    "end": "2024-10-30",
+    "deadline": "2024-03-20",
+    "city": "New York",
+    "country": "USA",
+    "link": "https://dars2024.engineering.cornell.edu/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/BaMogUz2679vaXry8",
+    "note": "Due to rapid advances in manufacturing, computing, and communication, distributed robotics is a rapidly growing area in robotics.  This field draws on knowledge across a large range of disciplines such as computer science, communication and control systems, electrical and mechanical engineering, life sciences, and humanities. DARS 2024 will provide an exciting opportunity for researchers to present and discuss the latest advances in distributed robotic technologies, algorithms, system architectures, and applications."
+  },
+  {
     "shortName": "Humanoids",
     "name": "IEEE-RAS International Conference on Humanoid Robots",
     "start": "2024-11-26",

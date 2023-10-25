@@ -130,6 +130,19 @@
     "note": "Robotics is a multidisciplinary research area that presents an enormous potential. It concerns about developing intelligent robotic systems that are capable of making decisions and acting autonomously in real and unpredictable environments to accomplish tasks and assist humans in relevant application domains for society. Several complex problems require the use of teams of robots that share some of the same challenges studied in MAS."
   },
   {
+    "shortName": "RiE",
+    "name": "International Conference on Robotics in Education",
+    "start": "2024-04-10",
+    "end": "2024-04-12",
+    "deadline": "2023-01-16",
+    "city": "Koblenz",
+    "country": "Germany",
+    "link": "https://rie.science/2024/index.html",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/DkC9WE7XBNUDsGRq6",
+    "note": ""
+  },
+  {
     "shortName": "ROBOSOFT",
     "name": "IEEE International Conference on Soft Robotics ",
     "start": "2024-04-14",
@@ -245,6 +258,19 @@
     "type": "Conference",
     "addressLink": "https://goo.gl/maps/Y2iUaZheQbh2pNMq5",
     "note": ""
+  },
+  {
+    "shortName": "FUSION",
+    "name": "International Conference on Information Fusion",
+    "start": "2024-07-07",
+    "end": "2024-07-11",
+    "deadline": "2024-03-01",
+    "city": "Venice",
+    "country": "Italy",
+    "link": "https://fusion2024.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/F8xhCPiLzAbRpCKo7",
+    "note": "With the proliferation of sensor technology and ever-increasing amounts of data generated, Information Fusion is critical for combining noisy and possibly conflicting observations from various sensors and actors into actionable, coherent information about the underlying situation. The 27th International Conference on Information Fusion thus is soliciting papers from researchers and practitioners from academia, industry, and government agencies that explore traditional model-based and emerging data-driven autonomous methodologies on sensor, data, information and knowledge fusion, new system frameworks, hybrid processing techniques, and the associated challenges at the systemic level, including system design paradigms and issues of system control, management, test, and evaluation."
   },
   {
     "shortName": "AIM",

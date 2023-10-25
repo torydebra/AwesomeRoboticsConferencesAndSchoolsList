@@ -182,6 +182,19 @@
     "note": "This year's conference theme is ``CONNECT+,'' reflecting the conference's aim of helping to build relationships and potential collaborations with participants within and outside their field of study. The port city of Yokohama is the symbol of Japan's opening to the outside world, and ICRA 2024 will become the symbol of Robotics' opening to the new society with many other fields. ICRA brings together robotics researchers, students and industrial partners from around the world to discuss the latest innovations and breakthroughs, highlighting the role of robotics and automation in addressing global challenges"
   },
   {
+    "shortName": "ICCAS",
+    "name": "International Conference on Cognitive Aircraft Systems",
+    "start": "2024-05-16",
+    "end": "2024-05-17",
+    "deadline": "2024-03-04",
+    "city": "Toulouse",
+    "country": "France",
+    "link": "https://events.isae-supaero.fr/event/32/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/cXmcbkHHdpaRqUvD6",
+    "note": "Recent trends in this field address several major aspects such as the online monitoring of the flight performances based on behavioral, physiological, and neurological measurements, the design of more ecological human-machine interfaces providing intuitive information about the flight or mission status to support decision process, and architecture rules that guarantee a high level of operation safety. The conference addresses a wide spectrum of theoretical and practical topics related to neuroergonomics and human factors, artificial intelligence or systems engineering. It is mainly focused on aeronautics but contributions from a wide range of domains such as automotive, robots, drones, or artificial agents are welcome."
+  },
+  {
     "shortName": "ARSO",
     "name": "IEEE International Conference on Advanced Robotics and Its Social Impacts",
     "start": "2024-05-20",

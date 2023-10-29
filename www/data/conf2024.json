@@ -349,6 +349,19 @@
     "note": "BioRob delves into both theoretical and practical challenges arising from the integration of robotics and mechatronics into medicine and biology. The main objective of Biorobotics is to evaluate biological systems through a 'biomechatronic' lens, striving to unravel the scientific and engineering principles that underpin their exceptional performance. This deep comprehension of biological system functions, behaviors, and interactions serves two primary purposes: to inform the design and creation of new, high-performance bio-inspired machinery and systems for various applications, and to foster the development of innovative nano-, micro-, and macro-devices that can act upon, replace, or assist human beings in areas such as disease prevention, diagnostics, surgical procedures, prosthetics, rehabilitation, and personal assistance."
   },
   {
+    "shortName": "ANTS",
+    "name": "International Conference on Swarm Intelligence",
+    "start": "2024-09-09",
+    "end": "2024-09-11",
+    "deadline": "2023-03-24",
+    "city": "Konstanz",
+    "country": "Germany",
+    "link": "https://www.uni-konstanz.de/ants-2024/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/9WUTob8byHA65t1E6",
+    "note": "Swarm intelligence is the discipline that deals with the study of self-organizing processes both in nature and in artificial systems. Researchers in ethology and animal behavior have proposed a number of models to explain interesting aspects of collective behaviors such as movement coordination, shape-formation or decision making. Recently, algorithms and methods inspired by these models have been proposed to solve difficult problems in many domains. ANTS 2024 will give researchers in swarm intelligence the opportunity to meet, to present their latest research, and to discuss current developments and applications."
+  },
+  {
     "shortName": "SAB",
     "name": "International Conference on Simulation of Adaptive Behavior",
     "start": "2024-09-09",

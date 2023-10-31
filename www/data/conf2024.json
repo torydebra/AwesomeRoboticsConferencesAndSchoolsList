@@ -388,6 +388,19 @@
     "note": "IROS is one of the largest and most important robotics research conferences in the world, attracting researchers, academics, and industry professionals from around the globe. Established in 1988, IROS provides a platform for the international robotics community to exchange knowledge and ideas about the latest advances in intelligent robots and smart machines."
   },
   {
+    "shortName": "ROSCON",
+    "name": "ROS Conference",
+    "start": "2024-10-21",
+    "end": "2024-10-23",
+    "deadline": "",
+    "city": "Odense",
+    "country": "Denmark",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/jq3NHEEu1U2RJzSF7",
+    "note": ""
+  },
+  {
     "shortName": "DARS",
     "name": "International Symposium on Distributed Autonomous Robotic Systems",
     "start": "2024-10-28",

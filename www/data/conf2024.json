@@ -69,7 +69,7 @@
     "name": "European Robotics Forum",
     "start": "2024-03-13",
     "end": "2024-03-15",
-    "deadline": "2023-11-01",
+    "deadline": "2023-11-10",
     "city": "Rimini",
     "country": "Italy",
     "link": "https://erf2024.eu/",
@@ -167,6 +167,19 @@
     "type": "Conference",
     "addressLink": "https://goo.gl/maps/d7rFdhuN2cVLL1nE9",
     "note": "SEAMS is a CORE-A ranked conference that applies software engineering methods, techniques, processes, and tools to support the construction of safe, performant, and cost-effective self-adaptive and autonomous systems that provide self-* properties like self-configuration, self-healing, self-optimization, and self-protection."
+  },
+  {
+    "shortName": "ICHMS",
+    "name": " International Conference on Human-Machine Systems",
+    "start": "2024-05-15",
+    "end": "2024-05-17",
+    "deadline": "2023-11-15",
+    "city": "Toronto",
+    "country": "Canada",
+    "link": "https://ichms.blog.torontomu.ca/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/Y7pSnqewub9d2pw86",
+    "note": "The theme of the 4th ICHMS is “Trustworthy Human-Autonomy Teaming”. The conference will cover progress and contributions on brain-inspired autonomous systems at multiple scales, including cognitive science, engineering, and design for safe and trusted human-autonomy teaming; technological aids for verifiable artificial intelligence (AI) decisions; trust modeling, measures, and management, and fundamental issues of trust and barriers to adoption of AI-enabled autonomy in complex socio-technical systems."
   },
   {
     "shortName": "ICRA",

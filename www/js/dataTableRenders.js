@@ -161,7 +161,7 @@ const countryList = {
   'New Caledonia': 'NC',
   'New Zealand': 'NZ',
   'North Macedonia': 'MK',
-  'Northen Ireland': '_Northern_Ireland',
+  'Northen Ireland': 'NIE',
   Nicaragua: 'NI',
   Niger: 'NE',
   Nigeria: 'NG',

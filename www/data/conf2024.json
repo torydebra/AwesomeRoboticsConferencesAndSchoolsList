@@ -299,6 +299,19 @@
     "note": "With the proliferation of sensor technology and ever-increasing amounts of data generated, Information Fusion is critical for combining noisy and possibly conflicting observations from various sensors and actors into actionable, coherent information about the underlying situation. The 27th International Conference on Information Fusion thus is soliciting papers from researchers and practitioners from academia, industry, and government agencies that explore traditional model-based and emerging data-driven autonomous methodologies on sensor, data, information and knowledge fusion, new system frameworks, hybrid processing techniques, and the associated challenges at the systemic level, including system design paradigms and issues of system control, management, test, and evaluation."
   },
   {
+    "shortName": "RSS",
+    "name": "Robotics: Science and Systems",
+    "start": "2024-07-15",
+    "end": "2024-07-19",
+    "deadline": "",
+    "city": "Delft",
+    "country": "Netherlands",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "ISRE",
     "name": "International Society for Research on Emotion",
     "start": "2024-07-17",

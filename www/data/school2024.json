@@ -13,5 +13,20 @@
     "costNote": "students/academics/professional : JPY50000/100000/150000", 
     "addressLink": "https://goo.gl/maps/hZEUAq2dqm8LkVMd7",
     "note": "The machine learning summer school (MLSS) series was started in 2002 with the motivation to promulgate modern methods of statistical machine learning and inference. It was motivated by the observation that while many students are keen to learn about machine learning, and an increasing number of researchers want to apply machine learning methods to their research problems, only few machine learning courses are taught at universities. Machine learning summer schools present topics which are at the core of modern Machine Learning, from fundamentals to state-of-the-art practice. The speakers are leading experts in their field who talk with enthusiasm about their subjects."
+  },
+  {
+    "shortName": "ACDL",
+    "name": "Advanced Course on Data Science & Machine Learning",
+    "deadline": "2024-02-23",
+    "city": "Castiglione della Pescaia",
+    "country": "Italy",
+    "link": "https://acdl2024.icas.events/",
+    "type": "School",
+    "start": "2024-06-10",
+    "end": "2024-06-14",
+    "cost": "€580-630",
+    "costNote": "early:580€, late:630€", 
+    "addressLink": "https://maps.app.goo.gl/SgTWWKTTyStMvpZM7",
+    "note": "The Course provides a stimulating environment for junior academics, early career researches, Post-Docs, PhD students and industry leaders (and highly motivated, promising and brilliant Master students). Participants will also have the chance to present their results with talks, and to interact with their colleagues, in a convivial, professional and productive environment."
   }
 ]

@@ -1,5 +1,20 @@
 [
   {
+    "name": " Social Robotics, Artificial Intelligence & Multimedia Winter School",
+    "deadline": "",
+    "city": "Grenoble",
+    "country": "France",
+    "link": "https://spring-h2020.eu/soraim/",
+    "type": "School",
+    "shortName": "SoRAIM",
+    "start": "2024-02-19",
+    "end": "2024-02-23",
+    "cost": "free",
+    "costNote": "", 
+    "addressLink": "https://maps.app.goo.gl/5kz6BJdDRhCbRigZ7",
+    "note": "The SoRAIM multi-disciplinary winter school combines topics in social robotics, artificial intelligence, and multimedia. Several top-level invited speakers will introduce and discuss all relevant areas for building socially aware robots that communicate and interact with humans in a shared space."
+  },
+  {
     "name": "Machine Learning Summer School",
     "deadline": "2024-09-30",
     "city": "Ginowan",

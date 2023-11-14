@@ -43,5 +43,20 @@
     "costNote": "early:580€, late:630€", 
     "addressLink": "https://maps.app.goo.gl/SgTWWKTTyStMvpZM7",
     "note": "The Course provides a stimulating environment for junior academics, early career researches, Post-Docs, PhD students and industry leaders (and highly motivated, promising and brilliant Master students). Participants will also have the chance to present their results with talks, and to interact with their colleagues, in a convivial, professional and productive environment."
-  }
+  },
+  {
+    "name": "IEEE RAS Summer School on Multi-robot systems",
+    "deadline": "",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "link": "https://mrs.felk.cvut.cz/summer-school-2024/",
+    "type": "School",
+    "shortName": "RASPRAGUE",
+    "start": "2024-07-29",
+    "end": "2024-08-02",
+    "cost": "€598,95 - €883,30",
+    "costNote": "students/academics/professional early(late) : €598,95(665,50)/686,07(762,30)/794,97(883,30)", 
+    "addressLink": "https://maps.app.goo.gl/oWsHhXuNhXr7Do5y9",
+    "note": "Following the great success of Summer Schools in 2019, 2020, 2022 and 2023, we are now announcing the IEEE RAS Summer School 2024 to be held on July 29 - August 2, 2024. As in the past years, the 2024 IEEE RAS Summer School on Multi-Robot Systems will be held at the campus of Czech Technical University, located at the heart of the beautiful and historic city of Prague. The Summer School will promote the newest achievements in Multi-Robot Systems research to students, academic researchers, and industrial practitioners to enable putting systems of cooperating robots into practice and to encourage networking. The main scope of the 2024 IEEE RAS Summer School on Multi-Robot Systems will be lectures by well-recognized experts in the field, and hands-on experience with real-world experiments using state-of-the-art aerial platforms developed for Multi-Robot research."
+  },
 ]

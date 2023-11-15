@@ -303,13 +303,13 @@
     "name": "Robotics: Science and Systems",
     "start": "2024-07-15",
     "end": "2024-07-19",
-    "deadline": "",
+    "deadline": "2024-02-02",
     "city": "Delft",
     "country": "Netherlands",
-    "link": "",
+    "link": "https://roboticsconference.org/information/cfp/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/fnA8byTw2AwbY5Tq5",
+    "note": "RSS is a single-track conference that connects researchers working on all aspects of robotics including scientific foundations, mechanisms, algorithms, applications, and analysis of robotic systems. The single-track format gives attendees an opportunity to learn about state-of-the-art research in all areas of robotics. The conference will consist of oral and poster presentations of accepted papers, demonstrations, invited talks, and panels."
   },
   {
     "shortName": "ISRE",

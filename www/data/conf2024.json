@@ -221,6 +221,19 @@
     "note": "Advanced robots are expected to enter in promising applications in our future society and bring substantial impacts. The increasing implementation of AI-based components even broadens their fields of application. To ensure that these impacts are positively reflected, today, we need to extend views not only on technical aspects but also on social challenges that we might face, which include safety, regulation, ethics, human factors, and philosophy."
   },
   {
+    "shortName": "ISMR",
+    "name": "International Symposium on Medical Robotics",
+    "start": "2024-06-03",
+    "end": "2024-06-05",
+    "deadline": "2023-12-01",
+    "city": "Atlanta",
+    "country": "USA",
+    "link": "https://www.ismr.gatech.edu/2024/2024-welcome",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/oF8rmsJz7CVmhvMq8",
+    "note": "The goal of ISMR is to bring together world-class researchers to present state-of-the-art research achievements and advances in surgical robotics, image-guided interventions, rehabilitation and assistive robotics, as well as discuss challenges from the clinical point of view and address industry needs. It is envisioned that medical robots will integrate emerging technologies including soft robotics, smart materials, ergonomics, co-robotics, and artificial intelligence in the near future, and these topics will be featured in the symposium."
+  },
+  {
     "shortName": "ICUAS",
     "name": "International Conference on Unmanned Aircraft Systems",
     "start": "2024-06-04",

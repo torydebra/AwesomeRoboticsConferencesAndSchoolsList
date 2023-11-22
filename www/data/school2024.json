@@ -1,6 +1,21 @@
 [
   {
-    "name": " Social Robotics, Artificial Intelligence & Multimedia Winter School",
+    "name": "Robotic Vision Summer School",
+    "deadline": "2024-02-01",
+    "city": "KIOLOA",
+    "country": "Australia",
+    "link": "https://www.rvss.org.au/",
+    "type": "School",
+    "shortName": "RVSS",
+    "start": "2024-02-05",
+    "end": "2024-02-10",
+    "cost": "$AUD 990-4500",
+    "costNote": "student/industry (accomodation inc. 6-11): $AUD 990/4500", 
+    "addressLink": "https://maps.app.goo.gl/ZJ7dd6zPLV5CvDzY7",
+    "note": "The Australian Centre for Robotic Vision presents the Robotic Vision Summer School (RVSS), hosted in-person at the Australian National University (ANU) Kioloa coastal campus. The ability to see is the remaining technological roadblock to the ubiquitous deployment of robots into society. RVSS provides a premium venue for graduate students and industry researchers to learn about fundamental and advanced topics in computer vision and robotics. The summer school also provides a unique opportunity to experiment with computer vision algorithms on actual robotic hardware."
+  },
+  {
+    "name": "Social Robotics, Artificial Intelligence & Multimedia Winter School",
     "deadline": "",
     "city": "Grenoble",
     "country": "France",

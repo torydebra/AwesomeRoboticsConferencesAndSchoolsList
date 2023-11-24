@@ -75,6 +75,21 @@
     "note": "The Course provides a stimulating environment for junior academics, early career researches, Post-Docs, PhD students and industry leaders (and highly motivated, promising and brilliant Master students). Participants will also have the chance to present their results with talks, and to interact with their colleagues, in a convivial, professional and productive environment."
   },
   {
+    "name": "Eastern European Machine Learning Summer School",
+    "deadline": "2024-03-31",
+    "city": "Novi Sad",
+    "country": "Serbia",
+    "link": "https://www.eeml.eu/home",
+    "type": "School",
+    "shortName": "EEML",
+    "start": "2024-07-10",
+    "end": "2024-07-15",
+    "cost": "free",
+    "costNote": "", 
+    "addressLink": "https://maps.app.goo.gl/PCf2PiRe1ya8N8BM8",
+    "note": ""
+  },
+  {
     "name": "IEEE RAS Summer School on Multi-robot systems",
     "deadline": "",
     "city": "Prague",

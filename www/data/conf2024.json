@@ -251,13 +251,26 @@
     "name": "The 11th International Workshop On Marine Technology",
     "start": "2024-06-06",
     "end": "2024-06-07",
-    "deadline": "",
+    "deadline": "2023-12-10",
     "city": "Palma",
     "country": "Spain",
     "link": "https://sarti.webs.upc.edu/martech/index.php#intro",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/uzEtSGBpMti2eE8J8",
     "note": "Technological development deeply constrains our perception of marine environments and ecosystems. The main objective of the MARTECH Workshop is to share information and points of view on cutting-edge research in several fields of MARine TECHnology. MarTech is an internationally renewed venue for dissemination of marine technology research since 2008."
+  },
+  {
+    "shortName": "MED",
+    "name": "The 32nd Mediterranean Conference on Control and Automation",
+    "start": "2024-06-11",
+    "end": "2024-06-14",
+    "deadline": "2024-02-01",
+    "city": "Chania - Crete",
+    "country": "Greece",
+    "link": "https://www.med-control.org/med2024/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/rvyMhtGzk77wgLZG9",
+    "note": "MED 2024 extends across four full days, and it is organized under the auspices of the Technical University of Crete. On June 11, the focus will be on Tutorials and Workshops, while the subsequent three days, June 12-14, will comprise the technical conference. Aligning with the current trend of merging control and systems theory with hardware/software and communication technologies, the conference will explore advancements in robotics and unmanned systems, autonomous systems, mechatronics, cyber-physical systems, and network-controlled systems. These topics of interest aim to foster collaboration between control and automation scientists and industry professionals."
   },
   {
     "shortName": "UR",

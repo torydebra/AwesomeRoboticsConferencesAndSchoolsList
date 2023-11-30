@@ -90,6 +90,21 @@
     "note": ""
   },
   {
+    "name": "11th International School on Deep Learning (and the Future of Artificial Intelligence)",
+    "deadline": "",
+    "city": "Porto - Maia",
+    "country": "Portugal",
+    "link": "https://deeplearn.irdta.eu/2024/",
+    "type": "School",
+    "shortName": "DEEPLEARN",
+    "start": "2024-07-15",
+    "end": "2024-07-19",
+    "cost": "310-580€",
+    "costNote": "increasing according to deadlines", 
+    "addressLink": "https://maps.app.goo.gl/XKZj1ysz96cUkBaZ7",
+    "note": "DeepLearn 2024 will be a research training event with a global scope aiming at updating participants on the most recent advances in the critical and fast developing area of deep learning."
+  },
+  {
     "name": "IEEE RAS Summer School on Multi-robot systems",
     "deadline": "",
     "city": "Prague",

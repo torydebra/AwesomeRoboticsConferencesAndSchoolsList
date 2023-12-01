@@ -199,22 +199,19 @@ $(document).ready(function() {
         futureYears.push(year.toString());
     }
 
-    let type;
-    var path = window.location.pathname;
-
-    if (path.endsWith('conf.html')) {
-        type = "conf";
-    } else if (path.endsWith('school.html')) {
-        type = "school";
-    } else {
-        console.error("path page: " + path);
+    if (typeof sctype === 'undefined') {
+        // the variable is defined
+        return;
     }
+    type = sctype;
 
     let dataTableColumns = [];
     if (type === "conf") {
         dataTableColumns = dataTableColumnsConf;
     } else if (type === "school") {
         dataTableColumns = dataTableColumnsSchool;
+    } else {
+        console.error("strange error: ", type);
     }
     
     addTableContainer(type, "Current", dataTableColumns);

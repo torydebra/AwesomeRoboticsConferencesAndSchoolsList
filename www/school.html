@@ -43,22 +43,45 @@
     />
     
     <!-- JAVASCRIPT INTERNAL LIBS-->
+    <script type="text/javascript" charset="utf8" src="js/mainButtonsClick.js"></script>
     <script type="text/javascript" charset="utf8" src="js/columnsHandler.js"></script>
     <script type="text/javascript" charset="utf8" src="js/dataTableRenders.js"></script>
     <script type="text/javascript" charset="utf8" src="js/hideRows.js"></script>
-    <script type="text/javascript" charset="utf8" src="js/mainButtonsClick.js"></script>
     <script type="text/javascript" charset="utf8" src="js/main.js"></script>
+
+    
+    <!-- JSON DATA-->
+    <script type="text/javascript" charset="utf8" src="data/school2022.json?v=cacheBusting0"></script>
+    <script type="text/javascript" charset="utf8" src="data/school2023.json?v=cacheBusting0"></script>    
+    <script type="text/javascript" charset="utf8" src="data/school2024.json?v=cacheBusting0"></script>  
 
 </head>
 
 <body>
 
-<h1 id="mainTitle" style="text-align:center">Awesome Robotics Conferences List</h1>
+<h1 id="mainTitle" style="text-align:center">Awesome Robotics Schools List</h1>
 
 <div class="d-flex justify-content-center">
   <button id="mainConfBtn" class="btn btn-secondary btn-lg" type="button" onclick="mainConfBtnClick()" style="width: 20%;">Conferences</button>
   <span style="width: 3%;"></span>
-  <button id="mainSchoolBtn" class="btn btn-secondary btn-lg" type="button" onclick="mainSchoolBtnClick()" style="width: 20%;">Schools</button>
+  <button id="mainSchoolBtn" class="btn btn-primary btn-lg" type="button" onclick="mainSchoolBtnClick()" style="width: 20%;">Schools</button>
+</div>
+
+
+<div class="container">
+    
+    <ul class="nav nav-tabs">
+        <li class="active"><a data-toggle="tab" href="#schoolCurrentContainer">Current</a></li>
+        <li><a data-toggle="tab" href="#school2022Container">2022</a></li>
+    </ul>
+
+    <div id="tableContainers" class="tab-content">
+      <div id="school2022Container" class="tab-pane fade in"></div>
+            
+      <div id="schoolCurrentContainer" class="tab-pane fade in active"></div>
+    </div>
+    
+    
 </div>
 
 <div id="footer"></div>

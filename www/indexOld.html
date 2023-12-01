@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Awesome Robotics Conferences and Schools List</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="An interactive table for choosing your next robotic-related conference or school">
+    <meta name="google-site-verification" content="4JC7EJ-1Ct_HZ1ux1gnHOytzrAzDi3yggoVSJ1qz6mU" />
+    <meta name="msvalidate.01" content="F19304186CE5280F45A02F988A3CE3C0" />
+    
+    <!-- JQUERY-->
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js" 
+        integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" 
+        crossorigin="anonymous">
+    </script>
+    
+    <!-- DATATABLES -->
+    <link href="https://cdn.datatables.net/v/bs5/dt-1.13.4/b-2.3.6/r-2.4.1/datatables.min.css" rel="stylesheet"/>
+    <script src="https://cdn.datatables.net/v/bs5/dt-1.13.4/b-2.3.6/r-2.4.1/datatables.min.js"></script>
+
+    <!-- LUXON for dates-->
+    <script type="text/javascript" charset="utf8" src="https://cdnjs.cloudflare.com/ajax/libs/luxon/2.3.1/luxon.min.js"></script>
+    <script type="text/javascript" charset="utf8" src="https://cdn.jsdelivr.net/npm/luxon@3.3.0/build/global/luxon.min.js"></script>
+    
+    <!-- POPPER -->
+    <script type="text/javascript" src="https://unpkg.com/@popperjs/core@2"></script>
+    
+    <!-- BOOTSTRAP-->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"/>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    
+    <!-- FONT AWESOME -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    
+    <!-- FLAG SPRITES-->
+    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <link
+        rel="stylesheet"
+        type="text/css"
+        href="css/flags32-both.css"
+    />
+    
+    <!-- JAVASCRIPT INTERNAL LIBS-->
+    <script type="text/javascript" charset="utf8" src="js/columnsHandler.js"></script>
+    <script type="text/javascript" charset="utf8" src="js/dataTableRenders.js"></script>
+    <script type="text/javascript" charset="utf8" src="js/hideRows.js"></script>
+    <script type="text/javascript" charset="utf8" src="js/main.js"></script>
+    
+    <!-- JSON DATA-->
+    <script type="text/javascript" charset="utf8" src="data/conf2022.json?v=cacheBusting0"></script>
+    <script type="text/javascript" charset="utf8" src="data/school2022.json?v=cacheBusting0"></script>
+    <script type="text/javascript" charset="utf8" src="data/conf2023.json?v=cacheBusting0"></script>
+    <script type="text/javascript" charset="utf8" src="data/school2023.json?v=cacheBusting0"></script>    
+    <script type="text/javascript" charset="utf8" src="data/conf2024.json?v=cacheBusting0"></script>    
+    <script type="text/javascript" charset="utf8" src="data/school2024.json?v=cacheBusting0"></script>  
+
+</head>
+
+<body>
+
+<h1 style="text-align:center">Awesome Robotics Conferences and Schools List</h1>
+
+<div class="container">
+    
+    <ul class="nav nav-tabs">
+        <li><a data-toggle="tab" href="#conf2024Container">Conf 2024</a></li>
+        <li><a data-toggle="tab" href="#school2024Container">School 2024</a></li>
+        <li class="active"><a data-toggle="tab" href="#conf2023Container">Conf 2023</a></li>
+        <li><a data-toggle="tab" href="#school2023Container">School 2023</a></li>
+        <li><a data-toggle="tab" href="#conf2022Container">Conf 2022</a></li>
+        <li><a data-toggle="tab" href="#school2022Container">School 2022</a></li>
+    </ul>
+
+    <div id="tableContainers" class="tab-content">
+      <div id="conf2022Container" class="tab-pane fade in"></div> 
+      <div id="school2022Container" class="tab-pane fade in"></div>
+      
+      <div id="conf2023Container" class="tab-pane fade in active"></div> 
+      <div id="school2023Container" class="tab-pane fade in"></div>
+      
+      <div id="conf2024Container" class="tab-pane fade in"></div> 
+      <div id="school2024Container" class="tab-pane fade in"></div>
+    </div>
+    
+    
+</div>
+
+<footer class="bg-light py-2 mt-4">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-6 text-center text-sm-left my-2">
+        <a href="https://github.com/torydebra/AwesomeRoboticsConferencesAndSchoolsList" class="text-dark">
+          <i class="fab fa-github fa-lg mr-2"></i> View on GitHub
+        </a>
+      </div>
+      <div class="col-sm-6 text-center text-sm-right my-2">
+        <a href="https://github.com/torydebra/AwesomeRoboticsConferencesAndSchoolsList/issues" class="text-dark">
+          <i class="fas fa-bug fa-lg mr-1"></i> Issues
+        </a>
+        <span class="mx-3">|</span>
+        <a href="https://github.com/torydebra/AwesomeRoboticsConferencesAndSchoolsList/pulls" class="text-dark">
+          <i class="fas fa-code-branch fa-lg mr-1"></i> Pull Requests
+        </a>
+      </div>
+    </div>
+   <div class="row">
+      <div class="col-12 text-center">
+        <span><i class="fas fa-solid fa-code-commit fa-lg"></i></span>
+        <!--    Keep his as single line      -->
+        <span id="version_tag"><a href="https://github.com/torydebra/AwesomeRoboticsConferencesAndSchoolsList/commit/aaa" class="text-dark">v1.1.aaa</a></span>
+        <span class="mx-3">|</span>
+        <span><i class="fas fa-solid fa-copyright fa-lg"></i> 2023 Tori </span>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
+

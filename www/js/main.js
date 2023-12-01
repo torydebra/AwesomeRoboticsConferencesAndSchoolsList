@@ -202,9 +202,9 @@ $(document).ready(function() {
     let type;
     var path = window.location.pathname;
 
-    if (path == '/www/conf.html') {
+    if (path.endsWith('conf.html')) {
         type = "conf";
-    } else if (path == '/www/school.html') {
+    } else if (path.endsWith('school.html')) {
         type = "school";
     } else {
         console.error("path page: " + path);

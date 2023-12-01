@@ -172,7 +172,7 @@ var dataTableColumnsSchool = [
 
 $(document).ready(function() {
 
-    $("#footer").load("/www/footer.html"); 
+    $("#footer").load("footer.html"); 
 
     $.fn.dataTable.ext.buttons.past = {
         text: 'Hiding Past',

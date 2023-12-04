@@ -505,6 +505,19 @@
     "note": "Due to rapid advances in manufacturing, computing, and communication, distributed robotics is a rapidly growing area in robotics.  This field draws on knowledge across a large range of disciplines such as computer science, communication and control systems, electrical and mechanical engineering, life sciences, and humanities. DARS 2024 will provide an exciting opportunity for researchers to present and discuss the latest advances in distributed robotic technologies, algorithms, system architectures, and applications."
   },
   {
+    "shortName": "ICECCME",
+    "name": "International Conference on Electrical, Computer, Communications and Mechatronics Engineering",
+    "start": "2024-11-11",
+    "end": "2024-11-13",
+    "deadline": "2024-06-09",
+    "city": "Malé",
+    "country": "Maldives",
+    "link": "http://www.iceccme.com/home",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/9QC9CFPjirStvzxg8",
+    "note": "The 4th International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME) is the premier event that brings together industry professionals, academics, and engineers from the related institutions to exchange information and ideas on electrical, computer, communications and mechatronic engineering. The conference will feature a comprehensive technical program offering numerous technical sessions with papers showcasing the latest technologies, and applications."
+  },
+  {
     "shortName": "Humanoids",
     "name": "IEEE-RAS International Conference on Humanoid Robots",
     "start": "2024-11-26",

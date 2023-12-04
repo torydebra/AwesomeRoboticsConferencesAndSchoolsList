@@ -392,13 +392,13 @@
     "name": "IEEE International Conference on Robot and Human Interactive Communication",
     "start": "2024-08-26",
     "end": "2024-09-30",
-    "deadline": "",
+    "deadline": "2024-03-10",
     "city": "Pasadena, CA",
     "country": "USA",
-    "link": "",
+    "link": "https://www.ro-man2024.org/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/D646QunkfhL3yDWR7",
+    "note": "With the continuous technological effort of understanding human needs, creating human-desired robotic systems, and developing real human user experiences, we are marching together towards building a promising and excellent human quality of life, all for our wellness and our next generation. The conference provides a forum for researchers and practitioners to discuss a variety of topics related to the broad theme of Robot and Human Interactive Communication involving theories, methodologies, technologies, empirical and experimental studies, and generate more insights for the future of Robot and Human Interactive Communication!"
   },
   {
     "shortName": "CASE",

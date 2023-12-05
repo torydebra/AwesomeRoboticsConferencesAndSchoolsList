@@ -247,6 +247,19 @@
     "note": "ICUAS focuses on civil and public domain applications and on the societal impact of unmanned aviation, and its effect on everyday quality of life."
   },
   {
+    "shortName": "RAAD",
+    "name": "International Conference on Robotics in Alpe-Adria-Danube Region",
+    "start": "2024-06-05",
+    "end": "2024-06-07",
+    "deadline": "2023-12-20",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "link": "https://raad.utcluj.ro/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/UNcZq5Rt3kp3wvc18",
+    "note": "As is tradition, RAAD 2024 will cover all major areas of research, development and innovation in robotics, including new research trends such as: bioinspired and cognitive robots, visual servo control of robotic motions, human-robot interaction, cloud robotics and personal robots for ambient assisted living."
+  },
+  {
     "shortName": "MARTECH",
     "name": "The 11th International Workshop On Marine Technology",
     "start": "2024-06-06",

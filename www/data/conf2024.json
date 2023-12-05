@@ -52,6 +52,19 @@
     "note": "The conference aims to stimulate interdisciplinary cooperation and create a space to discuss the emerging trends and challenges in mechatronics and robotics engineering. The rich program includes keynote speeches, interactive workshops, paper presentations, and poster sessions. Key areas of interest cover a broad spectrum including autonomous systems, robotic applications of artificial intelligence, control systems, sensors and actuators, human-robot interaction, and intelligent automation. By prioritizing knowledge exchange and networking, ICMRE offers a conducive environment for attendees to engage in productive dialogues and form beneficial collaborations."
   },
   {
+    "shortName": "TAHRI",
+    "name": "International Symposium on Technological Advances in Human-Robot Interaction",
+    "start": "2024-03-09",
+    "end": "2024-03-10",
+    "deadline": "2023-12-01",
+    "city": "Boulder",
+    "country": "USA",
+    "link": "https://www.tahri.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/BDMbqd5VEt6ikZcz9",
+    "note": "TAHRI seeks novel, high-quality technological HRI contributions from a broad range of perspectives, including, but not limited to, robots, platforms, hardware, software, sensors, actuators, perception, control, algorithms, models, mechanisms, methods, interfaces, architectures, frameworks, benchmarks, datasets, tools, techniques, or other technologies that, with reasonable effort, can be incorporated into the design, development, or deployment of an HRI system."
+  },
+  {
     "shortName": "HRI",
     "name": "ACM/IEEE International Conference on Human-Robot Interaction",
     "start": "2024-03-11",

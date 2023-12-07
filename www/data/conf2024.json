@@ -546,14 +546,14 @@
   {
     "shortName": "Humanoids",
     "name": "IEEE-RAS International Conference on Humanoid Robots",
-    "start": "2024-11-26",
-    "end": "2024-11-28",
+    "start": "2024-11-22",
+    "end": "2024-11-24",
     "deadline": "",
     "city": "Nancy",
     "country": "France",
-    "link": "",
+    "link": "https://2024.ieee-humanoids.org/",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/hXQYxidVc6n8PGq59",
     "note": ""
   }
 ]

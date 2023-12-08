@@ -23,12 +23,14 @@ var dataTableColumnsConf = [
         data: "start",
         title: "Start Date",
         render: dateRender,
+        className: 'dateCol',
         responsivePriority: 2,
     },
     { 
         data: "end",
         title: "End Date",
         render: dateRender,
+        className: 'dateCol',
         responsivePriority: 4,
     },
     { 
@@ -100,12 +102,14 @@ var dataTableColumnsSchool = [
     { 
         data: "start",
         title: "Start Date",
+        className: 'dateCol',
         render: dateRender,
         responsivePriority: 2,
     },
     { 
         data: "end",
         title: "End Date",
+        className: 'dateCol',
         render: dateRender,
         responsivePriority: 4,
     },

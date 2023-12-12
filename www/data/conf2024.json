@@ -338,6 +338,19 @@
     "note": "ARK – Advances in Robot Kinematics is a boutique robotics international series of symposia. My first idea to organize a specialized conference on robot kinematics dates back to 1986. The initial supporters of this idea were scientists of the highest reputation, such as B. Roth, O. Khatib, K. Waldron, J. Angeles, V. Parenti-Castelli, M. McCarthy, M. Stanisic, B. Siciliano and others. At the first symposium, which I organized in Ljubljana in 1988, we agreed that we would organize ARK symposia every two years in the area of the Mediterranean and the Alps. So far, 18 symposia have been held. The proceedings are published in the form of edited books, which have been published by Springer (initially Kluwer) from the very beginning."
   },
   {
+    "shortName": "WCCI",
+    "name": "The IEEE World Congress on Computational Intelligence",
+    "start": "2024-06-30",
+    "end": "2024-07-05",
+    "deadline": "2024-01-15",
+    "city": "Yokohama",
+    "country": "Japan",
+    "link": "https://2024.ieeewcci.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/yszuyXNLtedtuZqV6",
+    "note": "IEEE WCCI 2024 is the world’s largest technical event on computational intelligence, featuring the three flagship conferences of the IEEE Computational Intelligence Society (CIS) under one roof: The International Joint Conference on Neural Networks (IJCNN), the IEEE International Conference on Fuzzy Systems (FUZZ-IEEE) and the IEEE Congress on Evolutionary Computation (IEEE CEC)."
+  },
+  {
     "shortName": "RoMoCo",
     "name": "International Workshop on Robot Motion and Control",
     "start": "2024-07-02",

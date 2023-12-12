@@ -234,6 +234,19 @@
     "note": "Advanced robots are expected to enter in promising applications in our future society and bring substantial impacts. The increasing implementation of AI-based components even broadens their fields of application. To ensure that these impacts are positively reflected, today, we need to extend views not only on technical aspects but also on social challenges that we might face, which include safety, regulation, ethics, human factors, and philosophy."
   },
   {
+    "shortName": "ICDL",
+    "name": "IEEE International Conference on Development and Learning",
+    "start": "2024-05-20",
+    "end": "2024-05-23",
+    "deadline": "2024-01-08",
+    "city": "Austin, TX",
+    "country": "USA",
+    "link": "https://la.utexas.edu/users/dil/ICDL_Austin_2024/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/YjNhrqDz6iX7dVLV7",
+    "note": "The IEEE International Conference on Development and Learning (ICDL) conference is a unique meeting gathering researchers from computer science, robotics, psychology, neuroscience, and other disciplines to share and discuss research on how humans and other animals learn and develop and how this can inform and be informed by robotics and machine learning systems."
+  },
+  {
     "shortName": "ISMR",
     "name": "International Symposium on Medical Robotics",
     "start": "2024-06-03",

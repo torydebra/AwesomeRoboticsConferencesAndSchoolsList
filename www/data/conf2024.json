@@ -325,6 +325,19 @@
     "note": "Since its inception in 2004, Ubiquitous Robots has now established itself as a leading mid-size robotics conference, bringing together robotics researchers from around the world who share the vision that robots, like mobile phones, will become ubiquitous in our daily lives, and help connect and empower humans"
   },
   {
+    "shortName": "iSpaRo",
+    "name": "International Conference on Space Robotics",
+    "start": "2024-06-24",
+    "end": "2024-06-27",
+    "deadline": "2024-02-10",
+    "city": "Luxembourg",
+    "country": "Luxembourg",
+    "link": "https://www.isparo.space/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/zBmcBVAaHB5Y6sQE7",
+    "note": "The International Conference on Space Robotics (iSpaRo) is a new conference aiming to provide a framework for scientists and industry experts to engage in fruitful discussions and share their insights on the emerging topic of Space Robotics. In the last decade, the advances in in-orbit servicing and satellite operations, the renewed interest in the Moon, recent discoveries in the exploration of Mars and Near-Earth Asteroids (NEAs), together with the emergence of new ventures aimed at the prospection, extraction, and utilization of space resources have sparked a new wave of research and commercial opportunities. Traditional and new space companies are pushing the limits of in-space activities with robotics as the disruptive technology and enabler of the next advances in this new space era."
+  },
+  {
     "shortName": "EUROHAPTICS",
     "name": "Eurohaptics",
     "start": "2024-06-30",

@@ -1,0 +1,54 @@
+[
+  {
+    "shortName": "SII",
+    "name": "IEEE/SICE International Symposium on System Integration",
+    "start": "2025-01-21",
+    "end": "2025-01-24",
+    "deadline": "",
+    "city": "Munich",
+    "country": "Germany",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
+    "shortName": "HRI",
+    "name": "ACM/IEEE International Conference on Human-Robot Interaction",
+    "start": "2025-03-03",
+    "end": "2025-03-06",
+    "deadline": "",
+    "city": "South Wharf, VIC",
+    "country": "Australia",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
+    "shortName": "ICRA",
+    "name": "IEEE International Conference on Robotics and Automation",
+    "start": "2025-05-17",
+    "end": "2025-05-23",
+    "deadline": "",
+    "city": "Atlanta",
+    "country": "USA",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
+    "shortName": "CASE",
+    "name": "IEEE International Conference on Automation Science and Engineering",
+    "start": "2025-08-18",
+    "end": "2025-08-22",
+    "deadline": "",
+    "city": "Anaheim, CA",
+    "country": "USA",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  }
+]

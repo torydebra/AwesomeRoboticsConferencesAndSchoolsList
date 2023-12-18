@@ -50,5 +50,18 @@
     "type": "Conference",
     "addressLink": "",
     "note": ""
+  },
+  {
+    "shortName": "IROS",
+    "name": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
+    "start": "2025-10-19",
+    "end": "2025-10-25",
+    "deadline": "",
+    "city": "Hangzhou",
+    "country": "China",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   }
 ]

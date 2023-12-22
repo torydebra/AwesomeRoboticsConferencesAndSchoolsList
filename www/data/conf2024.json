@@ -35,8 +35,8 @@
     "country": "China",
     "link": "http://www.icaace.net/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/kp2XkdVwoqvXCpt66",
+    "note": "The 2024 7th International Conference on Advanced Algorithms and Control Engineering (ICAACE 2024) will be held on January 26-28, 2024 in Shanghai, China. ICAACE 2024 is to bring together innovative academics and industrial experts in the field of advanced algorithms and control engineering to a common forum. The primary goal of the conference is to promote research and developmental activities in advanced algorithms and control engineering. And another goal is to promote scientific information interchange between researchers, developers, engineers, students, and practitioners working all around the world."
   },
   {
     "shortName": "ICARA",
@@ -61,8 +61,8 @@
     "country": "Korea (South)",
     "link": "http://www.icmcr.org",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/WNLxgDYYTKbRY7xj6",
+    "note": "ICMCR 2024 is designed not merely as a conference, but as a crucible for innovation. It aims to bring together a melange of researchers, practitioners, and professionals from the industry, academia, and government. This unique amalgamation ensures a holistic understanding of the subject matter, where theoretical foundations meet practical applications."
   },
   {
     "shortName": "ICMRE",
@@ -191,8 +191,8 @@
     "country": "China",
     "link": "http://www.icrconf.com/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/ZLURamWdffPSbZSm6",
+    "note": "2024 International Conference on Intelligent Computing and Robotics (ICICR2024) will be held in Dalian during April 12-14, 2024. This conference will provide an international forum for researchers, academicians, professionals, and students from Intelligent Computing and Robotics and other related fields to interact and disseminate information on the latest developments. On behalf of our committee, we invite you to join us for an outstanding ICICR2024 conference and we look forward to meeting you in Dalian next April!"
   },
   {
     "shortName": "ROBOSOFT",
@@ -230,8 +230,8 @@
     "country": "China",
     "link": "http://www.icccr.org/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/mC4kUeQJHvEoxPgo8",
+    "note": "The boundaries between Computer Science, Control Technologies, and Robotics are continuing to be connected. Computers are humanized and a large number of cyber-physical systems are being developed to act upon the physical world. Control technologies provide the basic tools used by robot creators to identify strategies, and optimizers to achieve the goals of the robotic enterprise. Robotic are versatile computing machines with high social impact potential, such as enhance transportation safety, reduce agricultural pesticide use, and improve public safety and crime-fighting efficacy, among other things."
   },
   {
     "shortName": "AIRC",
@@ -243,8 +243,8 @@
     "country": "Egypt",
     "link": "http://www.airc.org/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/a144TqTLQ1PrFdXD6",
+    "note": "AIRC 2024 aims to serve as a vibrant forum for scholars, researchers, and engineers to present groundbreaking research, share innovative ideas, and foster meaningful collaborations. We are excited to offer this unique platform for knowledge exchange and professional networking, all set against the backdrop of Cairo's rich cultural tapestry and historical grandeur."
   },
   {
     "shortName": "ICCAR",
@@ -256,8 +256,8 @@
     "country": "Singapore",
     "link": "http://www.iccar.org/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/GYEsVuZRTWbQEdNh6",
+    "note": "This conference will deeply explore the research status and developmental trends in the fields of intelligent robots, automation, control science, and signal processing from both theoretical and practical perspectives. We will offer a comprehensive, high-quality technical program, featuring six special sessions, and provide delegates with the opportunity to connect and network with accomplished professionals from around the world."
   },
   {
     "shortName": "ICCRE",
@@ -269,8 +269,8 @@
     "country": "Japan",
     "link": "http://www.iccre.org",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/mQuPUKVvhybKbrHx9",
+    "note": "We are thrilled to announce that the ICCRE conference in Osaka, Japan is back! Building upon the success of previous years, we are confident that this year's event will be even more remarkable and rewarding. On behalf of the organizing committee, we extend a heartfelt invitation to you. Come join us at ICCRE 2024 and be a part of the excitement and innovation that awaits in beautiful Osaka!"
   },
   {
     "shortName": "ICHMS",
@@ -592,8 +592,8 @@
     "country": "United Kingdom",
     "link": "http://coinsconf.com/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/hdknrz84vwTZwGo3A",
+    "note": "Are you interested in taking part in shaping and adding new dimensions to the future IoT and AI ecosystem? are you seeking to harness the opportunities afforded by the tsunami of new technologies? Do you want to stay ahead and learn about the biggest digital technologies that are radically shifting the paradigm? or just curious about what IoT, AI, Big Data are all about and how they impact every aspect of our life, society, and business? IEEE COINS (https://coinsconf.com/) is the right place to be. IEEE COINS brings together experts in Digital Transformation (from AI and IoT to Cloud, Blockchain, Cybersecurity, and Robotics) from around the globe. IEEE COINS includes a multi-disciplinary program from technical research papers, to panels, workshops, and tutorials on the latest technology developments and innovations addressing all important aspects of the IoT & AI ecosystem."
   },
   {
     "shortName": "ICOM",
@@ -601,12 +601,12 @@
     "start": "2024-08-13",
     "end": "2024-08-14",
     "deadline": "",
-    "city": "KL",
+    "city": "Kuala Lumpur",
     "country": "Malaysia",
     "link": "http://conference.iium.edu.my/icom/index.php/home/",
     "type": "Conference",
     "addressLink": "",
-    "note": ""
+    "note": "The 9th International Conference on Mechatronics Engineering (ICOM’24) is a series of conference organized by the Kulliyyah of Engineering, International Islamic University Malaysia (IIUM) and Mechatronics Engineering Department, as a part of IIUM Engineering Congress (IEC) 2024. ICOM ’24 focuses on bringing together researchers, experts and practitioners to address the latest trends and technologies in the multifaceted field of Mechatronics Engineering"
   },
   {
     "shortName": "ROMAN",

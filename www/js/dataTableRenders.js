@@ -360,7 +360,14 @@ function dateRender(data, type, row, meta) {
         if (data) {
             const date = luxon.DateTime.fromFormat(data, "y-MM-dd");
             
-            return date.toFormat('d MMM yy');
+            if (date.isValid) {
+                return date.toFormat('d MMM yy');
+            }
+            else {
+                const date = luxon.DateTime.fromFormat(data, "y");
+                return date.toFormat('yyyy');
+            }
+
         }
     }
 

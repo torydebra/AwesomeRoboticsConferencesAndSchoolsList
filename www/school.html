@@ -7,6 +7,9 @@
     <meta name="description" content="An interactive table for choosing your next robotic-related conference or school">
     <meta name="google-site-verification" content="4JC7EJ-1Ct_HZ1ux1gnHOytzrAzDi3yggoVSJ1qz6mU" />
     <meta name="msvalidate.01" content="F19304186CE5280F45A02F988A3CE3C0" />
+
+    <!--  FAVICON    -->
+    <link rel="icon" type="image/x-icon" href="images/robot.svg">    
     
     <!-- JQUERY-->
     <script src="https://code.jquery.com/jquery-3.6.4.min.js" 
@@ -55,6 +58,10 @@
     <script type="text/javascript" charset="utf8" src="data/school2022.json?v=cacheBusting0"></script>
     <script type="text/javascript" charset="utf8" src="data/school2023.json?v=cacheBusting0"></script>    
     <script type="text/javascript" charset="utf8" src="data/school2024.json?v=cacheBusting0"></script>  
+    <script type="text/javascript" charset="utf8" src="data/school2025.json?v=cacheBusting0"></script>  
+    <script type="text/javascript" charset="utf8" src="data/school2026.json?v=cacheBusting0"></script>  
+    <script type="text/javascript" charset="utf8" src="data/school2027.json?v=cacheBusting0"></script>  
+    <script type="text/javascript" charset="utf8" src="data/school2028.json?v=cacheBusting0"></script>  
 
 </head>
 
@@ -62,10 +69,10 @@
 
 <h1 id="mainTitle" style="text-align:center">Awesome Robotics Schools List</h1>
 
-<div class="d-flex justify-content-center">
-  <button id="mainConfBtn" class="btn btn-secondary btn-lg" type="button" onclick="mainConfBtnClick()" style="width: 20%;">Conferences</button>
-  <span style="width: 3%;"></span>
-  <button id="mainSchoolBtn" class="btn btn-primary btn-lg" type="button" onclick="mainSchoolBtnClick()" style="width: 20%;">Schools</button>
+<div class="d-flex justify-content-center mb-3">
+    <button id="mainConfBtn" class="btn btn-secondary btn-lg col-md-4 col-lg-3" type="button" onclick="mainConfBtnClick()">Conferences</button>
+    <div class="col-1"></div>
+    <button id="mainSchoolBtn" class="btn btn-primary btn-lg col-md-4 col-lg-3" type="button" onclick="mainSchoolBtnClick()">Schools</button>
 </div>
 
 
@@ -73,12 +80,16 @@
     
     <ul class="nav nav-tabs">
         <li class="active"><a data-toggle="tab" href="#schoolCurrentContainer">Current</a></li>
+        <li><a data-toggle="tab" href="#school2024Container">2024</a></li>
+        <li><a data-toggle="tab" href="#school2023Container">2023</a></li>
         <li><a data-toggle="tab" href="#school2022Container">2022</a></li>
     </ul>
 
     <div id="tableContainers" class="tab-content">
       <div id="school2022Container" class="tab-pane fade in"></div>
-            
+      <div id="school2023Container" class="tab-pane fade in"></div>
+      <div id="school2024Container" class="tab-pane fade in"></div>
+
       <div id="schoolCurrentContainer" class="tab-pane fade in active"></div>
     </div>
     

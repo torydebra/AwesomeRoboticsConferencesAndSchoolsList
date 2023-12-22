@@ -11,12 +11,24 @@
 				"type": "string"
 			},
 			"start": {
+              "oneOf": [{
 				"type": "string",
 				"format": "date"
+              },
+              {
+				"type": "string",
+      			"pattern": "^[0-9]{4}$"
+              }]
 			},
 			"end": {
+              "oneOf": [{
 				"type": "string",
 				"format": "date"
+              },
+              {
+				"type": "string",
+      			"pattern": "^[0-9]{4}$"
+              }]
 			},
 			"deadline": {
 				"oneOf": [{

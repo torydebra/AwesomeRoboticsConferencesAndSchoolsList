@@ -23,12 +23,14 @@ var dataTableColumnsConf = [
         data: "start",
         title: "Start Date",
         render: dateRender,
+        className: 'dateCol',
         responsivePriority: 2,
     },
     { 
         data: "end",
         title: "End Date",
         render: dateRender,
+        className: 'dateCol',
         responsivePriority: 4,
     },
     { 
@@ -100,12 +102,14 @@ var dataTableColumnsSchool = [
     { 
         data: "start",
         title: "Start Date",
+        className: 'dateCol',
         render: dateRender,
         responsivePriority: 2,
     },
     { 
         data: "end",
         title: "End Date",
+        className: 'dateCol',
         render: dateRender,
         responsivePriority: 4,
     },
@@ -172,7 +176,7 @@ var dataTableColumnsSchool = [
 
 $(document).ready(function() {
 
-    $("#footer").load("/www/footer.html"); 
+    $("#footer").load("footer.html"); 
 
     $.fn.dataTable.ext.buttons.past = {
         text: 'Hiding Past',
@@ -189,13 +193,15 @@ $(document).ready(function() {
     $.fn.dataTable.ext.search.push(pastDeadlineFilter);
 
     var currentYear = new Date().getFullYear();
-    var oldYears = [];
+    var lastYear = 2028
+    
+    var allYears = [];
     var futureYears = [];
 
-    for (var year = 2022; year < currentYear; year++) {
-        oldYears.push(year.toString());
+    for (var year = 2022; year <= lastYear; year++) {
+        allYears.push(year.toString());
     }
-    for (var year = currentYear; year <= 2024; year++) {
+    for (var year = currentYear; year <= lastYear; year++) {
         futureYears.push(year.toString());
     }
 
@@ -279,7 +285,7 @@ $(document).ready(function() {
 
 
     //old years
-    oldYears.forEach((year) => {
+    allYears.forEach((year) => {
             
         let dataTableColumns = [];
         if (type === "conf") {
@@ -313,27 +319,15 @@ $(document).ready(function() {
                 },
                 //first row default was (without buttons) with -12 and - 16 :
                 //"<'row'<'col-sm-12 col-md-6'l><'col-sm-12 col-md-6'f>>"
-                dom: "<'row'<'col-sm'l><'col-sm'B><'col-sm'f>>" +
+                dom: "<'row'<'col-sm-6 col-md-6'l><'col-sm-6 col-md-6'f>>" +
                         "<'row'<'col-sm-12'tr>>" +
                         "<'row'<'col-sm-12 col-md-5'i><'col-sm-12 col-md-7'p>>",
-                buttons: {        
-                    buttons: [
-                        'past',
-                        'pastDeadline',
-                    ],
-                    dom: {
-                        container: {
-                            className: 'dt-buttons text-center flex-wrap',
-                            tag: "div"
-                        }
-                    }
-                },
                 responsive: {
                     details: {
                         renderer: responsiveRenderer,
                         type: "column"
                     }
-                }
+                },
             });
 
             addTableListeners(table)

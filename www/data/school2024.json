@@ -15,6 +15,21 @@
     "note": "The Australian Centre for Robotic Vision presents the Robotic Vision Summer School (RVSS), hosted in-person at the Australian National University (ANU) Kioloa coastal campus. The ability to see is the remaining technological roadblock to the ubiquitous deployment of robots into society. RVSS provides a premium venue for graduate students and industry researchers to learn about fundamental and advanced topics in computer vision and robotics. The summer school also provides a unique opportunity to experiment with computer vision algorithms on actual robotic hardware."
   },
   {
+    "name": "EECI-IGS various summer schools M01-M02",
+    "deadline": "",
+    "city": "various",
+    "country": "",
+    "link": "http://www.eeci-igsc.eu/",
+    "type": "School",
+    "shortName": "EECI-IGS",
+    "start": "2024-02-12",
+    "end": "2024-03-08",
+    "cost": "€350-€800",
+    "costNote": "academics/industrial early(late) : €350(450)/€600(800). 150€ low education priority countries", 
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "name": "Social Robotics, Artificial Intelligence & Multimedia Winter School",
     "deadline": "",
     "city": "Grenoble",
@@ -43,6 +58,21 @@
     "costNote": "students/academics/professional : JPY50000/100000/150000", 
     "addressLink": "https://goo.gl/maps/hZEUAq2dqm8LkVMd7",
     "note": "The machine learning summer school (MLSS) series was started in 2002 with the motivation to promulgate modern methods of statistical machine learning and inference. It was motivated by the observation that while many students are keen to learn about machine learning, and an increasing number of researchers want to apply machine learning methods to their research problems, only few machine learning courses are taught at universities. Machine learning summer schools present topics which are at the core of modern Machine Learning, from fundamentals to state-of-the-art practice. The speakers are leading experts in their field who talk with enthusiasm about their subjects."
+  },
+  {
+    "name": "EECI-IGS various summer schools M03-M18",
+    "deadline": "",
+    "city": "various",
+    "country": "",
+    "link": "http://www.eeci-igsc.eu/",
+    "type": "School",
+    "shortName": "EECI-IGS",
+    "start": "2024-04-08",
+    "end": "2024-07-05",
+    "cost": "€350-€800",
+    "costNote": "academics/industrial early(late) : €350(450)/€600(800). 150€ low education priority countries", 
+    "addressLink": "",
+    "note": ""
   },
   {
     "shortName": "NENGO",

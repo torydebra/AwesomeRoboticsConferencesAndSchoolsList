@@ -36,6 +36,17 @@ function pastDeadlineButtonOnClick( e, dt, node, config ) {
 
 function pastFilter(settings, data, dataIndex) {
     
+    
+    //filter only for the "currentConf/School" tab
+    if (settings.sInstance === "") {
+        console.error("Strange error, check if datatable has changed the sInstance attribute name")
+        return false;
+    }
+    if (settings.sInstance !== "confCurrent" && settings.sInstance !== "schoolCurrent") {
+        return true;
+    }
+    
+    
     let showPast = settings["_buttons"][0]["inst"]["s"]["buttons"][0]["node"].classList.contains("btn-info");
     
     if (showPast || (! data[3]) ) {
@@ -63,6 +74,16 @@ function pastFilter(settings, data, dataIndex) {
 }
 
 function pastDeadlineFilter(settings, data, dataIndex) {
+    
+    //filter only for the "currentConf/School" tab
+    if (settings.sInstance === "") {
+        console.error("Strange error, check if datatable has changed the sInstance attribute name")
+        return false;
+    }
+    if (settings.sInstance !== "confCurrent" && settings.sInstance !== "schoolCurrent") {
+        return true;
+    }
+    
                 
     let showPastDeadline = settings["_buttons"][0]["inst"]["s"]["buttons"][1]["node"].classList.contains("btn-info");
     

@@ -8,6 +8,9 @@
     <meta name="google-site-verification" content="4JC7EJ-1Ct_HZ1ux1gnHOytzrAzDi3yggoVSJ1qz6mU" />
     <meta name="msvalidate.01" content="F19304186CE5280F45A02F988A3CE3C0" />
     
+    <!--  FAVICON    -->
+    <link rel="icon" type="image/x-icon" href="images/robot.svg">
+
     <!-- JQUERY-->
     <script src="https://code.jquery.com/jquery-3.6.4.min.js" 
         integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" 
@@ -53,13 +56,18 @@
 
 <body>
 
-<h1 id="mainTitle" style="text-align:center">Awesome Robotics Conferences List</h1>
+<h1 id="mainTitle" style="text-align:center">Awesome Robotics Conferences and Schools List</h1>
+<h3 style="text-align:center; margin-bottom:30px;margin-top:25px">Choose your list:</h1>
 
-<div class="d-flex justify-content-center">
-  <button id="mainConfBtn" class="btn btn-secondary btn-lg" type="button" onclick="mainConfBtnClick()" style="width: 20%;">Conferences</button>
-  <span style="width: 3%;"></span>
-  <button id="mainSchoolBtn" class="btn btn-secondary btn-lg" type="button" onclick="mainSchoolBtnClick()" style="width: 20%;">Schools</button>
+
+<div class="d-flex justify-content-center mb-3">
+    <button id="mainConfBtn" class="btn btn-secondary btn-lg col-md-4 col-lg-3" type="button" onclick="mainConfBtnClick()">Conferences</button>
+    <div class="col-1"></div>
+    <button id="mainSchoolBtn" class="btn btn-secondary btn-lg col-md-4 col-lg-3" type="button" onclick="mainSchoolBtnClick()">Schools</button>
 </div>
+
+<p style="margin-bottom:45px;"></p>
+
 
 <div id="footer"></div>
 

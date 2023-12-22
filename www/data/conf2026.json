@@ -1,0 +1,28 @@
+[
+  {
+    "shortName": "ICRA",
+    "name": "IEEE International Conference on Robotics and Automation",
+    "start": "2026",
+    "end": "2026",
+    "deadline": "",
+    "city": "Wien",
+    "country": "Austria",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
+    "shortName": "IROS",
+    "name": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
+    "start": "2026",
+    "end": "2026",
+    "deadline": "",
+    "city": "TBD",
+    "country": "USA",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  }
+]

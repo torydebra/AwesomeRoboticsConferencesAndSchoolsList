@@ -17,7 +17,7 @@ jobs:
       - name: Run IEEE_scraper
         id: scraper
         run: |
-            python IEEE_scraper.py
+            python script/IEEE_scraper.py
         continue-on-error: true
 
       - name: Create Pull Request

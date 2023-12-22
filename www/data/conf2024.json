@@ -26,6 +26,19 @@
     "note": ""
   },
   {
+    "shortName": "ICAACE",
+    "name": "7th International Conference on Advanced Algorithms and Control Engineering",
+    "start": "2024-01-26",
+    "end": "2024-01-28",
+    "deadline": "",
+    "city": "Shanghai",
+    "country": "China",
+    "link": "http://www.icaace.net/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/kp2XkdVwoqvXCpt66",
+    "note": "The 2024 7th International Conference on Advanced Algorithms and Control Engineering (ICAACE 2024) will be held on January 26-28, 2024 in Shanghai, China. ICAACE 2024 is to bring together innovative academics and industrial experts in the field of advanced algorithms and control engineering to a common forum. The primary goal of the conference is to promote research and developmental activities in advanced algorithms and control engineering. And another goal is to promote scientific information interchange between researchers, developers, engineers, students, and practitioners working all around the world."
+  },
+  {
     "shortName": "ICARA",
     "name": "International Conference on Automation, Robotics, and Applications",
     "start": "2024-02-22",
@@ -37,6 +50,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/5CEAPh7Z38ogo3547",
     "note": "The 10th International Conference on Automation, Robotics, and Applications (ICARA 2024) provides a platform for researchers, engineers, and industry professionals to exchange knowledge, share research findings, and discuss the latest advancements in the field. The conference aims to foster collaboration and innovation in automation and robotics, covering a wide range of topics including autonomous systems, control algorithms, intelligent robots, machine vision, human-robot interaction, and applications in various industries."
+  },
+  {
+    "shortName": "ICMCR",
+    "name": "2nd International Conference on Mechatronics, Control and Robotics",
+    "start": "2024-02-27",
+    "end": "2024-02-29",
+    "deadline": "",
+    "city": "Jeju",
+    "country": "Korea (South)",
+    "link": "http://www.icmcr.org",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/WNLxgDYYTKbRY7xj6",
+    "note": "ICMCR 2024 is designed not merely as a conference, but as a crucible for innovation. It aims to bring together a melange of researchers, practitioners, and professionals from the industry, academia, and government. This unique amalgamation ensures a holistic understanding of the subject matter, where theoretical foundations meet practical applications."
   },
   {
     "shortName": "ICMRE",
@@ -156,6 +182,19 @@
     "note": ""
   },
   {
+    "shortName": "ICICR",
+    "name": "International Conference on Intelligent Computing and Robotics",
+    "start": "2024-04-12",
+    "end": "2024-04-14",
+    "deadline": "",
+    "city": "Dalian",
+    "country": "China",
+    "link": "http://www.icrconf.com/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/ZLURamWdffPSbZSm6",
+    "note": "2024 International Conference on Intelligent Computing and Robotics (ICICR2024) will be held in Dalian during April 12-14, 2024. This conference will provide an international forum for researchers, academicians, professionals, and students from Intelligent Computing and Robotics and other related fields to interact and disseminate information on the latest developments. On behalf of our committee, we invite you to join us for an outstanding ICICR2024 conference and we look forward to meeting you in Dalian next April!"
+  },
+  {
     "shortName": "ROBOSOFT",
     "name": "IEEE International Conference on Soft Robotics ",
     "start": "2024-04-14",
@@ -182,6 +221,58 @@
     "note": "SEAMS is a CORE-A ranked conference that applies software engineering methods, techniques, processes, and tools to support the construction of safe, performant, and cost-effective self-adaptive and autonomous systems that provide self-* properties like self-configuration, self-healing, self-optimization, and self-protection."
   },
   {
+    "shortName": "ICCCR",
+    "name": "4th International Conference on Computer, Control and Robotics",
+    "start": "2024-04-19",
+    "end": "2024-04-21",
+    "deadline": "",
+    "city": "Shanghai",
+    "country": "China",
+    "link": "http://www.icccr.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/mC4kUeQJHvEoxPgo8",
+    "note": "The boundaries between Computer Science, Control Technologies, and Robotics are continuing to be connected. Computers are humanized and a large number of cyber-physical systems are being developed to act upon the physical world. Control technologies provide the basic tools used by robot creators to identify strategies, and optimizers to achieve the goals of the robotic enterprise. Robotic are versatile computing machines with high social impact potential, such as enhance transportation safety, reduce agricultural pesticide use, and improve public safety and crime-fighting efficacy, among other things."
+  },
+  {
+    "shortName": "AIRC",
+    "name": "5th International Conference on Artificial Intelligence, Robotics and Control",
+    "start": "2024-04-22",
+    "end": "2024-04-24",
+    "deadline": "",
+    "city": "El Sherouk City",
+    "country": "Egypt",
+    "link": "http://www.airc.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/a144TqTLQ1PrFdXD6",
+    "note": "AIRC 2024 aims to serve as a vibrant forum for scholars, researchers, and engineers to present groundbreaking research, share innovative ideas, and foster meaningful collaborations. We are excited to offer this unique platform for knowledge exchange and professional networking, all set against the backdrop of Cairo's rich cultural tapestry and historical grandeur."
+  },
+  {
+    "shortName": "ICCAR",
+    "name": "10th International Conference on Control, Automation and Robotics",
+    "start": "2024-04-27",
+    "end": "2024-04-29",
+    "deadline": "",
+    "city": "Orchard District",
+    "country": "Singapore",
+    "link": "http://www.iccar.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/GYEsVuZRTWbQEdNh6",
+    "note": "This conference will deeply explore the research status and developmental trends in the fields of intelligent robots, automation, control science, and signal processing from both theoretical and practical perspectives. We will offer a comprehensive, high-quality technical program, featuring six special sessions, and provide delegates with the opportunity to connect and network with accomplished professionals from around the world."
+  },
+  {
+    "shortName": "ICCRE",
+    "name": "9th International Conference on Control and Robotics Engineering",
+    "start": "2024-05-10",
+    "end": "2024-05-12",
+    "deadline": "",
+    "city": "Osaka",
+    "country": "Japan",
+    "link": "http://www.iccre.org",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/mQuPUKVvhybKbrHx9",
+    "note": "We are thrilled to announce that the ICCRE conference in Osaka, Japan is back! Building upon the success of previous years, we are confident that this year's event will be even more remarkable and rewarding. On behalf of the organizing committee, we extend a heartfelt invitation to you. Come join us at ICCRE 2024 and be a part of the excitement and innovation that awaits in beautiful Osaka!"
+  },
+  {
     "shortName": "ICHMS",
     "name": " International Conference on Human-Machine Systems",
     "start": "2024-05-15",
@@ -192,7 +283,7 @@
     "link": "https://ichms.blog.torontomu.ca/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/Y7pSnqewub9d2pw86",
-    "note": "The theme of the 4th ICHMS is “Trustworthy Human-Autonomy Teaming”. The conference will cover progress and contributions on brain-inspired autonomous systems at multiple scales, including cognitive science, engineering, and design for safe and trusted human-autonomy teaming; technological aids for verifiable artificial intelligence (AI) decisions; trust modeling, measures, and management, and fundamental issues of trust and barriers to adoption of AI-enabled autonomy in complex socio-technical systems."
+    "note": "The theme of the 4th ICHMS is \u201cTrustworthy Human-Autonomy Teaming\u201d. The conference will cover progress and contributions on brain-inspired autonomous systems at multiple scales, including cognitive science, engineering, and design for safe and trusted human-autonomy teaming; technological aids for verifiable artificial intelligence (AI) decisions; trust modeling, measures, and management, and fundamental issues of trust and barriers to adoption of AI-enabled autonomy in complex socio-technical systems."
   },
   {
     "shortName": "ICRA",
@@ -312,6 +403,19 @@
     "note": "MED 2024 extends across four full days, and it is organized under the auspices of the Technical University of Crete. On June 11, the focus will be on Tutorials and Workshops, while the subsequent three days, June 12-14, will comprise the technical conference. Aligning with the current trend of merging control and systems theory with hardware/software and communication technologies, the conference will explore advancements in robotics and unmanned systems, autonomous systems, mechatronics, cyber-physical systems, and network-controlled systems. These topics of interest aim to foster collaboration between control and automation scientists and industry professionals."
   },
   {
+    "shortName": "ReMAR",
+    "name": "6th International Conference on Reconfigurable Mechanisms and Robots",
+    "start": "2024-06-24",
+    "end": "2024-06-26",
+    "deadline": "2024-01-30",
+    "city": "Chicago",
+    "country": "IL USA",
+    "link": "http://web.cvent.com/event/bd1bd184-001d-4395-b097-51389324c186/summary",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "UR",
     "name": "International Conference on Ubiquitous Robots",
     "start": "2024-06-24",
@@ -323,6 +427,19 @@
     "type": "Conference",
     "addressLink": "https://goo.gl/maps/77je5mnezqEy6rjn9",
     "note": "Since its inception in 2004, Ubiquitous Robots has now established itself as a leading mid-size robotics conference, bringing together robotics researchers from around the world who share the vision that robots, like mobile phones, will become ubiquitous in our daily lives, and help connect and empower humans"
+  },
+  {
+    "shortName": "RCAR",
+    "name": "IEEE International Conference on Real-time Computing and Robotics",
+    "start": "2024-06-24",
+    "end": "2024-06-28",
+    "deadline": "",
+    "city": "\u00c5lesund",
+    "country": "Norway",
+    "link": "http://www.ieee-rcar.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   },
   {
     "shortName": "iSpaRo",
@@ -348,7 +465,7 @@
     "link": "http://2024.eurohaptics.org/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/u2ypk9Xpxw58nYN17",
-    "note": "We are excited to announce that this year, we are organizing a dedicated “Art/Design” track, providing a unique opportunity to explore the intersection of haptics with creativity and design. Furthermore, we are committed to strengthening our ties with industrial partners. Eurohaptics 2024 will feature job dating sessions and an industry forum, facilitating meaningful connections between academia and industry, and fostering collaborative opportunities that drive haptic technology forward."
+    "note": "We are excited to announce that this year, we are organizing a dedicated \u201cArt/Design\u201d track, providing a unique opportunity to explore the intersection of haptics with creativity and design. Furthermore, we are committed to strengthening our ties with industrial partners. Eurohaptics 2024 will feature job dating sessions and an industry forum, facilitating meaningful connections between academia and industry, and fostering collaborative opportunities that drive haptic technology forward."
   },
   {
     "shortName": "ARK",
@@ -361,7 +478,7 @@
     "link": "https://ark2024.org/",
     "type": "Conference",
     "addressLink": "https://goo.gl/maps/hyTLcxi4YkuATe9D7",
-    "note": "ARK – Advances in Robot Kinematics is a boutique robotics international series of symposia. My first idea to organize a specialized conference on robot kinematics dates back to 1986. The initial supporters of this idea were scientists of the highest reputation, such as B. Roth, O. Khatib, K. Waldron, J. Angeles, V. Parenti-Castelli, M. McCarthy, M. Stanisic, B. Siciliano and others. At the first symposium, which I organized in Ljubljana in 1988, we agreed that we would organize ARK symposia every two years in the area of the Mediterranean and the Alps. So far, 18 symposia have been held. The proceedings are published in the form of edited books, which have been published by Springer (initially Kluwer) from the very beginning."
+    "note": "ARK \u2013 Advances in Robot Kinematics is a boutique robotics international series of symposia. My first idea to organize a specialized conference on robot kinematics dates back to 1986. The initial supporters of this idea were scientists of the highest reputation, such as B. Roth, O. Khatib, K. Waldron, J. Angeles, V. Parenti-Castelli, M. McCarthy, M. Stanisic, B. Siciliano and others. At the first symposium, which I organized in Ljubljana in 1988, we agreed that we would organize ARK symposia every two years in the area of the Mediterranean and the Alps. So far, 18 symposia have been held. The proceedings are published in the form of edited books, which have been published by Springer (initially Kluwer) from the very beginning."
   },
   {
     "shortName": "WCCI",
@@ -374,7 +491,7 @@
     "link": "https://2024.ieeewcci.org/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/yszuyXNLtedtuZqV6",
-    "note": "IEEE WCCI 2024 is the world’s largest technical event on computational intelligence, featuring the three flagship conferences of the IEEE Computational Intelligence Society (CIS) under one roof: The International Joint Conference on Neural Networks (IJCNN), the IEEE International Conference on Fuzzy Systems (FUZZ-IEEE) and the IEEE Congress on Evolutionary Computation (IEEE CEC)."
+    "note": "IEEE WCCI 2024 is the world\u2019s largest technical event on computational intelligence, featuring the three flagship conferences of the IEEE Computational Intelligence Society (CIS) under one roof: The International Joint Conference on Neural Networks (IJCNN), the IEEE International Conference on Fuzzy Systems (FUZZ-IEEE) and the IEEE Congress on Evolutionary Computation (IEEE CEC)."
   },
   {
     "shortName": "RoMoCo",
@@ -382,11 +499,24 @@
     "start": "2024-07-02",
     "end": "2024-07-04",
     "deadline": "2024-01-26",
-    "city": "Poznań",
+    "city": "Pozna\u0144",
     "country": "Poland",
     "link": "http://romoco.put.poznan.pl/",
     "type": "Conference",
     "addressLink": "https://goo.gl/maps/Y2iUaZheQbh2pNMq5",
+    "note": ""
+  },
+  {
+    "shortName": "ICARM",
+    "name": "International Conference on Advanced Robotics and Mechatronics",
+    "start": "2024-07-06",
+    "end": "2024-07-08",
+    "deadline": "",
+    "city": "Tokyo",
+    "country": "Japan",
+    "link": "http://www.ieee-arm.org/",
+    "type": "Conference",
+    "addressLink": "",
     "note": ""
   },
   {
@@ -453,6 +583,32 @@
     "type": "Conference"
   },
   {
+    "shortName": "COINS",
+    "name": "IEEE International Conference on Omni-layer Intelligent Systems",
+    "start": "2024-07-29",
+    "end": "2024-07-31",
+    "deadline": "2024-04-12",
+    "city": "London",
+    "country": "United Kingdom",
+    "link": "http://coinsconf.com/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/hdknrz84vwTZwGo3A",
+    "note": "Are you interested in taking part in shaping and adding new dimensions to the future IoT and AI ecosystem? are you seeking to harness the opportunities afforded by the tsunami of new technologies? Do you want to stay ahead and learn about the biggest digital technologies that are radically shifting the paradigm? or just curious about what IoT, AI, Big Data are all about and how they impact every aspect of our life, society, and business? IEEE COINS (https://coinsconf.com/) is the right place to be. IEEE COINS brings together experts in Digital Transformation (from AI and IoT to Cloud, Blockchain, Cybersecurity, and Robotics) from around the globe. IEEE COINS includes a multi-disciplinary program from technical research papers, to panels, workshops, and tutorials on the latest technology developments and innovations addressing all important aspects of the IoT & AI ecosystem."
+  },
+  {
+    "shortName": "ICOM",
+    "name": "9th International Conference on Mechatronics Engineering",
+    "start": "2024-08-13",
+    "end": "2024-08-14",
+    "deadline": "",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "link": "http://conference.iium.edu.my/icom/index.php/home/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": "The 9th International Conference on Mechatronics Engineering (ICOM’24) is a series of conference organized by the Kulliyyah of Engineering, International Islamic University Malaysia (IIUM) and Mechatronics Engineering Department, as a part of IIUM Engineering Congress (IEC) 2024. ICOM ’24 focuses on bringing together researchers, experts and practitioners to address the latest trends and technologies in the multifaceted field of Mechatronics Engineering"
+  },
+  {
     "shortName": "ROMAN",
     "name": "IEEE International Conference on Robot and Human Interactive Communication",
     "start": "2024-08-26",
@@ -464,6 +620,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/D646QunkfhL3yDWR7",
     "note": "With the continuous technological effort of understanding human needs, creating human-desired robotic systems, and developing real human user experiences, we are marching together towards building a promising and excellent human quality of life, all for our wellness and our next generation. The conference provides a forum for researchers and practitioners to discuss a variety of topics related to the broad theme of Robot and Human Interactive Communication involving theories, methodologies, technologies, empirical and experimental studies, and generate more insights for the future of Robot and Human Interactive Communication!"
+  },
+  {
+    "shortName": "ICAC",
+    "name": "29th International Conference on Automation and Computing",
+    "start": "2024-08-28",
+    "end": "2024-08-30",
+    "deadline": "",
+    "city": "United Kingdom",
+    "country": "",
+    "link": "http://www.cacsuk.co.uk/index.php/conferences",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   },
   {
     "shortName": "CASE",
@@ -575,7 +744,7 @@
     "start": "2024-11-11",
     "end": "2024-11-13",
     "deadline": "2024-06-09",
-    "city": "Malé",
+    "city": "Mal\u00e9",
     "country": "Maldives",
     "link": "http://www.iceccme.com/home",
     "type": "Conference",

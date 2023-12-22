@@ -2,6 +2,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Deploy static content to Pages](https://github.com/torydebra/AwesomeRoboticsConferencesAndSchoolsList/actions/workflows/static.yml/badge.svg)](https://github.com/torydebra/AwesomeRoboticsConferencesAndSchoolsList/actions/workflows/static.yml)
 [![Validate JSONs](https://github.com/torydebra/AwesomeRoboticsConferencesAndSchoolsList/actions/workflows/validateJson.yml/badge.svg)](https://github.com/torydebra/AwesomeRoboticsConferencesAndSchoolsList/actions/workflows/validateJson.yml)
+[![Scraping IEEE-RAS Conferences](https://github.com/torydebra/AwesomeRoboticsConferencesAndSchoolsList/actions/workflows/IEEEScraper.yml/badge.svg)](https://github.com/torydebra/AwesomeRoboticsConferencesAndSchoolsList/actions/workflows/IEEEScraper.yml)
 
 # AwesomeRoboticsConferencesAndSchoolsList
 

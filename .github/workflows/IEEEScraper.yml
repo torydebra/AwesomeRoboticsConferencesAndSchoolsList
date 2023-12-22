@@ -1,0 +1,34 @@
+name: Scaping IEEE-RAS Conferences
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  update-conferences:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+            python-version: '3.x'
+
+      - name: Run IEEE_scraper
+        id: scraper
+        run: |
+            python IEEE_scraper.py
+        continue-on-error: true
+
+      - name: Create Pull Request
+        if: ${{ steps.scraper.outcome == 'success' }}
+        uses: peter-evans/create-pull-request@v5
+        with:
+            commit-message: Scraped IEEE-RAS Conferences
+            title: I found new Conferences from IEEE-RAS Website!
+            body: |
+              - Please check my modification before merging!
+            branch: scrape-ieee-ras-conferences
+            add-paths: www/data/conf*.json
+            reviewers: 'torydebra'
+            assignees: 'torydebra'

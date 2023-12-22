@@ -78,92 +78,100 @@ def create_conference(row):
     return Conference(shortName[1:-1], name, start, end, deadline, city, country, link, "Conference", "", "", year)
 
 
+def main():
+    # Send a GET request to the webpage
+    url = "https://www.ieee-ras.org/conferences-workshops/upcoming-conferences"
+    response = requests.get(url)
 
-# Send a GET request to the webpage
-url = "https://www.ieee-ras.org/conferences-workshops/upcoming-conferences"
-response = requests.get(url)
-
-# Parse the HTML content using BeautifulSoup
-soup = BeautifulSoup(response.text, 'html.parser')
-#print(soup)
-confs = soup.find_all(attrs={'class':'conf-full-item'})
-#print(confs)
+    # Parse the HTML content using BeautifulSoup
+    soup = BeautifulSoup(response.text, 'html.parser')
+    #print(soup)
+    confs = soup.find_all(attrs={'class':'conf-full-item'})
+    #print(confs)
 
 
-json_confs_dict = {}
-json_file_to_update = {}
+    json_confs_dict = {}
+    json_file_to_update = {}
 
-# Parse all www/data/conf***.json files
-json_files = glob.glob("../www/data/conf*.json")
-#print(json_files)
-existent_confs_dict = {}
-for file in json_files:
-    with open(file, 'r') as f:
-        
-        year = file.split("conf")[1].split(".json")[0]
-
-        json_confs = json.load(f)
-        json_confs_dict[year] = json_confs
-        json_file_to_update[year] =  False
-
-        #print(json_confs)
-        for json_conf in json_confs:
-            #print(json_conf)
-            #print(json_conf['shortName'])
-
-            if year in existent_confs_dict:
-                existent_confs_dict[year][json_conf['shortName'].upper()] = json_conf
-            else:
-                existent_confs_dict[year] = {json_conf['shortName'].upper(): json_conf}
-
-offset_insertion = 0 
-for row in confs:
-    scraped_conf = create_conference(row)
-
-    if not (scraped_conf.shortName.upper() in existent_confs_dict[scraped_conf.year]):
-        print("non ceee ", scraped_conf.shortName, scraped_conf.year)
-        json_file_to_update[scraped_conf.year] = True
-
-        index_to_insert = 0
-        #to keep track of the inserted one, since we can not updated existent_confs_dict inserting in "the middle"
-        #so this is the offset to add to the index_to_insert
-        for shortName, conf in existent_confs_dict[scraped_conf.year].items():
-            conf_date_start = datetime.strptime(conf['start'], '%Y-%m-%d')
-            scraped_conf_date_start = datetime.strptime(scraped_conf.start, '%Y-%m-%d')
-            #print(conf_date_start)
-            #print(scraped_conf_date_start)
-
-            if (conf_date_start < scraped_conf_date_start):
-                index_to_insert += 1
-
-            elif (conf_date_start == scraped_conf_date_start):
-                conf_date_end = datetime.strptime(conf['end'], '%Y-%m-%d')
-                scraped_conf_date_end = datetime.strptime(scraped_conf.end, '%Y-%m-%d')
-
-                if (conf_date_end < scraped_conf_date_end):
-                    #must be put after, otherwise it will be put before
-                    index_to_insert += 1
+    # Parse all www/data/conf***.json files
+    json_files = glob.glob("../www/data/conf*.json")
+    #print(json_files)
+    existent_confs_dict = {}
+    for file in json_files:
+        with open(file, 'r') as f:
             
-                # do not consider the case when two conf has the same init date, and different end date... not so important having so detailed order
-                break
+            year = file.split("conf")[1].split(".json")[0]
 
-            else:   
-                break
+            json_confs = json.load(f)
+            json_confs_dict[year] = json_confs
+            json_file_to_update[year] =  False
 
-        json_confs_dict[scraped_conf.year].insert(index_to_insert+offset_insertion, scraped_conf.as_dict())
-        offset_insertion += 1
+            #print(json_confs)
+            for json_conf in json_confs:
+                #print(json_conf)
+                #print(json_conf['shortName'])
+                if year in existent_confs_dict:
+                    existent_confs_dict[year][json_conf['shortName'].upper()] = json_conf
+                else:
+                    existent_confs_dict[year] = {json_conf['shortName'].upper(): json_conf}
 
-#dump on file
-for year, json_confs in json_confs_dict.items():
-    json_file_path = "../www/data/conf" + year + ".json"
+    offset_insertion = 0 
+    for row in confs:
+        scraped_conf = create_conference(row)
 
-    if json_file_to_update[year]:
-        with open(json_file_path, 'w') as file:
-            json.dump(json_confs, file, indent=2)  
-            file.close()
-            print("Updated file: ", json_file_path)
-    else:
-        print("No update for file: ", json_file_path)
+        if not (scraped_conf.shortName.upper() in existent_confs_dict[scraped_conf.year]):
+            print("Adding ", scraped_conf.shortName, scraped_conf.year)
+            json_file_to_update[scraped_conf.year] = True
+
+            index_to_insert = 0
+            #to keep track of the inserted one, since we can not updated existent_confs_dict inserting in "the middle"
+            #so this is the offset to add to the index_to_insert
+            for shortName, conf in existent_confs_dict[scraped_conf.year].items():
+                conf_date_start = datetime.strptime(conf['start'], '%Y-%m-%d')
+                scraped_conf_date_start = datetime.strptime(scraped_conf.start, '%Y-%m-%d')
+                #print(conf_date_start)
+                #print(scraped_conf_date_start)
+
+                if (conf_date_start < scraped_conf_date_start):
+                    index_to_insert += 1
+
+                elif (conf_date_start == scraped_conf_date_start):
+                    conf_date_end = datetime.strptime(conf['end'], '%Y-%m-%d')
+                    scraped_conf_date_end = datetime.strptime(scraped_conf.end, '%Y-%m-%d')
+
+                    if (conf_date_end < scraped_conf_date_end):
+                        #must be put after, otherwise it will be put before
+                        index_to_insert += 1
+                
+                    # do not consider the case when two conf has the same init date, and different end date... not so important having so detailed order
+                    break
+
+                else:   
+                    break
+
+            json_confs_dict[scraped_conf.year].insert(index_to_insert+offset_insertion, scraped_conf.as_dict())
+            offset_insertion += 1
+
+    updated = False
+    #dump on file
+    for year, json_confs in json_confs_dict.items():
+        json_file_path = "../www/data/conf" + year + ".json"
+
+        if json_file_to_update[year]:
+            with open(json_file_path, 'w') as file:
+                json.dump(json_confs, file, indent=2)  
+                file.close()
+                print("Updated file: ", json_file_path)
+                updated = True
+        else:
+            print("No update for file: ", json_file_path)
+    
+    return updated
+
+if __name__ == "__main__":
+    import sys
+    result = main()
+    sys.exit(0 if result else 1)
 
 
 

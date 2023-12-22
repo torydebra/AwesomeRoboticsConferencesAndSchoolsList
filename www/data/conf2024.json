@@ -409,11 +409,11 @@
     "end": "2024-06-26",
     "deadline": "2024-01-30",
     "city": "Chicago",
-    "country": "IL USA",
+    "country": "USA",
     "link": "http://web.cvent.com/event/bd1bd184-001d-4395-b097-51389324c186/summary",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/W5gMPaLtDEj8Vx666",
+    "note": "Following successful completion in London (2009), Tianjin (2012), Beijing (2015), Delft (2018), and Toronto (2021), the 6th IEEE/IFToMM International conference on Reconfigurable Mechanisms and Robots (ReMAR2024) will be held in Chicago, US, on June 24‐27, 2024. We aim at a highly inspiring event by bringing together researchers from a variety of research areas pertaining to reconfigurable mechanisms and robots."
   },
   {
     "shortName": "UR",
@@ -627,11 +627,11 @@
     "start": "2024-08-28",
     "end": "2024-08-30",
     "deadline": "",
-    "city": "United Kingdom",
-    "country": "",
+    "city": "Sunderland",
+    "country": "United Kingdom",
     "link": "http://www.cacsuk.co.uk/index.php/conferences",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/h6EYEBh1r8iMUJoNA",
     "note": ""
   },
   {

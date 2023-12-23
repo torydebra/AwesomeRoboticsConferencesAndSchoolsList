@@ -609,6 +609,18 @@
     "note": "The 9th International Conference on Mechatronics Engineering (ICOM’24) is a series of conference organized by the Kulliyyah of Engineering, International Islamic University Malaysia (IIUM) and Mechatronics Engineering Department, as a part of IIUM Engineering Congress (IEC) 2024. ICOM ’24 focuses on bringing together researchers, experts and practitioners to address the latest trends and technologies in the multifaceted field of Mechatronics Engineering"
   },
   {
+    "shortName": "RP",
+    "name": "Robophilosophy Conference",
+    "start": "2024-08-20",
+    "end": "2024-08-23",
+    "deadline": "2024-02-15",
+    "city": "Aarhus",
+    "country": "Denmark",
+    "link": "https://cas.au.dk/en/robophilosophy/conferences/rpc2024",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/h14yvWGgm6Zwxpgc6",
+    "note": "The aim of the international research conference RP2024 is to address the deep and far-reaching questions raised by recent advances in AI on the basis of the required research expertise.  RP2024 will  bring together international researchers from all relevant disciplines, from social robotics and AI research, but especially also from Humanities and social science research in HRI (Human-Robot Interact research).  The special ambition of RP2024 is to produce actionable knowledge based on professional engagement of the foundational issues—only in this fashion we can move beyond well-intentioned proclamations and address the expectable socio-cultural transformations of societies by social robotics in a responsible fashion"},
+  {
     "shortName": "ROMAN",
     "name": "IEEE International Conference on Robot and Human Interactive Communication",
     "start": "2024-08-26",

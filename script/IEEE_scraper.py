@@ -1,5 +1,5 @@
 import requests
-from datetime import datetime
+from datetime import datetime, timezone
 from bs4 import BeautifulSoup
 import json
 import glob
@@ -55,8 +55,8 @@ def create_conference(row):
 
     conf_date = row.find(attrs={'class':'conf-date'}).span['title']
     conf_date_split = conf_date[1:].split('-')
-    start = datetime.utcfromtimestamp(int(conf_date_split[0])).strftime('%Y-%m-%d')
-    end = datetime.utcfromtimestamp(int(conf_date_split[1])).strftime('%Y-%m-%d')
+    start = datetime.fromtimestamp(int(conf_date_split[0]), timezone.utc).strftime('%Y-%m-%d')
+    end = datetime.fromtimestamp(int(conf_date_split[1]), timezone.utc).strftime('%Y-%m-%d')
 
     #deadline
     deadline = ""
@@ -64,7 +64,7 @@ def create_conference(row):
     if abstract_date_element:
       title_attribute = abstract_date_element.find('span', {'title': True})
       timestamp = title_attribute['title'].replace('abs', '')
-      deadline = datetime.utcfromtimestamp(int(timestamp)).strftime('%Y-%m-%d')
+      deadline = datetime.fromtimestamp(int(timestamp), timezone.utc).strftime('%Y-%m-%d')
 
     #print(name)
     # print(year)

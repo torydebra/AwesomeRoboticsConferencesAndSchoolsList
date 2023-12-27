@@ -119,6 +119,7 @@ const countryList = {
   Kiribati: 'KI',
   Korea: 'KR',
   'South Korea': 'KR',
+  'Korea (South)': 'KR',
   Kuwait: 'KW',
   Kyrgyzstan: 'KG',
   "Lao People's Democratic Republic": 'LA',

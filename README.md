@@ -2,6 +2,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Deploy static content to Pages](https://github.com/torydebra/AwesomeRoboticsConferencesAndSchoolsList/actions/workflows/static.yml/badge.svg)](https://github.com/torydebra/AwesomeRoboticsConferencesAndSchoolsList/actions/workflows/static.yml)
 [![Validate JSONs](https://github.com/torydebra/AwesomeRoboticsConferencesAndSchoolsList/actions/workflows/validateJson.yml/badge.svg)](https://github.com/torydebra/AwesomeRoboticsConferencesAndSchoolsList/actions/workflows/validateJson.yml)
+[![Scraping IEEE-RAS Conferences](https://github.com/torydebra/AwesomeRoboticsConferencesAndSchoolsList/actions/workflows/IEEEScraper.yml/badge.svg)](https://github.com/torydebra/AwesomeRoboticsConferencesAndSchoolsList/actions/workflows/IEEEScraper.yml)
 
 # AwesomeRoboticsConferencesAndSchoolsList
 
@@ -50,5 +51,6 @@ Distributed under the GLP-3.0 License. See `LICENSE.md` for more information.
 * [checkout-files](https://github.com/Bhacaz/checkout-files) Checkout only certain files
 * [html-preview-action](https://github.com/pavi2410/html-preview-action) 
 * [comment-pull-request](https://github.com/thollander/actions-comment-pull-request) Commenting PR and putting rocket reaction :rocket:
+* [create-pull-request](https://github.com/marketplace/actions/create-pull-request) Commit, open PR, and wait for the human to review it
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

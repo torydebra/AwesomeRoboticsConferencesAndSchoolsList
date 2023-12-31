@@ -498,13 +498,13 @@
     "name": "10th International Conference on Control, Decision and Information Technologies",
     "start": "2024-07-01",
     "end": "2024-07-04",
-    "deadline": "",
-    "city": "Vallette",
+    "deadline": "2024-02-03",
+    "city": "Valetta",
     "country": "Malta",
-    "link": "",
+    "link": "https://codit2024.com/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/2B3g2HmRYDsZkBwYA",
+    "note": "CoDIT 2024 will be held 01-04 July, 2024 at Valetta, Malta. Its purpose is to be a forum for technical exchange amongst scientists having interests in Control, Automation, Robotics, Optimization, Decision, Cybernetics, Computer Science and Information Technologies. This conference will provide a remarkable opportunity for the academic and industrial communities to address new challenges, share solutions and discuss future research directions. The technical program will include plenary lectures, regular technical sessions, and special sessions."
   },
   {
     "shortName": "RoMoCo",
@@ -594,8 +594,8 @@
     "country": "Korea (South)",
     "link": "http://cacre.org/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/XAEyS3MmQMWGrdyy8",
+    "note": "The CACRE has been held for eight years since 2016, attracting scholars and students from all over the world. The CACRE 2024 conference will provide a wonderful forum for you to update your knowledge base and explore the innovations in Automation, Control and Robotics Engineering. The conference will strive to offer you plenty of networking opportunities to meet and interact with the leading scientists, engineers and researchers, friends and colleagues as well as sponsors and exhibitors."
   },
   {
     "shortName": "ICML",
@@ -645,7 +645,7 @@
     "link": "https://cas.au.dk/en/robophilosophy/conferences/rpc2024",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/h14yvWGgm6Zwxpgc6",
-    "note": "The aim of the international research conference RP2024 is to address the deep and far-reaching questions raised by recent advances in AI on the basis of the required research expertise.  RP2024 will  bring together international researchers from all relevant disciplines, from social robotics and AI research, but especially also from Humanities and social science research in HRI (Human-Robot Interact research).  The special ambition of RP2024 is to produce actionable knowledge based on professional engagement of the foundational issues\u2014only in this fashion we can move beyond well-intentioned proclamations and address the expectable socio-cultural transformations of societies by social robotics in a responsible fashion"
+    "note": "The aim of the international research conference RP2024 is to address the deep and far-reaching questions raised by recent advances in AI on the basis of the required research expertise.  RP2024 will  bring together international researchers from all relevant disciplines, from social robotics and AI research, but especially also from Humanities and social science research in HRI (Human-Robot Interact research). The special ambition of RP2024 is to produce actionable knowledge based on professional engagement of the foundational issues\u2014only in this fashion we can move beyond well-intentioned proclamations and address the expectable socio-cultural transformations of societies by social robotics in a responsible fashion"
   },
   {
     "shortName": "ROMAN",
@@ -665,13 +665,13 @@
     "name": "28th International Conference on Methods and Models in Automation and Robotics",
     "start": "2024-08-27",
     "end": "2024-08-30",
-    "deadline": "",
+    "deadline": "2024-03-04",
     "city": "Miedzyzdroje",
     "country": "Poland",
     "link": "http://www.mmar.edu.pl",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/FtqULC6GZnZgJCAQ9",
+    "note": "The participants of the 28th International MMAR Conference will have the opportunity to take part in the wide spectrum of categories for technical presentations, including plenary lectures, regular papers of both lecture and poster session types. We look forward to seeing our old and new friends in Poland. You are kindly invited to participate in the 28th International MMAR Conference in Miedzyzdroje, Poland."
   },
   {
     "shortName": "ICAC",

@@ -35,5 +35,4 @@ jobs:
               - Please check my modification before merging!
             branch: scrape-ieee-ras-conferences
             add-paths: www/data/conf*.json
-            reviewers: 'torydebra'
             assignees: 'torydebra'

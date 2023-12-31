@@ -383,7 +383,7 @@ function dateRenderDeadline(data, type, row, meta) {
         if (data) {
             const date = luxon.DateTime.fromFormat(data, "y-MM-dd");
             
-            return date.toFormat('d MMM y');
+            return date.toFormat('d MMM yy');
         }
     }
 

@@ -37,6 +37,7 @@ var dataTableColumnsConf = [
         data: "deadline",
         title: "Deadline",
         render: dateRenderDeadline,
+        className: 'dateCol',
         defaultContent: "",
         responsivePriority: 6,
     },

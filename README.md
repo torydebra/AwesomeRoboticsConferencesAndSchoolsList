@@ -29,6 +29,18 @@ See [Contributing](https://github.com/torydebra/AwesomeRoboticsConferencesAndSch
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Sources
+- [Robotics worldwide mailing list](https://www.lists.kit.edu/sympa/info/robotics-worldwide)
+- [Eurobotics mailing list](https://old.eu-robotics.net/eurobotics/activities/mailing-list.html)
+- [IEEE RAS upcoming conferences](https://www.ieee-ras.org/conferences-workshops/upcoming-conferences), by [scraping it](https://github.com/torydebra/AwesomeRoboticsConferencesAndSchoolsList/blob/master/script/IEEE_scraper.py) :D
+- [awesome-mlss](https://github.com/sshkhr/awesome-mlss) for some more machine learning related schools
+- Socials
+- Word of mouth
+- You! ([Contributing](https://github.com/torydebra/AwesomeRoboticsConferencesAndSchoolsList/blob/master/CONTRIBUTING.md))
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 ## License
 
 Distributed under the GLP-3.0 License. See `LICENSE.md` for more information.

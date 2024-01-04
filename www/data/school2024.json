@@ -1,5 +1,20 @@
 [
   {
+    "name": "Tropical Probabilistic AI School",
+    "deadline": "2023-11-24",
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "link": "https://tropical.probabilistic.ai/",
+    "type": "School",
+    "shortName": "TProbAI",
+    "start": "2024-01-29",
+    "end": "2024-02-02",
+    "cost": "900-3000 BRL",
+    "costNote": "Students/academia/industry 900/2000/3000BRL",
+    "addressLink": "https://maps.app.goo.gl/9mRSRwjB4PV1fSe86",
+    "note": "Our objective is to bring an intermediate to advanced level 'summer' school with a focus on probabilistic machine learning. We cover topics such as probabilistic models, variational approximations, deep generative models, latent variable models, normalizing flows, neural ODEs, probabilistic programming, and much more."
+  },
+  {
     "name": "Robotic Vision Summer School",
     "deadline": "2024-02-01",
     "city": "Kioloa",
@@ -105,6 +120,36 @@
     "note": "The Course provides a stimulating environment for junior academics, early career researches, Post-Docs, PhD students and industry leaders (and highly motivated, promising and brilliant Master students). Participants will also have the chance to present their results with talks, and to interact with their colleagues, in a convivial, professional and productive environment."
   },
   {
+    "name": "Artificial Intelligence and Games",
+    "deadline": "",
+    "city": "Valletta",
+    "country": "Malta",
+    "link": "https://school.gameaibook.org/",
+    "type": "School",
+    "shortName": "",
+    "start": "2024-06-17",
+    "end": "2024-06-21",
+    "cost": "",
+    "costNote": "",
+    "addressLink": "https://maps.app.goo.gl/zw876wxLZYrfvqhz8",
+    "note": "The summer school is dedicated to the uses of artificial intelligence (AI) techniques in and for games. After introductory lectures that explain the background and key techniques in AI and games, the school will introduce participants the uses of AI for playing games, for generating content for games, and for modeling players."
+  },
+  {
+    "name": "Mlx Representation and Learning Generative AI",
+    "deadline": "2024-02-07",
+    "city": "Oxford",
+    "country": "UK",
+    "link": "https://www.oxfordml.school/",
+    "type": "School",
+    "shortName": "OxML",
+    "start": "2024-07-06",
+    "end": "2024-07-09",
+    "cost": "£150-950",
+    "costNote": "Yes",
+    "addressLink": "students/academics in-person(virtual): 550(150)/950(300)£",
+    "note": "The standard registration fees cover access to all lectures in the selected module (i.e., MLx Rep. Learning or MLx Health & Bio, depending on your preferences, as per your application form). For those accepted in person, this fee also covers lunch, tea/coffee, and social events during the school. All participants will have access to the recorded lectures (for a limited time after OxML). Everyone is welcome to apply for one or both courses."
+  },
+  {
     "name": "International Computer Vision Summer School",
     "deadline": "2024-03-31",
     "city": "Punta Sampieri - Scicli",
@@ -120,17 +165,32 @@
     "note": "The eighteenth edition of the International Computer Vision Summer School aims to provide both an objective and clear overview and an in-depth analysis of the state-of-the-art research in Computer Vision. The last decade has seen a revolution in the theory and application of computer vision and machine learning. The next decade will see machine perception in embodied systems which learn representations for and from action and interaction."
   },
   {
+    "name": "Deep Learning and Reinforcement Learning Summer School",
+    "deadline": "",
+    "city": "Toronto",
+    "country": "Canada",
+    "link": "https://dlrl.ca/",
+    "type": "School",
+    "shortName": "DLRL",
+    "start": "2024-07-08",
+    "end": "2024-07-17",
+    "cost": "",
+    "costNote": "",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "name": "Eastern European Machine Learning Summer School",
     "deadline": "2024-03-31",
     "city": "Novi Sad",
     "country": "Serbia",
-    "link": "https://www.eeml.eu/home",
+    "link": "https://www.eeml.eu/",
     "type": "School",
     "shortName": "EEML",
     "start": "2024-07-10",
     "end": "2024-07-15",
     "cost": "free",
-    "costNote": "", 
+    "costNote": "travel grants available", 
     "addressLink": "https://maps.app.goo.gl/PCf2PiRe1ya8N8BM8",
     "note": ""
   },
@@ -163,5 +223,35 @@
     "costNote": "students/academics/professional early(late) : €598,95(665,50)/686,07(762,30)/794,97(883,30)", 
     "addressLink": "https://maps.app.goo.gl/oWsHhXuNhXr7Do5y9",
     "note": "Following the great success of Summer Schools in 2019, 2020, 2022 and 2023, we are now announcing the IEEE RAS Summer School 2024 to be held on July 29 - August 2, 2024. As in the past years, the 2024 IEEE RAS Summer School on Multi-Robot Systems will be held at the campus of Czech Technical University, located at the heart of the beautiful and historic city of Prague. The Summer School will promote the newest achievements in Multi-Robot Systems research to students, academic researchers, and industrial practitioners to enable putting systems of cooperating robots into practice and to encourage networking. The main scope of the 2024 IEEE RAS Summer School on Multi-Robot Systems will be lectures by well-recognized experts in the field, and hands-on experience with real-world experiments using state-of-the-art aerial platforms developed for Multi-Robot research."
+  },
+  {
+    "name": "Princeton Machine Learning Theory Summer School",
+    "deadline": "2024-03-01",
+    "city": "Princeton",
+    "country": "US",
+    "link": "https://mlschool.princeton.edu/",
+    "type": "School",
+    "shortName": "PMLTSS",
+    "start": "2024-08-06",
+    "end": "2024-08-15",
+    "cost": "free",
+    "costNote": "free accommodation plus potential $500 travel reimbursement.",
+    "addressLink": "https://maps.app.goo.gl/hcsZSTF5WtqPJqJs9",
+    "note": "Welcome to the website for the Princeton Machine Learning Theory Summer School. The school will run in person August 6 - August 15, 2024 at Princeton and is aimed at PhD students interested in machine learning theory. The primary goal is to showcase, through four main courses, a range of exciting recent developments in the subject. The primary focus this year is on theoretical advances in deep learning. An important secondary goal is to connect young researchers and foster community within theoretical machine learning."
+  },
+  {
+    "name": "Deep Learning Indaba",
+    "deadline": "",
+    "city": "Dakar",
+    "country": "Senegal",
+    "link": "https://deeplearningindaba.com/2024/",
+    "type": "School",
+    "shortName": "DLI",
+    "start": "2024-09-01",
+    "end": "2024-09-07",
+    "cost": "",
+    "costNote": "",
+    "addressLink": "",
+    "note": "As always, the Indaba is the meeting point for the African AI community, bringing together research students, academics, research organisations, startups, and other groups across our continent. The Indaba will feature keynote talks from thought leaders in the fields of ML/AI and Ethics, opportunities to learn skills in practical (programming) sessions, mentorship opportunities, a two-day African Research Symposium, deep dive workshops on topics including NLP, AI in Healthcare, Reinforcement Learning, Machine Learning at the Edge, and AI Governance and Policy, and much more."
   }
 ]

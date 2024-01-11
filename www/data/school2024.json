@@ -90,6 +90,21 @@
     "note": ""
   },
   {
+    "shortName": "AIDA-FM",
+    "name": "Multimodal Foundation Models and Generative AI",
+    "deadline": "2024-02-29",
+    "city": "Rabat",
+    "country": "Morocco",
+    "link": "https://sites.google.com/view/multimodal-foundation-models-a/home",
+    "type": "School",
+    "start": "2024-04-29",
+    "end": "2024-05-03",
+    "cost": "€300-1000",
+    "costNote": "Marocan/academic/post-academic/industry: €300/500/700/1000", 
+    "addressLink": "https://maps.app.goo.gl/dxqKDw6UAPy1zWAh6",
+    "note": "Foundation models (FMs) are large deep learning neural networks trained on massive datasets (e.g., with billions of parameters), which can be further adapted to a variety of downstream tasks with little or no supervision. For example, the BERT model released in 2018, one of the first bidirectional foundation models, was trained using 340 million parameters and a 16 GB training dataset. Just five years later, in 2023, OpenAI trained GPT-4 using 170 trillion parameters and a 45 GB training dataset. Rather than developing artificial intelligence (AI) from scratch, AI scientists use a foundation model as a starting point to develop AI models that power new applications faster and more cost-effectively. In recent years, this approach has significantly advanced the state-of-the-art in Computer Vision, Natural Language Processing, Speech Analysis, and several other fields. In particular, multimodal foundation models, which are trained simultaneously with multiple modalities, have shown remarkable success in text or audio to image/video/3D generation."
+  },
+  {
     "shortName": "NENGO",
     "name": "Nengo Summer School",
     "deadline": "2024-02-01",

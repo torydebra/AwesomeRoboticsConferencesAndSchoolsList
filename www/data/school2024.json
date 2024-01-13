@@ -60,6 +60,21 @@
     "note": "The SoRAIM multi-disciplinary winter school combines topics in social robotics, artificial intelligence, and multimedia. Several top-level invited speakers will introduce and discuss all relevant areas for building socially aware robots that communicate and interact with humans in a shared space."
   },
   {
+    "name": "School on Touch-enabled Tactile Internet",
+    "deadline": "2024-01-31",
+    "city": "Siena",
+    "country": "Italy",
+    "link": "https://sites.google.com/unisi.it/toastts",
+    "type": "School",
+    "shortName": "TOAST",
+    "start": "2024-02-19",
+    "end": "2024-02-23",
+    "cost": "free",
+    "costNote": "", 
+    "addressLink": "https://maps.app.goo.gl/iPMwb2mdiZfQeNxJ6",
+    "note": "The TOAST (Touch-enabled Tactile Internet Training Network and Open Source Testbed) European project includes three annual training schools (TSs) consisting of 18 tutorials of which one-third are dedicated to transferable/soft skills, one covers neuroscience and the remainder provides scientific training."
+  },
+  {
     "name": "Machine Learning Summer School",
     "deadline": "2023-09-30",
     "city": "Ginowan",

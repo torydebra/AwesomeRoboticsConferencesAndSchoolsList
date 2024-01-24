@@ -39,6 +39,19 @@
     "note": "The 2024 7th International Conference on Advanced Algorithms and Control Engineering (ICAACE 2024) will be held on January 26-28, 2024 in Shanghai, China. ICAACE 2024 is to bring together innovative academics and industrial experts in the field of advanced algorithms and control engineering to a common forum. The primary goal of the conference is to promote research and developmental activities in advanced algorithms and control engineering. And another goal is to promote scientific information interchange between researchers, developers, engineers, students, and practitioners working all around the world."
   },
   {
+    "shortName": "RAS",
+    "name": "Annual IEEE UK and Ireland Robotics and Automation Society Chapter Conference",
+    "start": "2024-02-21",
+    "end": "2024-02-22",
+    "deadline": "2024-02-07",
+    "city": "Sheffield",
+    "country": "UK",
+    "link": "https://www.sheffield.ac.uk/sheffieldrobotics/7th-ieee-uk-ireland-ras-conference-ras-2024",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/B4jibjzUNbzq8Zw7A",
+    "note": "Featuring a diverse range of presentations, workshops, and interactive sessions, this event is perfect for anyone passionate about the latest advancements in robotics and automation. Connect with like-minded professionals, researchers, and industry leaders, and gain valuable insights into the cutting-edge technologies shaping our future."
+  },
+  {
     "shortName": "ICARA",
     "name": "International Conference on Automation, Robotics, and Applications",
     "start": "2024-02-22",

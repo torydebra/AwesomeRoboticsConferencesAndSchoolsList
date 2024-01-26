@@ -151,7 +151,7 @@
   },
   {
     "name": "Artificial Intelligence and Games",
-    "deadline": "",
+    "deadline": "2024-03-01",
     "city": "Valletta",
     "country": "Malta",
     "link": "https://school.gameaibook.org/",
@@ -159,8 +159,8 @@
     "shortName": "AIG",
     "start": "2024-06-17",
     "end": "2024-06-21",
-    "cost": "",
-    "costNote": "",
+    "cost": "€500-937.50",
+    "costNote": "student/academic/industry: €500/625/937.50",
     "addressLink": "https://maps.app.goo.gl/zw876wxLZYrfvqhz8",
     "note": "The summer school is dedicated to the uses of artificial intelligence (AI) techniques in and for games. After introductory lectures that explain the background and key techniques in AI and games, the school will introduce participants the uses of AI for playing games, for generating content for games, and for modeling players."
   },

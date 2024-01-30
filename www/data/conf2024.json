@@ -381,7 +381,7 @@
     "name": "International Conference on Unmanned Aircraft Systems",
     "start": "2024-06-04",
     "end": "2024-06-07",
-    "deadline": "2024-02-04",
+    "deadline": "2024-02-11",
     "city": "Chania - Crete",
     "country": "Greece",
     "link": "https://uasconferences.com/2024_icuas/",
@@ -802,6 +802,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/Ds8rgdMB69Fb9a8j6",
     "note": "The International Workshop on Artificial Life and Evolutionary Computation aims at bringing together researchers to present and share their results and ideas in a multidisciplinary context. The workshop provides a forum for the discussion of new research directions and applications in Artificial Life, Evolutionary Computation and in related fields, where different disciplines and research areas could effectively meet."
+  },
+  {
+    "shortName": "CRAS",
+    "name": "Conference on New Technologies for Computer and Robot Assisted Surgery",
+    "start": "2024-09-11",
+    "end": "2024-09-13",
+    "deadline": "2024-05-15",
+    "city": "Odense",
+    "country": "Denmark",
+    "link": "https://cras-eu.org/cras-2024/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/ELQYB17Em6Jec7ur9",
+    "note": "In this 13th edition, communications are expected to relate advances in the following fields: Advanced Computer-Assisted Surgery Systems, Robotic Platforms and Systems for Surgical Procedures, Sensing and Imaging Technologies in Surgery, AI and Machine Learning Applications for Surgical Autonomation, Surgical Simulation and Training Tools."
   },
   {
     "shortName": "IROS",

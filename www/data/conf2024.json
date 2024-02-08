@@ -546,6 +546,19 @@
     "note": ""
   },
   {
+    "shortName": "ISAC",
+    "name": "IEEE International Workshop on Interactive Systems and Affective Computing Technologies and Applications",
+    "start": "2024-07-02",
+    "end": "2024-07-04",
+    "deadline": "2024-04-15",
+    "city": "Osaka",
+    "country": "Japan",
+    "link": "https://ieeecompsac.computer.org/2024/isac/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/KnGPtWEJANED1TU1A",
+    "note": "The scope of this workshop is to discuss the application and future possibilities of human computer interaction to be used for emotions, verbal / nonverbal expression, and recognition. Expression and recognition of emotions includes facial expressions, emotional data from biometric data from sensors, body motions, gestures, verbal, and nonverbal data."
+  },
+  {
     "shortName": "ICARM",
     "name": "International Conference on Advanced Robotics and Mechatronics",
     "start": "2024-07-06",
@@ -570,6 +583,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/F8xhCPiLzAbRpCKo7",
     "note": "With the proliferation of sensor technology and ever-increasing amounts of data generated, Information Fusion is critical for combining noisy and possibly conflicting observations from various sensors and actors into actionable, coherent information about the underlying situation. The 27th International Conference on Information Fusion thus is soliciting papers from researchers and practitioners from academia, industry, and government agencies that explore traditional model-based and emerging data-driven autonomous methodologies on sensor, data, information and knowledge fusion, new system frameworks, hybrid processing techniques, and the associated challenges at the systemic level, including system design paradigms and issues of system control, management, test, and evaluation."
+  },
+  {
+    "shortName": "LIVMACH",
+    "name": "International Conference on Biomimetics and Biohybrid Systems",
+    "start": "2024-07-08",
+    "end": "2024-07-11",
+    "deadline": "2024-04-05",
+    "city": "Chicago",
+    "country": "USA",
+    "link": "https://livingmachinesconference.eu/2024/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/LdqrodW9sAcydUfA9",
+    "note": "The development of future real-world technologies will depend strongly on our understanding and harnessing of the principles underlying living systems and the flow of communication signals between living and artificial systems. Biomimetics is the development of novel technologies through the distillation of principles from the study of biological systems. The investigation of biomimetic systems can serve two complementary goals. First, a suitably designed and configured biomimetic artifact can be used to test theories about the natural system of interest. Second, biomimetic technologies can provide useful, elegant, and efficient solutions to unsolved challenges in science and engineering."
   },
   {
     "shortName": "RSS",
@@ -854,6 +880,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/BaMogUz2679vaXry8",
     "note": "Due to rapid advances in manufacturing, computing, and communication, distributed robotics is a rapidly growing area in robotics.  This field draws on knowledge across a large range of disciplines such as computer science, communication and control systems, electrical and mechanical engineering, life sciences, and humanities. DARS 2024 will provide an exciting opportunity for researchers to present and discuss the latest advances in distributed robotic technologies, algorithms, system architectures, and applications."
+  },
+  {
+    "shortName": "CoRL",
+    "name": "Conference on Robot Learning",
+    "start": "2024-11-06",
+    "end": "2024-11-09",
+    "deadline": "2024-06-06",
+    "city": "Munich",
+    "country": "Germany",
+    "link": "https://www.corl.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/DkjbJ4juqUVE3S1s5",
+    "note": ""
   },
   {
     "shortName": "ICECCME",

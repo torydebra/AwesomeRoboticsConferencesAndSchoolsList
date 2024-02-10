@@ -189,8 +189,8 @@
     "type": "School",
     "start": "2024-06-11",
     "end": "2024-06-14",
-    "cost": "",
-    "costNote": "", 
+    "cost": "€400-650",
+    "costNote": "various options early/late", 
     "addressLink": "https://maps.app.goo.gl/8J1g2m6AVA2kts6U8",
     "note": "CPS&IoT2024 Summer School Program will be composed of four days of lectures, demonstrations, practical hands-on sessions, and discussions, as well as, free participation in CPSIoT 2024 and MECO 2024 sessions. The topics of the lectures, demonstrations, and practical hands-on sessions cover several major CPS applications (focusing on modern mobile applications that require high-performance or low energy consumption, as well as, high reliability, security and safety), computing technology for modern CPS, CPS architectures, development problems and solutions, as well as, design methodologies and design tools for CPS. Detailed list of the CPS&IoT’2024 Presentations including the names of their authors and presenters will be provided in the Schedule of the CPS&IoT’2024 Summer School."
   },

@@ -165,6 +165,21 @@
     "note": "Our curriculum is designed to provide a balanced mix of theoretical knowledge and hands-on practice, targeting essential areas of software engineering specifically tailored for robotics."
   },
   {
+    "shortName": "RPL",
+    "name": "RPL Summer School",
+    "deadline": "2024-02-29",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "link": "https://summer-school.rpl.eecs.kth.se/",
+    "type": "School",
+    "start": "2024-06-09",
+    "end": "2024-06-14",
+    "cost": "free?",
+    "costNote": "", 
+    "addressLink": "https://maps.app.goo.gl/5HCXVX76RocAXmrr7",
+    "note": "The summer school hosts a mix of academic and industrial researchers from around the world and aims to provide a forum that promotes new collaborations. Our school focuses on a diverse range of topics within robotics, perception, and learning, encompassing areas such as Machine Learning, Computer Vision, Robotics, Human-Robot Interaction, Planning, and Decision Making."
+  },
+  {
     "shortName": "ACDL",
     "name": "Advanced Course on Data Science & Machine Learning",
     "deadline": "2024-02-23",

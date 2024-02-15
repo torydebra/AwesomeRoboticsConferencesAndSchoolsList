@@ -165,6 +165,21 @@
     "note": "Our curriculum is designed to provide a balanced mix of theoretical knowledge and hands-on practice, targeting essential areas of software engineering specifically tailored for robotics."
   },
   {
+    "shortName": "AERO-TRAIN",
+    "name": "AERO-TRAIN Summer School",
+    "deadline": "2024-04-11",
+    "city": "Chania, Crete",
+    "country": "Greece",
+    "link": "https://www.aerotrain-etn.eu/summer-school",
+    "type": "School",
+    "start": "2024-06-08",
+    "end": "2024-06-10",
+    "cost": "Free",
+    "costNote": "", 
+    "addressLink": "https://maps.app.goo.gl/HJtJfZfReNs6gGGQ8",
+    "note": "The event is especially suited for late Master students or early PhD students who want to broaden their knowledge about aerial robots and their role in inspection and maintenance of industrial plants."
+  },
+  {
     "shortName": "RPL",
     "name": "RPL Summer School",
     "deadline": "2024-02-29",

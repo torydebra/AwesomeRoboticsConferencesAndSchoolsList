@@ -261,7 +261,7 @@
   },
   {
     "shortName": "AIRC",
-    "name": "5th International Conference on Artificial Intelligence, Robotics and Control",
+    "name": "International Conference on Artificial Intelligence, Robotics and Control",
     "start": "2024-04-22",
     "end": "2024-04-24",
     "deadline": "",
@@ -271,6 +271,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/a144TqTLQ1PrFdXD6",
     "note": "AIRC 2024 aims to serve as a vibrant forum for scholars, researchers, and engineers to present groundbreaking research, share innovative ideas, and foster meaningful collaborations. We are excited to offer this unique platform for knowledge exchange and professional networking, all set against the backdrop of Cairo's rich cultural tapestry and historical grandeur."
+  },
+  {
+    "shortName": "NSG",
+    "name": "Symposium on NLP for Social Good",
+    "start": "2024-04-25",
+    "end": "2024-04-26",
+    "deadline": "2024-03-15",
+    "city": "Liverpool",
+    "country": "UK",
+    "link": "https://nlp4social.github.io/nlp4socialgood/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/kH8zQ52skRJcZTdQ6",
+    "note": "Artificial intelligence (AI), specifically, Natural Language Processing (NLP) is being hailed as a new breeding ground for immense innovation potential. While scholars believe that NLP has enormous potential for excessive growth, one question remains: how can it be used for the better welfare of the society? Researchers believe that NLP-based technologies could help to solve societal issues such as equality and inclusion, education, health, and hunger, and climate action etc. and many more. The field is focused on delivering positive social impact in accordance with the priorities outlined in the United Nations’ 17 Sustainable Development Goals (SDGs). Tackling these questions requires a concerted, collaborative effort across all sectors of society."
   },
   {
     "shortName": "ICCAR",
@@ -329,7 +342,7 @@
     "name": "International Conference on Cognitive Aircraft Systems",
     "start": "2024-05-16",
     "end": "2024-05-17",
-    "deadline": "2024-03-04",
+    "deadline": "2024-03-01",
     "city": "Toulouse",
     "country": "France",
     "link": "https://events.isae-supaero.fr/event/32/",

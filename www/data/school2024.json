@@ -195,6 +195,21 @@
     "note": "The summer school hosts a mix of academic and industrial researchers from around the world and aims to provide a forum that promotes new collaborations. Our school focuses on a diverse range of topics within robotics, perception, and learning, encompassing areas such as Machine Learning, Computer Vision, Robotics, Human-Robot Interaction, Planning, and Decision Making."
   },
   {
+    "shortName": "MRSS",
+    "name": " Montreal Robotics Summer School",
+    "deadline": "2024-02-29",
+    "city": "Quebec",
+    "country": "Canada",
+    "link": "https://fracturedplane.notion.site/Montreal-Robotics-Summer-School-2023-66f5adec51d2420fb7e6878edb51a6ca?pvs=4",
+    "type": "School",
+    "start": "2024-06-09",
+    "end": "2024-06-14",
+    "cost": "free?",
+    "costNote": "", 
+    "addressLink": "https://maps.app.goo.gl/Lw4aK7RCqbbr7MXYA",
+    "note": "The goal of the summer school is to give more students skills on how to control and program navigating robots. The content assumes a strong knowledge of python programming, with some Linux and hardware skills."
+  },
+  {
     "shortName": "ACDL",
     "name": "Advanced Course on Data Science & Machine Learning",
     "deadline": "2024-02-23",
@@ -238,6 +253,21 @@
     "costNote": "student/academic/industry: €500/625/937.50",
     "addressLink": "https://maps.app.goo.gl/zw876wxLZYrfvqhz8",
     "note": "The summer school is dedicated to the uses of artificial intelligence (AI) techniques in and for games. After introductory lectures that explain the background and key techniques in AI and games, the school will introduce participants the uses of AI for playing games, for generating content for games, and for modeling players."
+  },
+  {
+    "name": "ETH Robotics Summer School",
+    "deadline": "2024-03-22",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "link": "http://robotics-summerschool.ethz.ch/",
+    "type": "School",
+    "shortName": "ETH",
+    "start": "2024-06-29",
+    "end": "2024-07-01",
+    "cost": "CHF200",
+    "costNote": "meals and accomodation included",
+    "addressLink": "https://maps.app.goo.gl/EzFHgWg6QyPHwveNA",
+    "note": "The RobotX initiative at ETH Zurich is committed to provide continued education and training to the young generations of researchers and practitioners. This summer school offers lectures and hands-on tutorials to grasp the fundamental concepts that every roboticist around the world should possess. From 29 June to 05 July, tutorials as well as hands-on sessions with cutting edge robotics platforms will take place at a dedicated education and training center for search and rescue. Attendees will get the opportunity to team up with each other and program a (semi)-autonomous rough-terrain UGV, to extensively test it in a variety of environments, and finally to challenge colleagues in a competition."
   },
   {
     "name": "Mlx Representation and Learning Generative AI",

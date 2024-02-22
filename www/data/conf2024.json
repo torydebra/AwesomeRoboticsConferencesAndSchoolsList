@@ -752,6 +752,19 @@
     "note": "The aim of the international research conference RP2024 is to address the deep and far-reaching questions raised by recent advances in AI on the basis of the required research expertise.  RP2024 will  bring together international researchers from all relevant disciplines, from social robotics and AI research, but especially also from Humanities and social science research in HRI (Human-Robot Interact research). The special ambition of RP2024 is to produce actionable knowledge based on professional engagement of the foundational issues\u2014only in this fashion we can move beyond well-intentioned proclamations and address the expectable socio-cultural transformations of societies by social robotics in a responsible fashion"
   },
   {
+    "shortName": "IMVIP",
+    "name": "Irish Machine Vision and Image Processing Conference",
+    "start": "2024-08-21",
+    "end": "2024-08-23",
+    "deadline": "2024-05-22",
+    "city": "Limerick",
+    "country": "Ireland",
+    "link": "https://www.imvip.ie/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/SEo8QaHX9KRgv3FY8",
+    "note": "The Irish Machine Vision and Image Processing Conference (IMVIP) Conference is the annual research conference of the Irish Pattern Recognition and Classification Society. The chief objective of the society is the advancement of research and study of pattern recognition, classification and associated fields and the applications of the outcomes of research. IPRCS is a member of the International Association for Pattern Recognition (IAPR) and the International Federation of Classification Societies."
+  },
+  {
     "shortName": "ROMAN",
     "name": "IEEE International Conference on Robot and Human Interactive Communication",
     "start": "2024-08-26",
@@ -817,6 +830,19 @@
     "note": "BioRob delves into both theoretical and practical challenges arising from the integration of robotics and mechatronics into medicine and biology. The main objective of Biorobotics is to evaluate biological systems through a 'biomechatronic' lens, striving to unravel the scientific and engineering principles that underpin their exceptional performance. This deep comprehension of biological system functions, behaviors, and interactions serves two primary purposes: to inform the design and creation of new, high-performance bio-inspired machinery and systems for various applications, and to foster the development of innovative nano-, micro-, and macro-devices that can act upon, replace, or assist human beings in areas such as disease prevention, diagnostics, surgical procedures, prosthetics, rehabilitation, and personal assistance."
   },
   {
+    "shortName": "MESA",
+    "name": "IEEE/ASME International Conference on Mechatronic, Embedded Systems and Applications",
+    "start": "2024-09-02",
+    "end": "2024-09-04",
+    "deadline": "2024-04-01",
+    "city": "Genova",
+    "country": "Italy",
+    "link": "https://mesa2024.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/cLWXpspJGBdCDT7Y7",
+    "note": "The goal of the 20th ASME/IEEE MESA 2024 is to bring together experts from the fields of mechatronic and embedded systems, disseminate the recent advances in the area, discuss future research directions, and exchange application experience. MESA 2024 will especially bring out and highlight the latest research results and developments in Industry 4.0 and Artificial Intelligence (AI) in the fields of mechatronics and embedded systems."
+  },
+  {
     "shortName": "CAMS",
     "name": "IFAC Conference on Control Applications in Marine Systems, Robotics and Vehicles",
     "start": "2024-09-03",
@@ -828,6 +854,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/ejfgFYNhpvonNuU6A",
     "note": "Virginia Tech and the IFAC Technical Committee in Marine Systems welcome you to the 15th IFAC Conference on Control Applications in Marine Systems, Robotics and Vehicles. The conference aims at defining the research, development and innovation agenda within the areas of marine  automation, control and robotics bridging the prominent views of academia and industry."
+  },
+  {
+    "shortName": "INISTA",
+    "name": "IEEE International Conference on INnovations in Intelligent SysTems and Applications",
+    "start": "2024-09-04",
+    "end": "2024-09-06",
+    "deadline": "2024-04-25",
+    "city": "Craiova",
+    "country": "Romania",
+    "link": "https://dcti.ucv.ro/inista2024/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/zobD5mETNQkPhsJ66",
+    "note": "International Conference on INnovations in Intelligent SysTems and Applications (INISTA) has been organized since 2005. It aims to bring together the researchers from the entire spectrum of the multi-disciplinary fields of intelligent systems and to establish effective means of communication between them. In particular, it focuses on all aspects of intelligent systems and the related applications, from the points of view of both theory and practice. Apart of the main track it includes work-shops, tutorials, special sessions and plenary talks by invited speakers."
   },
   {
     "shortName": "ANTS",

@@ -283,7 +283,7 @@
     "link": "https://nlp4social.github.io/nlp4socialgood/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/kH8zQ52skRJcZTdQ6",
-    "note": "Artificial intelligence (AI), specifically, Natural Language Processing (NLP) is being hailed as a new breeding ground for immense innovation potential. While scholars believe that NLP has enormous potential for excessive growth, one question remains: how can it be used for the better welfare of the society? Researchers believe that NLP-based technologies could help to solve societal issues such as equality and inclusion, education, health, and hunger, and climate action etc. and many more. The field is focused on delivering positive social impact in accordance with the priorities outlined in the United Nations’ 17 Sustainable Development Goals (SDGs). Tackling these questions requires a concerted, collaborative effort across all sectors of society."
+    "note": "Artificial intelligence (AI), specifically, Natural Language Processing (NLP) is being hailed as a new breeding ground for immense innovation potential. While scholars believe that NLP has enormous potential for excessive growth, one question remains: how can it be used for the better welfare of the society? Researchers believe that NLP-based technologies could help to solve societal issues such as equality and inclusion, education, health, and hunger, and climate action etc. and many more. The field is focused on delivering positive social impact in accordance with the priorities outlined in the United Nations\u2019 17 Sustainable Development Goals (SDGs). Tackling these questions requires a concerted, collaborative effort across all sectors of society."
   },
   {
     "shortName": "ICCAR",
@@ -297,6 +297,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/GYEsVuZRTWbQEdNh6",
     "note": "This conference will deeply explore the research status and developmental trends in the fields of intelligent robots, automation, control science, and signal processing from both theoretical and practical perspectives. We will offer a comprehensive, high-quality technical program, featuring six special sessions, and provide delegates with the opportunity to connect and network with accomplished professionals from around the world."
+  },
+  {
+    "shortName": "ICARSC",
+    "name": "IEEE International Conference on Autonomous Robot Systems and Competitions",
+    "start": "2024-05-02",
+    "end": "2024-05-03",
+    "deadline": "",
+    "city": "Paredes de Coura",
+    "country": "Portugal",
+    "link": "http://icarsc.pt/2024",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   },
   {
     "shortName": "ICCRE",
@@ -453,6 +466,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/rvyMhtGzk77wgLZG9",
     "note": "MED 2024 extends across four full days, and it is organized under the auspices of the Technical University of Crete. On June 11, the focus will be on Tutorials and Workshops, while the subsequent three days, June 12-14, will comprise the technical conference. Aligning with the current trend of merging control and systems theory with hardware/software and communication technologies, the conference will explore advancements in robotics and unmanned systems, autonomous systems, mechatronics, cyber-physical systems, and network-controlled systems. These topics of interest aim to foster collaboration between control and automation scientists and industry professionals."
+  },
+  {
+    "shortName": "ICRAS",
+    "name": "8th International Conference on Robotics and Automation Sciences",
+    "start": "2024-06-21",
+    "end": "2024-06-23",
+    "deadline": "",
+    "city": "Tokyo",
+    "country": "Japan",
+    "link": "http://www.icras.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   },
   {
     "shortName": "ReMAR",
@@ -624,6 +650,19 @@
     "note": "The development of future real-world technologies will depend strongly on our understanding and harnessing of the principles underlying living systems and the flow of communication signals between living and artificial systems. Biomimetics is the development of novel technologies through the distillation of principles from the study of biological systems. The investigation of biomimetic systems can serve two complementary goals. First, a suitably designed and configured biomimetic artifact can be used to test theories about the natural system of interest. Second, biomimetic technologies can provide useful, elegant, and efficient solutions to unsolved challenges in science and engineering."
   },
   {
+    "shortName": "ICACR",
+    "name": "8th International Conference on Automation, Control and Robots",
+    "start": "2024-07-12",
+    "end": "2024-07-14",
+    "deadline": "",
+    "city": "Xiangyang",
+    "country": "China",
+    "link": "http://www.icacr.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "RSS",
     "name": "Robotics: Science and Systems",
     "start": "2024-07-15",
@@ -660,6 +699,19 @@
     "link": "https://www.aim2024.org/",
     "type": "Conference",
     "addressLink": "https://goo.gl/maps/A9VhbfnwiaSVQifV7",
+    "note": ""
+  },
+  {
+    "shortName": "ACIRS",
+    "name": "9th Asia-Pacific Conference on Intelligent Robot Systems",
+    "start": "2024-07-18",
+    "end": "2024-07-20",
+    "deadline": "",
+    "city": "Dalian",
+    "country": "China",
+    "link": "http://www.acirs.org/",
+    "type": "Conference",
+    "addressLink": "",
     "note": ""
   },
   {
@@ -711,6 +763,32 @@
     "type": "Conference",
     "addressLink": "",
     "note": " The conference will be organized in collaboration with the Keio University, Japan, during 29-31, July 2024. The ICRES conference series provides a multidisciplinary forum for discussing the fundamental and pressing safety, ethical, legal, and societal issues in Artificial Intelligence and Robotics, and the scope is not limited to physical robots."
+  },
+  {
+    "shortName": "ICMA",
+    "name": "IEEE International Conference on Mechatronics and Automation",
+    "start": "2024-08-04",
+    "end": "2024-08-07",
+    "deadline": "2024-04-10",
+    "city": "Tianjin",
+    "country": "China",
+    "link": "http://2024.ieee-icma.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
+    "shortName": "IRCE",
+    "name": "7th International Conference on Intelligent Robotics and Control Engineering",
+    "start": "2024-08-07",
+    "end": "2024-08-09",
+    "deadline": "",
+    "city": "Xi'an",
+    "country": "China",
+    "link": "http://www.irce.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   },
   {
     "shortName": "CIS-RAM",
@@ -921,6 +999,19 @@
     "note": "In this 13th edition, communications are expected to relate advances in the following fields: Advanced Computer-Assisted Surgery Systems, Robotic Platforms and Systems for Surgical Procedures, Sensing and Imaging Technologies in Surgery, AI and Machine Learning Applications for Surgical Autonomation, Surgical Simulation and Training Tools."
   },
   {
+    "shortName": "ICMRA",
+    "name": "7th International Conference on Mechatronics, Robotics and Automation",
+    "start": "2024-09-20",
+    "end": "2024-09-22",
+    "deadline": "",
+    "city": "Wuhan",
+    "country": "China",
+    "link": "http://www.icmra.org/index.html",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "IROS",
     "name": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
     "start": "2024-10-14",
@@ -960,6 +1051,19 @@
     "note": "Due to rapid advances in manufacturing, computing, and communication, distributed robotics is a rapidly growing area in robotics.  This field draws on knowledge across a large range of disciplines such as computer science, communication and control systems, electrical and mechanical engineering, life sciences, and humanities. DARS 2024 will provide an exciting opportunity for researchers to present and discuss the latest advances in distributed robotic technologies, algorithms, system architectures, and applications."
   },
   {
+    "shortName": "ROBOT",
+    "name": "7th Iberian Robotics Conference",
+    "start": "2024-11-06",
+    "end": "2024-11-08",
+    "deadline": "",
+    "city": "Madrid",
+    "country": "Spain",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "CoRL",
     "name": "Conference on Robot Learning",
     "start": "2024-11-06",
@@ -984,6 +1088,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/9QC9CFPjirStvzxg8",
     "note": "The 4th International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME) is the premier event that brings together industry professionals, academics, and engineers from the related institutions to exchange information and ideas on electrical, computer, communications and mechatronic engineering. The conference will feature a comprehensive technical program offering numerous technical sessions with papers showcasing the latest technologies, and applications."
+  },
+  {
+    "shortName": "CBS",
+    "name": "IEEE International Conference on Cyborg and Bionic Systems",
+    "start": "2024-11-20",
+    "end": "2024-11-22",
+    "deadline": "",
+    "city": "Nagoya",
+    "country": "Japan",
+    "link": "http://cbs-2024.com/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   },
   {
     "shortName": "Humanoids",

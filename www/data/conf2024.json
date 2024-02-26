@@ -303,13 +303,13 @@
     "name": "IEEE International Conference on Autonomous Robot Systems and Competitions",
     "start": "2024-05-02",
     "end": "2024-05-03",
-    "deadline": "",
+    "deadline": "2024-02-24",
     "city": "Paredes de Coura",
     "country": "Portugal",
     "link": "http://icarsc.pt/2024",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/kRRsfRgvZQ9EjMmD6",
+    "note": "The conference will take place in Centro Cultural de Paredes de Coura at Paredes de Coura, Portugal, from 2 to 3 of May 2024, in conjunction with the Portuguese Robotics Open, a RoboCup-sponsored Local Event with several other associated competitions. Its scope encompasses, but is not limited to, the fields of Artificial Intelligence, Robotics and Education. The conference is planned for physical participation."
   },
   {
     "shortName": "ICCRE",
@@ -472,13 +472,13 @@
     "name": "8th International Conference on Robotics and Automation Sciences",
     "start": "2024-06-21",
     "end": "2024-06-23",
-    "deadline": "",
+    "deadline": "2024-03-10",
     "city": "Tokyo",
     "country": "Japan",
     "link": "http://www.icras.org/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/shcCu4vjAo288ubt9",
+    "note": "The 8th International Conference on Robotics and Automation Sciences: AI-Powered Robotics Advancements (ICRAS 2024) will be held from June 21-23, 2024, in Tokyo, Japan. It sponsored by China University of Geosciences (Wuhan) and Beijing Institute of Control Robots and Intelligent Technology. ICRAS 2024 aims to gather professors, researchers, scholars, and industrial pioneers from all over the world to exchange past experiences, new advances, and research results in the field of theoretical and industrial experience. The conference welcomes contributions that promote the exchange of ideas and rational discourse between educators and researchers from all over the world."
   },
   {
     "shortName": "ReMAR",
@@ -659,7 +659,7 @@
     "country": "China",
     "link": "http://www.icacr.org/",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/XwEYGuDVZt2jGH3B9",
     "note": ""
   },
   {
@@ -711,7 +711,7 @@
     "country": "China",
     "link": "http://www.acirs.org/",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/kJYbCJ5VhGZWFwxP8",
     "note": ""
   },
   {
@@ -774,7 +774,7 @@
     "country": "China",
     "link": "http://2024.ieee-icma.org/",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/5s8CKMbtE8mv9XUGA",
     "note": ""
   },
   {
@@ -787,7 +787,7 @@
     "country": "China",
     "link": "http://www.irce.org/",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/PmguHZ6yU9uE66b47",
     "note": ""
   },
   {
@@ -1008,7 +1008,7 @@
     "country": "China",
     "link": "http://www.icmra.org/index.html",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/KAE2kgsrnPAYYuJh8",
     "note": ""
   },
   {
@@ -1094,13 +1094,13 @@
     "name": "IEEE International Conference on Cyborg and Bionic Systems",
     "start": "2024-11-20",
     "end": "2024-11-22",
-    "deadline": "",
+    "deadline": "2024-05-31",
     "city": "Nagoya",
     "country": "Japan",
     "link": "http://cbs-2024.com/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/mYZs6auk5H1BhZ17A",
+    "note": "The 2024 IEEE International Conference on Cyborg and Bionic Systems (CBS 2024) will be held in 20-22, November, 2024 in Nagoya, Japan. Consistent with our theme, we have arranged plenary keynotes from leading industrial and academic scientists, who will give forward looking visions as well as historical perspectives on our field. A broad array of scientific tracks will cover diverse topics of cutting-edge research and innovation on cyborg and bionic systems, which are concerned with hybrid fusion of organic and biomechatronic body parts with the integration of some artificial components or technology like bio-hybrid actuators and sensors. In addition to the high-profile keynotes, the conference program will feature invited sessions, oral and poster sessions, sessions for students and young professions, sessions for clinicians and entrepreneurs, and exhibits from vendors and universities."
   },
   {
     "shortName": "Humanoids",

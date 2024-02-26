@@ -189,8 +189,8 @@
     "type": "School",
     "start": "2024-06-09",
     "end": "2024-06-14",
-    "cost": "free?",
-    "costNote": "", 
+    "cost": "free",
+    "costNote": "accommodation, meals included", 
     "addressLink": "https://maps.app.goo.gl/5HCXVX76RocAXmrr7",
     "note": "The summer school hosts a mix of academic and industrial researchers from around the world and aims to provide a forum that promotes new collaborations. Our school focuses on a diverse range of topics within robotics, perception, and learning, encompassing areas such as Machine Learning, Computer Vision, Robotics, Human-Robot Interaction, Planning, and Decision Making."
   },
@@ -358,6 +358,21 @@
     "costNote": "increasing according to deadlines", 
     "addressLink": "https://maps.app.goo.gl/XKZj1ysz96cUkBaZ7",
     "note": "DeepLearn 2024 will be a research training event with a global scope aiming at updating participants on the most recent advances in the critical and fast developing area of deep learning."
+  },
+  {
+    "name": "IRCN and Chen Institute Joint Course on Neuro-inspired Computation",
+    "deadline": "2024-03-22",
+    "city": "Tokyo",
+    "country": "Japan",
+    "link": "https://ircn.jp/en/events/07_ircncourse2024",
+    "type": "School",
+    "shortName": "WPI-IRCN",
+    "start": "2024-07-16",
+    "end": "2024-07-19",
+    "cost": "free",
+    "costNote": "financial support available", 
+    "addressLink": "https://maps.app.goo.gl/k9jMYoVk4xWx29xd9",
+    "note": "In an unprecedented collaborative effort, the World Premier International Research Center for Neurointelligence (WPI-IRCN) at the University of Tokyo and the Tianqiao & Chrissy Chen Institute (Chen Institute) are proud to present an innovative course designed to explore the frontier where natural and artificial intelligence converge. It delves into critical areas such as intrinsic dynamics, network architectures, prediction, plasticity and criticality, as well as multi-agent learning and neuromodulation, highlighting the potential for cross-disciplinary innovation in understanding cognitive processes."
   },
   {
     "name": "IEEE RAS Summer School on Multi-robot systems",

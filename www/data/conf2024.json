@@ -1029,13 +1029,13 @@
     "name": "ROS Conference",
     "start": "2024-10-21",
     "end": "2024-10-23",
-    "deadline": "",
+    "deadline": "2024-05-03",
     "city": "Odense",
     "country": "Denmark",
-    "link": "",
+    "link": "https://roscon.ros.org/2024/",
     "type": "Conference",
-    "addressLink": "https://maps.app.goo.gl/jq3NHEEu1U2RJzSF7",
-    "note": ""
+    "addressLink": "hhttps://maps.app.goo.gl/SHCx49AvLktAPzd27",
+    "note": "ROSCon is a developers conference, in the model of PyCon and BoostCon. Following the success of our past events, this year’s ROSCon will be our thirteenth ROSCon and held in Odense, Denmark. Similar to previous years, the two-day program will comprise of technical talks and tutorials that will introduce you to new tools and libraries, as well as teach you more about the ones you already know. The bulk of the program will be 10-30 minute presentations (some may be longer or shorter) along with panel discussions, lightning talks, demonstrations, and workshops."
   },
   {
     "shortName": "DARS",

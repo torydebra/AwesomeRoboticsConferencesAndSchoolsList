@@ -585,6 +585,19 @@
     "note": "CoDIT 2024 will be held 01-04 July, 2024 at Valetta, Malta. Its purpose is to be a forum for technical exchange amongst scientists having interests in Control, Automation, Robotics, Optimization, Decision, Cybernetics, Computer Science and Information Technologies. This conference will provide a remarkable opportunity for the academic and industrial communities to address new challenges, share solutions and discuss future research directions. The technical program will include plenary lectures, regular technical sessions, and special sessions."
   },
   {
+    "shortName": "MARSS",
+    "name": "International Conference on Manipulation, Automation and Robotics at Small Scales",
+    "start": "2024-07-01",
+    "end": "2024-07-05",
+    "deadline": "2024-03-31",
+    "city": "Delft",
+    "country": "Netherlands",
+    "link": "http://marss-conference.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/zXk8u8HabCHHvtRVA",
+    "note": "MARSS, the annual International Conference on Manipulation, Automation and Robotics at Small Scales, is a non-profit conference run by the microrobotic community and technically supported by IEEE-RAS and IEEE-NTC. MARSS2024 will be held in-person on July 01-05, 2024, in Delft, Netherlands. The conference is the flagship forum to discuss cross-disciplinary activities on 1) manipulation, automation, measurement, and characterization at micro/nano scales, and 2) all kinds of small-scale robots (nm – cm) and their applications."
+  },
+  {
     "shortName": "RoMoCo",
     "name": "International Workshop on Robot Motion and Control",
     "start": "2024-07-02",
@@ -1035,7 +1048,7 @@
     "link": "https://roscon.ros.org/2024/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/SHCx49AvLktAPzd27",
-    "note": "ROSCon is a developers conference, in the model of PyCon and BoostCon. Following the success of our past events, this year’s ROSCon will be our thirteenth ROSCon and held in Odense, Denmark. Similar to previous years, the two-day program will comprise of technical talks and tutorials that will introduce you to new tools and libraries, as well as teach you more about the ones you already know. The bulk of the program will be 10-30 minute presentations (some may be longer or shorter) along with panel discussions, lightning talks, demonstrations, and workshops."
+    "note": "ROSCon is a developers conference, in the model of PyCon and BoostCon. Following the success of our past events, this year\u2019s ROSCon will be our thirteenth ROSCon and held in Odense, Denmark. Similar to previous years, the two-day program will comprise of technical talks and tutorials that will introduce you to new tools and libraries, as well as teach you more about the ones you already know. The bulk of the program will be 10-30 minute presentations (some may be longer or shorter) along with panel discussions, lightning talks, demonstrations, and workshops."
   },
   {
     "shortName": "ICSR",
@@ -1048,7 +1061,7 @@
     "link": "https://icsr2024.dk/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/ohCPHAJPZkjCaVvg9",
-    "note": "The 16th International Conference on Social Robotics will bring together researchers and practitioners working on the interaction between humans and intelligent robots and on the integration of social robots into our society. ICSR’24 will take place in Odense, Denmark as a face-to-face conference between October 23-26, 2024. This will be the first time that the conference will be hosted in Denmark and Scandinavia. The theme of this year’s conference is “Empowering Humanity: The Role of Social and Collaborative Robotics in Shaping Our Future”."
+    "note": "The 16th International Conference on Social Robotics will bring together researchers and practitioners working on the interaction between humans and intelligent robots and on the integration of social robots into our society. ICSR\u201924 will take place in Odense, Denmark as a face-to-face conference between October 23-26, 2024. This will be the first time that the conference will be hosted in Denmark and Scandinavia. The theme of this year\u2019s conference is \u201cEmpowering Humanity: The Role of Social and Collaborative Robotics in Shaping Our Future\u201d."
   },
   {
     "shortName": "DARS",

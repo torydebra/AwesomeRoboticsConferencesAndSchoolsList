@@ -1116,6 +1116,19 @@
     "note": "The 4th International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME) is the premier event that brings together industry professionals, academics, and engineers from the related institutions to exchange information and ideas on electrical, computer, communications and mechatronic engineering. The conference will feature a comprehensive technical program offering numerous technical sessions with papers showcasing the latest technologies, and applications."
   },
   {
+    "shortName": "i-SAIRAS",
+    "name": "International Symposium on Artificial Intelligence, Robotics and Automation in Space",
+    "start": "2024-11-19",
+    "end": "2024-11-21",
+    "deadline": "2024-06-03",
+    "city": "Brisbane",
+    "country": "Australia",
+    "link": "https://www.isairas2024.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/K4Ka8tKSCdXQPkE8A",
+    "note": "i-SAIRAS is an exciting biennial event that brings together the international space community to explore the latest advances in artificial intelligence, robotics, and automation. The Symposia are led by the Canadian Space Agency (CSA-ASC), the German Aerospace Agency (DLR), the European Space Agency (ESA), the Japanese Aerospace Exploration Agency (JAXA), and the National Aerospace Administration (NASA).  The Symposia provide an ideal platform for agencies, researchers, and industry professionals engaged in the fields of AI, robotics, and space exploration, seeking to share knowledge, foster collaborations, and shape the future of space technology.​"
+  },
+  {
     "shortName": "CBS",
     "name": "IEEE International Conference on Cyborg and Bionic Systems",
     "start": "2024-11-20",

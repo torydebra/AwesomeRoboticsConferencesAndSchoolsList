@@ -13,6 +13,19 @@
     "note": ""
   },
   {
+    "shortName": "ERF",
+    "name": "European Robotics Forum",
+    "start": "2025-04-01",
+    "end": "2025-04-03",
+    "deadline": "",
+    "city": "Stuttgart",
+    "country": "Germany",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "HRI",
     "name": "ACM/IEEE International Conference on Human-Robot Interaction",
     "start": "2025-03-03",

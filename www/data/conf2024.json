@@ -1012,6 +1012,19 @@
     "note": "In this 13th edition, communications are expected to relate advances in the following fields: Advanced Computer-Assisted Surgery Systems, Robotic Platforms and Systems for Surgical Procedures, Sensing and Imaging Technologies in Surgery, AI and Machine Learning Applications for Surgical Autonomation, Surgical Simulation and Training Tools."
   },
   {
+    "shortName": "IVA",
+    "name": "ACM 24th International Conference on Intelligent Virtual Agents ",
+    "start": "2024-09-16",
+    "end": "2024-09-19",
+    "deadline": "2024-04-05",
+    "city": "Glasgow",
+    "country": "Scotland",
+    "link": "https://iva.acm.org/2024/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/a7kZY8VJW4tj6Vdo6",
+    "note": "The annual conference on Intelligent Virtual Agents (IVA) is the premier international event for interdisciplinary research on the design, application, and evaluation of Intelligent Virtual Agents (IVAs) with a specific focus on the ability to socially interact. IVAs are interactive characters that exhibit human-like qualities including communicating using natural human modalities such as facial expressions, speech, and gesture. They are capable of real-time perception, cognition, emotion and action that allow them to participate in dynamic social environments."
+  },
+  {
     "shortName": "ICMRA",
     "name": "7th International Conference on Mechatronics, Robotics and Automation",
     "start": "2024-09-20",

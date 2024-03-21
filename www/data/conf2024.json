@@ -1094,13 +1094,13 @@
     "name": "7th Iberian Robotics Conference",
     "start": "2024-11-06",
     "end": "2024-11-08",
-    "deadline": "",
+    "deadline": "2024-07-13",
     "city": "Madrid",
     "country": "Spain",
-    "link": "",
+    "link": "https://eventos.upm.es/109808/section/49651/robot-2024-.html",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/bDfQ7PJiaPxGVcsP7",
+    "note": "We are pleased to announce the Seventh Iberian Robotics Conference, to be held at the Universidad Politécnica de Madrid from November 6 to 8, 2024. This conference is a premier platform for researchers and professionals to exchange ideas and advancements in various robotics-related areas. We invite authors to submit original contributions across all robotics domains, covering industrial robots, autonomous systems, and field and service robots. The conference will discuss modelling and simulation techniques, design methodologies, and practical applications of developed robotic systems. Additionally, we welcome submissions on support technologies integral to robotic systems' realisation, including sensors and actuators, computer vision and image processing, tactile and haptic devices, control algorithms and architectures, localisation, mapping, navigation, artificial intelligence techniques, and associated economic, ethical, legal, and social considerations. Of particular interest is the exploration of human-robot interaction, which encompasses personal and social robots, medical robots, and exoskeletons, representing an increasingly active and crucial area."
   },
   {
     "shortName": "CoRL",

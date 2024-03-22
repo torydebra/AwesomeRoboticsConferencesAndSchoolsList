@@ -225,6 +225,21 @@
     "note": "The Course provides a stimulating environment for junior academics, early career researches, Post-Docs, PhD students and industry leaders (and highly motivated, promising and brilliant Master students). Participants will also have the chance to present their results with talks, and to interact with their colleagues, in a convivial, professional and productive environment."
   },
   {
+    "shortName": "MALGADLCV",
+    "name": "Deep Learning and Computer Vision",
+    "deadline": "2024-04-01",
+    "city": "Genova",
+    "country": "Italy",
+    "link": "https://malga.unige.it/education/schools/dlcv2024",
+    "type": "School",
+    "start": "2024-06-10",
+    "end": "2024-06-14",
+    "cost": "€80-320",
+    "costNote": "student/prof/industry €80/160/320", 
+    "addressLink": "https://maps.app.goo.gl/CfrcKP4vA1P7U17g7",
+    "note": "The third edition of the DLCV (Deep Learning and Computer Vision) School, merging two crash courses, provides a hands-on introduction to basic principles of deep learning, computer vision, and their strong interconnection. The Deep Learning and Computer Vision School is offered within the PhD Program of Computer Science and Systems Engineering and it is open to PhD students, young researchers and faculty from UNIGE and other institutions as well as professionals, upon selection."
+  },
+  {
     "shortName": "CPS&IoT",
     "name": "Summer School on Cyber-Physical Systems and Internet-of-Things",
     "deadline": "2024-03-01",
@@ -253,6 +268,21 @@
     "costNote": "student/academic/industry: €500/625/937.50",
     "addressLink": "https://maps.app.goo.gl/zw876wxLZYrfvqhz8",
     "note": "The summer school is dedicated to the uses of artificial intelligence (AI) techniques in and for games. After introductory lectures that explain the background and key techniques in AI and games, the school will introduce participants the uses of AI for playing games, for generating content for games, and for modeling players."
+  },
+  {
+    "shortName": "MALGAMLCC",
+    "name": "Machine Learning Crash Course",
+    "deadline": "2024-04-01",
+    "city": "Genova",
+    "country": "Italy",
+    "link": "https://malga.unige.it/education/schools/mlcc2024",
+    "type": "School",
+    "start": "2024-06-25",
+    "end": "2024-06-28",
+    "cost": "€50-300",
+    "costNote": "student/prof/industry €50/100/300", 
+    "addressLink": "https://maps.app.goo.gl/CfrcKP4vA1P7U17g7",
+    "note": "The Machine Learning Crash Course (MLCC) provides an introduction to the fundamental concepts and algorithms of Machine Learning. The course is suitable for undergraduate/graduate students, as well as professionals. It is open to students from any University upon selection."
   },
   {
     "name": "ETH Robotics Summer School",

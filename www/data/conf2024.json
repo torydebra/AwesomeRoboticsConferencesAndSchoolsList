@@ -860,7 +860,7 @@
     "name": "IEEE International Conference on Robot and Human Interactive Communication",
     "start": "2024-08-26",
     "end": "2024-08-30",
-    "deadline": "2024-03-10",
+    "deadline": "2024-03-24",
     "city": "Pasadena, CA",
     "country": "USA",
     "link": "https://www.ro-man2024.org/",
@@ -1036,6 +1036,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/KAE2kgsrnPAYYuJh8",
     "note": ""
+  },
+  {
+    "shortName": "ICRA@40",
+    "name": "40th Anniversary of the IEEE Conference on Robotics and Automation",
+    "start": "2024-09-23",
+    "end": "2024-09-26",
+    "deadline": "2024-05-31",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "link": "https://icra40.ieee.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/mqkgyP2LFwpzGh3i9",
+    "note": "Join us at ICRA@40 for a special commemorative edition marking the 40th anniversary of the ICRA Conference, honoring four decades of groundbreaking research and innovation in robotics and automation.  ICRA@40 is a four-day SINGLE-TRACK conference featuring plenary sessions, distinguished talks and debate panels to explore the past and envision the future, by the most renowned academics and industry experts in robotics and automation. Enjoy ICRA@40 industry-focused day, dedicated to unveiling cutting-edge advancements and technological breakthroughs, stimulating panels, a bustling job fair and vibrant startup showcases."
   },
   {
     "shortName": "IROS",

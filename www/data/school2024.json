@@ -210,6 +210,21 @@
     "note": "The goal of the summer school is to give more students skills on how to control and program navigating robots. The content assumes a strong knowledge of python programming, with some Linux and hardware skills."
   },
   {
+    "shortName": "THRISS",
+    "name": "Summer School on Trustworthy Human-Robot Interaction",
+    "deadline": "2024-03-31",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "link": "https://terais.eu/thriss/",
+    "type": "School",
+    "start": "2024-06-10",
+    "end": "2024-06-13",
+    "cost": "free",
+    "costNote": "accomodation not included", 
+    "addressLink": "https://maps.app.goo.gl/igAE5NH3Q1u1jcyb7",
+    "note": "The Trustworthy Human-Robot Interaction Summer School or THRISS welcomes participants from different backgrounds to meet for four days and deepen their knowledge in the interdisciplinary fields of Cognitive Robotics and Human-Robot Interaction."
+  },
+  {
     "shortName": "ACDL",
     "name": "Advanced Course on Data Science & Machine Learning",
     "deadline": "2024-02-23",

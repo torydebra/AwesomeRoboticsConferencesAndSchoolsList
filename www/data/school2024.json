@@ -463,5 +463,20 @@
     "costNote": "",
     "addressLink": "",
     "note": "As always, the Indaba is the meeting point for the African AI community, bringing together research students, academics, research organisations, startups, and other groups across our continent. The Indaba will feature keynote talks from thought leaders in the fields of ML/AI and Ethics, opportunities to learn skills in practical (programming) sessions, mentorship opportunities, a two-day African Research Symposium, deep dive workshops on topics including NLP, AI in Healthcare, Reinforcement Learning, Machine Learning at the Edge, and AI Governance and Policy, and much more."
+  },
+  {
+    "name": "International Summer School of Automatic Control Grenoble",
+    "deadline": "2024-07-01",
+    "city": "Grenoble",
+    "country": "France",
+    "link": "http://gipsacontrolsummerschool.org",
+    "type": "School",
+    "shortName": "GSS",
+    "start": "2024-09-02",
+    "end": "2024-09-06",
+    "cost": "500-1100€",
+    "costNote": "students/academic/industry:€500/650/1100, accomodation and lunches incl.",
+    "addressLink": "http://gipsacontrolsummerschool.org",
+    "note": "The objective is to assess the fundamentals of mobile robotics while offering insights into recent advancements in the field and innovative applications. The scientific program of the school brings together leading figures in control engineering and robotics, providing an exceptional opportunity to present their latest results and identify emerging areas of research."
   }
 ]

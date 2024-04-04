@@ -360,7 +360,7 @@
     "note": ""
   },
   {
-    "name": "Metaheuristics Summer School ",
+    "name": "Metaheuristics Summer School",
     "deadline": "2024-16-03",
     "city": "Catania",
     "country": "Italy",
@@ -373,6 +373,21 @@
     "costNote": "early-late", 
     "addressLink": "https://maps.app.goo.gl/gmTe2MSqEqJNoXo5A",
     "note": "The 3rd international Metaheuristics Summer School – MESS 2024 – is aimed at qualified and strongly motivated MSc and PhD students; post-docs; young researchers, and both academic and industrial professionals to provide them with an overview on the metaheuristics techniques, and an in-depth analysis of the state-of-the-art. It is a full-immersion four-days course in the beautiful city of Catania whose goal is to offer all participants with a stimulating environment to study and learn advanced concepts and recent research in the fields of Metaheuristics, Optimization, Machine Learning and Artificial Intelligence, in general."
+  },
+  {
+    "name": "Summer School On Control Of Surgical Robots",
+    "deadline": "2024-05-17",
+    "city": "Verona",
+    "country": "Italy",
+    "link": "https://metropolis.scienze.univr.it/cosur-2024/",
+    "type": "School",
+    "shortName": "COSUR",
+    "start": "2024-07-15",
+    "end": "2024-07-18",
+    "cost": "400-700€",
+    "costNote": "student/postdoc/industry: €400/500/700", 
+    "addressLink": "https://maps.app.goo.gl/mrUGUgXkpivH7ekw6",
+    "note": "The COSUR summer school targets PhD students interested to the multidisciplinary field of research in robotic surgery. Following the success of previous editions (2016-2018-2022, held in Verona), the 2024 edition aims to bridge the gap between robotic surgery and Artificial Intelligence (AI), providing a roadmap to the next generation of autonomous surgical robotic systems"
   },
   {
     "name": "Eastern European Machine Learning Summer School",

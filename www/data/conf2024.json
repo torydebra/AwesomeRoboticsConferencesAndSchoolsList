@@ -654,7 +654,7 @@
     "name": "International Conference on Biomimetics and Biohybrid Systems",
     "start": "2024-07-08",
     "end": "2024-07-11",
-    "deadline": "2024-04-05",
+    "deadline": "2024-04-12",
     "city": "Chicago",
     "country": "USA",
     "link": "https://livingmachinesconference.eu/2024/",
@@ -925,7 +925,7 @@
     "name": "IEEE/ASME International Conference on Mechatronic, Embedded Systems and Applications",
     "start": "2024-09-02",
     "end": "2024-09-04",
-    "deadline": "2024-04-01",
+    "deadline": "2024-04-15",
     "city": "Genova",
     "country": "Italy",
     "link": "https://mesa2024.org/",
@@ -1179,5 +1179,18 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/hXQYxidVc6n8PGq59",
     "note": ""
+  },
+  {
+    "shortName": "EuroXR",
+    "name": "21st EuroXR International Conference",
+    "start": "2024-11-27",
+    "end": "2024-11-29",
+    "deadline": "2024-05-06",
+    "city": "Athens",
+    "country": "Greece",
+    "link": "https://www.euroxr.org/conference-2024",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/VVcGbHYKy9q6wwSx7",
+    "note": "Join us at the 21st EuroXR International Conference (EuroXR 2024), the ultimate gathering for Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR) held in Athens, Greece, from 27th to 29th November 2024.  This year co-organized by the Institute of Communication and Computer System (ICCS). "
   }
 ]

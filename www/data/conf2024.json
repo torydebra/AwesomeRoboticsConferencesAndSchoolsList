@@ -1142,6 +1142,19 @@
     "note": "The 4th International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME) is the premier event that brings together industry professionals, academics, and engineers from the related institutions to exchange information and ideas on electrical, computer, communications and mechatronic engineering. The conference will feature a comprehensive technical program offering numerous technical sessions with papers showcasing the latest technologies, and applications."
   },
   {
+    "shortName": "LARS",
+    "name": "IEEE Latin American Robotics Symposium",
+    "start": "2024-11-11",
+    "end": "2024-11-13",
+    "deadline": "2024-06-10",
+    "city": "Arequipa",
+    "country": "Peru",
+    "link": "https://lars-larc2024.ucsp.edu.pe/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/8RQfSQNANRPs9Gu98",
+    "note": "Latin American Robotics Symposium - LARS and Latin American Robotics Competition - LARC are the most important academic events in robotics in all Latin America. Every year LARS/LARC takes place in a Latin American Country. This is a Latin-American event that brings together several sub-events that aim to encourage research and development in the area of Robotics."
+  },
+  {
     "shortName": "i-SAIRAS",
     "name": "International Symposium on Artificial Intelligence, Robotics and Automation in Space",
     "start": "2024-11-19",

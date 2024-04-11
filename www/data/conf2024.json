@@ -947,6 +947,19 @@
     "note": "Virginia Tech and the IFAC Technical Committee in Marine Systems welcome you to the 15th IFAC Conference on Control Applications in Marine Systems, Robotics and Vehicles. The conference aims at defining the research, development and innovation agenda within the areas of marine  automation, control and robotics bridging the prominent views of academia and industry."
   },
   {
+    "shortName": "CLAWAR",
+    "name": "International Conference Series on Climbing and Walking Robots",
+    "start": "2024-09-04",
+    "end": "2024-09-06",
+    "deadline": "2024-04-15",
+    "city": "Kaiserslautern",
+    "country": "Germany",
+    "link": "https://clawar.org/clawar24/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/Sp3stMvqQyAkCipT8",
+    "note": "The CLAWAR 2024 aims to strengthen the scientific and personal exchange in the walking robotics community. Original contributions are invited in the area of climbing and walking robots as well as in general mobile robotics like flying and ground robots."
+  },
+  {
     "shortName": "INISTA",
     "name": "IEEE International Conference on INnovations in Intelligent SysTems and Applications",
     "start": "2024-09-04",

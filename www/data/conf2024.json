@@ -595,7 +595,7 @@
     "link": "http://marss-conference.org/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/zXk8u8HabCHHvtRVA",
-    "note": "MARSS, the annual International Conference on Manipulation, Automation and Robotics at Small Scales, is a non-profit conference run by the microrobotic community and technically supported by IEEE-RAS and IEEE-NTC. MARSS2024 will be held in-person on July 01-05, 2024, in Delft, Netherlands. The conference is the flagship forum to discuss cross-disciplinary activities on 1) manipulation, automation, measurement, and characterization at micro/nano scales, and 2) all kinds of small-scale robots (nm – cm) and their applications."
+    "note": "MARSS, the annual International Conference on Manipulation, Automation and Robotics at Small Scales, is a non-profit conference run by the microrobotic community and technically supported by IEEE-RAS and IEEE-NTC. MARSS2024 will be held in-person on July 01-05, 2024, in Delft, Netherlands. The conference is the flagship forum to discuss cross-disciplinary activities on 1) manipulation, automation, measurement, and characterization at micro/nano scales, and 2) all kinds of small-scale robots (nm \u2013 cm) and their applications."
   },
   {
     "shortName": "RoMoCo",
@@ -1126,7 +1126,7 @@
     "link": "https://eventos.upm.es/109808/section/49651/robot-2024-.html",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/bDfQ7PJiaPxGVcsP7",
-    "note": "We are pleased to announce the Seventh Iberian Robotics Conference, to be held at the Universidad Politécnica de Madrid from November 6 to 8, 2024. This conference is a premier platform for researchers and professionals to exchange ideas and advancements in various robotics-related areas. We invite authors to submit original contributions across all robotics domains, covering industrial robots, autonomous systems, and field and service robots. The conference will discuss modelling and simulation techniques, design methodologies, and practical applications of developed robotic systems. Additionally, we welcome submissions on support technologies integral to robotic systems' realisation, including sensors and actuators, computer vision and image processing, tactile and haptic devices, control algorithms and architectures, localisation, mapping, navigation, artificial intelligence techniques, and associated economic, ethical, legal, and social considerations. Of particular interest is the exploration of human-robot interaction, which encompasses personal and social robots, medical robots, and exoskeletons, representing an increasingly active and crucial area."
+    "note": "We are pleased to announce the Seventh Iberian Robotics Conference, to be held at the Universidad Polit\u00e9cnica de Madrid from November 6 to 8, 2024. This conference is a premier platform for researchers and professionals to exchange ideas and advancements in various robotics-related areas. We invite authors to submit original contributions across all robotics domains, covering industrial robots, autonomous systems, and field and service robots. The conference will discuss modelling and simulation techniques, design methodologies, and practical applications of developed robotic systems. Additionally, we welcome submissions on support technologies integral to robotic systems' realisation, including sensors and actuators, computer vision and image processing, tactile and haptic devices, control algorithms and architectures, localisation, mapping, navigation, artificial intelligence techniques, and associated economic, ethical, legal, and social considerations. Of particular interest is the exploration of human-robot interaction, which encompasses personal and social robots, medical robots, and exoskeletons, representing an increasingly active and crucial area."
   },
   {
     "shortName": "CoRL",
@@ -1178,7 +1178,7 @@
     "link": "https://www.isairas2024.org/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/K4Ka8tKSCdXQPkE8A",
-    "note": "i-SAIRAS is an exciting biennial event that brings together the international space community to explore the latest advances in artificial intelligence, robotics, and automation. The Symposia are led by the Canadian Space Agency (CSA-ASC), the German Aerospace Agency (DLR), the European Space Agency (ESA), the Japanese Aerospace Exploration Agency (JAXA), and the National Aerospace Administration (NASA).  The Symposia provide an ideal platform for agencies, researchers, and industry professionals engaged in the fields of AI, robotics, and space exploration, seeking to share knowledge, foster collaborations, and shape the future of space technology.​"
+    "note": "i-SAIRAS is an exciting biennial event that brings together the international space community to explore the latest advances in artificial intelligence, robotics, and automation. The Symposia are led by the Canadian Space Agency (CSA-ASC), the German Aerospace Agency (DLR), the European Space Agency (ESA), the Japanese Aerospace Exploration Agency (JAXA), and the National Aerospace Administration (NASA).  The Symposia provide an ideal platform for agencies, researchers, and industry professionals engaged in the fields of AI, robotics, and space exploration, seeking to share knowledge, foster collaborations, and shape the future of space technology.\u200b"
   },
   {
     "shortName": "CBS",
@@ -1218,5 +1218,18 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/VVcGbHYKy9q6wwSx7",
     "note": "Join us at the 21st EuroXR International Conference (EuroXR 2024), the ultimate gathering for Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR) held in Athens, Greece, from 27th to 29th November 2024.  This year co-organized by the Institute of Communication and Computer System (ICCS). "
+  },
+  {
+    "shortName": "ICFES",
+    "name": "International Conference on Flexible Electronics and Systems",
+    "start": "2024-12-12",
+    "end": "2024-12-14",
+    "deadline": "",
+    "city": "Hong Kong",
+    "country": "China",
+    "link": "http://www.ieee-icfes.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   }
 ]

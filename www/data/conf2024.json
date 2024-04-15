@@ -1168,6 +1168,19 @@
     "note": "Latin American Robotics Symposium - LARS and Latin American Robotics Competition - LARC are the most important academic events in robotics in all Latin America. Every year LARS/LARC takes place in a Latin American Country. This is a Latin-American event that brings together several sub-events that aim to encourage research and development in the area of Robotics."
   },
   {
+    "shortName": "TELEPRE",
+    "name": "IEEE Conference on Telepresence",
+    "start": "2024-11-16",
+    "end": "2024-11-17",
+    "deadline": "2024-05-23",
+    "city": "Pasadena, CA",
+    "country": "USA",
+    "link": "https://ieee-telepresence.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/7njvbMVrhR1gnd8U8",
+    "note": "The conference will provide a stimulating forum for researchers, educators, and practitioners to learn, share knowledge, report the most recent innovations and developments, and exchange ideas and advances in all aspects of telepresence systems and applications, telerobotics, human-machine interfaces, learning from humans, autonomy. In addition to technical sessions, TELEPRESENCE 2024 will hold keynote addresses, panel discussions, exhibits, and receptions to enrich the fruitful discussions among conference attendees. We will do our best to make this event an intellectually stimulating and enjoyable experience."
+  },
+  {
     "shortName": "i-SAIRAS",
     "name": "International Symposium on Artificial Intelligence, Robotics and Automation in Space",
     "start": "2024-11-19",

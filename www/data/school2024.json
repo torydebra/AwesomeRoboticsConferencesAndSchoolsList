@@ -324,8 +324,8 @@
     "shortName": "RCSAI",
     "start": "2024-07-03",
     "end": "2024-07-05",
-    "cost": "free (accomodation not included)",
-    "costNote": "",
+    "cost": "free",
+    "costNote": "accomodation not included",
     "addressLink": "https://maps.app.goo.gl/wNcLmVSzAdexJm8o9",
     "note": "The main objective of the Robotics, Control Systems and Artificial Intelligence Summer School 2024 is to disseminate robotic, control systems and artificial intelligence knowledge and experimentation to the technological community. Several days with an intensive agenda in current main robotic issues will be presented: Computer Vision, Human Robot Interaction and robot navigation, Robot manipulation for Assistive Robotics and Control Systems."
   },

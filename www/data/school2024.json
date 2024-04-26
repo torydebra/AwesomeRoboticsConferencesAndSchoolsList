@@ -315,6 +315,21 @@
     "note": "The RobotX initiative at ETH Zurich is committed to provide continued education and training to the young generations of researchers and practitioners. This summer school offers lectures and hands-on tutorials to grasp the fundamental concepts that every roboticist around the world should possess. From 29 June to 05 July, tutorials as well as hands-on sessions with cutting edge robotics platforms will take place at a dedicated education and training center for search and rescue. Attendees will get the opportunity to team up with each other and program a (semi)-autonomous rough-terrain UGV, to extensively test it in a variety of environments, and finally to challenge colleagues in a competition."
   },
   {
+    "name": "Robotics, Control Systems and Artificial Intelligence Summer School",
+    "deadline": "2024-05-10",
+    "city": "Barcelona",
+    "country": "Spain",
+    "link": "https://www.iri.upc.edu/workshops/RoboticsAISummerSchool2024/index.html",
+    "type": "School",
+    "shortName": "RCSAI",
+    "start": "2024-07-03",
+    "end": "2024-07-05",
+    "cost": "free (accomodation not included)",
+    "costNote": "",
+    "addressLink": "https://maps.app.goo.gl/wNcLmVSzAdexJm8o9",
+    "note": "The main objective of the Robotics, Control Systems and Artificial Intelligence Summer School 2024 is to disseminate robotic, control systems and artificial intelligence knowledge and experimentation to the technological community. Several days with an intensive agenda in current main robotic issues will be presented: Computer Vision, Human Robot Interaction and robot navigation, Robot manipulation for Assistive Robotics and Control Systems."
+  },
+  {
     "name": "Mlx Representation and Learning Generative AI",
     "deadline": "2024-02-07",
     "city": "Oxford",

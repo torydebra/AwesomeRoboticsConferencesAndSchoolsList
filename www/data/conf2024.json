@@ -956,7 +956,7 @@
     "country": "Czech Republic",
     "link": "http://www.mfi2024.org",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://osm.org/go/0JZv6NdG4--?layers=N&m=",
     "note": ""
   },
   {
@@ -1138,8 +1138,8 @@
     "country": "China",
     "link": "https://www.rcae.net/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/EiGbyVong6vid4wK6",
+    "note": "Robotics, Control and Automation Engineering has advanced in recent years, with new technologies and methods improving the efficiency, reliability, and safety of robotic systems. Advances in robot perception, planning, and control enable robots to operate with greater precision in complex and dynamic environments. Intelligent and autonomous systems have been developed with advanced control algorithms, optimization techniques, and machine learning methods, enabling them to perform complex tasks without human intervention."
   },
   {
     "shortName": "DARS",

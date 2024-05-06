@@ -240,6 +240,21 @@
     "note": "The Course provides a stimulating environment for junior academics, early career researches, Post-Docs, PhD students and industry leaders (and highly motivated, promising and brilliant Master students). Participants will also have the chance to present their results with talks, and to interact with their colleagues, in a convivial, professional and productive environment."
   },
   {
+    "shortName": "HHAI",
+    "name": "Hybrid Human-Artificial Intelligence Summer School",
+    "deadline": "2024-05-17",
+    "city": "Malmö",
+    "country": "Sweden",
+    "link": "https://hhai-conference.org/2024/hhai-summer-school/",
+    "type": "School",
+    "start": "2024-06-10",
+    "end": "2024-06-14",
+    "cost": "€400-750",
+    "costNote": "conferences cost? Support available", 
+    "addressLink": "https://maps.app.goo.gl/huyPEkiUFs2T2sRN8",
+    "note": "As part of the pre-conference program, leading researchers and experts from industry will offer a series of tutorials, workshops, and other events of cutting-edge topics related to Hybrid Human-Artificial Intelligence. The HHAI 2024 Summer School is addressed to  early-stage researchers, such as graduate (MSc and PhD) students, postdocs, early-career faculty, and other academic and industrial researchers interested in the diverse field of Hybrid Human-Artificial Intelligence. The primary goal of the HHAI 2024 is to showcase, through tutorials, workshops and sessions, a range of exciting recent developments in Hybrid Human-Artificial Intelligence."
+  },
+  {
     "shortName": "MALGADLCV",
     "name": "Deep Learning and Computer Vision",
     "deadline": "2024-04-01",

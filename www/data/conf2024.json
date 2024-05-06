@@ -455,6 +455,19 @@
     "note": "Technological development deeply constrains our perception of marine environments and ecosystems. The main objective of the MARTECH Workshop is to share information and points of view on cutting-edge research in several fields of MARine TECHnology. MarTech is an internationally renewed venue for dissemination of marine technology research since 2008."
   },
   {
+    "shortName": "HHAI",
+    "name": "International Conference on Hybrid Human-Artificial Intelligence",
+    "start": "2024-06-10",
+    "end": "2024-06-14",
+    "deadline": "2024-02-09",
+    "city": "Malmö",
+    "country": "Sweden",
+    "link": "https://hhai-conference.org/2024/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/huyPEkiUFs2T2sRN8",
+    "note": "Hybrid Human Artificial Intelligence (HHAI2024) will be the third international conference focusing on the study of Artificial Intelligent systems that cooperate synergistically, proactively, and purposefully with humans, amplifying instead of replacing human intelligence."
+  },
+  {
     "shortName": "MED",
     "name": "The 32nd Mediterranean Conference on Control and Automation",
     "start": "2024-06-11",

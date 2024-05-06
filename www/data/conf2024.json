@@ -947,6 +947,19 @@
     "note": "Virginia Tech and the IFAC Technical Committee in Marine Systems welcome you to the 15th IFAC Conference on Control Applications in Marine Systems, Robotics and Vehicles. The conference aims at defining the research, development and innovation agenda within the areas of marine  automation, control and robotics bridging the prominent views of academia and industry."
   },
   {
+    "shortName": "MFI",
+    "name": "IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems",
+    "start": "2024-09-04",
+    "end": "2024-09-06",
+    "deadline": "",
+    "city": "Pilsen",
+    "country": "Czech Republic",
+    "link": "http://www.mfi2024.org",
+    "type": "Conference",
+    "addressLink": "https://osm.org/go/0JZv6NdG4--?layers=N&m=",
+    "note": ""
+  },
+  {
     "shortName": "CLAWAR",
     "name": "International Conference Series on Climbing and Walking Robots",
     "start": "2024-09-04",
@@ -1114,6 +1127,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/ohCPHAJPZkjCaVvg9",
     "note": "The 16th International Conference on Social Robotics will bring together researchers and practitioners working on the interaction between humans and intelligent robots and on the integration of social robots into our society. ICSR\u201924 will take place in Odense, Denmark as a face-to-face conference between October 23-26, 2024. This will be the first time that the conference will be hosted in Denmark and Scandinavia. The theme of this year\u2019s conference is \u201cEmpowering Humanity: The Role of Social and Collaborative Robotics in Shaping Our Future\u201d."
+  },
+  {
+    "shortName": "RCAE",
+    "name": "7th International Conference on Robotics, Control and Automation Engineering",
+    "start": "2024-10-25",
+    "end": "2024-10-27",
+    "deadline": "",
+    "city": "Wuhu",
+    "country": "China",
+    "link": "https://www.rcae.net/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/EiGbyVong6vid4wK6",
+    "note": "Robotics, Control and Automation Engineering has advanced in recent years, with new technologies and methods improving the efficiency, reliability, and safety of robotic systems. Advances in robot perception, planning, and control enable robots to operate with greater precision in complex and dynamic environments. Intelligent and autonomous systems have been developed with advanced control algorithms, optimization techniques, and machine learning methods, enabling them to perform complex tasks without human intervention."
   },
   {
     "shortName": "DARS",

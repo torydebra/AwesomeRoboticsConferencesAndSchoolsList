@@ -999,6 +999,19 @@
     "note": "International Conference on INnovations in Intelligent SysTems and Applications (INISTA) has been organized since 2005. It aims to bring together the researchers from the entire spectrum of the multi-disciplinary fields of intelligent systems and to establish effective means of communication between them. In particular, it focuses on all aspects of intelligent systems and the related applications, from the points of view of both theory and practice. Apart of the main track it includes work-shops, tutorials, special sessions and plenary talks by invited speakers."
   },
   {
+    "shortName": "XR",
+    "name": "International Conference on eXtended Reality",
+    "start": "2024-09-04",
+    "end": "2024-09-07",
+    "deadline": "2024-05-15",
+    "city": "Lecce",
+    "country": "Italy",
+    "link": "https://www.xrsalento.it/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/w786QxCDZauHCtwcA",
+    "note": "XR SALENTO is an evolution of previous editions of the International Conference on Augmented Reality, Virtual Reality and Computer Graphics (Salento AVR), which had united the AR/VR community since 2014."
+  },
+  {
     "shortName": "ANTS",
     "name": "International Conference on Swarm Intelligence",
     "start": "2024-09-09",

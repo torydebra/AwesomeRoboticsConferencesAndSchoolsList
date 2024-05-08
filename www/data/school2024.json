@@ -538,5 +538,20 @@
     "costNote": "students/academic/industry:€500/650/1100, accomodation and lunches incl.",
     "addressLink": "http://gipsacontrolsummerschool.org",
     "note": "The objective is to assess the fundamentals of mobile robotics while offering insights into recent advancements in the field and innovative applications. The scientific program of the school brings together leading figures in control engineering and robotics, providing an exceptional opportunity to present their latest results and identify emerging areas of research."
-  }
+  },
+  {
+    "name": "2nd Doctoral Summer School on Robotics and Intelligent Machines",
+    "deadline": "",
+    "city": "Volterra",
+    "country": "Italy",
+    "link": "",
+    "type": "School",
+    "shortName": "DRIMS2",
+    "start": "2024-09-05",
+    "end": "2024-09-11",
+    "cost": "tdb",
+    "costNote": "",
+    "addressLink": "",
+    "note": "The school is an official initial initiative of the Italian PhD in Robotics and Intelligent Machines (https://drim.i-rim.it/en/ ), and it is open to all the PhD students passionate about the field. In 2023, 69 international students attended the first edition, and the school offered 52 hours of didactic activities. The multidisciplinary and hands-on structure of the School, highly appreciated by the attendants in 2023, is a one-of-kind opportunity for the attendees to see robotics from a wider point of view. This year, the Scientific Committee is comprised of 13 members, with great team diversity in terms of cultural background, universities, and regional distribution, aiming to provide a top-class education."
+}
 ]

@@ -300,6 +300,21 @@
     "note": "The summer school is dedicated to the uses of artificial intelligence (AI) techniques in and for games. After introductory lectures that explain the background and key techniques in AI and games, the school will introduce participants the uses of AI for playing games, for generating content for games, and for modeling players."
   },
   {
+    "name": "XR&AI Summer School",
+    "deadline": "2024-06-10",
+    "city": "Matera",
+    "country": "Italy",
+    "link": "https://xrsalento.it/xrai-summer-school-2024/",
+    "type": "School",
+    "shortName": "XRAI",
+    "start": "2024-06-17",
+    "end": "2024-06-21",
+    "cost": "€550-600",
+    "costNote": "early-late",
+    "addressLink": "https://maps.app.goo.gl/vBBufXnGdxYEesk47",
+    "note": "he third edition of the XR&AI Summer School 2024 offers an exciting opportunity to immerse in the cutting-edge world of Extended Reality (XR) and Artificial Intelligence (AI). Participants will explore emerging technologies that are revolutionising the way we interact with the world around us through the focus on Machine Learning algorithms, Artificial Intelligence (AI), Blockchain, Internet of Things (IoT), Extended Reality (XR), 3D printing, Robotics, Virtual Reality, Augmented Reality, and Mixed Reality."
+  },
+  {
     "shortName": "MALGAMLCC",
     "name": "Machine Learning Crash Course",
     "deadline": "2024-04-01",

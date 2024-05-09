@@ -765,6 +765,18 @@
     "type": "Conference"
   },
   {
+    "shortName": "ICBIR+MRF",
+    "name": "International Conference on Biomimetic Intelligence and Robotics & Medical Robotics Forum ",
+    "start": "2024-07-25",
+    "end": "2024-07-25",
+    "deadline": "2024-04-30",
+    "city": "Nyingchi",
+    "country": "China",
+    "link": "https://maps.app.goo.gl/Myh5uT1Giug6VWke6",
+    "type": "Conference",
+    "note": "ICBIR+MRF 2024 is an affiliated conference of the Elsevier journal of Biomimetic Intelligence and Robotics. Original research papers in Robotics, Al, Biomimetics and related areas with real applications are welcome. All accepted papers will be published by Elsevier and indexed by El. Award winning papers will be published in top Elsevier and SCI journals. All accepted and presented papers at the conference will be considered for the five categories of the ICBIR best paper awards."
+  },
+  {
     "shortName": "COINS",
     "name": "IEEE International Conference on Omni-layer Intelligent Systems",
     "start": "2024-07-29",

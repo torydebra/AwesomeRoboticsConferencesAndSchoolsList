@@ -553,5 +553,35 @@
     "costNote": "",
     "addressLink": "",
     "note": "The school is an official initial initiative of the Italian PhD in Robotics and Intelligent Machines (https://drim.i-rim.it/en/ ), and it is open to all the PhD students passionate about the field. In 2023, 69 international students attended the first edition, and the school offered 52 hours of didactic activities. The multidisciplinary and hands-on structure of the School, highly appreciated by the attendants in 2023, is a one-of-kind opportunity for the attendees to see robotics from a wider point of view. This year, the Scientific Committee is comprised of 13 members, with great team diversity in terms of cultural background, universities, and regional distribution, aiming to provide a top-class education."
-}
+  },
+  {
+    "name": "10th International Summer School on Screw-Theory Based Methods in Robotics",
+    "deadline": "",
+    "city": "İzmir",
+    "country": "Turkey",
+    "link": "https://summerscrews2024.iyte.edu.tr/",
+    "type": "SCREWS",
+    "shortName": "DRIMS2",
+    "start": "2024-09-07",
+    "end": "2024-09-14",
+    "cost": "499€",
+    "costNote": "",
+    "addressLink": "https://maps.app.goo.gl/j7d5fhx3oCityckTA",
+    "note": "The program will introduce basic theoretical notions in a rigorous manner, with a focus on examples, applications, and exercises. This summer school is suitable for M.Sc. students, Ph.D. students, post-docs, and academic staff, as well as participants from industry who want to enhance their skills in this field."
+  },
+  {
+    "name": "3rd Latin American Summer School on Robotics",
+    "deadline": "2024-10-1",
+    "city": "Rancagua",
+    "country": "Chile",
+    "link": "https://www.lacoro.org/",
+    "type": "School",
+    "shortName": "LACORO",
+    "start": "2024-12-09",
+    "end": "2024-12-13",
+    "cost": "50-300USD",
+    "costNote": "student/academic/professional: USD 50/200/300",
+    "addressLink": "",
+    "note": "The school is an official initial initiative of the Italian PhD in Robotics and Intelligent Machines (https://drim.i-rim.it/en/ ), and it is open to all the PhD students passionate about the field. In 2023, 69 international students attended the first edition, and the school offered 52 hours of didactic activities. The multidisciplinary and hands-on structure of the School, highly appreciated by the attendants in 2023, is a one-of-kind opportunity for the attendees to see robotics from a wider point of view. This year, the Scientific Committee is comprised of 13 members, with great team diversity in terms of cultural background, universities, and regional distribution, aiming to provide a top-class education."
+  }
 ]

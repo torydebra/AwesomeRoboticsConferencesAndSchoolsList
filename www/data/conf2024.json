@@ -637,6 +637,19 @@
     "note": "The scope of this workshop is to discuss the application and future possibilities of human computer interaction to be used for emotions, verbal / nonverbal expression, and recognition. Expression and recognition of emotions includes facial expressions, emotional data from biometric data from sensors, body motions, gestures, verbal, and nonverbal data."
   },
   {
+    "shortName": "RAIIE",
+    "name": "International Symposium on Robotics, Artificial Intelligence and Information Engineering",
+    "start": "2024-07-05",
+    "end": "2024-07-07",
+    "deadline": "2024-07-01",
+    "city": "Singapore",
+    "country": "Singapore",
+    "link": "https://www.raiie.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/8HzFUReN2FE4iyib9",
+    "note": "2024 3rd International Symposium on Robotics, Artificial Intelligence and Information Engineering (RAIIE 2024) will be held in Singapore from July 5-7, 2024. The idea of the conference is for the scientists, scholars, engineers, and students from Universities all around the world and the industry to present ongoing research activities, and hence to foster research relations between the Universities and the industry.  This conference provides opportunities for the delegates to exchange new ideas and application experiences face to face, establish business or research relations, and find global partners for future collaboration."
+  },
+  {
     "shortName": "ICARM",
     "name": "International Conference on Advanced Robotics and Mechatronics",
     "start": "2024-07-06",
@@ -881,6 +894,32 @@
     "note": "The Irish Machine Vision and Image Processing Conference (IMVIP) Conference is the annual research conference of the Irish Pattern Recognition and Classification Society. The chief objective of the society is the advancement of research and study of pattern recognition, classification and associated fields and the applications of the outcomes of research. IPRCS is a member of the International Association for Pattern Recognition (IAPR) and the International Federation of Classification Societies."
   },
   {
+    "shortName": "TAROS",
+    "name": "Towards Autonomous Robotic Systems",
+    "start": "2024-08-21",
+    "end": "2024-08-23",
+    "deadline": "2024-05-19",
+    "city": "London",
+    "country": "UK",
+    "link": "https://taros-conference.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/6nkhqLsRnxwei2BU9",
+    "note": "TAROS (Towards Autonomous Robotic Systems) is the longest-running UK-hosted international conference on Robotics and Autonomous Systems (RAS), which is aimed at the presentation and discussion of the latest results and methods in autonomous robotics research and applications. TAROS offers a friendly environment for robotics researchers and industry to take stock and plan future progress. It welcomes senior researchers and research students alike and specifically provides opportunities for research students and young research scientists to present their work to the scientific community."
+  },
+  {
+    "shortName": "EUMAS",
+    "name": "21st European Conference on Multi-Agent Systems",
+    "start": "2024-08-26",
+    "end": "2024-08-28",
+    "deadline": "2024-05-31",
+    "city": "Dublin",
+    "country": "Ireland",
+    "link": "https://euramas.github.io/eumas2024/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/N7kWbr7pLTmHWCnu9",
+    "note": "EUMAS 2024 is an EURAMAS designated event which follows the tradition of previous editions (Oxford 2003, Barcelona 2004, Brussels 2005, Lisbon 2006, Hammamet 2007, Bath 2008, Agia Napa 2009, Paris 2010, Maastricht 2011, Dublin 2012, Toulouse 2013, Prague 2014, Athens 2015, Valencia 2016, Evry 2017, Bergen 2018, Thessaloniki 2020, Israel (online) 2021 Düsseldorf 2023, Naples 2023), and aims to encourage and support activity in the research and development of multi- agent systems, in academic and industrial effort. The conference aspires to be the primary European forum for researchers interested in the theory and practice of autonomous agents and multi-agent systems. EUMAS enables researchers to meet, present challenges, preliminary and mature research results in an open environment. EUMAS 2024 features formal proceddings published as part of the Lecture Notes in Computer Science (LNCS) series of Springer."
+  },
+  {
     "shortName": "ROMAN",
     "name": "IEEE International Conference on Robot and Human Interactive Communication",
     "start": "2024-08-26",
@@ -918,6 +957,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/h6EYEBh1r8iMUJoNA",
     "note": ""
+  },
+  {
+    "shortName": "DSD",
+    "name": "Euromicro Conference on Digital System Design",
+    "start": "2024-08-28",
+    "end": "2024-08-30",
+    "deadline": "2024-06-03",
+    "city": "Paris",
+    "country": "France",
+    "link": "https://dsd-seaa.com/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/n55VGdnpbQHjy2A48",
+    "note": "Euromicro is an international scientific, engineering and educational organization dedicated to advancing the arts, sciences and applications of Information Technology and Microelectronics. Euromicro was founded in 1973, inspired by the emerging microprocessor technology. Since then, Euromicro has been devoted to promoting research and technology transfer in its field, as well as discussing and disseminating of knowledge, information and skills in academia, industry, government and in education. As a truly international society Euromicro strictly adheres to impartiality in national and international affairs."
   },
   {
     "shortName": "CASE",
@@ -1037,6 +1089,19 @@
     "note": "Swarm intelligence is the discipline that deals with the study of self-organizing processes both in nature and in artificial systems. Researchers in ethology and animal behavior have proposed a number of models to explain interesting aspects of collective behaviors such as movement coordination, shape-formation or decision making. Recently, algorithms and methods inspired by these models have been proposed to solve difficult problems in many domains. ANTS 2024 will give researchers in swarm intelligence the opportunity to meet, to present their latest research, and to discuss current developments and applications."
   },
   {
+    "shortName": "IWAI",
+    "name": "5th International Workshop on Active Inference",
+    "start": "2024-09-09",
+    "end": "2024-09-11",
+    "deadline": "2023-06-07",
+    "city": "Oxford",
+    "country": "UK",
+    "link": "https://iwaiworkshop.github.io/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/sVcTCpWY8nKq8wvr8",
+    "note": "The 5th International Workshop on Active Inference wants to bring together researchers on active inference as well as related research fields in order to discuss current trends, novel results and real-world applications. We have an interest in exploring the extent to which active inference can be used in modern machine learning settings, such as in hybrid setups combining it with deep learning, as well as to unify the latest psychological and neurological insights, and to determine how it can best be used to understand action, optimization and decision making."
+  },
+  {
     "shortName": "SAB",
     "name": "International Conference on Simulation of Adaptive Behavior",
     "start": "2024-09-09",
@@ -1067,7 +1132,7 @@
     "name": "Conference on New Technologies for Computer and Robot Assisted Surgery",
     "start": "2024-09-11",
     "end": "2024-09-13",
-    "deadline": "2024-05-15",
+    "deadline": "2024-06-05",
     "city": "Odense",
     "country": "Denmark",
     "link": "https://cras-eu.org/cras-2024/",
@@ -1262,7 +1327,7 @@
     "name": "IEEE Conference on Telepresence",
     "start": "2024-11-16",
     "end": "2024-11-17",
-    "deadline": "2024-05-23",
+    "deadline": "2024-05-29",
     "city": "Pasadena, CA",
     "country": "USA",
     "link": "https://ieee-telepresence.org/",
@@ -1282,6 +1347,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/K4Ka8tKSCdXQPkE8A",
     "note": "i-SAIRAS is an exciting biennial event that brings together the international space community to explore the latest advances in artificial intelligence, robotics, and automation. The Symposia are led by the Canadian Space Agency (CSA-ASC), the German Aerospace Agency (DLR), the European Space Agency (ESA), the Japanese Aerospace Exploration Agency (JAXA), and the National Aerospace Administration (NASA).  The Symposia provide an ideal platform for agencies, researchers, and industry professionals engaged in the fields of AI, robotics, and space exploration, seeking to share knowledge, foster collaborations, and shape the future of space technology.\u200b"
+  },
+  {
+    "shortName": "ECAI",
+    "name": "European Conference On Artificial Intelligence",
+    "start": "2024-11-19",
+    "end": "2024-11-24",
+    "deadline": "2024-04-25",
+    "city": "Santiago de Compostela",
+    "country": "Spain",
+    "link": "https://www.ecai2024.eu/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/ZSALR8raTLc2kVgA8",
+    "note": "The conference is supported by the European Association for Artificial Intelligence (EurAI) and the Spanish AI Society (AEPIA), and it is organised by the Intelligent Systems Group of the CiTIUS-Research Centre on Intelligent Technologies of the University of Santiago de Compostela."
   },
   {
     "shortName": "CBS",

@@ -11,5 +11,18 @@
     "type": "Conference",
     "addressLink": "",
     "note": ""
+  },
+  {
+    "shortName": "IROS",
+    "name": "IEEE International Conference on Intelligent Robots and Systems",
+    "start": "2028",
+    "end": "2028",
+    "deadline": "",
+    "city": "Sidney",
+    "country": "Australia",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   }
 ]

@@ -1219,6 +1219,19 @@
     "note": "Meet with the experts of the marine robotics world from academia, industry and government sectors from around the globe. Strong student representation is expected. The single-track conference will bring the community together – we believe that bringing everyone together under a single roof is the right way to start discussions that will take the leading edge of technology forward. Additional networking sessions and socials are planned to facilitate fun and engaging discussions to brainstorm ideas for marine robotics of the future."
   },
   {
+    "shortName": "IAR",
+    "name": "International Academic Conference on Industrial Automation and Robotics",
+    "start": "2024-10-18",
+    "end": "2024-10-20",
+    "deadline": "2024-06-17",
+    "city": "Singapore",
+    "country": "Singapore",
+    "link": "https://www.ic-iar.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/GHJbAA9zwsB76FJq9",
+    "note": "The International Academic Conference on Industrial Automation and Robotics 2024 (IAR 2024) will be held on Oct. 18-20, 2024 in Singapore. The conference will provide an international platform for experts, professors, scholars, engineers, etc. from universities, scientific research institutes, enterprises and institutions at home and abroad to share their professional experiences, expand their professional networks, exchange new ideas face-to-face, and present their research results, centering on the latest research fields of "Industrial Automation" and "Intelligent Robotics"
+  },
+  {
     "shortName": "ROSCON",
     "name": "ROS Conference",
     "start": "2024-10-21",

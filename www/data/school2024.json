@@ -510,6 +510,21 @@
     "note": "Welcome to the website for the Princeton Machine Learning Theory Summer School. The school will run in person August 6 - August 15, 2024 at Princeton and is aimed at PhD students interested in machine learning theory. The primary goal is to showcase, through four main courses, a range of exciting recent developments in the subject. The primary focus this year is on theoretical advances in deep learning. An important secondary goal is to connect young researchers and foster community within theoretical machine learning."
   },
   {
+    "name": "CVML Programming Short Course and Workshop on Deep Learning, Computer Vision and Big Data Analytics",
+    "deadline": "2024-07-15",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "link": "https://mlschool.princeton.edu/",
+    "type": "School",
+    "shortName": "CVML",
+    "start": "2024-08-27",
+    "end": "2024-08-29",
+    "cost": "50-200€",
+    "costNote": "student/young/standard: 50/100/200€",
+    "addressLink": "https://maps.app.goo.gl/TL7HTB8Et6VNRxuk8",
+    "note": "This Summer School offers a three-day short course that delivers an in-depth exploration of programming tools and techniques for addressing a variety of computer vision and deep learning challenges. The course focuses on the fundamentals of deep learning and its applications in Natural Disaster Management. The short course consists of three parts (A, B, C), each having lectures and programming workshops with hands-on lab exercises."
+  },
+  {
     "name": "Deep Learning Indaba",
     "deadline": "",
     "city": "Dakar",

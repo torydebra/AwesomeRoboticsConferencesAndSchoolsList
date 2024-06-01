@@ -1310,6 +1310,19 @@
     "note": "Due to rapid advances in manufacturing, computing, and communication, distributed robotics is a rapidly growing area in robotics.  This field draws on knowledge across a large range of disciplines such as computer science, communication and control systems, electrical and mechanical engineering, life sciences, and humanities. DARS 2024 will provide an exciting opportunity for researchers to present and discuss the latest advances in distributed robotic technologies, algorithms, system architectures, and applications."
   },
   {
+    "shortName": "EWRL",
+    "name": "European Workshop on Reinforcement Learning",
+    "start": "2024-10-28",
+    "end": "2024-10-30",
+    "deadline": "2024-06-07",
+    "city": "Toulouse",
+    "country": "France",
+    "link": "https://ewrl.wordpress.com/ewrl17-2024/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/2yASj52tngckdsra6",
+    "note": "The 17th European workshop on reinforcement learning (EWRL 2024) organization team invites reinforcement learning researchers to participate in the 2024 edition of this world class event. We plan to make this an exciting event for researchers worldwide, not only for the presentation of top quality papers, but also as a forum for ample discussion of open problems and future research directions."
+  },
+  {
     "shortName": "ROBOT",
     "name": "7th Iberian Robotics Conference",
     "start": "2024-11-06",
@@ -1353,7 +1366,7 @@
     "name": "IEEE Latin American Robotics Symposium",
     "start": "2024-11-11",
     "end": "2024-11-13",
-    "deadline": "2024-06-10",
+    "deadline": "2024-06-17",
     "city": "Arequipa",
     "country": "Peru",
     "link": "https://lars-larc2024.ucsp.edu.pe/",

@@ -650,6 +650,19 @@
     "note": "2024 3rd International Symposium on Robotics, Artificial Intelligence and Information Engineering (RAIIE 2024) will be held in Singapore from July 5-7, 2024. The idea of the conference is for the scientists, scholars, engineers, and students from Universities all around the world and the industry to present ongoing research activities, and hence to foster research relations between the Universities and the industry.  This conference provides opportunities for the delegates to exchange new ideas and application experiences face to face, establish business or research relations, and find global partners for future collaboration."
   },
   {
+    "shortName": "RAIIC",
+    "name": "International Conference of Robotics, Artificial Intelligence and Intelligent Control ",
+    "start": "2024-07-05",
+    "end": "2024-07-07",
+    "deadline": "2024-06-02",
+    "city": "Mianyang",
+    "country": "China",
+    "link": "http://www.raiic.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/n54eppSqtWEUpCea8",
+    "note": "The 3rd International Conference of Robotics, Artificial Intelligence and Intelligent Control (RAIIC 2024) will be held in Mianyang, China during July 5-7, 2024. The conference is a forum for presenting excellent results and a new challenge that facing the field of Robotics, Artificial intelligence and intelligent control. It will bring together the experts, scholars, researchers and related practitioners from all around the world to communicate their research results and address the open issues in Robotics, Artificial intelligence and intelligent control."
+  },
+  {
     "shortName": "ICARM",
     "name": "International Conference on Advanced Robotics and Mechatronics",
     "start": "2024-07-06",

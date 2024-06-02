@@ -39,6 +39,19 @@
     "note": ""
   },
   {
+    "shortName": "ICMRACC",
+    "name": "IEEE 1st International Conference on Materials, Robotics & Automation, Computer and Control",
+    "start": "2025-03-14",
+    "end": "2025-03-16",
+    "deadline": "",
+    "city": "Kannur",
+    "country": "India",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "ICRA",
     "name": "IEEE International Conference on Robotics and Automation",
     "start": "2025-05-17",

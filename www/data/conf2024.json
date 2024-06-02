@@ -460,7 +460,7 @@
     "start": "2024-06-10",
     "end": "2024-06-14",
     "deadline": "2024-02-09",
-    "city": "Malmö",
+    "city": "Malm\u00f6",
     "country": "Sweden",
     "link": "https://hhai-conference.org/2024/",
     "type": "Conference",
@@ -930,7 +930,7 @@
     "link": "https://euramas.github.io/eumas2024/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/N7kWbr7pLTmHWCnu9",
-    "note": "EUMAS 2024 is an EURAMAS designated event which follows the tradition of previous editions (Oxford 2003, Barcelona 2004, Brussels 2005, Lisbon 2006, Hammamet 2007, Bath 2008, Agia Napa 2009, Paris 2010, Maastricht 2011, Dublin 2012, Toulouse 2013, Prague 2014, Athens 2015, Valencia 2016, Evry 2017, Bergen 2018, Thessaloniki 2020, Israel (online) 2021 Düsseldorf 2023, Naples 2023), and aims to encourage and support activity in the research and development of multi- agent systems, in academic and industrial effort. The conference aspires to be the primary European forum for researchers interested in the theory and practice of autonomous agents and multi-agent systems. EUMAS enables researchers to meet, present challenges, preliminary and mature research results in an open environment. EUMAS 2024 features formal proceddings published as part of the Lecture Notes in Computer Science (LNCS) series of Springer."
+    "note": "EUMAS 2024 is an EURAMAS designated event which follows the tradition of previous editions (Oxford 2003, Barcelona 2004, Brussels 2005, Lisbon 2006, Hammamet 2007, Bath 2008, Agia Napa 2009, Paris 2010, Maastricht 2011, Dublin 2012, Toulouse 2013, Prague 2014, Athens 2015, Valencia 2016, Evry 2017, Bergen 2018, Thessaloniki 2020, Israel (online) 2021 D\u00fcsseldorf 2023, Naples 2023), and aims to encourage and support activity in the research and development of multi- agent systems, in academic and industrial effort. The conference aspires to be the primary European forum for researchers interested in the theory and practice of autonomous agents and multi-agent systems. EUMAS enables researchers to meet, present challenges, preliminary and mature research results in an open environment. EUMAS 2024 features formal proceddings published as part of the Lecture Notes in Computer Science (LNCS) series of Springer."
   },
   {
     "shortName": "ROMAN",
@@ -1167,6 +1167,19 @@
     "note": "The annual conference on Intelligent Virtual Agents (IVA) is the premier international event for interdisciplinary research on the design, application, and evaluation of Intelligent Virtual Agents (IVAs) with a specific focus on the ability to socially interact. IVAs are interactive characters that exhibit human-like qualities including communicating using natural human modalities such as facial expressions, speech, and gesture. They are capable of real-time perception, cognition, emotion and action that allow them to participate in dynamic social environments."
   },
   {
+    "shortName": "ICRCV",
+    "name": "6th International Conference on Robotics and Computer Vision",
+    "start": "2024-09-20",
+    "end": "2024-09-22",
+    "deadline": "",
+    "city": "Wuxi",
+    "country": "China",
+    "link": "http://www.icrcv.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "ICMRA",
     "name": "7th International Conference on Mechatronics, Robotics and Automation",
     "start": "2024-09-20",
@@ -1242,7 +1255,7 @@
     "link": "https://auv2024.sites.northeastern.edu/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/4n7r97mFgry6gc3r9",
-    "note": "Meet with the experts of the marine robotics world from academia, industry and government sectors from around the globe. Strong student representation is expected. The single-track conference will bring the community together – we believe that bringing everyone together under a single roof is the right way to start discussions that will take the leading edge of technology forward. Additional networking sessions and socials are planned to facilitate fun and engaging discussions to brainstorm ideas for marine robotics of the future."
+    "note": "Meet with the experts of the marine robotics world from academia, industry and government sectors from around the globe. Strong student representation is expected. The single-track conference will bring the community together \u2013 we believe that bringing everyone together under a single roof is the right way to start discussions that will take the leading edge of technology forward. Additional networking sessions and socials are planned to facilitate fun and engaging discussions to brainstorm ideas for marine robotics of the future."
   },
   {
     "shortName": "IAR",
@@ -1373,6 +1386,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/8RQfSQNANRPs9Gu98",
     "note": "Latin American Robotics Symposium - LARS and Latin American Robotics Competition - LARC are the most important academic events in robotics in all Latin America. Every year LARS/LARC takes place in a Latin American Country. This is a Latin-American event that brings together several sub-events that aim to encourage research and development in the area of Robotics."
+  },
+  {
+    "shortName": "SSRR",
+    "name": "IEEE International Symposium on Safety Security Rescue Robotics",
+    "start": "2024-11-12",
+    "end": "2024-11-14",
+    "deadline": "",
+    "city": "New York",
+    "country": "New York USA",
+    "link": "http://ssrr2024.org",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   },
   {
     "shortName": "TELEPRE",

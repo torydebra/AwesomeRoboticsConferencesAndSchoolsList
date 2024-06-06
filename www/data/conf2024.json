@@ -702,6 +702,19 @@
     "note": "The development of future real-world technologies will depend strongly on our understanding and harnessing of the principles underlying living systems and the flow of communication signals between living and artificial systems. Biomimetics is the development of novel technologies through the distillation of principles from the study of biological systems. The investigation of biomimetic systems can serve two complementary goals. First, a suitably designed and configured biomimetic artifact can be used to test theories about the natural system of interest. Second, biomimetic technologies can provide useful, elegant, and efficient solutions to unsolved challenges in science and engineering."
   },
   {
+    "shortName": "GERIATRONICS",
+    "name": "Geriatronics Summit",
+    "start": "2024-07-08",
+    "end": "2024-07-10",
+    "deadline": "2024-06-20",
+    "city": "Garmisch-Partenkirchen",
+    "country": "Germany",
+    "link": "https://geriatronics.mirmi.tum.de/en/geriatronics-summit-2024/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/GVuMaXvWkJJoRPzeA",
+    "note": "Particularly, the Summit aims to stimulate discussions and exchange of ideas regarding AI and robotics technology in the field of healthcare. There will be an exchange on how to tackle the challenges of supporting health, care, and well-being of older people in a safe, ethical, and trustworthy manner. Finally, how Geriatronics can improve and support care-givers and the community surrounding the care sector."
+  },
+  {
     "shortName": "ICACR",
     "name": "8th International Conference on Automation, Control and Robots",
     "start": "2024-07-12",

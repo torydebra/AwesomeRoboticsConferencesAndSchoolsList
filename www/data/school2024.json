@@ -421,7 +421,7 @@
   },
   {
     "name": "Summer School On Control Of Surgical Robots",
-    "deadline": "2024-05-17",
+    "deadline": "2024-06-10",
     "city": "Verona",
     "country": "Italy",
     "link": "https://metropolis.scienze.univr.it/cosur-2024/",
@@ -583,6 +583,21 @@
     "costNote": "",
     "addressLink": "https://maps.app.goo.gl/j7d5fhx3oCityckTA",
     "note": "The program will introduce basic theoretical notions in a rigorous manner, with a focus on examples, applications, and exercises. This summer school is suitable for M.Sc. students, Ph.D. students, post-docs, and academic staff, as well as participants from industry who want to enhance their skills in this field."
+  },
+  {
+    "name": "Computational and geometric mechanics of discrete and continuum systems",
+    "deadline": "2024-08-23",
+    "city": "Udine",
+    "country": "Italy",
+    "link": "https://www.cism.it/en/activities/courses/C2418/",
+    "type": "School",
+    "shortName": "CGMDCS",
+    "start": "2024-09-23",
+    "end": "2024-09-27",
+    "cost": "600€+VAT",
+    "costNote": "",
+    "addressLink": "https://maps.app.goo.gl/6KvuyVQuixhx1tJSA",
+    "note": "Rising interest in non-holonomic mechanical systems has initiated a large body of research that exploits what is often called ‘non-holonomic’ geometry. More precisely the geometric setting is that of (principal) bundles, which serve as configuration space, and the connection on the bundle plays a key role as it encodes constituent kinematic and dynamic relations. This not only provides a beautiful holistic approach to multi-physical systems it also gives rise to consistent compact and efficient computational formulations for complex systems."
   },
   {
     "name": "3rd Latin American Summer School on Robotics",

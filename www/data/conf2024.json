@@ -1466,6 +1466,19 @@
     "note": "The 2024 IEEE International Conference on Cyborg and Bionic Systems (CBS 2024) will be held in 20-22, November, 2024 in Nagoya, Japan. Consistent with our theme, we have arranged plenary keynotes from leading industrial and academic scientists, who will give forward looking visions as well as historical perspectives on our field. A broad array of scientific tracks will cover diverse topics of cutting-edge research and innovation on cyborg and bionic systems, which are concerned with hybrid fusion of organic and biomechatronic body parts with the integration of some artificial components or technology like bio-hybrid actuators and sensors. In addition to the high-profile keynotes, the conference program will feature invited sessions, oral and poster sessions, sessions for students and young professions, sessions for clinicians and entrepreneurs, and exhibits from vendors and universities."
   },
   {
+    "shortName": "MHS",
+    "name": "International Symposium on Micro-NanoMehatronics and Human Science",
+    "start": "2024-11-22",
+    "end": "2024-11-24",
+    "deadline": "",
+    "city": "Nagoya",
+    "country": "Japan",
+    "link": "http://www.mein.nagoya-u.ac.jp/mhs/MHS2024-Top.html",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "Humanoids",
     "name": "IEEE-RAS International Conference on Humanoid Robots",
     "start": "2024-11-22",

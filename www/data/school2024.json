@@ -330,6 +330,21 @@
     "note": "The Machine Learning Crash Course (MLCC) provides an introduction to the fundamental concepts and algorithms of Machine Learning. The course is suitable for undergraduate/graduate students, as well as professionals. It is open to students from any University upon selection."
   },
   {
+    "shortName": "AIDA-AIML",
+    "name": "AI and ML in BME",
+    "deadline": "2024-06-19",
+    "city": "Kalandra, Chalkidiki",
+    "country": "Greece",
+    "link": "https://bme.web.auth.gr/en/summer-school/summer-school-2024/",
+    "type": "School",
+    "start": "2024-06-25",
+    "end": "2024-06-28",
+    "cost": "free",
+    "costNote": "pay for the entrance to the camping", 
+    "addressLink": "https://maps.app.goo.gl/jtPz7dtokVKyfoFd6",
+    "note": "In this Summer School invited experts will hold seminars on different topics of ML and AI in biomedical science and interact with the participants in and out the lecture room. The aim of the School is to give some basic knowledge as well as stimulating practical examples to participants about different aspects of ML and AI and their application in diverse fields of biomedical science. The aim is also to exchange experience and ideas, as well as career perspectives, and interact in a relaxing environment of a summer camping. Social events are expected to take place, organized or not."
+  },
+  {
     "name": "ETH Robotics Summer School",
     "deadline": "2024-03-22",
     "city": "Zurich",

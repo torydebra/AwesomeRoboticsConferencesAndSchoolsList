@@ -1011,6 +1011,19 @@
     "note": "The conference will focus on Automation 5.0: automation everywhere for better and smarter living and will include tutorials and workshops, a technical program of presentations, keynote lectures, and social events. The conference will cover a wide range of topics on Systems, Automation, Control theory, Autonomous Systems, Discrete Event Systems, Smart Cities, Robotics, Building Automation, Smart Mobility, Information and Communication Technologies, and Factory 4.0."
   },
   {
+    "shortName": "IS",
+    "name": "IEEE International Conference on Intelligent Systems",
+    "start": "2024-08-29",
+    "end": "2024-08-31",
+    "deadline": "2024-06-29",
+    "city": "Varna",
+    "country": "Bulgaria",
+    "link": "https://www.ieee-is.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/81S1FKqpimve7WKG7",
+    "note": "The 12th IEEE International Conference on Intelligent Systems, IS’24, aims to bring together leading specialists in the expansive field of intelligent systems. This forum presents a unique opportunity for scientists from around the globe to share their ideas and achievements in the theory and practice of intelligent control, artificial intelligence, decision support systems, neural networks, soft computing, data mining and knowledge discovery, ontologies, machine learning, intelligent measurement, and other related topics. The conference aims to highlight contemporary intelligent systems as a concept that unifies theoretical research and applications in automation, information technologies, and measurement. All aspects of intelligent systems are of interest, including theory, algorithms, tools, applications, and more."
+  },
+  {
     "shortName": "BioRob",
     "name": "IEEE EMB International Conference on Biomedical Robotics and Biomechatronics",
     "start": "2024-09-01",
@@ -1405,7 +1418,7 @@
     "name": "IEEE International Symposium on Safety Security Rescue Robotics",
     "start": "2024-11-12",
     "end": "2024-11-14",
-    "deadline": "",
+    "deadline": "2024-07-21",
     "city": "New York",
     "country": "New York USA",
     "link": "http://ssrr2024.org",
@@ -1496,7 +1509,7 @@
     "name": "International Conference on Human-Agent Interaction",
     "start": "2024-11-24",
     "end": "2024-11-27",
-    "deadline": "2024-05-24",
+    "deadline": "2024-06-14",
     "city": "Swansea",
     "country": "UK",
     "link": "https://hai-conference.net/hai2024/",

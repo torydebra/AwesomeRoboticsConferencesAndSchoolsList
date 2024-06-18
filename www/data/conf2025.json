@@ -13,14 +13,27 @@
     "note": ""
   },
   {
+    "shortName": "HRI",
+    "name": "International Conference on Human-Robot Interaction",
+    "start": "2025-03-06",
+    "end": "2025-03-06",
+    "deadline": "2024-09-24",
+    "city": "Melbourne",
+    "country": "Australia",
+    "link": "https://humanrobotinteraction.org/2025/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/j2qT5KDk29f667rSA",
+    "note": "We are excited to announce the 20th Annual ACM/IEEE International Conference on Human Robot Interaction (HRI). HRI is the annual conference for basic and applied HRI research, where researchers from across the world present their best work to exchange ideas about theory, technology, data, and science furthering the state-of-the-art in the field."
+  },
+  {
     "shortName": "ERF",
     "name": "European Robotics Forum",
-    "start": "2025-04-01",
-    "end": "2025-04-03",
+    "start": "2025-03-25",
+    "end": "2025-03-27",
     "deadline": "",
     "city": "Stuttgart",
     "country": "Germany",
-    "link": "",
+    "link": "https://erf2025.eu/",
     "type": "Conference",
     "addressLink": "",
     "note": ""

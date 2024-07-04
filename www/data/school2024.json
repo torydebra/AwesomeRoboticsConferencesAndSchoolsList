@@ -566,8 +566,23 @@
     "end": "2024-09-06",
     "cost": "500-1100€",
     "costNote": "students/academic/industry:€500/650/1100, accomodation and lunches incl.",
-    "addressLink": "http://gipsacontrolsummerschool.org",
+    "addressLink": "https://maps.app.goo.gl/RgANrtSYBFZCPYFP6",
     "note": "The objective is to assess the fundamentals of mobile robotics while offering insights into recent advancements in the field and innovative applications. The scientific program of the school brings together leading figures in control engineering and robotics, providing an exceptional opportunity to present their latest results and identify emerging areas of research."
+  },
+  {
+    "name": "Touch Sensing and Processing Summer School",
+    "deadline": "2024-07-09",
+    "city": "Dresden",
+    "country": "Germany",
+    "link": "https://lasr.org/tspss2024",
+    "type": "School",
+    "shortName": "TSPSS",
+    "start": "2024-09-02",
+    "end": "2024-09-06",
+    "cost": "free",
+    "costNote": "accomodation and lunches incl.",
+    "addressLink": "https://maps.app.goo.gl/zJpfW26JwKrQKJzVA",
+    "note": "Compared to vision or hearing, touch is a poorly understood sensing modality. Thanks to recent advances in hardware development, it will soon be possible to digitize touch at scale. This creates important opportunities for both basic research and applications, such as robotics. In this context, it is increasingly important the role of Touch Processing – the science of making sense of touch through the use of machine learning."
   },
   {
     "name": "2nd Doctoral Summer School on Robotics and Intelligent Machines",

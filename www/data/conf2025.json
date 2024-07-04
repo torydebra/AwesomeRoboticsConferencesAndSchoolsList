@@ -1,6 +1,19 @@
 [
   {
     "shortName": "SII",
+    "name": "International Conference on Gender and Technology",
+    "start": "2025-01-16",
+    "end": "2025-01-19",
+    "deadline": "2024-08-30",
+    "city": "Kerala",
+    "country": "India",
+    "link": "https://www.amrita.edu/events/gender-technology-conference-2025",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/waC6ZW7QMoRMGqQT7",
+    "note": "The International Conference on Gender and Technology 2025 invites submissions for papers related to the intersection of gender with emerging technologies, e.g. Blockchain, AI, VR/mixed reality, IoT, and robotics, and how these have been enablers across the the following Thematic Areas"
+  },
+  {
+    "shortName": "SII",
     "name": "IEEE/SICE International Symposium on System Integration",
     "start": "2025-01-21",
     "end": "2025-01-24",

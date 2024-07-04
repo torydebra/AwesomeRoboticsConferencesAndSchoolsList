@@ -1531,6 +1531,19 @@
     "note": "Join us at the 21st EuroXR International Conference (EuroXR 2024), the ultimate gathering for Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR) held in Athens, Greece, from 27th to 29th November 2024.  This year co-organized by the Institute of Communication and Computer System (ICCS). "
   },
   {
+    "shortName": "RiTA",
+    "name": "International Conference on Robot Intelligence Technology and Applications",
+    "start": "2024-12-04",
+    "end": "2024-12-07",
+    "deadline": "2024-08-20",
+    "city": "Ulsan",
+    "country": "Korea (South)",
+    "link": "https://2024.icrita.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/BmaBy5kuu66Tbsz56",
+    "note": "oday, AI’s capabilities exceed human limitations. As AI generates texts, images, and videos, the boundaries between virtual reality and the physical world are vague. We are entering a new era in which AI agents can act on our behalf. With this trend of strengthening AI agent systems, our conference theme is “Generative Thinking, Generative Action,” aiming to facilitate in-depth discussions in the field of robot intelligence technology. We seek the latest research results, theories, or experimental developments, which will feature a high quality conference."
+  },
+  {
     "shortName": "ISRR",
     "name": "International Symposium on Robotics Research",
     "start": "2024-12-08",
@@ -1542,6 +1555,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/GDy9ThkHgaFtyyWw9",
     "note": "The ISRR Symposia have a tradition of convening prominent robotics researchers and pioneers from academia, government, and industry to evaluate and exchange their perspectives and ideas on the current state of robotics and explore promising new directions for future research. Each edition of the symposium is single-track and highly interactive. Attendees actively participate in all sessions to foster stimulating and dynamic discussions. As the flagship symposium of the International Foundation of Robotics Research (IFRR), the 2024 edition of ISRR will continue the tradition of exceptional gatherings and celebrate the 40th Anniversary of the ISRR Symposia."
+  },
+  {
+    "shortName": "ROBIO",
+    "name": "IEEE International Conference on Robotics and Biomimetics",
+    "start": "2024-12-10",
+    "end": "2024-12-14",
+    "deadline": "2024-08-01",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "link": "https://maps.app.goo.gl/sngZgwW8bffu9CKw6",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/GDy9ThkHgaFtyyWw9",
+    "note": "ROBIO is the flagship forum for researchers in the areas of robotics, automation, and biomimetics to disseminate their latest research results and explore the opportunity for research collaboration. ROBIO 2024 features a range of activities, including plenary sessions, keynote sessions, contributed paper sessions, workshops and special sessions."
   },
   {
     "shortName": "ICFES",

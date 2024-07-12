@@ -1496,13 +1496,13 @@
     "name": "IEEE-RAS International Conference on Humanoid Robots",
     "start": "2024-11-22",
     "end": "2024-11-24",
-    "deadline": "2024-07-01",
+    "deadline": "2024-07-15",
     "city": "Nancy",
     "country": "France",
     "link": "https://2024.ieee-humanoids.org/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/hXQYxidVc6n8PGq59",
-    "note": ""
+    "note": "The conference solicits original paper contributions and workshop/tutorial proposals in all related areas with humanoid robotics. It will also host a robotics competition, a large industrial exhibition, and outreach activities for kids and the general public."
   },
   {
     "shortName": "HAI",

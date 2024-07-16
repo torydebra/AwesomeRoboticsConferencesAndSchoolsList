@@ -20,10 +20,10 @@
     "deadline": "",
     "city": "Munich",
     "country": "Germany",
-    "link": "",
+    "link": "https://www.sice-si.org/SII2025/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/dbFNcmNf1F6THNhC6",
+    "note": "The 2025 IEEE/SICE International Symposium on System Integrations (SII 2025) will be the 17th symposium on system integration. System integration is one of the key technologies, and integrating hardware and software is especially important to solve the industrial or social system problems in the new century. This symposium focuses on the latest research and industrial application of system integration and discusses the approach method to improve the effectiveness of system integration."
   },
   {
     "shortName": "HRI",

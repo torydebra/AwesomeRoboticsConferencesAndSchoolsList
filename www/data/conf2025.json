@@ -65,6 +65,19 @@
     "note": ""
   },
   {
+    "shortName": "CIES",
+    "name": "IEEE 2025 Symposium on Computational Intelligence in in Engineering/Cyber Physical Systems",
+    "start": "2025-03-17",
+    "end": "2025-03-20",
+    "deadline": "",
+    "city": "Trondheim",
+    "country": "Norway",
+    "link": "https://ieee-ssci.org/?ui=ci-in-engineering-cyber-physical-systems",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/3W7DnSoM811cRKt5A",
+    "note": "This symposium aims to serve as a leading forum for researchers, technologists, and industry experts to exchange ideas, share advancements, and shape the future of this interdisciplinary field. Indeed, the fusion of CI with engineering and CPS is revolutionizing the way we interact with our physical world, making systems smarter, more efficient, and more adaptive. The application of CI and machine learning (ML) in these domains is not just enhancing existing technologies but is also paving the way for novel paradigms in design, operation, and services."
+  },
+  {
     "shortName": "ICRA",
     "name": "IEEE International Conference on Robotics and Automation",
     "start": "2025-05-17",

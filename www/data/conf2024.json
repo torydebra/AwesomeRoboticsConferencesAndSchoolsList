@@ -920,6 +920,19 @@
     "note": "The Irish Machine Vision and Image Processing Conference (IMVIP) Conference is the annual research conference of the Irish Pattern Recognition and Classification Society. The chief objective of the society is the advancement of research and study of pattern recognition, classification and associated fields and the applications of the outcomes of research. IPRCS is a member of the International Association for Pattern Recognition (IAPR) and the International Federation of Classification Societies."
   },
   {
+    "shortName": "WRC",
+    "name": "World Robot Conference",
+    "start": "2024-08-21",
+    "end": "2024-08-25",
+    "deadline": "",
+    "city": "Beijing",
+    "country": "China",
+    "link": "http://www.worldrobotconference.com/en/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/2NjHbv3F9jyo5aEY6",
+    "note": "The conference pooled the wisdom of experts around the world, attracted to enterprises in the world and displayed the latest scientific and technological achievements, which had guiding significance for innovation and entrepreneurship. The conference had received care and guidance from leaders of the Communist Party of China Central Committee and the State Council. President Xi Jinping sent a letter of greetings, Premier Li Keqiang made a written reply, and Vice Premier Liu Yandong and Liu He attended the opening ceremony and relevant activities."
+  },
+  {
     "shortName": "TAROS",
     "name": "Towards Autonomous Robotic Systems",
     "start": "2024-08-21",
@@ -931,6 +944,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/6nkhqLsRnxwei2BU9",
     "note": "TAROS (Towards Autonomous Robotic Systems) is the longest-running UK-hosted international conference on Robotics and Autonomous Systems (RAS), which is aimed at the presentation and discussion of the latest results and methods in autonomous robotics research and applications. TAROS offers a friendly environment for robotics researchers and industry to take stock and plan future progress. It welcomes senior researchers and research students alike and specifically provides opportunities for research students and young research scientists to present their work to the scientific community."
+  },
+  {
+    "shortName": "ARA",
+    "name": "WRC Symposium on Advanced Robotics and Automation (WRC",
+    "start": "2024-08-23",
+    "end": "2024-08-23",
+    "deadline": "",
+    "city": "Beijing",
+    "country": "China",
+    "link": "http://www.worldrobotconference.com/en/channel/SARA.html",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/2NjHbv3F9jyo5aEY6",
+    "note": "The WRC Symposium on Advanced Robotics and Automation (WRC SARA) is scheduled to be held in Beijing on August 23, 2024 during 2024 World Robot Conference (WRC). It is an international symposium focusing on all areas related to robotics and automation."
   },
   {
     "shortName": "EUMAS",
@@ -1021,7 +1047,7 @@
     "link": "https://www.ieee-is.org/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/81S1FKqpimve7WKG7",
-    "note": "The 12th IEEE International Conference on Intelligent Systems, IS’24, aims to bring together leading specialists in the expansive field of intelligent systems. This forum presents a unique opportunity for scientists from around the globe to share their ideas and achievements in the theory and practice of intelligent control, artificial intelligence, decision support systems, neural networks, soft computing, data mining and knowledge discovery, ontologies, machine learning, intelligent measurement, and other related topics. The conference aims to highlight contemporary intelligent systems as a concept that unifies theoretical research and applications in automation, information technologies, and measurement. All aspects of intelligent systems are of interest, including theory, algorithms, tools, applications, and more."
+    "note": "The 12th IEEE International Conference on Intelligent Systems, IS\u201924, aims to bring together leading specialists in the expansive field of intelligent systems. This forum presents a unique opportunity for scientists from around the globe to share their ideas and achievements in the theory and practice of intelligent control, artificial intelligence, decision support systems, neural networks, soft computing, data mining and knowledge discovery, ontologies, machine learning, intelligent measurement, and other related topics. The conference aims to highlight contemporary intelligent systems as a concept that unifies theoretical research and applications in automation, information technologies, and measurement. All aspects of intelligent systems are of interest, including theory, algorithms, tools, applications, and more."
   },
   {
     "shortName": "BioRob",
@@ -1388,6 +1414,19 @@
     "note": ""
   },
   {
+    "shortName": "ICCMA",
+    "name": "12th International Conference on Control, Mechatronics and Automation",
+    "start": "2024-11-11",
+    "end": "2024-11-13",
+    "deadline": "",
+    "city": "London",
+    "country": "United Kingdom",
+    "link": "http://www.iccma.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/A76VShjqHVq6rmEP8",
+    "note": "Control, Mechatronics and Automation is an interdisciplinary field that combines control engineering, mechanical engineering, and electronic engineering. In recent years, advancements in artificial intelligence, internet of things (IoT), and big data analytics have been driving the development of this field. Control, Mechatronics and Automation has become increasingly important in modern manufacturing and production systems, as well as in robotics, aerospace, transportation, and medical industries. The field is rapidly evolving with new advances in sensors, actuators, control algorithms, and communication technologies."
+  },
+  {
     "shortName": "ICECCME",
     "name": "International Conference on Electrical, Computer, Communications and Mechatronics Engineering",
     "start": "2024-11-11",
@@ -1479,6 +1518,19 @@
     "note": "The 2024 IEEE International Conference on Cyborg and Bionic Systems (CBS 2024) will be held in 20-22, November, 2024 in Nagoya, Japan. Consistent with our theme, we have arranged plenary keynotes from leading industrial and academic scientists, who will give forward looking visions as well as historical perspectives on our field. A broad array of scientific tracks will cover diverse topics of cutting-edge research and innovation on cyborg and bionic systems, which are concerned with hybrid fusion of organic and biomechatronic body parts with the integration of some artificial components or technology like bio-hybrid actuators and sensors. In addition to the high-profile keynotes, the conference program will feature invited sessions, oral and poster sessions, sessions for students and young professions, sessions for clinicians and entrepreneurs, and exhibits from vendors and universities."
   },
   {
+    "shortName": "CRC",
+    "name": "9th International Conference on Control, Robotics and Cybernetics",
+    "start": "2024-11-21",
+    "end": "2024-11-23",
+    "deadline": "",
+    "city": "Penang",
+    "country": "Malaysia",
+    "link": "http://www.iccrc.org/index.html",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/QpKRxTe9UmAegqWz9",
+    "note": "The agenda for CRC 2024 promises an enriching experience, featuring keynote speeches from industry leaders, presentations of peer-reviewed papers, as well as a cultural and social program designed to facilitate networking and collaboration. We warmly welcome professionals, experts, management, and students from universities, research institutions, and companies to attend this conference."
+  },
+  {
     "shortName": "MHS",
     "name": "International Symposium on Micro-NanoMehatronics and Human Science",
     "start": "2024-11-22",
@@ -1541,7 +1593,7 @@
     "link": "https://2024.icrita.org/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/BmaBy5kuu66Tbsz56",
-    "note": "oday, AI’s capabilities exceed human limitations. As AI generates texts, images, and videos, the boundaries between virtual reality and the physical world are vague. We are entering a new era in which AI agents can act on our behalf. With this trend of strengthening AI agent systems, our conference theme is “Generative Thinking, Generative Action,” aiming to facilitate in-depth discussions in the field of robot intelligence technology. We seek the latest research results, theories, or experimental developments, which will feature a high quality conference."
+    "note": "oday, AI\u2019s capabilities exceed human limitations. As AI generates texts, images, and videos, the boundaries between virtual reality and the physical world are vague. We are entering a new era in which AI agents can act on our behalf. With this trend of strengthening AI agent systems, our conference theme is \u201cGenerative Thinking, Generative Action,\u201d aiming to facilitate in-depth discussions in the field of robot intelligence technology. We seek the latest research results, theories, or experimental developments, which will feature a high quality conference."
   },
   {
     "shortName": "ISRR",

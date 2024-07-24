@@ -1258,6 +1258,19 @@
     "note": "Join us at ICRA@40 for a special commemorative edition marking the 40th anniversary of the ICRA Conference, honoring four decades of groundbreaking research and innovation in robotics and automation.  ICRA@40 is a four-day SINGLE-TRACK conference featuring plenary sessions, distinguished talks and debate panels to explore the past and envision the future, by the most renowned academics and industry experts in robotics and automation. Enjoy ICRA@40 industry-focused day, dedicated to unveiling cutting-edge advancements and technological breakthroughs, stimulating panels, a bustling job fair and vibrant startup showcases."
   },
   {
+    "shortName": "AIxSET",
+    "name": "AIx Science, Engineering, and Technology",
+    "start": "2024-09-30",
+    "end": "2024-10-02",
+    "deadline": "2024-07-15",
+    "city": "Laguna Hills (CA)",
+    "country": "USA",
+    "link": "https://www.aixset.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/B5URBJsVHtCHsWWj7",
+    "note": "AIx Science, Engineering, and Technology 2024 (AIxSET 2024) is an international forum focusing on the interactions between artificial intelligence (AI) and science, engineering, and technology research disciplines. It consists of themes that each address the applications of AI to a specific research discipline as well as how domain-specific applications may advance the research on AI."
+  },
+  {
     "shortName": "CAIS",
     "name": "OkIP International Conference on Automated and Intelligent Systems",
     "start": "2024-10-01",

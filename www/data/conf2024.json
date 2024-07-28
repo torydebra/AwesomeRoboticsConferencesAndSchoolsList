@@ -1476,7 +1476,20 @@
     "link": "http://ssrr2024.org",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/QPvkfkg6XYYGzNTeA",
-    "note": "The safety, security, and rescue robotics community focuses on the ethical use of robots for public safety and security applications, such as law enforcement, anti-terrorism, nuclear decommissioning, and inspection of critical infrastructure, all phases of emergency management (presentation, preparedness, response, and recovery), and humanitarian assistance and disaster relief. Robot safety and risk of robots in general, for example preventing injuries or guaranteeing real-time execution, are not topics included in the symposium’s purview but safety and risk in the context of the extreme environments and operating conditions of SSRR applications is.  SSRR is a field robotics domain, and although papers describing theoretical results are welcome, all papers should be motivated by real users’ needs, both clearly stating who are the end users and what are the anticipated or demonstrated practical end user requirements."
+    "note": "The safety, security, and rescue robotics community focuses on the ethical use of robots for public safety and security applications, such as law enforcement, anti-terrorism, nuclear decommissioning, and inspection of critical infrastructure, all phases of emergency management (presentation, preparedness, response, and recovery), and humanitarian assistance and disaster relief. Robot safety and risk of robots in general, for example preventing injuries or guaranteeing real-time execution, are not topics included in the symposium\u2019s purview but safety and risk in the context of the extreme environments and operating conditions of SSRR applications is.  SSRR is a field robotics domain, and although papers describing theoretical results are welcome, all papers should be motivated by real users\u2019 needs, both clearly stating who are the end users and what are the anticipated or demonstrated practical end user requirements."
+  },
+  {
+    "shortName": "ICRAE",
+    "name": "9th International Conference on Robotics and Automation Engineering",
+    "start": "2024-11-15",
+    "end": "2024-11-17",
+    "deadline": "",
+    "city": "Singapore",
+    "country": "Singapore",
+    "link": "http://www.icrae.org",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   },
   {
     "shortName": "TELEPRE",
@@ -1609,6 +1622,19 @@
     "note": "oday, AI\u2019s capabilities exceed human limitations. As AI generates texts, images, and videos, the boundaries between virtual reality and the physical world are vague. We are entering a new era in which AI agents can act on our behalf. With this trend of strengthening AI agent systems, our conference theme is \u201cGenerative Thinking, Generative Action,\u201d aiming to facilitate in-depth discussions in the field of robot intelligence technology. We seek the latest research results, theories, or experimental developments, which will feature a high quality conference."
   },
   {
+    "shortName": "ICCR",
+    "name": "6th International Conference on Control and Robotics",
+    "start": "2024-12-05",
+    "end": "2024-12-07",
+    "deadline": "",
+    "city": "Yokohama",
+    "country": "Japan",
+    "link": "http://www.iccr.net",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "ISRR",
     "name": "International Symposium on Robotics Research",
     "start": "2024-12-08",
@@ -1643,6 +1669,19 @@
     "city": "Hong Kong",
     "country": "Hong Kong",
     "link": "http://www.ieee-icfes.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
+    "shortName": "ICARCE",
+    "name": "3rd International Conference on Automation, Robotics and Computer Engineering",
+    "start": "2024-12-17",
+    "end": "2024-12-18",
+    "deadline": "",
+    "city": "Virtual",
+    "country": "",
+    "link": "http://www.icarce.com/",
     "type": "Conference",
     "addressLink": "",
     "note": ""

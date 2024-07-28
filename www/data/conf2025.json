@@ -115,5 +115,18 @@
     "type": "Conference",
     "addressLink": "",
     "note": ""
+  },
+  {
+    "shortName": "ERAS",
+    "name": "IEEE Engineering Reliable Autonomous Systems",
+    "start": "2025-05-29",
+    "end": "2025-05-30",
+    "deadline": "",
+    "city": "Worcester",
+    "country": "Massachusetts USA",
+    "link": "http://erasrobotics.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   }
 ]

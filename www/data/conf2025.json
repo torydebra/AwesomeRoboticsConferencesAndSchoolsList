@@ -91,6 +91,19 @@
     "note": ""
   },
   {
+    "shortName": "ERAS",
+    "name": "IEEE Engineering Reliable Autonomous Systems",
+    "start": "2025-05-29",
+    "end": "2025-05-30",
+    "deadline": "2025-01-30",
+    "city": "Worcester",
+    "country": "USA",
+    "link": "http://erasrobotics.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/fs8Bc7rrAHznH2Xj8",
+    "note": "A space for all stakeholders across autonomous system reliability to come togther to discuss the key remaining problems and present progress made towards solving them."
+  }
+  {
     "shortName": "CASE",
     "name": "IEEE International Conference on Automation Science and Engineering",
     "start": "2025-08-18",
@@ -112,19 +125,6 @@
     "city": "Hangzhou",
     "country": "China",
     "link": "",
-    "type": "Conference",
-    "addressLink": "",
-    "note": ""
-  },
-  {
-    "shortName": "ERAS",
-    "name": "IEEE Engineering Reliable Autonomous Systems",
-    "start": "2025-05-29",
-    "end": "2025-05-30",
-    "deadline": "",
-    "city": "Worcester",
-    "country": "Massachusetts USA",
-    "link": "http://erasrobotics.org/",
     "type": "Conference",
     "addressLink": "",
     "note": ""

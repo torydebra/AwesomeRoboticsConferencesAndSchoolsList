@@ -1258,6 +1258,19 @@
     "note": "Join us at ICRA@40 for a special commemorative edition marking the 40th anniversary of the ICRA Conference, honoring four decades of groundbreaking research and innovation in robotics and automation.  ICRA@40 is a four-day SINGLE-TRACK conference featuring plenary sessions, distinguished talks and debate panels to explore the past and envision the future, by the most renowned academics and industry experts in robotics and automation. Enjoy ICRA@40 industry-focused day, dedicated to unveiling cutting-edge advancements and technological breakthroughs, stimulating panels, a bustling job fair and vibrant startup showcases."
   },
   {
+    "shortName": "IRAMT",
+    "name": "International Conference on Industrial Robotics and Advanced Manufacturing Technology",
+    "start": "2024-09-27",
+    "end": "2024-09-29",
+    "deadline": "2024-09-03",
+    "city": "Chengdu",
+    "country": "China",
+    "link": "http://iramt.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "AIxSET",
     "name": "AIx Science, Engineering, and Technology",
     "start": "2024-09-30",

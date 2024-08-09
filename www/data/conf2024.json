@@ -1219,6 +1219,19 @@
     "note": "The annual conference on Intelligent Virtual Agents (IVA) is the premier international event for interdisciplinary research on the design, application, and evaluation of Intelligent Virtual Agents (IVAs) with a specific focus on the ability to socially interact. IVAs are interactive characters that exhibit human-like qualities including communicating using natural human modalities such as facial expressions, speech, and gesture. They are capable of real-time perception, cognition, emotion and action that allow them to participate in dynamic social environments."
   },
   {
+    "shortName": "SCRS",
+    "name": "Southern California Robotics Symposium",
+    "start": "2024-09-19",
+    "end": "2024-09-20",
+    "deadline": "2024-08-24",
+    "city": "Riverside",
+    "country": "USA",
+    "link": "https://robotics.ucr.edu/scr-2024",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/zJtdGa6fjgU8K4jD6",
+    "note": "The 2024 Southern California Robotics Symposium (SCR) will take place at the University of California, Riverside. This premier symposium gathers roboticists from academia and industry throughout Southern California for a series of interactive workshops, social activities, presentations, networking opportunities, and laboratory tours. This year's theme, 'Robotics and AI for humans: empowerment through innovation,' underscores the role of cutting-edge technologies in empowering human capabilities, fostering inclusivity, and forging new pathways for societal advancement. Join us to explore and share how these innovations can create a better future for all of us."
+  },
+  {
     "shortName": "ICRCV",
     "name": "6th International Conference on Robotics and Computer Vision",
     "start": "2024-09-20",
@@ -1308,6 +1321,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/nvqHC1ooacPUeuH59",
     "note": "The Workshop on the Algorithmic Foundations of Robotics (WAFR) is a multi-disciplinary single-track workshop with submitted and invited papers on advances on algorithmic problems in robotics. WAFR was created in 1994 as a small-size workshop. It has been held every other year since 1994 and while it spans a relatively small community, it has an established reputation as one, if not the most, important venue for presenting algorithmic work related to robotics. The workshop proceedings will be published in the Springer Proceedings in Advanced Robotics (SPAR) series and selected papers will be invited for publication in a special issue of the International Journal of Robotics Research."
+  },
+  {
+    "shortName": "ICAA",
+    "name": "International Conference on Assured Autonomy",
+    "start": "2024-10-10",
+    "end": "2024-10-11",
+    "deadline": "2024-08-07",
+    "city": "Nashville, TN",
+    "country": "USA",
+    "link": "https://icaa-conf.github.io/icaa2024/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/Dn6wcRgyVzDaCxA98",
+    "note": "The 3rd Conference on Assured Autonomy (ICAA'24) will take place from October 10 - 11, 2024 at the Vanderbilt University, Nashville, Tennessee, USA. ICAA seeks contributions on all aspects of assurance for AI and autonomy, including safety, security, and privacy in autonomous systems. Papers that encourage the discussion and exchange of experimental and theoretical results, novel designs, and works in progress are preferred. Topics of interest include (but are not limited to) AI/Autonomy Safety, and Security and Privacy."
   },
   {
     "shortName": "IROS",

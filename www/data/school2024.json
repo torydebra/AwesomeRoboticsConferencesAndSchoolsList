@@ -541,7 +541,7 @@
   },
   {
     "name": "Deep Learning Indaba",
-    "deadline": "",
+    "deadline": "2024-03-01",
     "city": "Dakar",
     "country": "Senegal",
     "link": "https://deeplearningindaba.com/2024/",
@@ -551,7 +551,7 @@
     "end": "2024-09-07",
     "cost": "",
     "costNote": "",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/qUErfrz7U7EKz5se6",
     "note": "As always, the Indaba is the meeting point for the African AI community, bringing together research students, academics, research organisations, startups, and other groups across our continent. The Indaba will feature keynote talks from thought leaders in the fields of ML/AI and Ethics, opportunities to learn skills in practical (programming) sessions, mentorship opportunities, a two-day African Research Symposium, deep dive workshops on topics including NLP, AI in Healthcare, Reinforcement Learning, Machine Learning at the Edge, and AI Governance and Policy, and much more."
   },
   {
@@ -586,18 +586,33 @@
   },
   {
     "name": "2nd Doctoral Summer School on Robotics and Intelligent Machines",
-    "deadline": "",
+    "deadline": "2024-07-02",
     "city": "Volterra",
     "country": "Italy",
-    "link": "",
+    "link": "https://www.santannapisa.it/it/alta-formazione/2nd-Doctoral-Summer-School-on-Robotics-and-Intelligent-Machines-DRIMS2-2023-2024",
     "type": "School",
     "shortName": "DRIMS2",
     "start": "2024-09-05",
     "end": "2024-09-11",
-    "cost": "tdb",
-    "costNote": "",
+    "cost": "300-450€",
+    "costNote": "irim/phd/other: €300/375/450",
     "addressLink": "",
     "note": "The school is an official initial initiative of the Italian PhD in Robotics and Intelligent Machines (https://drim.i-rim.it/en/ ), and it is open to all the PhD students passionate about the field. In 2023, 69 international students attended the first edition, and the school offered 52 hours of didactic activities. The multidisciplinary and hands-on structure of the School, highly appreciated by the attendants in 2023, is a one-of-kind opportunity for the attendees to see robotics from a wider point of view. This year, the Scientific Committee is comprised of 13 members, with great team diversity in terms of cultural background, universities, and regional distribution, aiming to provide a top-class education."
+  },
+  {
+    "name": "4th Inria-DFKI European Summer School on AI",
+    "deadline": "2024-08-23",
+    "city": "Saarbrücken",
+    "country": "Germany",
+    "link": "https://idessai.eu/",
+    "type": "School",
+    "shortName": "IDESSAI",
+    "start": "2024-09-09",
+    "end": "2024-09-13",
+    "cost": "230€",
+    "costNote": "lunch included",
+    "addressLink": "https://maps.app.goo.gl/dszeVuBswiTzq8qc8",
+    "note": ""
   },
   {
     "name": "10th International Summer School on Screw-Theory Based Methods in Robotics",
@@ -641,7 +656,7 @@
     "end": "2024-12-13",
     "cost": "50-300USD",
     "costNote": "student/academic/professional: USD 50/200/300",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/KzKTLD6mMyE8GddFA",
     "note": "The school is an official initial initiative of the Italian PhD in Robotics and Intelligent Machines (https://drim.i-rim.it/en/ ), and it is open to all the PhD students passionate about the field. In 2023, 69 international students attended the first edition, and the school offered 52 hours of didactic activities. The multidisciplinary and hands-on structure of the School, highly appreciated by the attendants in 2023, is a one-of-kind opportunity for the attendees to see robotics from a wider point of view. This year, the Scientific Committee is comprised of 13 members, with great team diversity in terms of cultural background, universities, and regional distribution, aiming to provide a top-class education."
   }
 ]

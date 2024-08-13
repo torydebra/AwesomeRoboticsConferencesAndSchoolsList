@@ -17,7 +17,7 @@
     "name": "IEEE/SICE International Symposium on System Integration",
     "start": "2025-01-21",
     "end": "2025-01-24",
-    "deadline": "",
+    "deadline": "2024-09-31",
     "city": "Munich",
     "country": "Germany",
     "link": "https://www.sice-si.org/SII2025/",
@@ -80,15 +80,15 @@
   {
     "shortName": "ICRA",
     "name": "IEEE International Conference on Robotics and Automation",
-    "start": "2025-05-17",
+    "start": "2025-05-19",
     "end": "2025-05-23",
-    "deadline": "",
+    "deadline": "2024-09-15",
     "city": "Atlanta",
     "country": "USA",
-    "link": "",
+    "link": "https://2025.ieee-icra.org/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/2bf9M5y4vR6Js5TNA",
+    "note": "The flagship conference of the IEEE Robotics and Automation Society (RAS), ICRA brings together the world’s top researchers and industry leaders to share ideas, exchange knowledge, and advance the field of robotics for the benefit of humanity. With a rapidly changing landscape, it has never been more important to attend this leading industry event."
   },
   {
     "shortName": "ERAS",
@@ -124,7 +124,7 @@
     "deadline": "",
     "city": "Hangzhou",
     "country": "China",
-    "link": "",
+    "link": "https://irmv.sjtu.edu.cn/iros2025/",
     "type": "Conference",
     "addressLink": "",
     "note": ""

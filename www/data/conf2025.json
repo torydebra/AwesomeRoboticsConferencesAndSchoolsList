@@ -88,7 +88,20 @@
     "link": "https://2025.ieee-icra.org/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/2bf9M5y4vR6Js5TNA",
-    "note": "The flagship conference of the IEEE Robotics and Automation Society (RAS), ICRA brings together the world’s top researchers and industry leaders to share ideas, exchange knowledge, and advance the field of robotics for the benefit of humanity. With a rapidly changing landscape, it has never been more important to attend this leading industry event."
+    "note": "The flagship conference of the IEEE Robotics and Automation Society (RAS), ICRA brings together the world\u2019s top researchers and industry leaders to share ideas, exchange knowledge, and advance the field of robotics for the benefit of humanity. With a rapidly changing landscape, it has never been more important to attend this leading industry event."
+  },
+  {
+    "shortName": "AIM",
+    "name": "IEEE/ASME International Conference on Advanced Intelligent Mechatronics",
+    "start": "2025-07-14",
+    "end": "2025-07-18",
+    "deadline": "",
+    "city": "Hangzhou",
+    "country": "China",
+    "link": "http://aim2025.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   },
   {
     "shortName": "ERAS",

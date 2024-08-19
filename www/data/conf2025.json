@@ -26,6 +26,19 @@
     "note": "The 2025 IEEE/SICE International Symposium on System Integrations (SII 2025) will be the 17th symposium on system integration. System integration is one of the key technologies, and integrating hardware and software is especially important to solve the industrial or social system problems in the new century. This symposium focuses on the latest research and industrial application of system integration and discusses the approach method to improve the effectiveness of system integration."
   },
   {
+    "shortName": "ICICIP",
+    "name": "International Conference on Intelligent Control and Information Processing",
+    "start": "2025-02-06",
+    "end": "2025-02-11",
+    "deadline": "2024-11-01",
+    "city": "Muscat",
+    "country": "Oman",
+    "link": "https://conference.cs.cityu.edu.hk/icicip/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": "The 13th International Conference on Intelligent Control and Information Processing (ICICIP2025) will be held in Muscat, Oman, February 6-11, 2025, following the successes of previous events. As the capital of Oman, Muscat is Oman's largest city with a population of over four million people and numerous tourist attractions. ICICIP2025 aims to provide a high-level international forum for scientists, engineers, and educators to present the state of the art of research and applications in related fields. The conference will feature plenary speeches given by world-renowned scholars, regular sessions with broad coverage, special sessions focusing on popular topics, and post-conference workshops/tutorials in the region."
+  },
+  {
     "shortName": "HRI",
     "name": "ACM/IEEE International Conference on Human-Robot Interaction",
     "start": "2025-03-04",
@@ -66,16 +79,29 @@
   },
   {
     "shortName": "CIES",
-    "name": "IEEE 2025 Symposium on Computational Intelligence in in Engineering/Cyber Physical Systems",
+    "name": "IEEE Symposium on Computational Intelligence in in Engineering/Cyber Physical Systems",
     "start": "2025-03-17",
     "end": "2025-03-20",
-    "deadline": "",
+    "deadline": "2025-09-17",
     "city": "Trondheim",
     "country": "Norway",
     "link": "https://ieee-ssci.org/?ui=ci-in-engineering-cyber-physical-systems",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/3W7DnSoM811cRKt5A",
     "note": "This symposium aims to serve as a leading forum for researchers, technologists, and industry experts to exchange ideas, share advancements, and shape the future of this interdisciplinary field. Indeed, the fusion of CI with engineering and CPS is revolutionizing the way we interact with our physical world, making systems smarter, more efficient, and more adaptive. The application of CI and machine learning (ML) in these domains is not just enhancing existing technologies but is also paving the way for novel paradigms in design, operation, and services."
+  },
+  {
+    "shortName": "SEAMS",
+    "name": "International Conference on Software Engineering for Adaptive and Self-Managing Systems",
+    "start": "2025-04-26",
+    "end": "2025-05-04",
+    "deadline": "2024-10-01",
+    "city": "Ottawa",
+    "country": "Canada",
+    "link": "https://conf.researchr.org/home/seams-2025",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/6oKWwxrWWLoqZUWz7",
+    "note": "SEAMS is a CORE-A ranked conference that applies software engineering methods, techniques, processes, and tools to support the construction of safe, performant, and cost-effective self-adaptive and autonomous systems that provide self-* properties like self-configuration, self-healing, self-optimization, and self-protection. The objective of SEAMS is to bring together researchers and practitioners from academia, industry, and government to investigate, discuss, examine, and advance the fundamental principles, state of the art, and the solutions addressing critical challenges of engineering self-adaptive and self-managing systems."
   },
   {
     "shortName": "ICRA",
@@ -88,7 +114,33 @@
     "link": "https://2025.ieee-icra.org/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/2bf9M5y4vR6Js5TNA",
-    "note": "The flagship conference of the IEEE Robotics and Automation Society (RAS), ICRA brings together the world’s top researchers and industry leaders to share ideas, exchange knowledge, and advance the field of robotics for the benefit of humanity. With a rapidly changing landscape, it has never been more important to attend this leading industry event."
+    "note": "The flagship conference of the IEEE Robotics and Automation Society (RAS), ICRA brings together the world\u2019s top researchers and industry leaders to share ideas, exchange knowledge, and advance the field of robotics for the benefit of humanity. With a rapidly changing landscape, it has never been more important to attend this leading industry event."
+  },
+  {
+    "shortName": "IAS",
+    "name": "Intelligent Autonomous Systems",
+    "start": "2025-06-30",
+    "end": "2025-07-04",
+    "deadline": "2025-02-15",
+    "city": "Genova",
+    "country": "Italy",
+    "link": "http://ias-19.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
+    "shortName": "AIM",
+    "name": "IEEE/ASME International Conference on Advanced Intelligent Mechatronics",
+    "start": "2025-07-14",
+    "end": "2025-07-18",
+    "deadline": "2025-02-01",
+    "city": "Hangzhou",
+    "country": "China",
+    "link": "http://aim2025.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": "The 2025 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM2025) is set to be held on July 14-18, 2025 in Hangzhou, China, a city famous for its enchanting West Lake, vibrant tech environment, and rich cultural heritage. Serving as a leading conference in the field of intelligent mechatronic systems, AIM 2025 is committed to advancing diversity in the technology industry, promoting a culture of inclusion and equity, and welcoming, engaging, and rewarding all who contribute to the field and will bring together experts and researchers from around the world to exchange views on cutting-edge research outcomes and future developments."
   },
   {
     "shortName": "ERAS",

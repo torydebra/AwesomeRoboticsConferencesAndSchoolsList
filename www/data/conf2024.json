@@ -1648,6 +1648,19 @@
     "note": "Join us at the 21st EuroXR International Conference (EuroXR 2024), the ultimate gathering for Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR) held in Athens, Greece, from 27th to 29th November 2024.  This year co-organized by the Institute of Communication and Computer System (ICCS). "
   },
   {
+    "shortName": "ACRA",
+    "name": "Australasian Conference on Robotics and Automation",
+    "start": "2024-11-27",
+    "end": "2024-11-29",
+    "deadline": "2024-09-23",
+    "city": "Auckland",
+    "country": "New Zealand",
+    "link": "https://www.araa.asn.au/conference/acra-2024/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/2jrM91o44KgQaJTL8",
+    "note": "Since 1999, ACRA has brought together Australian and New Zealand researchers and students in robotics, automation, and mechatronics. It provides a forum to present a breadth of research activities to the broader Australasian community. ACRA is a quality, peer-reviewed conference featured in Scopus, Google Scholar, and other ranking engines."
+  },
+  {
     "shortName": "RiTA",
     "name": "International Conference on Robot Intelligence Technology and Applications",
     "start": "2024-12-04",

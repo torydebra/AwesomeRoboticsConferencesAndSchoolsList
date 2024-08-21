@@ -645,6 +645,21 @@
     "note": "Rising interest in non-holonomic mechanical systems has initiated a large body of research that exploits what is often called ‘non-holonomic’ geometry. More precisely the geometric setting is that of (principal) bundles, which serve as configuration space, and the connection on the bundle plays a key role as it encodes constituent kinematic and dynamic relations. This not only provides a beautiful holistic approach to multi-physical systems it also gives rise to consistent compact and efficient computational formulations for complex systems."
   },
   {
+    "name": "Hamlyn Winter School on Surgical Imaging and Vision",
+    "deadline": "2024-09-29",
+    "city": "London",
+    "country": "UK",
+    "link": "https://www.imperial.ac.uk/hamlyn-centre/events--global-engagement/hamlyn-winter-school-on-surgical-imaging-and-vision/",
+    "type": "School",
+    "shortName": "HWSSIV",
+    "start": "2024-12-02",
+    "end": "2024-12-06",
+    "cost": "470-1250GBP",
+    "costNote": "academic/industry: GBP 470/1250",
+    "addressLink": "https://maps.app.goo.gl/EnyezXUTT7c4Cqm66",
+    "note": "Surgical Imaging and Vision is a growing area of research and an integral part of every endeavour in Robotic Surgery. It has advanced from a pre-operative planning and post-operative assessment tool to emerging platforms for intra-operative guidance and navigation. Advances in imaging have enabled the development of new modalities beyond the conventional whole-body techniques such as MR, CT and US to enable in vivo, in situ tissue characterisation by the use of biophotonics techniques that can be integrated with robotic instruments. The development of 3D vision facilitates structural-functional fusion, accurate focused energy delivery, large-area in vivo microscopic imaging, motion adaptation, visual servoing, and navigation under dynamic active constraints. All these are important for the development of new surgical robots for minimally invasive surgery."
+  },
+  {
     "name": "3rd Latin American Summer School on Robotics",
     "deadline": "2024-10-01",
     "city": "Rancagua",

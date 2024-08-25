@@ -1737,5 +1737,18 @@
     "type": "Conference",
     "addressLink": "",
     "note": ""
+  },
+  {
+    "shortName": "ICAIRC",
+    "name": "4th International Conference on Artificial Intelligence, Robotics, and Communication",
+    "start": "2024-12-27",
+    "end": "2024-12-29",
+    "deadline": "",
+    "city": "Xiamen",
+    "country": "China",
+    "link": "http://www.icairc.net/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   }
 ]

@@ -91,6 +91,19 @@
     "note": "This symposium aims to serve as a leading forum for researchers, technologists, and industry experts to exchange ideas, share advancements, and shape the future of this interdisciplinary field. Indeed, the fusion of CI with engineering and CPS is revolutionizing the way we interact with our physical world, making systems smarter, more efficient, and more adaptive. The application of CI and machine learning (ML) in these domains is not just enhancing existing technologies but is also paving the way for novel paradigms in design, operation, and services."
   },
   {
+    "shortName": "RoboSoft",
+    "name": "IEEE-RAS International Conference on Soft Robotics",
+    "start": "2025-04-23",
+    "end": "2025-04-26",
+    "deadline": "2024-11-15",
+    "city": "Lausanne",
+    "country": "Switzerland",
+    "link": "https://robosoft2025.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/rQUg32Vvr2xZ2M16A",
+    "note": "The theme for the 8th IEEE-RAS International Conference on Soft Robotics (RoboSoft 2025) centers on 'Interdisciplinarity and Widening Horizons', emphasizing the collaborative spirit and innovative cross-disciplinary approaches driving the future of soft robotics. Join us for an inspiring gathering of researchers, industry experts and students as we explore the cutting-edge advancements and share insights across various fields. Together, we’ll expand our horizons and pave the way for the next generation of soft robotics technologies. The conference will include keynote talks, demonstrations, discussions, forums, art displays and more."
+  },
+  {
     "shortName": "SEAMS",
     "name": "International Conference on Software Engineering for Adaptive and Self-Managing Systems",
     "start": "2025-04-26",

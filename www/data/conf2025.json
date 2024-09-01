@@ -101,7 +101,7 @@
     "link": "https://robosoft2025.org/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/rQUg32Vvr2xZ2M16A",
-    "note": "The theme for the 8th IEEE-RAS International Conference on Soft Robotics (RoboSoft 2025) centers on 'Interdisciplinarity and Widening Horizons', emphasizing the collaborative spirit and innovative cross-disciplinary approaches driving the future of soft robotics. Join us for an inspiring gathering of researchers, industry experts and students as we explore the cutting-edge advancements and share insights across various fields. Together, we’ll expand our horizons and pave the way for the next generation of soft robotics technologies. The conference will include keynote talks, demonstrations, discussions, forums, art displays and more."
+    "note": "The theme for the 8th IEEE-RAS International Conference on Soft Robotics (RoboSoft 2025) centers on 'Interdisciplinarity and Widening Horizons', emphasizing the collaborative spirit and innovative cross-disciplinary approaches driving the future of soft robotics. Join us for an inspiring gathering of researchers, industry experts and students as we explore the cutting-edge advancements and share insights across various fields. Together, we\u2019ll expand our horizons and pave the way for the next generation of soft robotics technologies. The conference will include keynote talks, demonstrations, discussions, forums, art displays and more."
   },
   {
     "shortName": "SEAMS",
@@ -167,6 +167,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/fs8Bc7rrAHznH2Xj8",
     "note": "A space for all stakeholders across autonomous system reliability to come togther to discuss the key remaining problems and present progress made towards solving them."
+  },
+  {
+    "shortName": "",
+    "name": "34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN",
+    "start": "2025-08-25",
+    "end": "2025-08-29",
+    "deadline": "",
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "link": "http://www.ro-man2025.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   },
   {
     "shortName": "CASE",

@@ -1674,6 +1674,19 @@
     "note": "Today, AI\u2019s capabilities exceed human limitations. As AI generates texts, images, and videos, the boundaries between virtual reality and the physical world are vague. We are entering a new era in which AI agents can act on our behalf. With this trend of strengthening AI agent systems, our conference theme is \u201cGenerative Thinking, Generative Action,\u201d aiming to facilitate in-depth discussions in the field of robot intelligence technology. We seek the latest research results, theories, or experimental developments, which will feature a high quality conference."
   },
   {
+    "shortName": "ICIR",
+    "name": "IEEE 3rd International Conference on Intelligent Reality",
+    "start": "2024-12-05",
+    "end": "2024-12-06",
+    "deadline": "",
+    "city": "Coimbra",
+    "country": "Portugal",
+    "link": "http://icir.ieee.org",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "ICCR",
     "name": "6th International Conference on Control and Robotics",
     "start": "2024-12-05",
@@ -1713,6 +1726,19 @@
     "note": "ROBIO is the flagship forum for researchers in the areas of robotics, automation, and biomimetics to disseminate their latest research results and explore the opportunity for research collaboration. ROBIO 2024 features a range of activities, including plenary sessions, keynote sessions, contributed paper sessions, workshops and special sessions."
   },
   {
+    "shortName": "IRC",
+    "name": "Eighth IEEE International Conference on Robotic Computing",
+    "start": "2024-12-11",
+    "end": "2024-12-13",
+    "deadline": "",
+    "city": "Tokyo",
+    "country": "Japan",
+    "link": "http://www.ieee-irc.org",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "ICFES",
     "name": "International Conference on Flexible Electronics and Systems",
     "start": "2024-12-12",
@@ -1734,6 +1760,19 @@
     "city": "Virtual",
     "country": "",
     "link": "http://www.icarce.com/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
+    "shortName": "RAAI",
+    "name": "4th International Conference on Robotics, Automation and Artificial Intelligence",
+    "start": "2024-12-19",
+    "end": "2024-12-21",
+    "deadline": "",
+    "city": "Singapore",
+    "country": "Singapore",
+    "link": "http://www.raai.net/",
     "type": "Conference",
     "addressLink": "",
     "note": ""

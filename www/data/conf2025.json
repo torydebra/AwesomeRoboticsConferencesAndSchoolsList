@@ -131,16 +131,16 @@
   },
   {
     "shortName": "EECR",
-    "name": "11th International Conference on Electrical Engineering, Control and Robotics",
+    "name": "International Conference on Electrical Engineering, Control and Robotics",
     "start": "2025-04-25",
     "end": "2025-04-27",
-    "deadline": "",
+    "deadline": "2024-12-01",
     "city": "Changzhou",
     "country": "China",
     "link": "http://eecr.org/index.html",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/7cDp3LLkJoSSKeAq9",
+    "note": "2025 11th International Conference on Electrical Engineering, Control and Robotics (EECR 2025) will be held in Changzhou, China during April 18-20, 2025, with the supports of Hohai University, China. The goal of this conference is to foster pure and applied researches in recognition of academic and industry, and to encourage interdisciplinary and international collaboration for the participants."
   },
   {
     "shortName": "IAS",
@@ -221,29 +221,16 @@
     "note": ""
   },
   {
-    "shortName": "",
-    "name": "34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN",
-    "start": "2025-08-25",
-    "end": "2025-08-29",
-    "deadline": "",
-    "city": "Eindhoven",
-    "country": "Netherlands",
-    "link": "http://www.ro-man2025.org/",
-    "type": "Conference",
-    "addressLink": "",
-    "note": ""
-  },
-  {
     "shortName": "ICDL",
     "name": "IEEE International Conference on Development and Learning",
     "start": "2025-09-16",
     "end": "2025-09-19",
-    "deadline": "",
+    "deadline": "2025-03-14",
     "city": "Prague",
     "country": "Czech Republic",
     "link": "http://icdl2025.fel.cvut.cz/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/Ve126cAFYy92AsW38",
+    "note": "The IEEE International Conference on Development and Learning (ICDL) conference is a unique meeting gathering researchers from computer science, robotics, psychology, neuroscience, and other disciplines to share and discuss research on how humans and other animals learn and develop and how this can inform and be informed by robotics and machine learning systems."
   }
 ]

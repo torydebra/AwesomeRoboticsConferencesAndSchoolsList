@@ -56,7 +56,7 @@ Distributed under the GLP-3.0 License. See `LICENSE.md` for more information.
 * [best-README-Template](https://github.com/othneildrew/Best-README-Template) For the readme itself
 * [ChatGPT](https://openai.com/blog/chatgpt) For a crazy stuff about [cache busting](https://github.com/torydebra/AwesomeRoboticsConferencesAndSchoolsList/blob/master/.github/workflows/static.yml#L37-L43) and monkey code-writing
 * [FontAwesome](https://fontawesome.com/) Icons! Icons everywhere!
-* [Popper](https://popper.js.org/) Unlucky name library to show popovers. BTW, the style of the doc website is probably the best of all times
+* [Floating-UI](https://floating-ui.com/) Library to show popovers. BTW, the style of the doc website is probably the best of all times
 
 ### Github Actions
 * [validate-json-action](https://github.com/OrRosenblatt/validate-json-action) Validate json against a schema

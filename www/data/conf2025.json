@@ -101,7 +101,7 @@
     "link": "https://robosoft2025.org/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/rQUg32Vvr2xZ2M16A",
-    "note": "The theme for the 8th IEEE-RAS International Conference on Soft Robotics (RoboSoft 2025) centers on 'Interdisciplinarity and Widening Horizons', emphasizing the collaborative spirit and innovative cross-disciplinary approaches driving the future of soft robotics. Join us for an inspiring gathering of researchers, industry experts and students as we explore the cutting-edge advancements and share insights across various fields. Together, we’ll expand our horizons and pave the way for the next generation of soft robotics technologies. The conference will include keynote talks, demonstrations, discussions, forums, art displays and more."
+    "note": "The theme for the 8th IEEE-RAS International Conference on Soft Robotics (RoboSoft 2025) centers on 'Interdisciplinarity and Widening Horizons', emphasizing the collaborative spirit and innovative cross-disciplinary approaches driving the future of soft robotics. Join us for an inspiring gathering of researchers, industry experts and students as we explore the cutting-edge advancements and share insights across various fields. Together, we\u2019ll expand our horizons and pave the way for the next generation of soft robotics technologies. The conference will include keynote talks, demonstrations, discussions, forums, art displays and more."
   },
   {
     "shortName": "SEAMS",
@@ -128,6 +128,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/2bf9M5y4vR6Js5TNA",
     "note": "The flagship conference of the IEEE Robotics and Automation Society (RAS), ICRA brings together the world\u2019s top researchers and industry leaders to share ideas, exchange knowledge, and advance the field of robotics for the benefit of humanity. With a rapidly changing landscape, it has never been more important to attend this leading industry event."
+  },
+  {
+    "shortName": "EECR",
+    "name": "International Conference on Electrical Engineering, Control and Robotics",
+    "start": "2025-04-25",
+    "end": "2025-04-27",
+    "deadline": "2024-12-01",
+    "city": "Changzhou",
+    "country": "China",
+    "link": "http://eecr.org/index.html",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/7cDp3LLkJoSSKeAq9",
+    "note": "2025 11th International Conference on Electrical Engineering, Control and Robotics (EECR 2025) will be held in Changzhou, China during April 18-20, 2025, with the supports of Hohai University, China. The goal of this conference is to foster pure and applied researches in recognition of academic and industry, and to encourage interdisciplinary and international collaboration for the participants."
   },
   {
     "shortName": "IAS",
@@ -206,5 +219,18 @@
     "type": "Conference",
     "addressLink": "",
     "note": ""
+  },
+  {
+    "shortName": "ICDL",
+    "name": "IEEE International Conference on Development and Learning",
+    "start": "2025-09-16",
+    "end": "2025-09-19",
+    "deadline": "2025-03-14",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "link": "http://icdl2025.fel.cvut.cz/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/Ve126cAFYy92AsW38",
+    "note": "The IEEE International Conference on Development and Learning (ICDL) conference is a unique meeting gathering researchers from computer science, robotics, psychology, neuroscience, and other disciplines to share and discuss research on how humans and other animals learn and develop and how this can inform and be informed by robotics and machine learning systems."
   }
 ]

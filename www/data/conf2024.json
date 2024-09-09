@@ -1674,6 +1674,19 @@
     "note": "Today, AI\u2019s capabilities exceed human limitations. As AI generates texts, images, and videos, the boundaries between virtual reality and the physical world are vague. We are entering a new era in which AI agents can act on our behalf. With this trend of strengthening AI agent systems, our conference theme is \u201cGenerative Thinking, Generative Action,\u201d aiming to facilitate in-depth discussions in the field of robot intelligence technology. We seek the latest research results, theories, or experimental developments, which will feature a high quality conference."
   },
   {
+    "shortName": "ICIR",
+    "name": "IEEE 3rd International Conference on Intelligent Reality",
+    "start": "2024-12-05",
+    "end": "2024-12-06",
+    "deadline": "2024-09-16",
+    "city": "Coimbra",
+    "country": "Portugal",
+    "link": "http://icir.ieee.org",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/vRw4qh2kSDVESSLMA",
+    "note": "The IEEE 3rd International Conference on Intelligent Reality (ICIR 2024) aims at identifying the challenges and opportunities inherent in deploying intelligent tools and interactive disruptive technologies into immersive environments. It provides a forum for leading researchers, industry professionals, and standards experts to share their research findings and ideas."
+  },
+  {
     "shortName": "ICCR",
     "name": "6th International Conference on Control and Robotics",
     "start": "2024-12-05",
@@ -1713,6 +1726,19 @@
     "note": "ROBIO is the flagship forum for researchers in the areas of robotics, automation, and biomimetics to disseminate their latest research results and explore the opportunity for research collaboration. ROBIO 2024 features a range of activities, including plenary sessions, keynote sessions, contributed paper sessions, workshops and special sessions."
   },
   {
+    "shortName": "IRC",
+    "name": "Eighth IEEE International Conference on Robotic Computing",
+    "start": "2024-12-11",
+    "end": "2024-12-13",
+    "deadline": "",
+    "city": "Tokyo",
+    "country": "Japan",
+    "link": "http://www.ieee-irc.org",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/UQy2M1JcLXZQyb2d7",
+    "note": "The boundaries between Computer Science and Robotics are continuing to be softened. On one hand computers are continuing to be humanized and a large number of cyber-physical systems are being developed to act upon the physical world. On the other hand the robotic community is looking into the robots of the 21st century that are versatile computing machines with high social impact potential, such as enhance transportation safety, reduce agricultural pesticide use, and improve public safety and crime-fighting efficacy, among other things. The barriers that restrain their diffusion significantly correlate to the complexity of developing their software control systems, which must be reliable, maintainable, intelligent, and safe."
+  },
+  {
     "shortName": "ICFES",
     "name": "International Conference on Flexible Electronics and Systems",
     "start": "2024-12-12",
@@ -1737,6 +1763,19 @@
     "type": "Conference",
     "addressLink": "",
     "note": ""
+  },
+  {
+    "shortName": "RAAI",
+    "name": "International Conference on Robotics, Automation and Artificial Intelligence",
+    "start": "2024-12-19",
+    "end": "2024-12-21",
+    "deadline": "",
+    "city": "Singapore",
+    "country": "Singapore",
+    "link": "http://www.raai.net/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/T4pSsHXRGRU4SHqg9",
+    "note": "Robotics, Automation, and Artificial Intelligence (RAAI) is an interdisciplinary field that combines robotics, automation, and artificial intelligence technologies. Robotics focuses on designing, constructing, and operating robots, while automation employs technology to reduce the need for human labor. Artificial intelligence involves creating machines capable of performing tasks that typically require human intelligence, such as perception, reasoning, learning, and decision-making."
   },
   {
     "shortName": "ICAIRC",

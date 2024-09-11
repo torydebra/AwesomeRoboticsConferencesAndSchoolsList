@@ -1401,6 +1401,19 @@
     "note": "The 16th International Conference on Social Robotics will bring together researchers and practitioners working on the interaction between humans and intelligent robots and on the integration of social robots into our society. ICSR\u201924 will take place in Odense, Denmark as a face-to-face conference between October 23-26, 2024. This will be the first time that the conference will be hosted in Denmark and Scandinavia. The theme of this year\u2019s conference is \u201cEmpowering Humanity: The Role of Social and Collaborative Robotics in Shaping Our Future\u201d."
   },
   {
+    "shortName": "ROSIN",
+    "name": "ROS-Industrial Conference",
+    "start": "2024-10-24",
+    "end": "2024-10-25",
+    "deadline": "",
+    "city": "Odense",
+    "country": "Denmark",
+    "link": "https://rosindustrial.org/events/2024/ros-industrial-conference-2024",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/AMBm9uEse2eLhhBS9",
+    "note": "This year's conference will focus on AI in Industrial Robotics and cover a diverse range of compelling topics. Additionally, it will highlight the challenges and achievements within the ROS-industrial community, explore new application areas, and welcome any relevant insights participants wish to share."
+  },
+  {
     "shortName": "RCAE",
     "name": "7th International Conference on Robotics, Control and Automation Engineering",
     "start": "2024-10-25",

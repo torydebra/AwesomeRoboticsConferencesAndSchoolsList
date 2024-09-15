@@ -1,5 +1,18 @@
 [
   {
+    "shortName": "ICMERR",
+    "name": "9th International Conference on Mechanical Engineering and Robotics Research",
+    "start": "2025-01-15",
+    "end": "2025-01-17",
+    "deadline": "",
+    "city": "Barcelona",
+    "country": "Spain",
+    "link": "http://www.icmerr.com",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "SII",
     "name": "International Conference on Gender and Technology",
     "start": "2025-01-16",
@@ -24,6 +37,32 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/dbFNcmNf1F6THNhC6",
     "note": "The 2025 IEEE/SICE International Symposium on System Integrations (SII 2025) will be the 17th symposium on system integration. System integration is one of the key technologies, and integrating hardware and software is especially important to solve the industrial or social system problems in the new century. This symposium focuses on the latest research and industrial application of system integration and discusses the approach method to improve the effectiveness of system integration."
+  },
+  {
+    "shortName": "ICARA",
+    "name": "11th International Conference on Automation, Robotics, and Applications",
+    "start": "2025-02-12",
+    "end": "2025-02-14",
+    "deadline": "",
+    "city": "Zagreb",
+    "country": "Croatia",
+    "link": "http://www.icara.us/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
+    "shortName": "ICMRE",
+    "name": "11th International Conference on Mechatronics and Robotics Engineering",
+    "start": "2025-02-24",
+    "end": "2025-02-26",
+    "deadline": "",
+    "city": "Lille",
+    "country": "France",
+    "link": "http://www.icmre.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   },
   {
     "shortName": "ICICIP",
@@ -73,6 +112,19 @@
     "city": "Kannur",
     "country": "India",
     "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
+    "shortName": "ICCAR",
+    "name": "11th International Conference on Control, Automation and Robotics",
+    "start": "2025-04-18",
+    "end": "2025-04-20",
+    "deadline": "",
+    "city": "Kyoto",
+    "country": "Japan",
+    "link": "http://www.iccar.org/",
     "type": "Conference",
     "addressLink": "",
     "note": ""
@@ -169,6 +221,32 @@
     "note": "The 2025 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM2025) is set to be held on July 14-18, 2025 in Hangzhou, China, a city famous for its enchanting West Lake, vibrant tech environment, and rich cultural heritage. Serving as a leading conference in the field of intelligent mechatronic systems, AIM 2025 is committed to advancing diversity in the technology industry, promoting a culture of inclusion and equity, and welcoming, engaging, and rewarding all who contribute to the field and will bring together experts and researchers from around the world to exchange views on cutting-edge research outcomes and future developments."
   },
   {
+    "shortName": "ARSO",
+    "name": "IEEE International Conference on Advanced Robotics and its Social Impacts",
+    "start": "2025-07-17",
+    "end": "2025-07-19",
+    "deadline": "",
+    "city": "Osaka",
+    "country": "Japan",
+    "link": "http://ieee-arso.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
+    "shortName": "COINS",
+    "name": "IEEE International Conference on Omni-layer Intelligent Systems",
+    "start": "2025-08-04",
+    "end": "2025-08-06",
+    "deadline": "",
+    "city": "Madison",
+    "country": "Wisconsin USA",
+    "link": "http://coinsconf.com/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "ERAS",
     "name": "IEEE Engineering Reliable Autonomous Systems",
     "start": "2025-05-29",
@@ -180,6 +258,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/fs8Bc7rrAHznH2Xj8",
     "note": "A space for all stakeholders across autonomous system reliability to come togther to discuss the key remaining problems and present progress made towards solving them."
+  },
+  {
+    "shortName": "",
+    "name": "34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN",
+    "start": "2025-08-25",
+    "end": "2025-08-29",
+    "deadline": "",
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "link": "http://www.ro-man2025.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   },
   {
     "shortName": "CASE",

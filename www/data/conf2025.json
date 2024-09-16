@@ -1,16 +1,16 @@
 [
   {
     "shortName": "ICMERR",
-    "name": "9th International Conference on Mechanical Engineering and Robotics Research",
+    "name": "International Conference on Mechanical Engineering and Robotics Research",
     "start": "2025-01-15",
     "end": "2025-01-17",
-    "deadline": "",
+    "deadline": "2024-10-25",
     "city": "Barcelona",
     "country": "Spain",
     "link": "http://www.icmerr.com",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/TagpgwerivEqfUvu5",
+    "note": "the 9th International Conference on Mechanical Engineering and Robotics Research (ICMERR) will be held in Barcelona, Spain from January 15 to 17, 2025. ICMERR aims to be one of the leading international conferences for presenting novel and fundamental advances in the fields of mechanical engineering and robotics. The conference seeks to bring together experts from academia, industry, and government to promote interdisciplinary collaborations and facilitate the development of innovative solutions to real-world problems. ICMERR also serves to foster communication among researchers and practitioners working in a wide variety of scientific areas with a common interest in improving mechanical engineering and robotics techniques."
   },
   {
     "shortName": "SII",
@@ -43,26 +43,26 @@
     "name": "11th International Conference on Automation, Robotics, and Applications",
     "start": "2025-02-12",
     "end": "2025-02-14",
-    "deadline": "",
+    "deadline": "2024-09-25",
     "city": "Zagreb",
     "country": "Croatia",
     "link": "http://www.icara.us/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/B2Snooa944Tou5xD7",
+    "note": "In recent years, the field of Automation and Robotics has experienced significant advancements, revolutionizing industries and shaping the future of technology. Automation involves the use of technology to perform tasks with minimal human intervention, while Robotics focuses on the design and development of intelligent machines capable of interacting with the physical world. The rapid development of automation and robotics has been fueled by advancements in key technologies such as sensors, actuators, control systems, machine learning, computer vision, and human-robot interaction. These technologies have enabled the creation of autonomous systems that can perceive their environment, make decisions, and execute tasks efficiently."
   },
   {
     "shortName": "ICMRE",
     "name": "11th International Conference on Mechatronics and Robotics Engineering",
     "start": "2025-02-24",
     "end": "2025-02-26",
-    "deadline": "",
+    "deadline": "2025-09-30",
     "city": "Lille",
     "country": "France",
     "link": "http://www.icmre.org/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/V2TjeR4gBrdCUhSq8",
+    "note": "2025 the 11th International Conference on Mechatronics and Robotics Engineering (ICMRE) is set to unfold in Lille, France, from February 24-26, 2025. Established as a distinguished international academic platform, ICMRE has been bringing together researchers, engineers, academicians, and industry professionals since its inauguration in Kuala Lumpur, Malaysia, in 2015. Following events were hosted in Nice, France (2016), Paris, France (2017 and 2018), and the University of Valenciennes, France. More recently, the conference took place in Rome, Italy (2019), and Barcelona, Spain (2020). From 2021 to 2023, ICMRE shifted to an online format, in collaboration with the Southern University of Science and Technology, China. ICMRE 2025 will be sponsored by Polytech Lille-CRIStAL, University of Lille, France."
   },
   {
     "shortName": "ICICIP",
@@ -126,7 +126,7 @@
     "country": "Japan",
     "link": "http://www.iccar.org/",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/Jd87EtEy58E15cwL9",
     "note": ""
   },
   {
@@ -230,7 +230,7 @@
     "country": "Japan",
     "link": "http://ieee-arso.org/",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/gDMoWQavuVk9BEm36",
     "note": ""
   },
   {
@@ -240,8 +240,8 @@
     "end": "2025-08-06",
     "deadline": "",
     "city": "Madison",
-    "country": "Wisconsin USA",
-    "link": "http://coinsconf.com/",
+    "country": "USA",
+    "link": "",
     "type": "Conference",
     "addressLink": "",
     "note": ""
@@ -258,19 +258,6 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/fs8Bc7rrAHznH2Xj8",
     "note": "A space for all stakeholders across autonomous system reliability to come togther to discuss the key remaining problems and present progress made towards solving them."
-  },
-  {
-    "shortName": "",
-    "name": "34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN",
-    "start": "2025-08-25",
-    "end": "2025-08-29",
-    "deadline": "",
-    "city": "Eindhoven",
-    "country": "Netherlands",
-    "link": "http://www.ro-man2025.org/",
-    "type": "Conference",
-    "addressLink": "",
-    "note": ""
   },
   {
     "shortName": "CASE",

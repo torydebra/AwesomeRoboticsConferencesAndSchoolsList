@@ -1674,6 +1674,19 @@
     "note": "Since 1999, ACRA has brought together Australian and New Zealand researchers and students in robotics, automation, and mechatronics. It provides a forum to present a breadth of research activities to the broader Australasian community. ACRA is a quality, peer-reviewed conference featured in Scopus, Google Scholar, and other ranking engines."
   },
   {
+    "shortName": "IRAC",
+    "name": "International Conference on Intelligent Robotics and Automatic Control",
+    "start": "2024-11-29",
+    "end": "2024-12-01",
+    "deadline": "2024-11-10",
+    "city": "Guangzhou",
+    "country": "China",
+    "link": "https://www.icirac.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "RiTA",
     "name": "International Conference on Robot Intelligence Technology and Applications",
     "start": "2024-12-04",

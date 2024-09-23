@@ -199,13 +199,13 @@
     "name": "IEEE World Haptics Conference",
     "start": "2025-07-08",
     "end": "2025-07-11",
-    "deadline": "",
+    "deadline": "2025-01-31",
     "city": "Suwon",
     "country": "Korea (South)",
     "link": "http://2025.worldhaptics.org/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/mivANV1FivwWGuGS8",
+    "note": "WHC is a joint gathering of IEEE Haptics Symposium and Eurohaptics Conference which takes place in alternate years and rotates among North America, Europe and Asia. WHC 2025 will take place in Suwon, South Korea from July, 8th-11th, 2025. The conference will offer an exciting program including cross-cutting challenge sessions, technical paper oral and poster sessions, work-in-progress sessions, demonstrations, industrial exhibits, workshops/tutorials and other technical and social activities."
   },
   {
     "shortName": "IAS",
@@ -244,7 +244,7 @@
     "link": "http://ieee-arso.org/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/gDMoWQavuVk9BEm36",
-    "note": ""
+    "note": "Advanced robots are expected to enter in promising applications in our future society and bring substantial impacts. The increasing implementation of AI-based components even broadens their fields of application. To ensure that these impacts are positively reflected, today, we need to extend views not only on technical aspects but also on social challenges that we might face, which include safety, regulation, ethics, human factors, and philosophy."
   },
   {
     "shortName": "COINS",
@@ -271,19 +271,6 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/fs8Bc7rrAHznH2Xj8",
     "note": "A space for all stakeholders across autonomous system reliability to come togther to discuss the key remaining problems and present progress made towards solving them."
-  },
-  {
-    "shortName": "",
-    "name": "34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN",
-    "start": "2025-08-25",
-    "end": "2025-08-29",
-    "deadline": "",
-    "city": "Eindhoven",
-    "country": "Netherlands",
-    "link": "http://www.ro-man2025.org/",
-    "type": "Conference",
-    "addressLink": "",
-    "note": ""
   },
   {
     "shortName": "CASE",

@@ -120,6 +120,9 @@ def main():
         scraped_conf = create_conference(row)
 
         if not (scraped_conf.shortName.upper() in existent_confs_dict[scraped_conf.year]):
+            #ignore roman already present because of bad format
+            if (scraped_conf.name == "34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN"):
+                break
             print("Adding ", scraped_conf.shortName, scraped_conf.year)
             json_file_to_update[scraped_conf.year] = True
 

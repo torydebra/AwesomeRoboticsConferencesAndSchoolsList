@@ -147,7 +147,7 @@
     "name": "IEEE-RAS International Conference on Soft Robotics",
     "start": "2025-04-23",
     "end": "2025-04-26",
-    "deadline": "2024-10-15",
+    "deadline": "2024-10-25",
     "city": "Lausanne",
     "country": "Switzerland",
     "link": "https://robosoft2025.org/",
@@ -195,17 +195,17 @@
     "note": "2025 11th International Conference on Electrical Engineering, Control and Robotics (EECR 2025) will be held in Changzhou, China during April 18-20, 2025, with the supports of Hohai University, China. The goal of this conference is to foster pure and applied researches in recognition of academic and industry, and to encourage interdisciplinary and international collaboration for the participants."
   },
   {
-    "shortName": "WHC",
-    "name": "IEEE World Haptics Conference",
-    "start": "2025-07-08",
-    "end": "2025-07-11",
-    "deadline": "2025-01-31",
-    "city": "Suwon",
-    "country": "Korea (South)",
-    "link": "http://2025.worldhaptics.org/",
+    "shortName": "L4DC",
+    "name": "Annual Learning for Dynamics and Control Conference",
+    "start": "2025-06-04",
+    "end": "2025-06-06",
+    "deadline": "2024-11-22",
+    "city": "Ann Arbor, Michigan",
+    "country": "USA",
+    "link": "https://sites.google.com/umich.edu/l4dc2025/",
     "type": "Conference",
-    "addressLink": "https://maps.app.goo.gl/mivANV1FivwWGuGS8",
-    "note": "WHC is a joint gathering of IEEE Haptics Symposium and Eurohaptics Conference which takes place in alternate years and rotates among North America, Europe and Asia. WHC 2025 will take place in Suwon, South Korea from July, 8th-11th, 2025. The conference will offer an exciting program including cross-cutting challenge sessions, technical paper oral and poster sessions, work-in-progress sessions, demonstrations, industrial exhibits, workshops/tutorials and other technical and social activities."
+    "addressLink": "https://maps.app.goo.gl/oLiG3MeYNCPhnXyZ6",
+    "note": "The explosion of real-time data that is emerging from the physical world requires a rapprochement of areas such as machine learning, control theory, and optimization. While control theory has been firmly rooted in the tradition of model-based design, the availability and scale of data (both temporal and spatial) will require rethinking the foundations of our discipline. From a machine learning perspective, one of the main challenges going forward is to go beyond pattern recognition and address problems in data-driven control and optimization of dynamical processes. Our overall goal is to create a new community of people who think rigorously across the disciplines, ask new questions, and develop the foundations of this new scientific area. We are happy to welcome you to the University of Michigan for the 7th annual L4DC."
   },
   {
     "shortName": "IAS",
@@ -219,6 +219,19 @@
     "type": "Conference",
     "addressLink": "",
     "note": ""
+  },
+  {
+    "shortName": "WHC",
+    "name": "IEEE World Haptics Conference",
+    "start": "2025-07-08",
+    "end": "2025-07-11",
+    "deadline": "2025-01-31",
+    "city": "Suwon",
+    "country": "Korea (South)",
+    "link": "http://2025.worldhaptics.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/mivANV1FivwWGuGS8",
+    "note": "WHC is a joint gathering of IEEE Haptics Symposium and Eurohaptics Conference which takes place in alternate years and rotates among North America, Europe and Asia. WHC 2025 will take place in Suwon, South Korea from July, 8th-11th, 2025. The conference will offer an exciting program including cross-cutting challenge sessions, technical paper oral and poster sessions, work-in-progress sessions, demonstrations, industrial exhibits, workshops/tutorials and other technical and social activities."
   },
   {
     "shortName": "AIM",
@@ -271,19 +284,6 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/fs8Bc7rrAHznH2Xj8",
     "note": "A space for all stakeholders across autonomous system reliability to come togther to discuss the key remaining problems and present progress made towards solving them."
-  },
-  {
-    "shortName": "",
-    "name": "34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN",
-    "start": "2025-08-25",
-    "end": "2025-08-29",
-    "deadline": "",
-    "city": "Eindhoven",
-    "country": "Netherlands",
-    "link": "http://www.ro-man2025.org/",
-    "type": "Conference",
-    "addressLink": "",
-    "note": ""
   },
   {
     "shortName": "CASE",

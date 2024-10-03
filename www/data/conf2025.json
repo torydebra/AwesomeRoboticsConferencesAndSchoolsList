@@ -82,7 +82,7 @@
     "name": "ACM/IEEE International Conference on Human-Robot Interaction",
     "start": "2025-03-04",
     "end": "2025-03-06",
-    "deadline": "2024-09-24",
+    "deadline": "2024-10-18",
     "city": "Melbourne",
     "country": "Australia",
     "link": "https://humanrobotinteraction.org/2025/",
@@ -167,6 +167,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/6oKWwxrWWLoqZUWz7",
     "note": "SEAMS is a CORE-A ranked conference that applies software engineering methods, techniques, processes, and tools to support the construction of safe, performant, and cost-effective self-adaptive and autonomous systems that provide self-* properties like self-configuration, self-healing, self-optimization, and self-protection. The objective of SEAMS is to bring together researchers and practitioners from academia, industry, and government to investigate, discuss, examine, and advance the fundamental principles, state of the art, and the solutions addressing critical challenges of engineering self-adaptive and self-managing systems."
+  },
+  {
+    "shortName": "IAV",
+    "name": "IFAC Symposium on Intelligent Autonomous Vehicles",
+    "start": "2025-05-07",
+    "end": "2025-05-09",
+    "deadline": "2025-01-15",
+    "city": "Phoenix, Arizona",
+    "country": "USA",
+    "link": "https://events.engineering.asu.edu/iav-2025/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/L3J7Xzq5M9TRhrQFA",
+    "note": "The IAV Symposium will feature a variety of engaging events, including technical sessions, invited presentations, workshops, panel discussions, plenary talks, industry demonstrations, and educational activities."
   },
   {
     "shortName": "ICRA",

@@ -208,6 +208,19 @@
     "note": "2025 11th International Conference on Electrical Engineering, Control and Robotics (EECR 2025) will be held in Changzhou, China during April 18-20, 2025, with the supports of Hohai University, China. The goal of this conference is to foster pure and applied researches in recognition of academic and industry, and to encourage interdisciplinary and international collaboration for the participants."
   },
   {
+    "shortName": "CRV",
+    "name": "Conference on Robots and Vision",
+    "start": "2025-05-26",
+    "end": "2025-05-30",
+    "deadline": "2025-02-07",
+    "city": "Calgary",
+    "country": "Canada",
+    "link": "https://www.computerrobotvision.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": "The Conference on Robots and Vision (previously the Conference on Computer and Robot Vision) is an annual conference hosted in Canada sponsored by the Canadian Image Processing and Pattern Recognition Society (CIPPRS) and will be co-located with the Canadian Artificial Intelligence (AI) conference"
+  },
+  {
     "shortName": "L4DC",
     "name": "Annual Learning for Dynamics and Control Conference",
     "start": "2025-06-04",

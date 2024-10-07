@@ -1,5 +1,18 @@
 [
   {
+    "shortName": "ERF",
+    "name": "European Robotics Forum",
+    "start": "2026",
+    "end": "2026",
+    "deadline": "",
+    "city": "Stavanger",
+    "country": "Norway",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "ICRA",
     "name": "IEEE International Conference on Robotics and Automation",
     "start": "2026-06-01",

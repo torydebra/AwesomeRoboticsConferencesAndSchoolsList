@@ -645,6 +645,36 @@
     "note": "Rising interest in non-holonomic mechanical systems has initiated a large body of research that exploits what is often called ‘non-holonomic’ geometry. More precisely the geometric setting is that of (principal) bundles, which serve as configuration space, and the connection on the bundle plays a key role as it encodes constituent kinematic and dynamic relations. This not only provides a beautiful holistic approach to multi-physical systems it also gives rise to consistent compact and efficient computational formulations for complex systems."
   },
   {
+    "name": "EASE Fall School - Bremen",
+    "deadline": "2024-11-04",
+    "city": "Bremen",
+    "country": "Germany",
+    "link": "https://ease-crc.org/ease-fall-school-2024/",
+    "type": "School",
+    "shortName": "EASEB",
+    "start": "2024-11-11",
+    "end": "2024-11-15",
+    "cost": "380-420EUR",
+    "costNote": "early/regular: EUR 380/420",
+    "addressLink": "https://maps.app.goo.gl/246rbxFHeJjqQi5D9",
+    "note": "The EASE Fall School offers an opportunity to delve into the exciting field of cognition-enabled everyday activity robotics. Designed to provide insight into Everyday Activity Science and Engineering, our Fall School allows doctoral students to explore AI, robotics, and the complex field of robot manipulations. Through lectures and hands-on courses, participants can exchange ideas and perspectives with invited speakers and experts from the collaborative research center EASE. This year, the event is supported by the euROBIN project and will be hosted at both the University of Bremen, Germany, and University of Michigan, USA."
+  },
+  {
+    "name": "EASE Fall School - Michigan",
+    "deadline": "2024-11-04",
+    "city": "Ann Arbor",
+    "country": "USA",
+    "link": "https://ease-crc.org/ease-fall-school-2024/",
+    "type": "School",
+    "shortName": "EASEM",
+    "start": "2024-11-11",
+    "end": "2024-11-15",
+    "cost": "450USD",
+    "costNote": "",
+    "addressLink": "https://maps.app.goo.gl/6RPSCK9fcknNzwvK6",
+    "note": "The EASE Fall School offers an opportunity to delve into the exciting field of cognition-enabled everyday activity robotics. Designed to provide insight into Everyday Activity Science and Engineering, our Fall School allows doctoral students to explore AI, robotics, and the complex field of robot manipulations. Through lectures and hands-on courses, participants can exchange ideas and perspectives with invited speakers and experts from the collaborative research center EASE. This year, the event is supported by the euROBIN project and will be hosted at both the University of Bremen, Germany, and University of Michigan, USA."
+  },
+  {
     "name": "Hamlyn Winter School on Surgical Imaging and Vision",
     "deadline": "2024-09-29",
     "city": "London",
@@ -672,6 +702,21 @@
     "cost": "50-300USD",
     "costNote": "student/academic/professional: USD 50/200/300",
     "addressLink": "https://maps.app.goo.gl/KzKTLD6mMyE8GddFA",
-    "note": "The school is an official initial initiative of the Italian PhD in Robotics and Intelligent Machines (https://drim.i-rim.it/en/ ), and it is open to all the PhD students passionate about the field. In 2023, 69 international students attended the first edition, and the school offered 52 hours of didactic activities. The multidisciplinary and hands-on structure of the School, highly appreciated by the attendants in 2023, is a one-of-kind opportunity for the attendees to see robotics from a wider point of view. This year, the Scientific Committee is comprised of 13 members, with great team diversity in terms of cultural background, universities, and regional distribution, aiming to provide a top-class education."
+    "note": "The Latin American Summer School on Robotics (LACORO) aims to make cutting-edge knowledge of Artificial Intelligence for Robotics Applications more accessible in the Southern Hemisphere. Moreover, we want to foster intercultural student collaboration within and outside the Americas."
+  },
+  {
+    "name": "Fifth Annual Nepal AI School",
+    "deadline": "2024-10-20",
+    "city": "Patan",
+    "country": "Nepal",
+    "link": "https://nepalschool.naamii.org.np/",
+    "type": "School",
+    "shortName": "ANAIS",
+    "start": "2024-12-27",
+    "end": "2025-01-07",
+    "cost": "100-200USD",
+    "costNote": "lowincomecoutries/regular: USD 100/200",
+    "addressLink": "https://maps.app.goo.gl/UgrKDasYXsVSet7g8",
+    "note": "The Annual Nepal AI School (ANAIS) is a unique platform in South Asia that brings together from all over the world scientists, faculties, and participants for an intensive 11 days of AI lectures, labs, and project works. The course covers depth from fundamentals to a wide range of applications and domains, including the frontier of recently developed ideas and methods. ANAIS attracts diverse audiences, from senior undergraduates and graduates to PhD students, teaching faculties, and industry professionals."
   }
 ]

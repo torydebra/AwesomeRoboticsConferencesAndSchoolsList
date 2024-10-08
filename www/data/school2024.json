@@ -705,6 +705,21 @@
     "note": "The Latin American Summer School on Robotics (LACORO) aims to make cutting-edge knowledge of Artificial Intelligence for Robotics Applications more accessible in the Southern Hemisphere. Moreover, we want to foster intercultural student collaboration within and outside the Americas."
   },
   {
+    "name": "AI4Europe Winter School and AI & Robotics",
+    "deadline": "2024-10-20",
+    "city": "Örebro",
+    "country": "Sweden",
+    "link": "https://lucia2024.aass.oru.se/",
+    "type": "School",
+    "shortName": "AI4",
+    "start": "2024-12-09",
+    "end": "2024-12-13",
+    "cost": "free",
+    "costNote": "lunches included",
+    "addressLink": "https://maps.app.goo.gl/UZC72WpBeifZd9497",
+    "note": "AI and robotics are too often considered separate fields. Typical graduate student curricula concentrate on AI or on robotics, but rarely on both. This school continues the tradition of the successful series of Lucia Schools on AI and Robotics, which aim at filling this educational gap and providing future researchers with theoretical and methodological knowledge to realize integrated intelligent robots. The courses in this school are focused towards topics that are complementary to the ones usually encountered in graduate programs."
+  },
+  {
     "name": "Fifth Annual Nepal AI School",
     "deadline": "2024-10-20",
     "city": "Patan",

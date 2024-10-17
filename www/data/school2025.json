@@ -1,2 +1,17 @@
 [
+    {
+        "shortName": "AICET",
+        "name": "AIDA AI/ML cutting edge trends Symposium and Summer School",
+        "start": "2025-07-07",
+        "end": "2025-07-11",
+        "deadline": "",
+        "city": "Thessaloniki",
+        "country": "Greece",
+        "link": "https://icarus.csd.auth.gr/aida-auth-ai-cutting-edge-trends-aicet2025-summer-symposium-and-school/",
+        "type": "School",
+        "cost": "TBD",
+        "costNote": "",
+        "addressLink": "https://maps.app.goo.gl/X6tXMqpDoexKa9VE9",
+        "note": "Artificial Intelligence (AI), and Machine Learning (ML) in particular, advance very rapidly, at  a pace that even specialists have difficulties in following it. Its impact, particularly through Large Language Models and Generative AI affect almost all scientific disciplines. AI has a huge social impact, e.g., on education, labor market, politics and governance.  Given the fast AI evolution, both industry and academia are interested in fast personnel reskilling and upskilling on AI edge technologies. This event, co-organized by International AI Doctoral Academy (AIDA)  and AUTH,  will cater these advanced AI education needs."
+    }
 ]

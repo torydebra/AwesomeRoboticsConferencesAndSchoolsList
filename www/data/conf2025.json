@@ -247,6 +247,19 @@
     "note": ""
   },
   {
+    "shortName": "AIR",
+    "name": "International Conference of The Robotics Society - Advances in Robotics",
+    "start": "2025-07-02",
+    "end": "2025-07-05",
+    "deadline": "2024-12-15",
+    "city": "Jodhpur",
+    "country": "India",
+    "link": "https://advancesinrobotics.com/2025/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/MuoHreocSJ8FUg4BA",
+    "note": "Advances in Robotics (AIR) is a series of biennial conferences organized by The Robotics Society (earlier referred to as the Robotics Society of India). The conference aims to create a forum to present and exchange new ideas by researchers and developers from India and abroad working in the fields of robotics and its applications. The conference would have expert talks, oral and poster presentations, workshops, a doctoral symposium, and special industry-oriented sessions. The organizers of the conference invite unpublished research work in the various fields of Robotics."
+  },
+  {
     "shortName": "WHC",
     "name": "IEEE World Haptics Conference",
     "start": "2025-07-08",

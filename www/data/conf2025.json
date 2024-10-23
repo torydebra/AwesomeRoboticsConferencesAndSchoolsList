@@ -364,6 +364,19 @@
     "note": ""
   },
   {
+    "shortName": "ROSCON",
+    "name": "ROS Conference",
+    "start": "2025",
+    "end": "2025",
+    "deadline": "",
+    "city": "Singapore",
+    "country": "Singapore",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "ICDL",
     "name": "IEEE International Conference on Development and Learning",
     "start": "2025-09-16",

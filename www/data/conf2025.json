@@ -143,11 +143,24 @@
     "note": "This symposium aims to serve as a leading forum for researchers, technologists, and industry experts to exchange ideas, share advancements, and shape the future of this interdisciplinary field. Indeed, the fusion of CI with engineering and CPS is revolutionizing the way we interact with our physical world, making systems smarter, more efficient, and more adaptive. The application of CI and machine learning (ML) in these domains is not just enhancing existing technologies but is also paving the way for novel paradigms in design, operation, and services."
   },
   {
+    "shortName": "SIMPAR",
+    "name": "IEEE-RAS International Conference on Soft Robotics",
+    "start": "2025-04-14",
+    "end": "2025-04-18",
+    "deadline": "2024-11-01",
+    "city": "Palermo",
+    "country": "Italy",
+    "link": "https://www.simpar2025.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/m6yjCZ3Gf5RtqcS26",
+    "note": "SIMPAR brings together researchers and engineers from academia and industry to identify and solve critical issues in software development for autonomous robots and to boost a smooth shifting of results from simulated to real-world applications."
+  },
+  {
     "shortName": "RoboSoft",
     "name": "IEEE-RAS International Conference on Soft Robotics",
     "start": "2025-04-23",
     "end": "2025-04-26",
-    "deadline": "2024-10-25",
+    "deadline": "2024-10-31",
     "city": "Lausanne",
     "country": "Switzerland",
     "link": "https://robosoft2025.org/",
@@ -234,6 +247,19 @@
     "note": "The explosion of real-time data that is emerging from the physical world requires a rapprochement of areas such as machine learning, control theory, and optimization. While control theory has been firmly rooted in the tradition of model-based design, the availability and scale of data (both temporal and spatial) will require rethinking the foundations of our discipline. From a machine learning perspective, one of the main challenges going forward is to go beyond pattern recognition and address problems in data-driven control and optimization of dynamical processes. Our overall goal is to create a new community of people who think rigorously across the disciplines, ask new questions, and develop the foundations of this new scientific area. We are happy to welcome you to the University of Michigan for the 7th annual L4DC."
   },
   {
+    "shortName": "RSS",
+    "name": "Robotics: Science and Systems",
+    "start": "2025-07-21",
+    "end": "2025-07-25",
+    "deadline": "2025-01-17",
+    "city": "Los Angeles",
+    "country": "USA",
+    "link": "https://roboticsconference.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/5x32qxErG46f438Y9",
+    "note": "RSS has a long history of bringing together researchers in all areas of robotics from around the world for an engaging and focused week of single-track presentations, workshops, poster sessions, and tutorials. This year, as always, we solicit your best work."
+  },
+  {
     "shortName": "IAS",
     "name": "Intelligent Autonomous Systems",
     "start": "2025-06-30",
@@ -271,6 +297,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/mivANV1FivwWGuGS8",
     "note": "WHC is a joint gathering of IEEE Haptics Symposium and Eurohaptics Conference which takes place in alternate years and rotates among North America, Europe and Asia. WHC 2025 will take place in Suwon, South Korea from July, 8th-11th, 2025. The conference will offer an exciting program including cross-cutting challenge sessions, technical paper oral and poster sessions, work-in-progress sessions, demonstrations, industrial exhibits, workshops/tutorials and other technical and social activities."
+  },
+  {
+    "shortName": "CABLECON",
+    "name": "International Conference on Cable-Driven Parallel Robots",
+    "start": "2025-07-08",
+    "end": "2025-07-11",
+    "deadline": "2025-01-25",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "link": "https://cablecon-2025.sciencesconf.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/4YegRXWuhhyakGe3A",
+    "note": "The first six conferences of this series successfully established a worldwide forum for research on cable-driven parallel robots. From Stuttgart, Duisburg, Quebec City, Krakow and Montpellier (online), Nantes, the next edition of the conference will be in Hong Kong on 8-11 July 2025. CableCon2025 aims at presenting new results, continuing the forum for the exchange of ideas, and establishing contacts amongst all international teams, for academics, researchers and industry."
   },
   {
     "shortName": "AIM",

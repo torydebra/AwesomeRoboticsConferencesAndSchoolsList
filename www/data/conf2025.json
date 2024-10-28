@@ -78,6 +78,19 @@
     "note": "The 13th International Conference on Intelligent Control and Information Processing (ICICIP2025) will be held in Muscat, Oman, February 6-11, 2025, following the successes of previous events. As the capital of Oman, Muscat is Oman's largest city with a population of over four million people and numerous tourist attractions. ICICIP2025 aims to provide a high-level international forum for scientists, engineers, and educators to present the state of the art of research and applications in related fields. The conference will feature plenary speeches given by world-renowned scholars, regular sessions with broad coverage, special sessions focusing on popular topics, and post-conference workshops/tutorials in the region."
   },
   {
+    "shortName": "ICETA",
+    "name": "IEEE International Conference on Emerging Technologies and Application",
+    "start": "2025-02-21",
+    "end": "2025-02-23",
+    "deadline": "",
+    "city": "Gwalior",
+    "country": "India",
+    "link": "https://iceta2025.com/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/4ztH2LATjDeDkXQt7",
+    "note": "The conference aims to promote research and networking among academic institutes, R&D institutions, industries and other organisations. The conference is a major step towards the continuous efforts of the IEEE Madhya Pradesh Section towards the promotion of technical acumen and networking within the region. The conference invites papers from authors worldwide, while geographically all editions of the conference would be held within the Madhya Pradesh region"
+  },
+  {
     "shortName": "HRI",
     "name": "ACM/IEEE International Conference on Human-Robot Interaction",
     "start": "2025-03-04",
@@ -117,6 +130,19 @@
     "note": ""
   },
   {
+    "shortName": "CAIF",
+    "name": "OkIP International Conference on Artificial Intelligence Frontiers ",
+    "start": "2025-04-01",
+    "end": "2025-04-03",
+    "deadline": "2025-01-19",
+    "city": "Oklahoma",
+    "country": "USA",
+    "link": "https://eventutor.com/e/CAIF002",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/drU7wxe2RgpmNMub9",
+    "note": "The conference aims to unite scholars from different disciplinary backgrounds to emphasize disseminating ongoing research and development. Proposals are solicited describing original works in the fields and related technologies. This event will include a peer-reviewed program of technical, industrial, and poster sessions."
+  },
+  {
     "shortName": "ICCAR",
     "name": "11th International Conference on Control, Automation and Robotics",
     "start": "2025-04-18",
@@ -144,7 +170,7 @@
   },
   {
     "shortName": "SIMPAR",
-    "name": "IEEE-RAS International Conference on Soft Robotics",
+    "name": "International Conference on Simulation, Modeling, and Programming for Autonomous Robots",
     "start": "2025-04-14",
     "end": "2025-04-18",
     "deadline": "2024-11-01",
@@ -154,6 +180,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/m6yjCZ3Gf5RtqcS26",
     "note": "SIMPAR brings together researchers and engineers from academia and industry to identify and solve critical issues in software development for autonomous robots and to boost a smooth shifting of results from simulated to real-world applications."
+  },
+  {
+    "shortName": "RiE",
+    "name": "Robotics in Education",
+    "start": "2025-04-23",
+    "end": "2025-04-25",
+    "deadline": "2025-01-18",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "link": "https://rie.science/2025/index.html",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/bdPqmAEQTLkqirGd9",
+    "note": "The 16th International Conference on Robotics in Education (RiE) aims at bringing academics, researchers, teachers, practicing engineers and industry experts from all over the world onto a common platform.The 2025 Edition of RiE will be held live in the Thessaloniki, Greece. We encourage you to submit and present new trends, practical experiences, innovations and advances in the area of Robotics in Education."
   },
   {
     "shortName": "RoboSoft",
@@ -249,8 +288,8 @@
   {
     "shortName": "RSS",
     "name": "Robotics: Science and Systems",
-    "start": "2025-07-21",
-    "end": "2025-07-25",
+    "start": "2025-06-21",
+    "end": "2025-06-25",
     "deadline": "2025-01-17",
     "city": "Los Angeles",
     "country": "USA",

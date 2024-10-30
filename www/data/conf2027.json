@@ -11,5 +11,18 @@
     "type": "Conference",
     "addressLink": "",
     "note": ""
+  },
+  {
+    "shortName": "HRI",
+    "name": "ACM/IEEE International Conference on Human-Robot Interaction",
+    "start": "2027",
+    "end": "2027",
+    "deadline": "",
+    "city": "",
+    "country": "North America",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   }
 ]

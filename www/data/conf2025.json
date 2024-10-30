@@ -69,7 +69,7 @@
     "name": "International Conference on Intelligent Control and Information Processing",
     "start": "2025-02-06",
     "end": "2025-02-11",
-    "deadline": "2024-11-01",
+    "deadline": "2024-11-15",
     "city": "Muscat",
     "country": "Oman",
     "link": "https://conference.cs.cityu.edu.hk/icicip/",
@@ -173,7 +173,7 @@
     "name": "International Conference on Simulation, Modeling, and Programming for Autonomous Robots",
     "start": "2025-04-14",
     "end": "2025-04-18",
-    "deadline": "2024-11-01",
+    "deadline": "2024-11-18",
     "city": "Palermo",
     "country": "Italy",
     "link": "https://www.simpar2025.org/",
@@ -284,6 +284,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/oLiG3MeYNCPhnXyZ6",
     "note": "The explosion of real-time data that is emerging from the physical world requires a rapprochement of areas such as machine learning, control theory, and optimization. While control theory has been firmly rooted in the tradition of model-based design, the availability and scale of data (both temporal and spatial) will require rethinking the foundations of our discipline. From a machine learning perspective, one of the main challenges going forward is to go beyond pattern recognition and address problems in data-driven control and optimization of dynamical processes. Our overall goal is to create a new community of people who think rigorously across the disciplines, ask new questions, and develop the foundations of this new scientific area. We are happy to welcome you to the University of Michigan for the 7th annual L4DC."
+  },
+  {
+    "shortName": "CRI",
+    "name": "International Conference on Child-Robot Interaction",
+    "start": "2025-06-18",
+    "end": "2025-06-20",
+    "deadline": "2024-12-15",
+    "city": "Milan",
+    "country": "Italy",
+    "link": "https://cri.unimib.it/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/Q91i3tZYYGhBbLPy9",
+    "note": "We encourage submissions from all disciplines, including (but not limited to) psychology, philosophy, sociology, engineering, education, anthropology, arts and architecture."
   },
   {
     "shortName": "RSS",

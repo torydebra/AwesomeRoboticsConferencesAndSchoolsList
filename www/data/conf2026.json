@@ -26,6 +26,19 @@
     "note": ""
   },
   {
+    "shortName": "EHAPTICS",
+    "name": "Eurohaptics",
+    "start": "2026",
+    "end": "2026",
+    "deadline": "",
+    "city": "Siena",
+    "country": "Italy",
+    "link": "https://eurohaptics.org/ehc2026/",
+    "type": "Conference",
+    "addressLink": "https://g.co/kgs/UqiUpmV",
+    "note": ""
+  },
+  {
     "shortName": "IROS",
     "name": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
     "start": "2026",

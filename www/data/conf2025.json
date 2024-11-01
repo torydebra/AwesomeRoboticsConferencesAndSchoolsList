@@ -260,6 +260,19 @@
     "note": "2025 11th International Conference on Electrical Engineering, Control and Robotics (EECR 2025) will be held in Changzhou, China during April 18-20, 2025, with the supports of Hohai University, China. The goal of this conference is to foster pure and applied researches in recognition of academic and industry, and to encourage interdisciplinary and international collaboration for the participants."
   },
   {
+    "shortName": "ISMR",
+    "name": "International Symposium on Medical Robotics",
+    "start": "2025-05-14",
+    "end": "2025-05-16",
+    "deadline": "2024-11-15",
+    "city": "Atlanta",
+    "country": "USA",
+    "link": "https://ismr.gatech.edu/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/VEF6go5KDGLzKw587",
+    "note": "The goal of ISMR is to bring together world-class researchers to present state-of-the-art research achievements and advances in surgical robotics, image-guided interventions, rehabilitation and assistive robotics, and prosthetics, as well as discuss challenges from the clinical point of view and address industry needs. It is envisioned that medical robots will integrate emerging technologies including soft robotics, smart materials, ergonomics, co-robotics, and artificial intelligence in the near future, and these topics will be featured in the symposium."
+  },
+  {
     "shortName": "CRV",
     "name": "Conference on Robots and Vision",
     "start": "2025-05-26",
@@ -271,6 +284,19 @@
     "type": "Conference",
     "addressLink": "",
     "note": "The Conference on Robots and Vision (previously the Conference on Computer and Robot Vision) is an annual conference hosted in Canada sponsored by the Canadian Image Processing and Pattern Recognition Society (CIPPRS) and will be co-located with the Canadian Artificial Intelligence (AI) conference"
+  },
+  {
+    "shortName": "ERAS",
+    "name": "IEEE International Conference on Engineering Reliable Autonomous Systems",
+    "start": "2025-05-29",
+    "end": "2025-05-30",
+    "deadline": "2025-01-30",
+    "city": "Worcester",
+    "country": "USA",
+    "link": "https://erasrobotics.org/2025/index.html",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/fexoZToKnKjJfkcA7",
+    "note": "ERAS aims to offer a space for all stakeholders across autonomous system reliability to come together to discuss the key progress made towards solving them. The scope of the conference is the aspects of engineering reliable autonomous systems, ranging from systems and software engineering to their verification purpose of this conference, “autonomous systems” is synonymous with “systems that make their own decisions and can take their own actions” and includes everything from autonomous decision-making software running in a virtual environment to teams of autonomous robots operating in a distributed physical environment, everything from simple reactive systems with no planning capability to complex systems incorporating machine learning and reasoning engines. Contributions addressing aspects of reliability across the entire life cycle of the system are welcome."
   },
   {
     "shortName": "L4DC",
@@ -433,13 +459,13 @@
     "name": "IEEE International Conference on Robot and Human Interactive Communication (RO-MAN",
     "start": "2025-08-25",
     "end": "2025-08-29",
-    "deadline": "",
+    "deadline": "2025-03-20",
     "city": "Eindhoven",
     "country": "Netherlands",
     "link": "http://www.ro-man2025.org/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/w9RcYLGyMAPNDmVk8",
+    "note": "While robots become increasingly more able to socially interact with people, it is important to start thinking about how we can shape a future with these robots in which we collaborate and work together with these new team members that are on the horizon. Rather than replacing us, our vision is that robots will complement us. We envision a hybrid intelligence where robots and humans together will be more able, effective, productive, efficient, and fun to work with. To realize a successful integration of these socially interactive robots into our society, we need to invest in a future where human-robot teams could become prevalent. To this end, we need to create a clear vision of this future and create innovations related to interaction models, social capabilities, and the skills of these robots to understand how they can work together with us."
   },
   {
     "shortName": "IROS",

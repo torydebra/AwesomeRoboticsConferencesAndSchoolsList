@@ -1817,6 +1817,19 @@
     "note": "Robotics, Automation, and Artificial Intelligence (RAAI) is an interdisciplinary field that combines robotics, automation, and artificial intelligence technologies. Robotics focuses on designing, constructing, and operating robots, while automation employs technology to reduce the need for human labor. Artificial intelligence involves creating machines capable of performing tasks that typically require human intelligence, such as perception, reasoning, learning, and decision-making."
   },
   {
+    "shortName": "AIIM",
+    "name": "IEEE International Symposium on Artificial Intelligence and Intelligent Manufacturing",
+    "start": "2024-12-20",
+    "end": "2024-12-22",
+    "deadline": "2024-11-28",
+    "city": "Chengdu",
+    "country": "China",
+    "link": "https://www.isaiim.com/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/SfSBAnZBynibug5V9",
+    "note": "The 4th International Symposium on Artificial Intelligence and Intelligent Manufacturing (AIIM 2024) will be held on December 20-22, 2024 in Chengdu, China. The conference will focus on the themes of Artificial Intelligence, Intelligent Manufacturing, Intelligent Control Systems, and Machine Learning. The primary goal of the conference is to promote research and developmental activities in Artificial Intelligence and Intelligent Manufacturing. Another goal is to promote scientific information interchange between researchers, developers, engineers, students, and practitioners worldwide. The conference will be held annually to make it an ideal platform for people to share views and experiences in Artificial Intelligence Intelligent Manufacturing and related areas."
+  },
+  {
     "shortName": "ICAIRC",
     "name": "International Conference on Artificial Intelligence, Robotics, and Communication",
     "start": "2024-12-27",

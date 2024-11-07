@@ -1,5 +1,35 @@
 [
     {
+        "shortName": "EECI-IGS",
+        "name": "EECI-IGS various summer schools",
+        "start": "2024-01-01",
+        "end": "2024-07-07",
+        "deadline": "",
+        "city": "various",
+        "country": "European Union",
+        "link": "http://www.eeci-igsc.eu/",
+        "type": "School",
+        "cost": "€350-€800",
+        "costNote": "academics/industrial early(late) : €350(450)/€600(800). 150€ low education priority countries", 
+        "addressLink": "",
+        "note": ""
+    },
+    {
+        "shortName": "INVICTA",
+        "name": "INVICTA Summer School",
+        "start": "2024-04-07",
+        "end": "2024-07-11",
+        "deadline": "2024-03-24",
+        "city": "Porto",
+        "country": "Portugal",
+        "link": "https://invicta.inesctec.pt/",
+        "type": "School",
+        "cost": "€650-€750",
+        "costNote": "early/regular/late : €650/700/750", 
+        "addressLink": "https://maps.app.goo.gl/scrGbsSxrSLViCnEA",
+        "note": "The INvicta school of VIsion, Computational intelligence, and patTern Analysis - INVICTA - is a school of artificial intelligence, computer vision and pattern analysis organised by the Visual Computing and Machine Intelligence - VCMI - group of the Centre for Telecommunications and Multimedia - CTM - of the INESC TEC. INVICTA will guide you through an unforgettable journey into the development of intelligent systems, where innovation meets tradition in the captivating city of Porto."
+    },
+    {
         "shortName": "AICET",
         "name": "AIDA AI/ML cutting edge trends Symposium and Summer School",
         "start": "2025-07-07",

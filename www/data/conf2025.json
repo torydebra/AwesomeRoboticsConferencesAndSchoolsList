@@ -456,7 +456,7 @@
   },
   {
     "shortName": "ROMAN",
-    "name": "IEEE International Conference on Robot and Human Interactive Communication (RO-MAN",
+    "name": "IEEE International Conference on Robot and Human Interactive Communication",
     "start": "2025-08-25",
     "end": "2025-08-29",
     "deadline": "2025-03-20",
@@ -466,6 +466,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/w9RcYLGyMAPNDmVk8",
     "note": "While robots become increasingly more able to socially interact with people, it is important to start thinking about how we can shape a future with these robots in which we collaborate and work together with these new team members that are on the horizon. Rather than replacing us, our vision is that robots will complement us. We envision a hybrid intelligence where robots and humans together will be more able, effective, productive, efficient, and fun to work with. To realize a successful integration of these socially interactive robots into our society, we need to invest in a future where human-robot teams could become prevalent. To this end, we need to create a clear vision of this future and create innovations related to interaction models, social capabilities, and the skills of these robots to understand how they can work together with us."
+  },
+  {
+    "shortName": "AGRICONTROL",
+    "name": "he 8th IFAC Conference on Sensing, Control and Automation Technologies for Agriculture",
+    "start": "2025-08-27",
+    "end": "2025-08-29",
+    "deadline": "2025-01-31",
+    "city": "Davis, CA",
+    "country": "USA",
+    "link": "https://agricontrol25.sf.ucdavis.edu/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/ik5Vp49q4Dc8TmHH6",
+    "note": "This conference aims to provide an international forum for new methods and developments in sensing, control, and automation research and emerging results in agricultural production and automation. The conference brings together scientists, researchers, and scholars in the domain of interest from around the world to share ideas, techniques, challenges, and concerns with peers and expand their professional networks."
   },
   {
     "shortName": "IROS",

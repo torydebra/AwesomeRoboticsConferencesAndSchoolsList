@@ -481,6 +481,32 @@
     "note": "This conference aims to provide an international forum for new methods and developments in sensing, control, and automation research and emerging results in agricultural production and automation. The conference brings together scientists, researchers, and scholars in the domain of interest from around the world to share ideas, techniques, challenges, and concerns with peers and expand their professional networks."
   },
   {
+    "shortName": "CORL",
+    "name": "Conference on Robot Learning",
+    "start": "2025-09-27",
+    "end": "2025-09-30",
+    "deadline": "",
+    "city": "Seoul",
+    "country": "Korea (South)",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
+    "shortName": "Humanoids",
+    "name": "IEEE-RAS International Conference on Humanoid Robots",
+    "start": "2025-09-30",
+    "end": "2025-10-02",
+    "deadline": "",
+    "city": "Seoul",
+    "country": "Korea (South)",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "IROS",
     "name": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
     "start": "2025-10-19",

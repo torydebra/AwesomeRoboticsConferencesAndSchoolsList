@@ -446,13 +446,13 @@
     "name": "IEEE International Conference on Automation Science and Engineering",
     "start": "2025-08-18",
     "end": "2025-08-22",
-    "deadline": "",
+    "deadline": "2025-03-01",
     "city": "Los Angeles, CA",
     "country": "USA",
     "link": "http://www.case2025.org/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/iuBKu2HiaiFtX2nd7",
+    "note": "The IEEE International Conference on Automation Science and Engineering (CASE) is the flagship automation conference of the IEEE Robotics and Automation Society (RAS) and constitutes the primary forum for cross-industry and multidisciplinary research in automation. Its goal is to provide broad coverage and dissemination of foundational research in automation among researchers and practitioners."
   },
   {
     "shortName": "ROMAN",

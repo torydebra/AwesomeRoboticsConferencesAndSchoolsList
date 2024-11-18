@@ -2,8 +2,8 @@
     {
         "shortName": "EECI-IGS",
         "name": "EECI-IGS various summer schools",
-        "start": "2024-01-01",
-        "end": "2024-07-07",
+        "start": "2025-01-01",
+        "end": "2025-07-07",
         "deadline": "",
         "city": "various",
         "country": "European Union",
@@ -12,14 +12,29 @@
         "cost": "€350-€800",
         "costNote": "academics/industrial early(late) : €350(450)/€600(800). 150€ low education priority countries", 
         "addressLink": "",
-        "note": ""
+        "note": "Check website, schools are many and different"
+    },
+    {
+        "shortName": "RVSS",
+        "name": "Robotic Vision Summer School",
+        "start": "2025-02-03",
+        "end": "2025-02-08",
+        "deadline": "2025-01-15",
+        "city": "Kioloa",
+        "country": "Australia",
+        "link": "https://www.rvss.org.au/",
+        "type": "School",
+        "cost": "$990-$4500",
+        "costNote": "students/industry: AUD 990/4500", 
+        "addressLink": "https://maps.app.goo.gl/Zeq8NhEoAVM2jXHL6",
+        "note": "The Australian Centre for Robotic Vision presents the Robotic Vision Summer School (RVSS), hosted in-person at the Australian National University (ANU) Kioloa coastal campus. The ability to see is the remaining technological roadblock to the ubiquitous deployment of robots into society. RVSS provides a premium venue for graduate students and industry researchers to learn about fundamental and advanced topics in computer vision and robotics. The summer school also provides a unique opportunity to experiment with computer vision algorithms on actual robotic hardware."
     },
     {
         "shortName": "INVICTA",
         "name": "INVICTA Summer School",
-        "start": "2024-04-07",
-        "end": "2024-07-11",
-        "deadline": "2024-03-24",
+        "start": "2025-04-07",
+        "end": "2025-04-11",
+        "deadline": "2025-03-24",
         "city": "Porto",
         "country": "Portugal",
         "link": "https://invicta.inesctec.pt/",
@@ -28,6 +43,21 @@
         "costNote": "early/regular/late : €650/700/750", 
         "addressLink": "https://maps.app.goo.gl/scrGbsSxrSLViCnEA",
         "note": "The INvicta school of VIsion, Computational intelligence, and patTern Analysis - INVICTA - is a school of artificial intelligence, computer vision and pattern analysis organised by the Visual Computing and Machine Intelligence - VCMI - group of the Centre for Telecommunications and Multimedia - CTM - of the INESC TEC. INVICTA will guide you through an unforgettable journey into the development of intelligent systems, where innovation meets tradition in the captivating city of Porto."
+    },
+    {
+        "shortName": "NENGO",
+        "name": "Nengo Summer School",
+        "start": "2025-06-01",
+        "end": "2025-06-13",
+        "deadline": "2025-02-01",
+        "city": "Ontario",
+        "country": "Canada",
+        "link": "https://www.nengo.ai/summer-school/",
+        "type": "School",
+        "cost": "$550-1000",
+        "costNote": "academic/industry: $550/1000", 
+        "addressLink": "https://maps.app.goo.gl/fazAfFEXPhkNWzjh7",
+        "note": "The Centre for Theoretical Neuroscience at the University of Waterloo is excited to announce our 10th annual Nengo summer school on large-scale brain modelling and neuromorphic computing. As a recurring special feature of the school, participants will be given on-site access to neuromorphic hardware, including Stanford’s mixed digital/analog chip Braindrop, the SpiNNaker chip, and a variety of FPGAs."
     },
     {
         "shortName": "AICET",

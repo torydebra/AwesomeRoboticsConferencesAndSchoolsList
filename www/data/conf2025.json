@@ -403,11 +403,24 @@
     "note": "The 2025 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM2025) is set to be held on July 14-18, 2025 in Hangzhou, China, a city famous for its enchanting West Lake, vibrant tech environment, and rich cultural heritage. Serving as a leading conference in the field of intelligent mechatronic systems, AIM 2025 is committed to advancing diversity in the technology industry, promoting a culture of inclusion and equity, and welcoming, engaging, and rewarding all who contribute to the field and will bring together experts and researchers from around the world to exchange views on cutting-edge research outcomes and future developments."
   },
   {
+    "shortName": "IFACMEC",
+    "name": "IFAC Symposium on Mechatronic Systems,",
+    "start": "2025-07-15",
+    "end": "2025-07-18",
+    "deadline": "2024-12-15",
+    "city": "Paris",
+    "country": "France",
+    "link": "https://ifac2025-msrob.com/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/SbVmh4ha6rZsvEdS7",
+    "note": "We are delighted to invite you to the joint Symposia of the 10th IFAC Symposium on Mechatronic Systems (MECHATRONICS 2025) and the newly rebranded 14th IFAC Symposium on Robotics (ROBOTICS 2025), which was previously known as “SYROCO.” Both Symposia will be held in the beautiful city of Paris from July 15 to July 18, 2025, and are triennial events, occurring every three years. We are also delighted that the “2025 IFAC Council & Related meetings” will be in conjunction with the two Symposia in Paris."
+  },
+  {
     "shortName": "ARSO",
     "name": "IEEE International Conference on Advanced Robotics and its Social Impacts",
     "start": "2025-07-17",
     "end": "2025-07-19",
-    "deadline": "",
+    "deadline": "2025-02-28",
     "city": "Osaka",
     "country": "Japan",
     "link": "http://ieee-arso.org/",

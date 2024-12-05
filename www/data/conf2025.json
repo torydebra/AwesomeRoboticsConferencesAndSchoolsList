@@ -468,6 +468,19 @@
     "note": "The IEEE International Conference on Automation Science and Engineering (CASE) is the flagship automation conference of the IEEE Robotics and Automation Society (RAS) and constitutes the primary forum for cross-industry and multidisciplinary research in automation. Its goal is to provide broad coverage and dissemination of foundational research in automation among researchers and practitioners."
   },
   {
+    "shortName": "TAROS",
+    "name": "TAROS Conference",
+    "start": "2025-08-20",
+    "end": "2025-08-22",
+    "deadline": "2025-02-21",
+    "city": "York",
+    "country": "UK",
+    "link": "https://taros-conference.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/EZ4gTYHdAaVjURvX7",
+    "note": "TAROS is the longest-running UK-hosted international conference on robotics and autonomous systems, aimed at the presentation and discussion of the latest results and methods in autonomous robotics research and applications.  In 2025, the RoboStar (robostar.cs.york.ac.uk) centre of excellence on Software Engineering for Robotics, in collaboration with colleagues at the Universities of York and Leeds, are organising TAROS at the University of York, from the 20th to the 22nd of August."
+  },
+  {
     "shortName": "ROMAN",
     "name": "IEEE International Conference on Robot and Human Interactive Communication",
     "start": "2025-08-25",

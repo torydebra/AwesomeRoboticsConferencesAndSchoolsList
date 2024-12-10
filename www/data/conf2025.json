@@ -130,6 +130,19 @@
     "note": ""
   },
   {
+    "shortName": "CIES",
+    "name": "IEEE Symposium on Computational Intelligence in in Engineering/Cyber Physical Systems",
+    "start": "2025-03-17",
+    "end": "2025-03-20",
+    "deadline": "2025-09-17",
+    "city": "Trondheim",
+    "country": "Norway",
+    "link": "https://ieee-ssci.org/?ui=ci-in-engineering-cyber-physical-systems",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/3W7DnSoM811cRKt5A",
+    "note": "This symposium aims to serve as a leading forum for researchers, technologists, and industry experts to exchange ideas, share advancements, and shape the future of this interdisciplinary field. Indeed, the fusion of CI with engineering and CPS is revolutionizing the way we interact with our physical world, making systems smarter, more efficient, and more adaptive. The application of CI and machine learning (ML) in these domains is not just enhancing existing technologies but is also paving the way for novel paradigms in design, operation, and services."
+  },
+  {
     "shortName": "CAIF",
     "name": "OkIP International Conference on Artificial Intelligence Frontiers ",
     "start": "2025-04-01",
@@ -154,19 +167,6 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/Jd87EtEy58E15cwL9",
     "note": ""
-  },
-  {
-    "shortName": "CIES",
-    "name": "IEEE Symposium on Computational Intelligence in in Engineering/Cyber Physical Systems",
-    "start": "2025-03-17",
-    "end": "2025-03-20",
-    "deadline": "2025-09-17",
-    "city": "Trondheim",
-    "country": "Norway",
-    "link": "https://ieee-ssci.org/?ui=ci-in-engineering-cyber-physical-systems",
-    "type": "Conference",
-    "addressLink": "https://maps.app.goo.gl/3W7DnSoM811cRKt5A",
-    "note": "This symposium aims to serve as a leading forum for researchers, technologists, and industry experts to exchange ideas, share advancements, and shape the future of this interdisciplinary field. Indeed, the fusion of CI with engineering and CPS is revolutionizing the way we interact with our physical world, making systems smarter, more efficient, and more adaptive. The application of CI and machine learning (ML) in these domains is not just enhancing existing technologies but is also paving the way for novel paradigms in design, operation, and services."
   },
   {
     "shortName": "SIMPAR",
@@ -219,6 +219,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/6oKWwxrWWLoqZUWz7",
     "note": "SEAMS is a CORE-A ranked conference that applies software engineering methods, techniques, processes, and tools to support the construction of safe, performant, and cost-effective self-adaptive and autonomous systems that provide self-* properties like self-configuration, self-healing, self-optimization, and self-protection. The objective of SEAMS is to bring together researchers and practitioners from academia, industry, and government to investigate, discuss, examine, and advance the fundamental principles, state of the art, and the solutions addressing critical challenges of engineering self-adaptive and self-managing systems."
+  },
+  {
+    "shortName": "CROS",
+    "name": "Brazilian Conference on Robotics",
+    "start": "2025-04-28",
+    "end": "2025-05-30",
+    "deadline": "2024-01-13",
+    "city": "Belo Horizonte",
+    "country": "Brazil",
+    "link": "https://sbrobotica.org/cros2025/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/YfpvjUrq46joAgCC7",
+    "note": "The 1st Conference on Robotics (CROS) is a forum the Brazilian Robotics Society (SBRobotica) promotes. It aims to promote a scientific meeting in the field of robotics. The event will feature plenary talks from recognized experts in the field of robotics and technical sessions with oral and poster presentations of full papers that have been submitted and accepted for the conference. This inaugural edition of CROS will take place in the beautiful city of Belo Horizonte, Minas Gerais, Brazil, from April 28th to 30th, 2025.",
   },
   {
     "shortName": "IAV",

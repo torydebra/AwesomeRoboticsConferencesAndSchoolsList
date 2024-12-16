@@ -325,6 +325,19 @@
     "note": "The explosion of real-time data that is emerging from the physical world requires a rapprochement of areas such as machine learning, control theory, and optimization. While control theory has been firmly rooted in the tradition of model-based design, the availability and scale of data (both temporal and spatial) will require rethinking the foundations of our discipline. From a machine learning perspective, one of the main challenges going forward is to go beyond pattern recognition and address problems in data-driven control and optimization of dynamical processes. Our overall goal is to create a new community of people who think rigorously across the disciplines, ask new questions, and develop the foundations of this new scientific area. We are happy to welcome you to the University of Michigan for the 7th annual L4DC."
   },
   {
+    "shortName": "LION",
+    "name": "The 2025 Learning and Intelligent Optimization Conference",
+    "start": "2025-06-15",
+    "end": "2025-06-19",
+    "deadline": "2025-01-31",
+    "city": "Prague",
+    "country": "Czechia",
+    "link": "https://lion19.org",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/tLvogpma1ei2fvMZ8",
+    "note": "The main purpose of the venue is to bring together experts from these areas to discuss new ideas and methods, challenges and opportunities in various application areas, general trends and specific developments."
+  },
+  {
     "shortName": "CRI",
     "name": "International Conference on Child-Robot Interaction",
     "start": "2025-06-18",
@@ -377,6 +390,19 @@
     "note": "Advances in Robotics (AIR) is a series of biennial conferences organized by The Robotics Society (earlier referred to as the Robotics Society of India). The conference aims to create a forum to present and exchange new ideas by researchers and developers from India and abroad working in the fields of robotics and its applications. The conference would have expert talks, oral and poster presentations, workshops, a doctoral symposium, and special industry-oriented sessions. The organizers of the conference invite unpublished research work in the various fields of Robotics."
   },
   {
+    "shortName": "ICRES",
+    "name": "International Conference on Robot Ethics and Standards",
+    "start": "2025-07-03",
+    "end": "2025-07-04",
+    "deadline": "2025-02-15",
+    "city": "Porto",
+    "country": "Portugal",
+    "link": "hhttps://clawar.org/icres2025/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/DMiyHyZ9PDGrbSDSA",
+    "note": "The International Conference on Robot Ethics and Standards is dedicated to the safe and ethical development of Robotic and AI applications, progressing toward trustworthy intelligent technology."
+  },
+  {
     "shortName": "WHC",
     "name": "IEEE World Haptics Conference",
     "start": "2025-07-08",
@@ -420,7 +446,7 @@
     "name": "IFAC Symposium on Mechatronic Systems,",
     "start": "2025-07-15",
     "end": "2025-07-18",
-    "deadline": "2024-12-15",
+    "deadline": "2025-01-15",
     "city": "Paris",
     "country": "France",
     "link": "https://ifac2025-msrob.com/",
@@ -570,6 +596,19 @@
     "type": "Conference",
     "addressLink": "",
     "note": ""
+  },
+  {
+    "shortName": "CLAWAR",
+    "name": "International Conference on Climbing and Walking Robots and Support Technologies for Mobile Machines",
+    "start": "2025-09-05",
+    "end": "2025-09-07",
+    "deadline": "2025-04-01",
+    "city": "Shenzhen",
+    "country": "China",
+    "link": "https://clawar.org/clawar2025/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/pTLByPfrUKgK9KNQ9",
+    "note": "CLAWAR 2025 is the 28th issue of the International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines. The conference will be organized in collaboration with the Shenzhen Technology University, China, and held within the premises of the university, during 05 – 07 September 2025. The technical programme of CLAWAR 2025 will feature plenary, regular and special/invited sessions. The conference proceedings will be published in the Springer’s Lecture Notes in Networks and Systems series and indexed in Scopus, EI and Web of Science."
   },
   {
     "shortName": "ICDL",

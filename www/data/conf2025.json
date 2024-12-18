@@ -286,6 +286,19 @@
     "note": "The goal of ISMR is to bring together world-class researchers to present state-of-the-art research achievements and advances in surgical robotics, image-guided interventions, rehabilitation and assistive robotics, and prosthetics, as well as discuss challenges from the clinical point of view and address industry needs. It is envisioned that medical robots will integrate emerging technologies including soft robotics, smart materials, ergonomics, co-robotics, and artificial intelligence in the near future, and these topics will be featured in the symposium."
   },
   {
+    "shortName": "ICUAS",
+    "name": "The 2025 International Conference on Unmanned Aircraft Systems",
+    "start": "2025-05-14",
+    "end": "2025-05-17",
+    "deadline": "2025-02-04",
+    "city": "Charlotte",
+    "country": "USA",
+    "link": "https://uasconferences.com/2025_icuas/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": "The 2025 International Conference on Unmanned Aircraft Systems, ICUAS 2025, will take place in Charlotte, NC, USA, on May 14-17. Details about the conference, the technical program, important deadlines, and the social agenda may be found at www.uasconferences.com."
+  },
+  {
     "shortName": "CRV",
     "name": "Conference on Robots and Vision",
     "start": "2025-05-26",
@@ -310,6 +323,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/fexoZToKnKjJfkcA7",
     "note": "ERAS aims to offer a space for all stakeholders across autonomous system reliability to come together to discuss the key progress made towards solving them. The scope of the conference is the aspects of engineering reliable autonomous systems, ranging from systems and software engineering to their verification purpose of this conference, “autonomous systems” is synonymous with “systems that make their own decisions and can take their own actions” and includes everything from autonomous decision-making software running in a virtual environment to teams of autonomous robots operating in a distributed physical environment, everything from simple reactive systems with no planning capability to complex systems incorporating machine learning and reasoning engines. Contributions addressing aspects of reliability across the entire life cycle of the system are welcome."
+  },
+  {
+    "shortName": "RCAR",
+    "name": "The 2025 IEEE International Conference on Real-time Computing and Robotics",
+    "start": "2025-06-01",
+    "end": "2025-06-06",
+    "deadline": "2025-02-15",
+    "city": "Toyama",
+    "country": "Japan",
+    "link": "https://smartconf.jp/content/rcar2025/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/Dj8aNgbMsJE3Tm9M7",
+    "note": "The 2025 IEEE International Conference on Real-time Computing and Robotics (IEEE RCAR 2024) will take place from June 1 to 6, 2025 in Toyama, Japan. The objective of this conference is to provide a forum for researchers in robotics and real-time computing to share the latest results and explore the opportunity of research collaboration. With wide applications of robots in industry and services sectors, real-time computing plays one of the major roles in various topics in robotics including real-time control, human-robot interactions, sensor perception and fusion, robot intelligence, etc. The scope of RCAR 2025 covers research, development and applications in the dynamic and exciting areas of real-time computing and robotics."
   },
   {
     "shortName": "L4DC",

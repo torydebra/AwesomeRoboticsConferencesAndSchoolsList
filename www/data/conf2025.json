@@ -338,6 +338,19 @@
     "note": "The 2025 IEEE International Conference on Real-time Computing and Robotics (IEEE RCAR 2024) will take place from June 1 to 6, 2025 in Toyama, Japan. The objective of this conference is to provide a forum for researchers in robotics and real-time computing to share the latest results and explore the opportunity of research collaboration. With wide applications of robots in industry and services sectors, real-time computing plays one of the major roles in various topics in robotics including real-time control, human-robot interactions, sensor perception and fusion, robot intelligence, etc. The scope of RCAR 2025 covers research, development and applications in the dynamic and exciting areas of real-time computing and robotics."
   },
   {
+    "shortName": "CogSIMA",
+    "name": "The 2025 IEEE Conference on Cognitive and Computational Aspects of Situation Management",
+    "start": "2025-06-02",
+    "end": "2025-06-05",
+    "deadline": "2024-12-20",
+    "city": "Duisburg",
+    "country": "Germany",
+    "link": "https://edas.info/web/cogsima2025/home.html",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/qgyy5s3kedVXubh87",
+    "note": "The 2025 IEEE Conference on Cognitive and Computational Aspects of Situation Management (CogSIMA) will be held at the University of Duisburg-Essen, Campus Duisburg, from June 2 - 5, 2025. CogSIMA 2025 is sponsored by the IEEE Systems, Man, and Cybernetics Society (SMCS) and supported by the IEEE SMCS Technical Committees on Cognitive Situation Management and on Interactive and Wearable Computing and Devices."
+  },
+  {
     "shortName": "L4DC",
     "name": "Annual Learning for Dynamics and Control Conference",
     "start": "2025-06-04",

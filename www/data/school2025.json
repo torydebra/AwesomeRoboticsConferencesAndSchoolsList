@@ -88,5 +88,20 @@
         "costNote": "students/academics/professional early(late) : €598,95(665,50)/686,07(762,30)/794,97(883,30)", 
         "addressLink": "https://maps.app.goo.gl/oWsHhXuNhXr7Do5y9",
         "note": "Following the great success of our previous Summer Schools in 2019, 2020, 2022, 2023 and 2024, we are excited to announce the IEEE RAS Summer School 2025 that will take place on July 30 - August 5, 2025. As in past years, the 2025 IEEE RAS Summer School on Multi-Robot Systems will be held at the campus of Czech Technical University, located in the heart of the beautiful and historic city of Prague. The Summer School aims to promote the latest achievements in Multi-Robot Systems research, targeting students, academic researchers, and industrial practitioners. Our goal is to enable practical application of systems of cooperating robots and to encourage networking among participants. The main focus of the 2025 IEEE RAS Summer School on Multi-Robot Systems includes lectures by well-recognized experts in the field, and hands-on experience which will enable you to engage in real-world experiments using state-of-the-art aerial platforms developed specifically for Multi-Robot research. Join us at the Czech Technical University in Prague to advance your knowledge, share experiences, and explore the cutting-edge developments in Multi-Robot Systems. Stay tuned for further details!"
+    },
+    {
+        "name": "Summer School to Enable Walking Robots for Domestic Environments",
+        "deadline": "2025-05-31",
+        "city": "Karlsruhe",
+        "country": "Germany",
+        "link": "https://www.roboter-im-alltag.org/aktuelles/summer-school-engl/",
+        "type": "School",
+        "shortName": "RimA",
+        "start": "2024-08-11",
+        "end": "2024-08-15",
+        "cost": "free",
+        "costNote": "travel accomodation not included", 
+        "addressLink": "https://maps.app.goo.gl/LcDVz47sds64UaDx5",
+        "note": "The FZI Research Center for Information Technology, in cooperation with Karlsruhe Institute of Technology, will organize a summer school to enable walking robots for domestic environments using 3D mapping, semantics, ML, ROS 2, and behavior trees for unknown and dynamic environments."
     }
 ]

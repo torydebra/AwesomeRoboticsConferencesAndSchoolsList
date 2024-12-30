@@ -412,8 +412,8 @@
     "country": "Italy",
     "link": "http://ias-19.org/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/uL1TorzzaK3uVD3u9",
+    "note": "This edition's motto, ‘Ethical, Responsible, and Inclusive Robotics’, reflects our community's commitment to promoting the design and development of robot technologies that are meant to benefit all humans, and which purposes are to enrich all lives and augment the possibilities for all people."
   },
   {
     "shortName": "AIR",
@@ -440,6 +440,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/DMiyHyZ9PDGrbSDSA",
     "note": "The International Conference on Robot Ethics and Standards is dedicated to the safe and ethical development of Robotic and AI applications, progressing toward trustworthy intelligent technology."
+  },
+  {
+    "shortName": "ISER",
+    "name": "International Symposium on Experimental Robotics",
+    "start": "2025-07-06",
+    "end": "2025-07-10",
+    "deadline": "2025-03-15",
+    "city": "Santa Fe",
+    "country": "USA",
+    "link": "https://iser2025.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/3NpbGV978BRHyPEc8",
+    "note": "ISER 2025 focuses on experimental validation of robotics theory through physical experiments. The symposium encourages innovative robotics research that bridges theoretical advancements with real-world applications, offering a platform for presenting both fundamental and applied work in robotics."
   },
   {
     "shortName": "WHC",

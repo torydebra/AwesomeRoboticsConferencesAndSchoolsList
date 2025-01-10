@@ -75,6 +75,21 @@
         "note": "Artificial Intelligence (AI), and Machine Learning (ML) in particular, advance very rapidly, at  a pace that even specialists have difficulties in following it. Its impact, particularly through Large Language Models and Generative AI affect almost all scientific disciplines. AI has a huge social impact, e.g., on education, labor market, politics and governance.  Given the fast AI evolution, both industry and academia are interested in fast personnel reskilling and upskilling on AI edge technologies. This event, co-organized by International AI Doctoral Academy (AIDA)  and AUTH,  will cater these advanced AI education needs."
     },
     {
+        "shortName": "CCAA",
+        "name": "IEEE RAS Summer School on Cooperative Connected and Autonomous Agents",
+        "start": "2025-07-21",
+        "end": "2025-07-25",
+        "deadline": "",
+        "city": "Bari",
+        "country": "Italy",
+        "link": "https://summer-school-ieeeras2025.poliba.it/about/",
+        "type": "School",
+        "cost": "€400-800",
+        "costNote": "students/academics/professional early(late) : €450(550)/550(650)/700(800)", 
+        "addressLink": "https://maps.app.goo.gl/AkxbX1ERcJUkk7VY9",
+        "note": "The school will be held at the Polytechnic University of Bari, utilizing the equipment available in the laboratory of the Department of Electrical and Information Engineering the Polytechnic. The school will offer a well-balance blend of theory and practice. The attendees will be introduced to the necessary control and system theory, but also to software tools required to implement control, management policies, diagnosis strategies, and simulation approaches for validating and verifying the proposed techniques. For the practical applications and simulations, the school will employ the equipment and software available in the laboratories of the Department of Electrical and Information Engineering of the Polytechnic."
+    },
+    {
         "name": "IEEE RAS Summer School on Multi-robot systems",
         "deadline": "",
         "city": "Prague",

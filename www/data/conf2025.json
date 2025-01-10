@@ -598,6 +598,19 @@
     "note": "This conference aims to provide an international forum for new methods and developments in sensing, control, and automation research and emerging results in agricultural production and automation. The conference brings together scientists, researchers, and scholars in the domain of interest from around the world to share ideas, techniques, challenges, and concerns with peers and expand their professional networks."
   },
   {
+    "shortName": "ECMR",
+    "name": "European Conference on Mobile Robots",
+    "start": "2025-09-02",
+    "end": "2025-09-05",
+    "deadline": "2025-04-17",
+    "city": "Padova",
+    "country": "Italy",
+    "link": "https://ecmr2025.dei.unipd.it",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/EefN3EaScTdakkMG9",
+    "note": "We are excited to invite submissions to the 12th European Conference on Mobile Robots (ECMR 2025). Following a successful journey from Radziejowice to Ancona, Freiburg, Mlini/Dubrovnik, Örebro, Barcelona, Lincoln, Paris, Prague, Bonn, and Coimbra, the next edition will be held in Padova. This time, we will focus on the cognitive capabilities of today’s and tomorrow’s mobile robots, emphasizing cognition, perception, interaction, and AI-enhanced autonomy."
+  },
+  {
     "shortName": "CORL",
     "name": "Conference on Robot Learning",
     "start": "2025-09-27",

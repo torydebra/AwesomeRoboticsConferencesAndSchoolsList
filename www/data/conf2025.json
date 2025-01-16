@@ -186,7 +186,7 @@
     "name": "Robotics in Education",
     "start": "2025-04-23",
     "end": "2025-04-25",
-    "deadline": "2025-01-18",
+    "deadline": "2025-01-31",
     "city": "Thessaloniki",
     "country": "Greece",
     "link": "https://rie.science/2025/index.html",
@@ -298,6 +298,7 @@
     "addressLink": "",
     "note": "The 2025 International Conference on Unmanned Aircraft Systems, ICUAS 2025, will take place in Charlotte, NC, USA, on May 14-17. Details about the conference, the technical program, important deadlines, and the social agenda may be found at www.uasconferences.com."
   },
+
   {
     "shortName": "CRV",
     "name": "Conference on Robots and Vision",
@@ -533,19 +534,6 @@
     "note": ""
   },
   {
-    "shortName": "ERAS",
-    "name": "IEEE Engineering Reliable Autonomous Systems",
-    "start": "2025-05-29",
-    "end": "2025-05-30",
-    "deadline": "2025-01-30",
-    "city": "Worcester",
-    "country": "USA",
-    "link": "http://erasrobotics.org/",
-    "type": "Conference",
-    "addressLink": "https://maps.app.goo.gl/fs8Bc7rrAHznH2Xj8",
-    "note": "A space for all stakeholders across autonomous system reliability to come togther to discuss the key remaining problems and present progress made towards solving them."
-  },
-  {
     "shortName": "CASE",
     "name": "IEEE International Conference on Automation Science and Engineering",
     "start": "2025-08-18",
@@ -583,6 +571,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/w9RcYLGyMAPNDmVk8",
     "note": "While robots become increasingly more able to socially interact with people, it is important to start thinking about how we can shape a future with these robots in which we collaborate and work together with these new team members that are on the horizon. Rather than replacing us, our vision is that robots will complement us. We envision a hybrid intelligence where robots and humans together will be more able, effective, productive, efficient, and fun to work with. To realize a successful integration of these socially interactive robots into our society, we need to invest in a future where human-robot teams could become prevalent. To this end, we need to create a clear vision of this future and create innovations related to interaction models, social capabilities, and the skills of these robots to understand how they can work together with us."
+  },
+  {
+    "shortName": "MAIQS",
+    "name": "International Conference on Measurement, AI, Quality, and Sustainability",
+    "start": "2025-08-26",
+    "end": "2025-08-28",
+    "deadline": "2025-04-15",
+    "city": "London",
+    "country": "UK",
+    "link": "https://maiqs2025.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/S2Kq1SXgLTJUfUBV7",
+    "note": "The 21st century is witnessing a new phase of humanity history characterised by unprecedented crises and rapid technological advancements at the same time, both on a global scale.  The former includes increasingly perilous and widespread conflicts, global health crises, economic inequality and climate change, whilst the latter is driven by smart technology, Industry 4.0 and artificial intelligence.  These global crises are fundamentally linked to issues of quality and sustainability, either directly or indirectly, echoing the prophetic words of quality guru Joseph Juran: The 20th century has been the Century of Productivity, but the 21st century will be the Century of Quality"
   },
   {
     "shortName": "AGRICONTROL",

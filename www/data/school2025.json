@@ -60,6 +60,21 @@
         "note": "The Centre for Theoretical Neuroscience at the University of Waterloo is excited to announce our 10th annual Nengo summer school on large-scale brain modelling and neuromorphic computing. As a recurring special feature of the school, participants will be given on-site access to neuromorphic hardware, including Stanford’s mixed digital/analog chip Braindrop, the SpiNNaker chip, and a variety of FPGAs."
     },
     {
+        "shortName": "ETHRSS",
+        "name": "ETH Robotics Summer School",
+        "start": "2025-06-21",
+        "end": "2025-06-27",
+        "deadline": "2025-03-21",
+        "city": "Geneva",
+        "country": "Switzerland",
+        "link": "https://robotics-summerschool.ethz.ch/",
+        "type": "School",
+        "cost": "CHF 200",
+        "costNote": "meals and accomodation inc.", 
+        "addressLink": "https://maps.app.goo.gl/LfPBMdLzvnUWztNUA",
+        "note": "Robotics has become one of the biggest fields of education and research worldwide. The RobotX initiative at ETH Zurich is committed to provide continued education and training to the young generations of researchers and practitioners. This summer school offers lectures and hands-on tutorials to grasp the fundamental concepts that every roboticist around the world should possess."
+    },
+    {
         "shortName": "AICET",
         "name": "AIDA AI/ML cutting edge trends Symposium and Summer School",
         "start": "2025-07-07",

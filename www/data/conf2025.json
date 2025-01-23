@@ -30,7 +30,7 @@
     "name": "IEEE/SICE International Symposium on System Integration",
     "start": "2025-01-21",
     "end": "2025-01-24",
-    "deadline": "2024-09-31",
+    "deadline": "2024-09-30",
     "city": "Munich",
     "country": "Germany",
     "link": "https://www.sice-si.org/SII2025/",
@@ -295,7 +295,7 @@
     "country": "USA",
     "link": "https://uasconferences.com/2025_icuas/",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/48ABd64VVqXJBnsj9",
     "note": "The 2025 International Conference on Unmanned Aircraft Systems, ICUAS 2025, will take place in Charlotte, NC, USA, on May 14-17. Details about the conference, the technical program, important deadlines, and the social agenda may be found at www.uasconferences.com."
   },
 

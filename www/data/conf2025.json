@@ -290,7 +290,7 @@
     "name": "The 2025 International Conference on Unmanned Aircraft Systems",
     "start": "2025-05-14",
     "end": "2025-05-17",
-    "deadline": "2025-02-04",
+    "deadline": "2025-02-07",
     "city": "Charlotte",
     "country": "USA",
     "link": "https://uasconferences.com/2025_icuas/",
@@ -610,6 +610,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/EefN3EaScTdakkMG9",
     "note": "We are excited to invite submissions to the 12th European Conference on Mobile Robots (ECMR 2025). Following a successful journey from Radziejowice to Ancona, Freiburg, Mlini/Dubrovnik, Örebro, Barcelona, Lincoln, Paris, Prague, Bonn, and Coimbra, the next edition will be held in Padova. This time, we will focus on the cognitive capabilities of today’s and tomorrow’s mobile robots, emphasizing cognition, perception, interaction, and AI-enhanced autonomy."
+  },
+  {
+    "shortName": "ICSR",
+    "name": "International Conference on Social Robotics + AI",
+    "start": "2025-09-10",
+    "end": "2025-09-12",
+    "deadline": "2025-03-28",
+    "city": "Naples",
+    "country": "Italy",
+    "link": "https://icsr2025.eu/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/wx49nGCnmEVfkJ4s8",
+    "note": "The conference theme, Emotivation at the Core: Empowering Social Robots to Inspire and Connect, highlights the essential role of “Emotivation” in social robotics. Emotivation captures the synergy between emotion and motivation, where emotions trigger and sustain motivation during interactions. In social robotics, this concept is key to building trust, fostering empathy, and supporting decision-making by enabling robots to respond sensitively to human emotions, inspiring engagement and action. For this year’s edition, we are excited to introduce several new elements designed to enhance your experience and enrich the discussions."
   },
   {
     "shortName": "CORL",

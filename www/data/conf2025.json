@@ -421,7 +421,7 @@
     "name": "International Conference of The Robotics Society - Advances in Robotics",
     "start": "2025-07-02",
     "end": "2025-07-05",
-    "deadline": "2024-12-15",
+    "deadline": "2024-02-15",
     "city": "Jodhpur",
     "country": "India",
     "link": "https://advancesinrobotics.com/2025/",
@@ -454,6 +454,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/3NpbGV978BRHyPEc8",
     "note": "ISER 2025 focuses on experimental validation of robotics theory through physical experiments. The symposium encourages innovative robotics research that bridges theoretical advancements with real-world applications, offering a platform for presenting both fundamental and applied work in robotics."
+  },
+  {
+    "shortName": "AMAM",
+    "name": "AMAM/LokoAssist Symposium",
+    "start": "2025-07-08",
+    "end": "2025-07-11",
+    "deadline": "2025-02-28",
+    "city": "Darmstadt",
+    "country": "Germany",
+    "link": "https://www.tu-darmstadt.de/lokoassist/home_lokoassist/news_und_events_lokoassist/amam25/amam25.en.jsp",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/9fhstsocC4p2s62U6",
+    "note": "Exploring how animals and humans excel in adaptive movements, particularly locomotion, provides valuable insights for engineers seeking to enhance the adaptive capabilities of robots. In turn, robots serve as scientific tools to investigate the fundamental principles of biological systems, especially the neuromechanical mechanisms behind their remarkable motor abilities. This “adaptive intelligence” can be harnessed to design robots that improve our lives by assisting with locomotion. To comprehensively address the understanding of biological movement, the design of bioinspired robots, and their applications in assisting both humans and animals, we have merged the 12th AMAM symposium with the 2nd LokoAssist symposium, forming the AMAM/LokoAssist 2025 Symposium."
   },
   {
     "shortName": "WHC",

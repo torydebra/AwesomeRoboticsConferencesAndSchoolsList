@@ -136,7 +136,7 @@
     },
     {
         "name": "Summer School to Enable Walking Robots for Domestic Environments",
-        "deadline": "2025-05-31",
+        "deadline": "2025-03-31",
         "city": "Karlsruhe",
         "country": "Germany",
         "link": "https://www.roboter-im-alltag.org/aktuelles/summer-school-engl/",
@@ -178,5 +178,20 @@
         "costNote": "", 
         "addressLink": "",
         "note": "The 2025 Mediterranean Machine Learning (M2L) summer school will be structured around 5 days of keynotes, lectures and practical sessions. The program will include social or cultural activities to foster networking. Participants will be encouraged to (optionally) present their work at poster sessions during the school and to interact with our sponsors and with each other during the coffee breaks throughout the week."
+    },
+    {
+        "shortName": "SIMERO",
+        "name": "Summer School on Singularities of Mechanisms and Robotic Manipulators",
+        "start": "2025-09-15",
+        "end": "2025-09-19",
+        "deadline": "",
+        "city": "Barcelona",
+        "country": "Spain",
+        "link": "https://www.simero.org/",
+        "type": "School",
+        "cost": "€425-525",
+        "costNote": "IFToMM/not early(late) €425(475)/475(525)", 
+        "addressLink": "https://maps.app.goo.gl/chTi8yGzhoj4D3tG8",
+        "note": "The school will offer a good balance of theory and practice. The attendees will be introduced to the mathematical theory needed to cope with singularities, but also to the software tools to compute and visualize them."
     }
 ]

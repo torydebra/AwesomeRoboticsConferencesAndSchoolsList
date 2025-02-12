@@ -668,26 +668,26 @@
     "name": "Conference on Robot Learning",
     "start": "2025-09-27",
     "end": "2025-09-30",
-    "deadline": "",
+    "deadline": "2025-04-28",
     "city": "Seoul",
     "country": "Korea (South)",
-    "link": "",
+    "link": "https://www.corl.org/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/PL9Y8VCkXkAxb5JF9",
+    "note": "The Conference on Robot Learning (CoRL) is a scientific conference where advancements in the intersection of robotics and machine learning are shared and explored. Since its inception in 2017, CoRL has been dedicated to fostering cutting-edge research and innovation across these dynamic fields. Now in its 8th edition, the conference continues to draw a global audience of researchers, practitioners, and industry experts eager to present their findings, discuss challenges, and shape the future of robot learning."
   },
   {
     "shortName": "Humanoids",
     "name": "IEEE-RAS International Conference on Humanoid Robots",
     "start": "2025-09-30",
     "end": "2025-10-02",
-    "deadline": "",
+    "deadline": "2025-05-01",
     "city": "Seoul",
     "country": "Korea (South)",
-    "link": "",
+    "link": "https://2025humanoids.org/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/PL9Y8VCkXkAxb5JF9",
+    "note": "Robotics enthusiasts, ranging from experts in software and hardware to vision and perception, natural language processing, motion, and dexterity, will come together at COEX from September 27 to October 2. Robotics Week, a dedicated event for robotics and AI enthusiasts, will provide a unique opportunity to explore advancements in humanoid robots and machine learning."
   },
   {
     "shortName": "IROS",
@@ -700,7 +700,7 @@
     "link": "http://www.iros25.org/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/b1ANTf3SxaGVt8RHA",
-    "note": ""
+    "note": "IROS is a large and impactful forum for the international robotics research community to explore the frontier of science and technology in intelligent robots and smart machines, emphasizing future directions and the latest approaches, designs, and outcomes. In addition to technical sessions and multi-media presentations, IROS conferences also hold panel discussions, forums, workshops, tutorials, exhibits, and technical tours to enrich the fruitful discussions among conference attendees."
   },
   {
     "shortName": "ROSCON",

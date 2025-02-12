@@ -371,7 +371,7 @@
     "end": "2025-06-19",
     "deadline": "2025-01-31",
     "city": "Prague",
-    "country": "Czechia",
+    "country": "Czech",
     "link": "https://lion19.org",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/tLvogpma1ei2fvMZ8",
@@ -402,6 +402,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/5x32qxErG46f438Y9",
     "note": "RSS has a long history of bringing together researchers in all areas of robotics from around the world for an engaging and focused week of single-track presentations, workshops, poster sessions, and tutorials. This year, as always, we solicit your best work."
+  },
+  {
+    "shortName": "RAMI",
+    "name": "Marine Robots Competition",
+    "start": "2025-06-29",
+    "end": "2025-07-04",
+    "deadline": "2025-04-15",
+    "city": "La Spezia",
+    "country": "Italy",
+    "link": "https://rami2025.tilda.ws/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/hhA7y1KCPE5vaT4U7",
+    "note": "A component of critical undersea infrastructure, used for oil transportation, is to be investigated after suspicious activities, spotted by a drone, have caused a malfunction, as reported by the plant safety systems. From what is known, a pipeline has started leaking and an explosion may occur soon. A robotics team composed of Autonomous Underwater Vehicles (AUVs) and their human operators is ready to intervene."
   },
   {
     "shortName": "IAS",
@@ -509,7 +522,7 @@
   },
   {
     "shortName": "IFACMEC",
-    "name": "IFAC Symposium on Mechatronic Systems,",
+    "name": "IFAC Symposium on Mechatronic Systems",
     "start": "2025-07-15",
     "end": "2025-07-18",
     "deadline": "2025-01-15",
@@ -519,6 +532,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/SbVmh4ha6rZsvEdS7",
     "note": "We are delighted to invite you to the joint Symposia of the 10th IFAC Symposium on Mechatronic Systems (MECHATRONICS 2025) and the newly rebranded 14th IFAC Symposium on Robotics (ROBOTICS 2025), which was previously known as “SYROCO.” Both Symposia will be held in the beautiful city of Paris from July 15 to July 18, 2025, and are triennial events, occurring every three years. We are also delighted that the “2025 IFAC Council & Related meetings” will be in conjunction with the two Symposia in Paris."
+  },
+  {
+    "shortName": "ICBBS",
+    "name": "International Conference on Biomimetics and Biohybrid Systems",
+    "start": "2025-07-15",
+    "end": "2025-07-18",
+    "deadline": "2025-03-30",
+    "city": "Sheffield",
+    "country": "UK",
+    "link": "https://livingmachinesconference.eu/2025/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/HiviNF8oqSL76hnc7",
+    "note": "The development of future real-world technologies will depend strongly on our understanding and harnessing of the principles underlying living systems and the flow of communication signals between living and artificial systems."
   },
   {
     "shortName": "ARSO",

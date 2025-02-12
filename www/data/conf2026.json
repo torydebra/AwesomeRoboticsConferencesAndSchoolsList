@@ -52,6 +52,19 @@
     "note": ""
   },
   {
+    "shortName": "AUV",
+    "name": "IEEE OES AUV",
+    "start": "2026-09-01",
+    "end": "2026-09-03",
+    "deadline": "",
+    "city": "Southampton",
+    "country": "UK",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "EHAPTICS",
     "name": "Eurohaptics",
     "start": "2026",

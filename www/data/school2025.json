@@ -61,7 +61,7 @@
     },
     {
         "shortName": "UKROB",
-        "name": "UK Robotics Summer Schoo",
+        "name": "UK Robotics Summer School",
         "start": "2025-06-02",
         "end": "2025-06-06",
         "deadline": "2025-02-15",
@@ -73,6 +73,21 @@
         "costNote": "academic/industry: £300/600", 
         "addressLink": "https://maps.app.goo.gl/DMcXJG8nfAG1BaVW6",
         "note": "This is a 5 day Summer School from June 2-6 2025, aimed at developing learning, engagement and knowledge exchange within the field of robotics. This school will offer a combination of lectures, tutorials, and industry presentations, focusing on cutting-edge topics in robotics."
+    },
+    {
+        "shortName": "JDL",
+        "name": "A Journey Through Deep Learning",
+        "start": "2025-06-16",
+        "end": "2025-06-20",
+        "deadline": "2025-03-16",
+        "city": "Genova",
+        "country": "Italy",
+        "link": "https://malga.unige.it/education/schools/jdl/",
+        "type": "School",
+        "cost": "€50-300",
+        "costNote": "academic/prof/industry : €50/100/300", 
+        "addressLink": "https://maps.app.goo.gl/vtDujq6oasLBjYvZ7",
+        "note": "A Journey through Deep Learning” is an intensive 40 hours PhD-level school that offers a comprehensive exploration of Deep Learning principles and applications. Organized by the MaLGa Center, this program combines methodological aspects with practical insights into modern frameworks and architectures”. JDL25 is open to students, postdocs, faculty members and professionals, upon selection."
     },
     {
         "shortName": "ETHRSS",

@@ -273,6 +273,32 @@
     "note": "2025 11th International Conference on Electrical Engineering, Control and Robotics (EECR 2025) will be held in Changzhou, China during April 18-20, 2025, with the supports of Hohai University, China. The goal of this conference is to foster pure and applied researches in recognition of academic and industry, and to encourage interdisciplinary and international collaboration for the participants."
   },
   {
+    "shortName": "AISTANDARD",
+    "name": "AI Standardization and Quality Assurance",
+    "start": "2025-05-05",
+    "end": "2025-05-07",
+    "deadline": "2024-03-10",
+    "city": "Santa Clara",
+    "country": "USA",
+    "link": "https://ieeeaiindustrystandard.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/2aRARBvPEeTpeXVT7",
+    "note": "Fast advances in AI technologies and evolutionary machine learning bring a strong demand for AI standards and quality assurance control systems to ensure the high-quality of deployed AI systems in terms of trustworthy, safety, and security."
+  },
+  {
+    "shortName": "CAI",
+    "name": "IEEE Conference on Artificial Intelligence",
+    "start": "2025-05-05",
+    "end": "2025-05-07",
+    "deadline": "2024-01-25",
+    "city": "Santa Clara",
+    "country": "USA",
+    "link": "https://cai.ieee.org/2025/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/2aRARBvPEeTpeXVT7",
+    "note": "The IEEE Conference on Artificial Intelligence (IEEE CAI) is an international conference and exhibition with an emphasis on the applications of AI and key AI verticals that impact industrial technology applications and innovations. You will learn about new research and breakthroughs in the industry, gain insight into new start-ups and leading AI companies, grow your network, and get inspired by the brightest minds working in the multi-faceted fields. Plan now to attend this highly anticipated spectacular event, taking place May 5-7, 2025 in Santa Clara, CA."
+  },
+  {
     "shortName": "ISMR",
     "name": "International Symposium on Medical Robotics",
     "start": "2025-05-14",
@@ -330,7 +356,7 @@
     "name": "The 2025 IEEE International Conference on Real-time Computing and Robotics",
     "start": "2025-06-01",
     "end": "2025-06-06",
-    "deadline": "2025-02-15",
+    "deadline": "2025-03-10",
     "city": "Toyama",
     "country": "Japan",
     "link": "https://smartconf.jp/content/rcar2025/",

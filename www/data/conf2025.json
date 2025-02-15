@@ -91,6 +91,32 @@
     "note": "The conference aims to promote research and networking among academic institutes, R&D institutions, industries and other organisations. The conference is a major step towards the continuous efforts of the IEEE Madhya Pradesh Section towards the promotion of technical acumen and networking within the region. The conference invites papers from authors worldwide, while geographically all editions of the conference would be held within the Madhya Pradesh region"
   },
   {
+    "shortName": "ICCAE",
+    "name": "17th International Conference on Computer and Automation Engineering",
+    "start": "2025-03-20",
+    "end": "2025-03-22",
+    "deadline": "2025-01-31",
+    "city": "Perth",
+    "country": "Australia",
+    "link": "http://www.iccae.org",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/uKiZdsrktj3xWP3aA",
+    "note": ""
+  },
+  {
+    "shortName": "ICAACE",
+    "name": "8th International Conference on Advanced Algorithms and Control Engineering",
+    "start": "2025-03-21",
+    "end": "2025-03-23",
+    "deadline": "",
+    "city": "Shanghai",
+    "country": "China",
+    "link": "http://www.icaace.net/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/nURjWTWnquuN5Ku46",
+    "note": ""
+  },
+  {
     "shortName": "HRI",
     "name": "ACM/IEEE International Conference on Human-Robot Interaction",
     "start": "2025-03-04",
@@ -141,6 +167,45 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/3W7DnSoM811cRKt5A",
     "note": "This symposium aims to serve as a leading forum for researchers, technologists, and industry experts to exchange ideas, share advancements, and shape the future of this interdisciplinary field. Indeed, the fusion of CI with engineering and CPS is revolutionizing the way we interact with our physical world, making systems smarter, more efficient, and more adaptive. The application of CI and machine learning (ML) in these domains is not just enhancing existing technologies but is also paving the way for novel paradigms in design, operation, and services."
+  },
+  {
+    "shortName": "ICARSC",
+    "name": "IEEE International Conference on Autonomous Robot Systems and Competitions",
+    "start": "2025-04-02",
+    "end": "2025-04-03",
+    "deadline": "2025-01-26",
+    "city": "Funchal",
+    "country": "Portugal",
+    "link": "http://icarsc.pt/2025",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/f9oPutQtviadUjmQ9",
+    "note": "he conference will take place at the University of Madeira at Madeira Island on April 2nd and 3rd, 2025, in conjunction with the Portuguese Robotics Open, a RoboCup-sponsored Local Event with several other associated competitions. Its scope encompasses, but is not limited to, the fields of Artificial Intelligence, Robotics and Education. The conference is planned for physical participation."
+  },
+  {
+    "shortName": "AIRC",
+    "name": "6th International Conference on Artificial Intelligence, Robotics and Control",
+    "start": "2025-04-09",
+    "end": "2025-04-11",
+    "deadline": "2025-02-25",
+    "city": "Savannah, GA",
+    "country": "USA",
+    "link": "http://www.airc.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/Arp2Us77yE9iiEBY7",
+    "note": "AIRC 2025 aims to serve as a vibrant forum for scholars, researchers, and engineers to present groundbreaking research, share innovative ideas, and foster meaningful collaborations. We cordially encourage you to contribute your latest research to AIRC 2025. This is more than just an academic conference; it's an opportunity to engage with leading experts, strengthen interdisciplinary collaborations."
+  },
+  {
+    "shortName": "ICCRT",
+    "name": "3rd International Conference on Control and Robot Technology",
+    "start": "2025-04-16",
+    "end": "2025-04-18",
+    "deadline": "2025-02-20",
+    "city": "Singapore",
+    "country": "Singapore",
+    "link": "http://www.iccrt.org/index.html",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/1NMDcBiFprfFkYVi9",
+    "note": "The main theme of the conference is to address and deliberate on the latest technical status and recent trends in the research and applications of machine learning technologies. The purpose of the conference is to provide an opportunity for the scientists, engineers, industrialists, scholars and other professionals from all over the world to interact and exchange their new ideas and research outcomes in related fields and develop possible chances for future collaboration. The conference is also aimed at motivating the next generation of researchers to promote their interests in control and Robot technology."
   },
   {
     "shortName": "CAIF",
@@ -234,6 +299,58 @@
     "note": "The 1st Conference on Robotics (CROS) is a forum the Brazilian Robotics Society (SBRobotica) promotes. It aims to promote a scientific meeting in the field of robotics. The event will feature plenary talks from recognized experts in the field of robotics and technical sessions with oral and poster presentations of full papers that have been submitted and accepted for the conference. This inaugural edition of CROS will take place in the beautiful city of Belo Horizonte, Minas Gerais, Brazil, from April 28th to 30th, 2025."
   },
   {
+    "shortName": "ICCRE",
+    "name": "10th International Conference on Control and Robotics Engineering",
+    "start": "2025-05-09",
+    "end": "2025-05-11",
+    "deadline": "2025-01-20",
+    "city": "Nagoya",
+    "country": "Japan",
+    "link": "http://www.iccre.org",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/XZ2EGWr3sNdCsGa17",
+    "note": ""
+  },
+  {
+    "shortName": "ICORR",
+    "name": "International Conference On Rehabilitation Robotics",
+    "start": "2025-05-12",
+    "end": "2025-05-17",
+    "deadline": "2024-12-06",
+    "city": "Chicago",
+    "country": "USA",
+    "link": "http://rehabweek.org/icorr",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/4tCtbDtfjw9qbPbi6",
+    "note": ""
+  },
+  {
+    "shortName": "ICCCR",
+    "name": "5th International Conference on Computer, Control and Robotics",
+    "start": "2025-05-16",
+    "end": "2025-05-18",
+    "deadline": "2025-03-30",
+    "city": "Hangzhou",
+    "country": "China",
+    "link": "http://www.icccr.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/2a5yRbvY5XEFtr3c9",
+    "note": ""
+  },
+  {
+    "shortName": "ICICR",
+    "name": "2nd International Conference on Intelligent Computing and Robotics",
+    "start": "2025-05-16",
+    "end": "2025-05-18",
+    "deadline": "2025-02-28",
+    "city": "Dalian",
+    "country": "China",
+    "link": "http://www.icrconf.com/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/Jd25oUSNhzrnmq7E8",
+    "note": ""
+  },
+  {
     "shortName": "IAV",
     "name": "IFAC Symposium on Intelligent Autonomous Vehicles",
     "start": "2025-05-07",
@@ -324,7 +441,6 @@
     "addressLink": "https://maps.app.goo.gl/48ABd64VVqXJBnsj9",
     "note": "The 2025 International Conference on Unmanned Aircraft Systems, ICUAS 2025, will take place in Charlotte, NC, USA, on May 14-17. Details about the conference, the technical program, important deadlines, and the social agenda may be found at www.uasconferences.com."
   },
-
   {
     "shortName": "CRV",
     "name": "Conference on Robots and Vision",
@@ -349,7 +465,7 @@
     "link": "https://erasrobotics.org/2025/index.html",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/fexoZToKnKjJfkcA7",
-    "note": "ERAS aims to offer a space for all stakeholders across autonomous system reliability to come together to discuss the key progress made towards solving them. The scope of the conference is the aspects of engineering reliable autonomous systems, ranging from systems and software engineering to their verification purpose of this conference, “autonomous systems” is synonymous with “systems that make their own decisions and can take their own actions” and includes everything from autonomous decision-making software running in a virtual environment to teams of autonomous robots operating in a distributed physical environment, everything from simple reactive systems with no planning capability to complex systems incorporating machine learning and reasoning engines. Contributions addressing aspects of reliability across the entire life cycle of the system are welcome."
+    "note": "ERAS aims to offer a space for all stakeholders across autonomous system reliability to come together to discuss the key progress made towards solving them. The scope of the conference is the aspects of engineering reliable autonomous systems, ranging from systems and software engineering to their verification purpose of this conference, \u201cautonomous systems\u201d is synonymous with \u201csystems that make their own decisions and can take their own actions\u201d and includes everything from autonomous decision-making software running in a virtual environment to teams of autonomous robots operating in a distributed physical environment, everything from simple reactive systems with no planning capability to complex systems incorporating machine learning and reasoning engines. Contributions addressing aspects of reliability across the entire life cycle of the system are welcome."
   },
   {
     "shortName": "RCAR",
@@ -417,6 +533,19 @@
     "note": "We encourage submissions from all disciplines, including (but not limited to) psychology, philosophy, sociology, engineering, education, anthropology, arts and architecture."
   },
   {
+    "shortName": "ICRAS",
+    "name": "9th International Conference on Robotics and Automation Sciences",
+    "start": "2025-06-27",
+    "end": "2025-06-29",
+    "deadline": "2025-03-15",
+    "city": "Osaka",
+    "country": "Japan",
+    "link": "http://www.icras.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/oYcm4qNfm8q9P3qQ8",
+    "note": ""
+  },
+  {
     "shortName": "RSS",
     "name": "Robotics: Science and Systems",
     "start": "2025-06-21",
@@ -428,6 +557,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/5x32qxErG46f438Y9",
     "note": "RSS has a long history of bringing together researchers in all areas of robotics from around the world for an engaging and focused week of single-track presentations, workshops, poster sessions, and tutorials. This year, as always, we solicit your best work."
+  },
+  {
+    "shortName": "UR",
+    "name": "22nd International Conference on Ubiquitous Robots",
+    "start": "2025-06-30",
+    "end": "2025-07-02",
+    "deadline": "2025-02-28",
+    "city": "College Station, TX",
+    "country": "USA",
+    "link": "http://2025.ubiquitousrobots.org",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/MK1zz35AyuEqoRG4A",
+    "note": "Since its inception in 2004, UR has grown into a prominent mid-size robotics conference, uniting researchers from around the globe who share the vision of integrating robots into everyday life to connect and empower humanity. As robotics stands at the crossroads of multiple disciplines, UR 2025 welcomes contributions from across the foundational spectrum-design, perception, manipulation, mobility, interface, and intelligence- as well as various application domains, including healthcare, security, defense, disaster response, agriculture, construction, manufacturing, and more."
   },
   {
     "shortName": "RAMI",
@@ -453,7 +595,7 @@
     "link": "http://ias-19.org/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/uL1TorzzaK3uVD3u9",
-    "note": "This edition's motto, ‘Ethical, Responsible, and Inclusive Robotics’, reflects our community's commitment to promoting the design and development of robot technologies that are meant to benefit all humans, and which purposes are to enrich all lives and augment the possibilities for all people."
+    "note": "This edition's motto, \u2018Ethical, Responsible, and Inclusive Robotics\u2019, reflects our community's commitment to promoting the design and development of robot technologies that are meant to benefit all humans, and which purposes are to enrich all lives and augment the possibilities for all people."
   },
   {
     "shortName": "AIR",
@@ -505,7 +647,7 @@
     "link": "https://www.tu-darmstadt.de/lokoassist/home_lokoassist/news_und_events_lokoassist/amam25/amam25.en.jsp",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/9fhstsocC4p2s62U6",
-    "note": "Exploring how animals and humans excel in adaptive movements, particularly locomotion, provides valuable insights for engineers seeking to enhance the adaptive capabilities of robots. In turn, robots serve as scientific tools to investigate the fundamental principles of biological systems, especially the neuromechanical mechanisms behind their remarkable motor abilities. This “adaptive intelligence” can be harnessed to design robots that improve our lives by assisting with locomotion. To comprehensively address the understanding of biological movement, the design of bioinspired robots, and their applications in assisting both humans and animals, we have merged the 12th AMAM symposium with the 2nd LokoAssist symposium, forming the AMAM/LokoAssist 2025 Symposium."
+    "note": "Exploring how animals and humans excel in adaptive movements, particularly locomotion, provides valuable insights for engineers seeking to enhance the adaptive capabilities of robots. In turn, robots serve as scientific tools to investigate the fundamental principles of biological systems, especially the neuromechanical mechanisms behind their remarkable motor abilities. This \u201cadaptive intelligence\u201d can be harnessed to design robots that improve our lives by assisting with locomotion. To comprehensively address the understanding of biological movement, the design of bioinspired robots, and their applications in assisting both humans and animals, we have merged the 12th AMAM symposium with the 2nd LokoAssist symposium, forming the AMAM/LokoAssist 2025 Symposium."
   },
   {
     "shortName": "WHC",
@@ -534,6 +676,19 @@
     "note": "The first six conferences of this series successfully established a worldwide forum for research on cable-driven parallel robots. From Stuttgart, Duisburg, Quebec City, Krakow and Montpellier (online), Nantes, the next edition of the conference will be in Hong Kong on 8-11 July 2025. CableCon2025 aims at presenting new results, continuing the forum for the exchange of ideas, and establishing contacts amongst all international teams, for academics, researchers and industry."
   },
   {
+    "shortName": "CoDIT",
+    "name": "11th International Conference on Control, Decision and Information Technologies",
+    "start": "2025-07-15",
+    "end": "2025-07-18",
+    "deadline": "2025-03-07",
+    "city": "Split",
+    "country": "Croatia",
+    "link": "http://codit2025.org",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/CuGf4erKXLM2Pd839",
+    "note": ""
+  },
+  {
     "shortName": "AIM",
     "name": "IEEE/ASME International Conference on Advanced Intelligent Mechatronics",
     "start": "2025-07-14",
@@ -557,7 +712,20 @@
     "link": "https://ifac2025-msrob.com/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/SbVmh4ha6rZsvEdS7",
-    "note": "We are delighted to invite you to the joint Symposia of the 10th IFAC Symposium on Mechatronic Systems (MECHATRONICS 2025) and the newly rebranded 14th IFAC Symposium on Robotics (ROBOTICS 2025), which was previously known as “SYROCO.” Both Symposia will be held in the beautiful city of Paris from July 15 to July 18, 2025, and are triennial events, occurring every three years. We are also delighted that the “2025 IFAC Council & Related meetings” will be in conjunction with the two Symposia in Paris."
+    "note": "We are delighted to invite you to the joint Symposia of the 10th IFAC Symposium on Mechatronic Systems (MECHATRONICS 2025) and the newly rebranded 14th IFAC Symposium on Robotics (ROBOTICS 2025), which was previously known as \u201cSYROCO.\u201d Both Symposia will be held in the beautiful city of Paris from July 15 to July 18, 2025, and are triennial events, occurring every three years. We are also delighted that the \u201c2025 IFAC Council & Related meetings\u201d will be in conjunction with the two Symposia in Paris."
+  },
+  {
+    "shortName": "CACRE",
+    "name": "10th International Conference on Automation, Control and Robotics Engineering",
+    "start": "2025-07-16",
+    "end": "2025-07-19",
+    "deadline": "",
+    "city": "Wuxi",
+    "country": "China",
+    "link": "http://cacre.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   },
   {
     "shortName": "ICBBS",
@@ -571,6 +739,58 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/HiviNF8oqSL76hnc7",
     "note": "The development of future real-world technologies will depend strongly on our understanding and harnessing of the principles underlying living systems and the flow of communication signals between living and artificial systems."
+  },
+  {
+    "shortName": "MVA",
+    "name": "19th International Conference on Machine Vision and Applications",
+    "start": "2025-07-25",
+    "end": "2025-07-28",
+    "deadline": "2025-03-31",
+    "city": "Kyoto",
+    "country": "Japan",
+    "link": "https://mva-org.jp/mva2025/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/56xNJZjhkLGiBGbc8",
+    "note": ""
+  },
+  {
+    "shortName": "ICMAEA",
+    "name": "International Conference on Mechanical Automation and Engineering Applications",
+    "start": "2025-08-01",
+    "end": "2025-08-03",
+    "deadline": "2025-04-10",
+    "city": "Chongqing",
+    "country": "China",
+    "link": "http://www.icmaea.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/ByqQ24q5apvsWdpBA",
+    "note": ""
+  },
+  {
+    "shortName": "ICARM",
+    "name": "International Conference on Advanced Robotics and Mechatronics",
+    "start": "2025-08-01",
+    "end": "2025-08-03",
+    "deadline": "2025-02-28",
+    "city": "Portsmouth",
+    "country": "United Kingdom",
+    "link": "http://www.ieee-arm.org",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
+    "shortName": "ICMA",
+    "name": "IEEE International Conference on Mechatronics and Automation",
+    "start": "2025-08-03",
+    "end": "2025-08-06",
+    "deadline": "2025-04-10",
+    "city": "Beijing",
+    "country": "China",
+    "link": "http://2025.ieee-icma.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/zo8xWmLdP1xsmtfj7",
+    "note": ""
   },
   {
     "shortName": "ARSO",
@@ -674,7 +894,7 @@
     "link": "https://ecmr2025.dei.unipd.it",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/EefN3EaScTdakkMG9",
-    "note": "We are excited to invite submissions to the 12th European Conference on Mobile Robots (ECMR 2025). Following a successful journey from Radziejowice to Ancona, Freiburg, Mlini/Dubrovnik, Örebro, Barcelona, Lincoln, Paris, Prague, Bonn, and Coimbra, the next edition will be held in Padova. This time, we will focus on the cognitive capabilities of today’s and tomorrow’s mobile robots, emphasizing cognition, perception, interaction, and AI-enhanced autonomy."
+    "note": "We are excited to invite submissions to the 12th European Conference on Mobile Robots (ECMR 2025). Following a successful journey from Radziejowice to Ancona, Freiburg, Mlini/Dubrovnik, \u00d6rebro, Barcelona, Lincoln, Paris, Prague, Bonn, and Coimbra, the next edition will be held in Padova. This time, we will focus on the cognitive capabilities of today\u2019s and tomorrow\u2019s mobile robots, emphasizing cognition, perception, interaction, and AI-enhanced autonomy."
   },
   {
     "shortName": "ICSR",
@@ -687,7 +907,7 @@
     "link": "https://icsr2025.eu/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/wx49nGCnmEVfkJ4s8",
-    "note": "The conference theme, Emotivation at the Core: Empowering Social Robots to Inspire and Connect, highlights the essential role of “Emotivation” in social robotics. Emotivation captures the synergy between emotion and motivation, where emotions trigger and sustain motivation during interactions. In social robotics, this concept is key to building trust, fostering empathy, and supporting decision-making by enabling robots to respond sensitively to human emotions, inspiring engagement and action. For this year’s edition, we are excited to introduce several new elements designed to enhance your experience and enrich the discussions."
+    "note": "The conference theme, Emotivation at the Core: Empowering Social Robots to Inspire and Connect, highlights the essential role of \u201cEmotivation\u201d in social robotics. Emotivation captures the synergy between emotion and motivation, where emotions trigger and sustain motivation during interactions. In social robotics, this concept is key to building trust, fostering empathy, and supporting decision-making by enabling robots to respond sensitively to human emotions, inspiring engagement and action. For this year\u2019s edition, we are excited to introduce several new elements designed to enhance your experience and enrich the discussions."
   },
   {
     "shortName": "CORL",
@@ -752,7 +972,7 @@
     "link": "https://clawar.org/clawar2025/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/pTLByPfrUKgK9KNQ9",
-    "note": "CLAWAR 2025 is the 28th issue of the International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines. The conference will be organized in collaboration with the Shenzhen Technology University, China, and held within the premises of the university, during 05 – 07 September 2025. The technical programme of CLAWAR 2025 will feature plenary, regular and special/invited sessions. The conference proceedings will be published in the Springer’s Lecture Notes in Networks and Systems series and indexed in Scopus, EI and Web of Science."
+    "note": "CLAWAR 2025 is the 28th issue of the International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines. The conference will be organized in collaboration with the Shenzhen Technology University, China, and held within the premises of the university, during 05 \u2013 07 September 2025. The technical programme of CLAWAR 2025 will feature plenary, regular and special/invited sessions. The conference proceedings will be published in the Springer\u2019s Lecture Notes in Networks and Systems series and indexed in Scopus, EI and Web of Science."
   },
   {
     "shortName": "ICDL",

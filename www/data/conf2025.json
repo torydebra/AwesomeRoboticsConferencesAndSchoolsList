@@ -858,6 +858,32 @@
     "note": "While robots become increasingly more able to socially interact with people, it is important to start thinking about how we can shape a future with these robots in which we collaborate and work together with these new team members that are on the horizon. Rather than replacing us, our vision is that robots will complement us. We envision a hybrid intelligence where robots and humans together will be more able, effective, productive, efficient, and fun to work with. To realize a successful integration of these socially interactive robots into our society, we need to invest in a future where human-robot teams could become prevalent. To this end, we need to create a clear vision of this future and create innovations related to interaction models, social capabilities, and the skills of these robots to understand how they can work together with us."
   },
   {
+    "shortName": "MMAR",
+    "name": "29th International Conference on Methods and Models in Automation and Robotics",
+    "start": "2025-08-26",
+    "end": "2025-08-29",
+    "deadline": "2025-03-03",
+    "city": "Miedzyzdroje",
+    "country": "Poland",
+    "link": "http://www.mmar.edu.pl",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/GcA8PNbheKBH4bVZ9",
+    "note": ""
+  },
+  {
+    "shortName": "ICAC",
+    "name": "30th International Conference on Automation and Computing",
+    "start": "2025-08-27",
+    "end": "2025-08-29",
+    "deadline": "2025-03-31",
+    "city": "Loughborough",
+    "country": "United Kingdom",
+    "link": "https://cacsuk.co.uk/icac/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/6bG14aZNNHNocmjq9",
+    "note": ""
+  },
+  {
     "shortName": "MAIQS",
     "name": "International Conference on Measurement, AI, Quality, and Sustainability",
     "start": "2025-08-26",
@@ -869,6 +895,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/S2Kq1SXgLTJUfUBV7",
     "note": "The 21st century is witnessing a new phase of humanity history characterised by unprecedented crises and rapid technological advancements at the same time, both on a global scale.  The former includes increasingly perilous and widespread conflicts, global health crises, economic inequality and climate change, whilst the latter is driven by smart technology, Industry 4.0 and artificial intelligence.  These global crises are fundamentally linked to issues of quality and sustainability, either directly or indirectly, echoing the prophetic words of quality guru Joseph Juran: The 20th century has been the Century of Productivity, but the 21st century will be the Century of Quality"
+  },
+  {
+    "shortName": "ICIA",
+    "name": "International Conference on Information and Automation",
+    "start": "2025-08-28",
+    "end": "2025-08-31",
+    "deadline": "",
+    "city": "Lanzhou",
+    "country": "China",
+    "link": "http://www.icia2025.org",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/iyyzSCuCayvmg6e27",
+    "note": ""
   },
   {
     "shortName": "AGRICONTROL",
@@ -910,6 +949,19 @@
     "note": "The conference theme, Emotivation at the Core: Empowering Social Robots to Inspire and Connect, highlights the essential role of \u201cEmotivation\u201d in social robotics. Emotivation captures the synergy between emotion and motivation, where emotions trigger and sustain motivation during interactions. In social robotics, this concept is key to building trust, fostering empathy, and supporting decision-making by enabling robots to respond sensitively to human emotions, inspiring engagement and action. For this year\u2019s edition, we are excited to introduce several new elements designed to enhance your experience and enrich the discussions."
   },
   {
+    "shortName": "ICDL",
+    "name": "IEEE International Conference on Development and Learning",
+    "start": "2025-09-16",
+    "end": "2025-09-19",
+    "deadline": "2025-03-14",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "link": "http://icdl2025.fel.cvut.cz/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/Ve126cAFYy92AsW38",
+    "note": "The IEEE International Conference on Development and Learning (ICDL) conference is a unique meeting gathering researchers from computer science, robotics, psychology, neuroscience, and other disciplines to share and discuss research on how humans and other animals learn and develop and how this can inform and be informed by robotics and machine learning systems."
+  },
+  {
     "shortName": "CORL",
     "name": "Conference on Robot Learning",
     "start": "2025-09-27",
@@ -936,6 +988,19 @@
     "note": "Robotics enthusiasts, ranging from experts in software and hardware to vision and perception, natural language processing, motion, and dexterity, will come together at COEX from September 27 to October 2. Robotics Week, a dedicated event for robotics and AI enthusiasts, will provide a unique opportunity to explore advancements in humanoid robots and machine learning."
   },
   {
+    "shortName": "CBS",
+    "name": "IEEE International Conference on Cyborg and Bionic Systems",
+    "start": "2025-10-17",
+    "end": "2025-10-19",
+    "deadline": "",
+    "city": "Beijing",
+    "country": "China",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "IROS",
     "name": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
     "start": "2025-10-19",
@@ -947,6 +1012,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/b1ANTf3SxaGVt8RHA",
     "note": "IROS is a large and impactful forum for the international robotics research community to explore the frontier of science and technology in intelligent robots and smart machines, emphasizing future directions and the latest approaches, designs, and outcomes. In addition to technical sessions and multi-media presentations, IROS conferences also hold panel discussions, forums, workshops, tutorials, exhibits, and technical tours to enrich the fruitful discussions among conference attendees."
+  },
+  {
+    "shortName": "RCAE",
+    "name": "8th International Conference on Robotics, Control and Automation Engineering",
+    "start": "2025-10-24",
+    "end": "2025-10-26",
+    "deadline": "2025-06-10",
+    "city": "Xi'an",
+    "country": "China",
+    "link": "http://www.rcae.net/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   },
   {
     "shortName": "ROSCON",
@@ -975,16 +1053,29 @@
     "note": "CLAWAR 2025 is the 28th issue of the International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines. The conference will be organized in collaboration with the Shenzhen Technology University, China, and held within the premises of the university, during 05 \u2013 07 September 2025. The technical programme of CLAWAR 2025 will feature plenary, regular and special/invited sessions. The conference proceedings will be published in the Springer\u2019s Lecture Notes in Networks and Systems series and indexed in Scopus, EI and Web of Science."
   },
   {
-    "shortName": "ICDL",
-    "name": "IEEE International Conference on Development and Learning",
-    "start": "2025-09-16",
-    "end": "2025-09-19",
-    "deadline": "2025-03-14",
-    "city": "Prague",
-    "country": "Czech Republic",
-    "link": "http://icdl2025.fel.cvut.cz/",
+    "shortName": "ICCAS",
+    "name": "25th International Conference on Control, Automation and Systems",
+    "start": "2025-11-04",
+    "end": "2025-11-07",
+    "deadline": "2025-05-31",
+    "city": "Incheon",
+    "country": "Korea (South)",
+    "link": "http://2025.iccas.org",
     "type": "Conference",
-    "addressLink": "https://maps.app.goo.gl/Ve126cAFYy92AsW38",
-    "note": "The IEEE International Conference on Development and Learning (ICDL) conference is a unique meeting gathering researchers from computer science, robotics, psychology, neuroscience, and other disciplines to share and discuss research on how humans and other animals learn and develop and how this can inform and be informed by robotics and machine learning systems."
+    "addressLink": "https://maps.app.goo.gl/jSUyAU1jeziMpkCB9",
+    "note": ""
+  },
+  {
+    "shortName": "MRS",
+    "name": "IEEE International Symposium on Multi-Robot and Multi-Agent Systems",
+    "start": "2025-12-04",
+    "end": "2025-12-05",
+    "deadline": "",
+    "city": "Singapore",
+    "country": "Singapore",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   }
 ]

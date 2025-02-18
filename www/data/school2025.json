@@ -180,6 +180,21 @@
         "note": ""
     },
     {
+        "shortName": "MRSS",
+        "name": "Montreal Robotics Summer School",
+        "start": "2025-08-10",
+        "end": "2025-08-15",
+        "deadline": "2025-02-28",
+        "city": "Montreal",
+        "country": "Canada",
+        "link": "https://fracturedplane.notion.site/Montreal-Robotics-Summer-School-2025-195214857276801f9737eaf741c533a7",
+        "type": "School",
+        "cost": "free",
+        "costNote": "Food, travel and lodging is covered", 
+        "addressLink": "https://maps.app.goo.gl/PH65qNybSpRKVDTT9",
+        "note": "1 day of activity and 5 days of intensive training, combining theory, skills training and application around the themes of Robotics and AI"
+    },
+    {
         "shortName": "M2L",
         "name": "Mediterranean Machine Learning summer school",
         "start": "2025-09-08",

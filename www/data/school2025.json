@@ -180,6 +180,21 @@
         "note": ""
     },
     {
+        "name": "12th International School on Deep Learning",
+        "deadline": "",
+        "city": "Porto - Maia",
+        "country": "Portugal",
+        "link": "https://deeplearn.irdta.eu/2025/",
+        "type": "School",
+        "shortName": "DEEPLEARN",
+        "start": "2024-07-21",
+        "end": "2024-07-25",
+        "cost": "340-670€",
+        "costNote": "increasing according to deadlines", 
+        "addressLink": "https://maps.app.goo.gl/XKZj1ysz96cUkBaZ7",
+        "note": "DeepLearn 2025 will be a research training event with a global scope aiming at updating participants on the most recent advances in the critical and fast developing area of deep learning"
+    },
+    {
         "shortName": "MRSS",
         "name": "Montreal Robotics Summer School",
         "start": "2025-08-10",

@@ -30,6 +30,21 @@
         "note": "The Australian Centre for Robotic Vision presents the Robotic Vision Summer School (RVSS), hosted in-person at the Australian National University (ANU) Kioloa coastal campus. The ability to see is the remaining technological roadblock to the ubiquitous deployment of robots into society. RVSS provides a premium venue for graduate students and industry researchers to learn about fundamental and advanced topics in computer vision and robotics. The summer school also provides a unique opportunity to experiment with computer vision algorithms on actual robotic hardware."
     },
     {
+        "shortName": "CCRL",
+        "name": "Control theory and reinforcement learning Spring School",
+        "start": "2025-03-17",
+        "end": "2025-03-21",
+        "deadline": "",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "link": "https://www.cwi.nl/en/events/cwi-research-semester-programmes/spring-school-control-theory-and-reinforcement-learning/",
+        "type": "School",
+        "cost": "240€",
+        "costNote": "", 
+        "addressLink": "https://maps.app.goo.gl/VbHQsg4VC3P8EzZMA",
+        "note": "Control theory and reinforcement learning share similar objectives, but have differed in their assumptions and approaches. This spring school emphasizes connections across control theory, reinforcement learning and stochastic approximation, enabling students to access these broader themes and start to work on cross-cutting projects. The school will be at a preparatory PhD level, suitable for advanced Master's and starting PhD students in these areas."
+    },
+    {
         "shortName": "INVICTA",
         "name": "INVICTA Summer School",
         "start": "2025-04-07",

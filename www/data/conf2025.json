@@ -741,6 +741,19 @@
     "note": "The development of future real-world technologies will depend strongly on our understanding and harnessing of the principles underlying living systems and the flow of communication signals between living and artificial systems."
   },
   {
+    "shortName": "ARSO",
+    "name": "IEEE International Conference on Advanced Robotics and its Social Impacts",
+    "start": "2025-07-17",
+    "end": "2025-07-19",
+    "deadline": "2025-02-28",
+    "city": "Osaka",
+    "country": "Japan",
+    "link": "http://ieee-arso.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/gDMoWQavuVk9BEm36",
+    "note": "Advanced robots are expected to enter in promising applications in our future society and bring substantial impacts. The increasing implementation of AI-based components even broadens their fields of application. To ensure that these impacts are positively reflected, today, we need to extend views not only on technical aspects but also on social challenges that we might face, which include safety, regulation, ethics, human factors, and philosophy."
+  },
+  {
     "shortName": "MVA",
     "name": "19th International Conference on Machine Vision and Applications",
     "start": "2025-07-25",
@@ -793,30 +806,43 @@
     "note": ""
   },
   {
-    "shortName": "ARSO",
-    "name": "IEEE International Conference on Advanced Robotics and its Social Impacts",
-    "start": "2025-07-17",
-    "end": "2025-07-19",
-    "deadline": "2025-02-28",
-    "city": "Osaka",
-    "country": "Japan",
-    "link": "http://ieee-arso.org/",
+    "shortName": "IRCE",
+    "name": "8th International Conference on Intelligent Robotics and Control Engineering",
+    "start": "2025-08-18",
+    "end": "2025-08-21",
+    "deadline": "2025-03-30",
+    "city": "Kunming",
+    "country": "China",
+    "link": "http://www.irce.org/",
     "type": "Conference",
-    "addressLink": "https://maps.app.goo.gl/gDMoWQavuVk9BEm36",
-    "note": "Advanced robots are expected to enter in promising applications in our future society and bring substantial impacts. The increasing implementation of AI-based components even broadens their fields of application. To ensure that these impacts are positively reflected, today, we need to extend views not only on technical aspects but also on social challenges that we might face, which include safety, regulation, ethics, human factors, and philosophy."
+    "addressLink": "https://maps.app.goo.gl/vw7Zfkdmg5DMebiy6",
+    "note": "It is our great pleasure to invite you to join 2025 the 8th International Conference on Intelligent Robotics and Control Engineering (IRCE), which will be hosted in Kunming, China during August 18-21, 2025. IRCE is sponsored by Kunming University of Science and Technology, China, hosted by Faculty of Mechanical and Electrical Engineering, KUST, patrons are Concordia University, Canada, Northeastern University, China, Nankai University, China, Southeast University, China, Northeast Electric Power University, China, and Tianjin University, China etc.. This event will provide unique opportunity to have fruitful discussions about Intelligent Robotics, Automations and Control Engineering, and best practices that address Artificial Intelligence. The IRCE conference aims to foster interdisciplinary and international collaboration opportunities, and strengthen domestic and international recognition in pure and applied research for the participants."
   },
   {
     "shortName": "COINS",
     "name": "IEEE International Conference on Omni-layer Intelligent Systems",
     "start": "2025-08-04",
     "end": "2025-08-06",
-    "deadline": "",
+    "deadline": "2025-04-08",
     "city": "Madison",
     "country": "USA",
-    "link": "",
+    "link": "https://coinsconf.com/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/ruiFpRWcmZhYhb4r8",
+    "note": " IEEE COINS brings together experts in Digital Transformation (from AI and IoT to Cloud, Blockchain, Cybersecurity, and Robotics) from around the globe. IEEE COINS includes a multi-disciplinary program from technical research papers, to panels, workshops, and tutorials on the latest technology developments and innovations addressing all important aspects of the IoT & AI ecosystem."
+  },
+  {
+    "shortName": "IDETC-CIE",
+    "name": "International Design Engineering Technical Conferences & Computers and Information in Engineering Conference",
+    "start": "2025-08-17",
+    "end": "2025-08-20",
+    "deadline": "2025-03-17",
+    "city": "Anaheim",
+    "country": "USA",
+    "link": "https://event.asme.org/IDETC-CIE",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/YzXHTUr8hL5ingbS7",
+    "note": "IDETC-CIE 2025 covers design engineering, automation, robotics, and information in engineering, bringing together over 1,000 professionals. The event includes technical tracks, networking, and workshops."
   },
   {
     "shortName": "CASE",

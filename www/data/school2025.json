@@ -105,6 +105,21 @@
         "note": "A Journey through Deep Learning” is an intensive 40 hours PhD-level school that offers a comprehensive exploration of Deep Learning principles and applications. Organized by the MaLGa Center, this program combines methodological aspects with practical insights into modern frameworks and architectures”. JDL25 is open to students, postdocs, faculty members and professionals, upon selection."
     },
     {
+        "shortName": "SAHRI PhD School",
+        "name": "Supervised Autonomy: How to Shape uman-Robot Interaction",
+        "start": "2025-06-17",
+        "end": "2025-06-21",
+        "deadline": "",
+        "city": "Anacapri",
+        "country": "Italy",
+        "link": "https://sahri.eu/",
+        "type": "School",
+        "cost": "€700",
+        "costNote": "accomodation and lunches included", 
+        "addressLink": "https://maps.app.goo.gl/AaUSN5PRSiRPwdHSA",
+        "note": "This school intends to investigate the influence of all those aspects on the realization of supervised autonomy in robots operating in different domains, such as driving, flying, assistive technologies, teleoperation, medical applications, logistics, manufacturing. How to shape 'Human–Robot Interaction' is a question to be answered by focusing on the integrated 'Phygital' aspects concerning sensors, design and materials, control and artificial intelligence."
+    },
+    {
         "shortName": "ETHRSS",
         "name": "ETH Robotics Summer School",
         "start": "2025-06-21",

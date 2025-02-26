@@ -1018,13 +1018,13 @@
     "name": "IEEE International Conference on Cyborg and Bionic Systems",
     "start": "2025-10-17",
     "end": "2025-10-19",
-    "deadline": "",
+    "deadline": "2025-05-01",
     "city": "Beijing",
     "country": "China",
-    "link": "",
+    "link": "https://www.ieee-cbs2025.com/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/VooVPp9yBDYwKDj37",
+    "note": "CBS is an international conference to to discuss frontier research and realistic application on cyborg and bionic systems, which are concerned with hybrid fusion of organic and biomechatronic body parts with the integration of some artificial components or technology like bio-hybrid actuators and sensors. With the rapid development of bionic technology, we think that cyborg and bionic systems can assist human to conquer many limitations such as disease, speed, strength, as well as intelligence."
   },
   {
     "shortName": "IROS",
@@ -1090,6 +1090,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/jSUyAU1jeziMpkCB9",
     "note": ""
+  },
+  {
+    "shortName": "ICAR",
+    "name": "International Conference on Advanced Robotics",
+    "start": "2025-12-02",
+    "end": "2025-12-05",
+    "deadline": "2025-07-25",
+    "city": "San Juan",
+    "country": "Argentina",
+    "link": "http://icar2025.inaut.unsj.edu.ar/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/FepU67ss4C6vSnP26",
+    "note": "As one of the most prestigious and long-standing robotics conferences in the world, ICAR has been at the forefront of robotics innovation since its inception in 1983. Over the years, it has significantly influenced the advancement of robotics, bringing together leading minds to shape the future of the field. ICAR 2025 is proudly supported both technically and financially by the IEEE Robotics and Automation Society. This sponsorship ensures a world-class event featuring a robust technical program and attracting high-caliber attendees from academia, industry, and research institutions globally."
   },
   {
     "shortName": "MRS",

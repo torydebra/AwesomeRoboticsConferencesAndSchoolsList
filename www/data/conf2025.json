@@ -390,6 +390,19 @@
     "note": "2025 11th International Conference on Electrical Engineering, Control and Robotics (EECR 2025) will be held in Changzhou, China during April 18-20, 2025, with the supports of Hohai University, China. The goal of this conference is to foster pure and applied researches in recognition of academic and industry, and to encourage interdisciplinary and international collaboration for the participants."
   },
   {
+    "shortName": "MRAI",
+    "name": "International Conference on Mechatronics, Robotics, and Artificial Intelligence",
+    "start": "2025-04-25",
+    "end": "2025-04-27",
+    "deadline": "2025-03-28",
+    "city": "Jinan",
+    "country": "China",
+    "link": "https://www.icmrai.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.google.com/?q=Jinan,+China",
+    "note": "MRAI 2025 focuses on Mechatronics, Robotics, and Artificial Intelligence, bringing together experts from these fields for cross-disciplinary discussions. It covers topics like mobile robotics, intelligent control, and AI applications, with papers published by IEEE and indexed in IEEE Xplore."
+  },
+  {
     "shortName": "AISTANDARD",
     "name": "AI Standardization and Quality Assurance",
     "start": "2025-05-05",

@@ -988,6 +988,19 @@
     "note": "We are excited to invite submissions to the 12th European Conference on Mobile Robots (ECMR 2025). Following a successful journey from Radziejowice to Ancona, Freiburg, Mlini/Dubrovnik, \u00d6rebro, Barcelona, Lincoln, Paris, Prague, Bonn, and Coimbra, the next edition will be held in Padova. This time, we will focus on the cognitive capabilities of today\u2019s and tomorrow\u2019s mobile robots, emphasizing cognition, perception, interaction, and AI-enhanced autonomy."
   },
   {
+    "shortName": "ICCB",
+    "name": "11th International Conference on Computational Bioengineering",
+    "start": "2025-09-08",
+    "end": "2025-09-10",
+    "deadline": "2025-03-31",
+    "city": "Rome",
+    "country": "Italy",
+    "link": "https://iccb2025.org/",
+    "type": "Conference",
+    "addressLink": "https://www.openstreetmap.org/way/224640836/",
+    "note": "ICCB 2025 focuses on modeling physiological systems across molecular to population scales. The conference includes keynote lectures, mini-symposia, and sessions on computational bioengineering advances, fostering interdisciplinary collaboration."
+  },
+  {
     "shortName": "ICSR",
     "name": "International Conference on Social Robotics + AI",
     "start": "2025-09-10",

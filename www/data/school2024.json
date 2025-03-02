@@ -90,6 +90,21 @@
     "note": "The machine learning summer school (MLSS) series was started in 2002 with the motivation to promulgate modern methods of statistical machine learning and inference. It was motivated by the observation that while many students are keen to learn about machine learning, and an increasing number of researchers want to apply machine learning methods to their research problems, only few machine learning courses are taught at universities. Machine learning summer schools present topics which are at the core of modern Machine Learning, from fundamentals to state-of-the-art practice. The speakers are leading experts in their field who talk with enthusiasm about their subjects."
   },
   {
+    "shortName": "CTRL",
+    "name": "Spring School on Control Theory and Reinforcement Learning",
+    "deadline": "",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "link": "https://www.cwi.nl/en/events/cwi-research-semester-programmes/spring-school-control-theory-and-reinforcement-learning/",
+    "type": "School",
+    "start": "2024-03-17",
+    "end": "2024-03-21",
+    "cost": "€240",
+    "costNote": "some meals included", 
+    "addressLink": "https://maps.app.goo.gl/ThMxCM9Xzb42WJDc7",
+    "note": "Control theory and reinforcement learning share similar objectives, but have differed in their assumptions and approaches. This spring school emphasizes connections across control theory, reinforcement learning and stochastic approximation, enabling students to access these broader themes and start to work on cross-cutting projects. The school will be at a preparatory PhD level, suitable for advanced Master's and starting PhD students in these areas."
+  },
+  {
     "name": "EECI-IGS various summer schools M03-M18",
     "deadline": "",
     "city": "various",

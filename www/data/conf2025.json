@@ -871,6 +871,19 @@
     "note": "The IEEE International Conference on Automation Science and Engineering (CASE) is the flagship automation conference of the IEEE Robotics and Automation Society (RAS) and constitutes the primary forum for cross-industry and multidisciplinary research in automation. Its goal is to provide broad coverage and dissemination of foundational research in automation among researchers and practitioners."
   },
   {
+    "shortName": "IHCIT",
+    "name": "4th International Conference on Intelligent Mechanical and Human-Computer Interaction Technology",
+    "start": "2025-08-22",
+    "end": "2025-08-24",
+    "deadline": "",
+    "city": "Beijing",
+    "country": "China",
+    "link": "http://www.ihcit.net",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "TAROS",
     "name": "TAROS Conference",
     "start": "2025-08-20",

@@ -1001,6 +1001,19 @@
     "note": "ICCB 2025 focuses on modeling physiological systems across molecular to population scales. The conference includes keynote lectures, mini-symposia, and sessions on computational bioengineering advances, fostering interdisciplinary collaboration."
   },
   {
+    "shortName": "ICMTAE",
+    "name": "5th International Conference on Mechatronics Technology and Aerospace Engineering",
+    "start": "2025-09-12",
+    "end": "2025-09-14",
+    "deadline": "",
+    "city": "Fuzhou",
+    "country": "China",
+    "link": "http://www.icmtae.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "ICSR",
     "name": "International Conference on Social Robotics + AI",
     "start": "2025-09-10",

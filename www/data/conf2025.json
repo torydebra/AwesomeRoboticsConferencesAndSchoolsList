@@ -1001,6 +1001,19 @@
     "note": "ICCB 2025 focuses on modeling physiological systems across molecular to population scales. The conference includes keynote lectures, mini-symposia, and sessions on computational bioengineering advances, fostering interdisciplinary collaboration."
   },
   {
+    "shortName": "ICMTAE",
+    "name": "5th International Conference on Mechatronics Technology and Aerospace Engineering",
+    "start": "2025-09-12",
+    "end": "2025-09-14",
+    "deadline": "",
+    "city": "Fuzhou",
+    "country": "China",
+    "link": "http://www.icmtae.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": "ICMTAE 2025 Conference will be held in Fuzhou, China from September 12-14, 2025. It will focus on 'Mechatronics', 'Electrical and Electronic Technology', 'Aerospace Engineering' and 'Aeronautical Engineering', etc. The conference will provide an international platform for experts, professors, scholars and engineers from universities, research institutes, enterprises and institutions at home and abroad to share their professional experiences, expand their professional networks, exchange new ideas and present their research results, discuss the key challenges and research directions facing the development of this field, promote the development and application of theories and technologies in universities and enterprises in this field, and also provide a platform for the participants to establish their business and application. It also provides a platform for participants to establish business or research contacts and find global partners for their future careers. Experts and scholars from universities and research institutions at home and abroad are warmly welcomed to submit papers and attend the conference!"
+  },
+  {
     "shortName": "ICSR",
     "name": "International Conference on Social Robotics + AI",
     "start": "2025-09-10",

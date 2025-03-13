@@ -1001,6 +1001,19 @@
     "note": "ICCB 2025 focuses on modeling physiological systems across molecular to population scales. The conference includes keynote lectures, mini-symposia, and sessions on computational bioengineering advances, fostering interdisciplinary collaboration."
   },
   {
+    "shortName": "TELEPRESENCE",
+    "name": "IEEE Conference on Telepresence 2025",
+    "start": "2025-09-08",
+    "end": "2025-09-10",
+    "deadline": "2025-03-23",
+    "city": "Leiden",
+    "country": "Netherlands",
+    "link": "https://conf.telepresence.ieee.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.google.com/?q=Leiden,+Netherlands",
+    "note": "TELEPRESENCE 2025 focuses on telepresence systems, telerobotics, haptics, human-machine interfaces, and autonomy. It includes keynotes, industry panels, and exhibits, with accepted papers published in IEEE Xplore."
+  },
+  {
     "shortName": "ICMTAE",
     "name": "5th International Conference on Mechatronics Technology and Aerospace Engineering",
     "start": "2025-09-12",

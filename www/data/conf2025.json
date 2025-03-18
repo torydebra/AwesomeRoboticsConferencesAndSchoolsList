@@ -819,19 +819,6 @@
     "note": ""
   },
   {
-    "shortName": "IRCE",
-    "name": "8th International Conference on Intelligent Robotics and Control Engineering",
-    "start": "2025-08-18",
-    "end": "2025-08-21",
-    "deadline": "2025-03-30",
-    "city": "Kunming",
-    "country": "China",
-    "link": "http://www.irce.org/",
-    "type": "Conference",
-    "addressLink": "https://maps.app.goo.gl/vw7Zfkdmg5DMebiy6",
-    "note": "It is our great pleasure to invite you to join 2025 the 8th International Conference on Intelligent Robotics and Control Engineering (IRCE), which will be hosted in Kunming, China during August 18-21, 2025. IRCE is sponsored by Kunming University of Science and Technology, China, hosted by Faculty of Mechanical and Electrical Engineering, KUST, patrons are Concordia University, Canada, Northeastern University, China, Nankai University, China, Southeast University, China, Northeast Electric Power University, China, and Tianjin University, China etc.. This event will provide unique opportunity to have fruitful discussions about Intelligent Robotics, Automations and Control Engineering, and best practices that address Artificial Intelligence. The IRCE conference aims to foster interdisciplinary and international collaboration opportunities, and strengthen domestic and international recognition in pure and applied research for the participants."
-  },
-  {
     "shortName": "COINS",
     "name": "IEEE International Conference on Omni-layer Intelligent Systems",
     "start": "2025-08-04",
@@ -869,6 +856,32 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/iuBKu2HiaiFtX2nd7",
     "note": "The IEEE International Conference on Automation Science and Engineering (CASE) is the flagship automation conference of the IEEE Robotics and Automation Society (RAS) and constitutes the primary forum for cross-industry and multidisciplinary research in automation. Its goal is to provide broad coverage and dissemination of foundational research in automation among researchers and practitioners."
+  },
+  {
+    "shortName": "IRCE",
+    "name": "8th International Conference on Intelligent Robotics and Control Engineering",
+    "start": "2025-08-18",
+    "end": "2025-08-21",
+    "deadline": "2025-03-30",
+    "city": "Kunming",
+    "country": "China",
+    "link": "http://www.irce.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/vw7Zfkdmg5DMebiy6",
+    "note": "It is our great pleasure to invite you to join 2025 the 8th International Conference on Intelligent Robotics and Control Engineering (IRCE), which will be hosted in Kunming, China during August 18-21, 2025. IRCE is sponsored by Kunming University of Science and Technology, China, hosted by Faculty of Mechanical and Electrical Engineering, KUST, patrons are Concordia University, Canada, Northeastern University, China, Nankai University, China, Southeast University, China, Northeast Electric Power University, China, and Tianjin University, China etc.. This event will provide unique opportunity to have fruitful discussions about Intelligent Robotics, Automations and Control Engineering, and best practices that address Artificial Intelligence. The IRCE conference aims to foster interdisciplinary and international collaboration opportunities, and strengthen domestic and international recognition in pure and applied research for the participants."
+  },
+  {
+    "shortName": "M2VIP",
+    "name": "31st International Conference on Mechatronics and Machine Vision in Practice",
+    "start": "2025-08-19",
+    "end": "2025-08-22",
+    "deadline": "2025-05-01",
+    "city": "Manila",
+    "country": "Philippines",
+    "link": "https://m2vip.dlsu.edu.ph",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/w2TNwuoePsVqm7tT6",
+    "note": "M2VIP 2025 focuses on practical applications of mechatronics and machine vision, covering topics such as AI-driven automation, robotics, and industrial applications."
   },
   {
     "shortName": "IHCIT",
@@ -1044,7 +1057,7 @@
     "name": "IEEE International Conference on Development and Learning",
     "start": "2025-09-16",
     "end": "2025-09-19",
-    "deadline": "2025-03-14",
+    "deadline": "2025-03-28",
     "city": "Prague",
     "country": "Czech Republic",
     "link": "http://icdl2025.fel.cvut.cz/",

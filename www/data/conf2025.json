@@ -1092,6 +1092,19 @@
     "note": "Robotics enthusiasts, ranging from experts in software and hardware to vision and perception, natural language processing, motion, and dexterity, will come together at COEX from September 27 to October 2. Robotics Week, a dedicated event for robotics and AI enthusiasts, will provide a unique opportunity to explore advancements in humanoid robots and machine learning."
   },
   {
+    "shortName": "ICMI",
+    "name": "27th ACM International Conference on Multimodal Interaction",
+    "start": "2025-10-13",
+    "end": "2025-10-17",
+    "deadline": "2025-04-25",
+    "city": "Canberra",
+    "country": "Australia",
+    "link": "https://icmi.acm.org/2025/",
+    "type": "Conference",
+    "addressLink": "https://www.openstreetmap.org/way/949579039#map=19/-35.311934/149.133152",
+    "note": "ICMI 2025 is the premier conference on multimodal artificial intelligence and social interaction research, featuring keynote speakers, technical papers, demonstrations, and workshops. It promotes interdisciplinary studies in AI-driven multimodal systems and human-computer interaction."
+  },
+  {
     "shortName": "CBS",
     "name": "IEEE International Conference on Cyborg and Bionic Systems",
     "start": "2025-10-17",
@@ -1135,13 +1148,13 @@
     "name": "ROS Conference",
     "start": "2025-10-27",
     "end": "2025-10-29",
-    "deadline": "",
+    "deadline": "2025-06-02",
     "city": "Singapore",
     "country": "Singapore",
-    "link": "",
+    "link": "https://roscon.ros.org/2025/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://www.openstreetmap.org/way/393090489#map=19/1.293337/103.857633",
+    "note": "ROSCon is a developers’ conference, in the model of PyCon and BoostCon. Following the success of our past events, this year’s ROSCon will be our fourteenth ROSCon and held in Singapore. Similar to previous years, the three-day program will comprise a mixture of workshops, technical talks, and tutorials that will introduce you to new tools and libraries, as well as teach you more about the ones you already know. The bulk of the program will be presentations, along with panel discussions, lightning talks, demonstrations, and workshops."
   },
   {
     "shortName": "CLAWAR",

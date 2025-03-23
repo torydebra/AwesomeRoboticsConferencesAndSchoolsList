@@ -767,6 +767,19 @@
     "note": "Advanced robots are expected to enter in promising applications in our future society and bring substantial impacts. The increasing implementation of AI-based components even broadens their fields of application. To ensure that these impacts are positively reflected, today, we need to extend views not only on technical aspects but also on social challenges that we might face, which include safety, regulation, ethics, human factors, and philosophy."
   },
   {
+    "shortName": "MARSS",
+    "name": "International Conference on Manipulation, Automation and Robotics at Small Scales",
+    "start": "2025-07-28",
+    "end": "2025-08-01",
+    "deadline": "",
+    "city": "West Lafayette",
+    "country": "Indiana USA",
+    "link": "http://marss-conference.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "MVA",
     "name": "19th International Conference on Machine Vision and Applications",
     "start": "2025-07-25",
@@ -1154,7 +1167,7 @@
     "link": "https://roscon.ros.org/2025/",
     "type": "Conference",
     "addressLink": "https://www.openstreetmap.org/way/393090489#map=19/1.293337/103.857633",
-    "note": "ROSCon is a developers’ conference, in the model of PyCon and BoostCon. Following the success of our past events, this year’s ROSCon will be our fourteenth ROSCon and held in Singapore. Similar to previous years, the three-day program will comprise a mixture of workshops, technical talks, and tutorials that will introduce you to new tools and libraries, as well as teach you more about the ones you already know. The bulk of the program will be presentations, along with panel discussions, lightning talks, demonstrations, and workshops."
+    "note": "ROSCon is a developers\u2019 conference, in the model of PyCon and BoostCon. Following the success of our past events, this year\u2019s ROSCon will be our fourteenth ROSCon and held in Singapore. Similar to previous years, the three-day program will comprise a mixture of workshops, technical talks, and tutorials that will introduce you to new tools and libraries, as well as teach you more about the ones you already know. The bulk of the program will be presentations, along with panel discussions, lightning talks, demonstrations, and workshops."
   },
   {
     "shortName": "CLAWAR",

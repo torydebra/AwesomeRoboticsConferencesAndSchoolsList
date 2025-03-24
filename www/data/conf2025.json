@@ -773,11 +773,11 @@
     "end": "2025-08-01",
     "deadline": "",
     "city": "West Lafayette",
-    "country": "Indiana USA",
+    "country": "USA",
     "link": "http://marss-conference.org/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://www.openstreetmap.org/relation/12444296#map=16/40.42781/-86.92443",
+    "note": "MARSS, the annual International Conference on Manipulation, Automation and Robotics at Small Scales, is a non-profit conference run by the microrobotic community and technically supported by IEEE-RAS and IEEE-NTC. MARSS2025 will be held in-person on July 28-August 01, 2025, at Purdue University in West Lafayette, IN, USA. The conference is the flagship forum to discuss cross-disciplinary activities on 1) manipulation, automation, measurement, and characterization at micro/nano scales, and 2) all kinds of small-scale robots (nm – cm) and their applications."
   },
   {
     "shortName": "MVA",

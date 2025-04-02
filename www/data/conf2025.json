@@ -1031,7 +1031,7 @@
     "name": "IEEE Conference on Telepresence 2025",
     "start": "2025-09-08",
     "end": "2025-09-10",
-    "deadline": "2025-03-23",
+    "deadline": "2025-04-12",
     "city": "Leiden",
     "country": "Netherlands",
     "link": "https://conf.telepresence.ieee.org/",
@@ -1070,7 +1070,7 @@
     "name": "IEEE International Conference on Development and Learning",
     "start": "2025-09-16",
     "end": "2025-09-19",
-    "deadline": "2025-03-28",
+    "deadline": "2025-04-03",
     "city": "Prague",
     "country": "Czech Republic",
     "link": "http://icdl2025.fel.cvut.cz/",
@@ -1220,5 +1220,18 @@
     "type": "Conference",
     "addressLink": "",
     "note": ""
+  },
+  {
+    "shortName": "WRS",
+    "name": "World Robot Summit - Manufacturing Robotics Challenge",
+    "start": "2025-12-12",
+    "end": "2025-12-14",
+    "deadline": "2025-05-16",
+    "city": "Aichi",
+    "country": "Japan",
+    "link": "https://worldrobotsummit.org/en/wrs2025/mrc/",
+    "type": "Conference",
+    "addressLink": "https://www.openstreetmap.org/way/729350752",
+    "note": "WRS 2025 hosts multiple robotics competitions focusing on future convenience stores (Osaka), disaster response robotics (Fukushima), and manufacturing automation (Aichi). It aims to advance real-world robotic applications."
   }
 ]

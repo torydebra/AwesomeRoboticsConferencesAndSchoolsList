@@ -94,7 +94,7 @@
         "name": "A Journey Through Deep Learning",
         "start": "2025-06-16",
         "end": "2025-06-20",
-        "deadline": "2025-03-16",
+        "deadline": "2025-03-30",
         "city": "Genova",
         "country": "Italy",
         "link": "https://malga.unige.it/education/schools/jdl/",
@@ -253,6 +253,21 @@
         "costNote": "Food, travel and lodging is covered", 
         "addressLink": "https://maps.app.goo.gl/PH65qNybSpRKVDTT9",
         "note": "1 day of activity and 5 days of intensive training, combining theory, skills training and application around the themes of Robotics and AI"
+    },
+    {
+        "name": "Touch Sensing and Processing Summer School",
+        "deadline": "2025-04-11",
+        "city": "Dresden",
+        "country": "Germany",
+        "link": "https://lasr.org/tspss2025",
+        "type": "School",
+        "shortName": "TSPSS",
+        "start": "2025-08-18",
+        "end": "2025-08-22",
+        "cost": "free",
+        "costNote": "accomodation incl.",
+        "addressLink": "https://maps.app.goo.gl/zJpfW26JwKrQKJzVA",
+        "note": "The Touch Sensing and Processing Summer School (TSPSS) aims to provide a stimulating opportunity for young researchers and Ph.D. students to participate and benefit from direct interaction and discussions with world leaders in touch sensing and processing. Participants will also have the possibility to present the results of their research, and to interact with their scientific peers, in an informal and constructive environment."
     },
     {
         "shortName": "M2L",

@@ -13,6 +13,19 @@
     "note": "IEEE/SICE SII is the premier symposium series presenting the state-of-the-art and future perspectives of system integration, where academic researchers and industry experts share ideas and experiences surrounding frontier technologies, research breakthroughs, and innovative solutions and applications."
   },
   {
+    "shortName": "HRI",
+    "name": "21st ACM/IEEE International Conference on Human-Robot Interaction",
+    "start": "2026-03-16",
+    "end": "2026-03-19",
+    "deadline": "",
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "link": "http://humanrobotinteraction.org/2026",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "ERF",
     "name": "European Robotics Forum",
     "start": "2026-03-23",

@@ -270,6 +270,21 @@
         "note": "The Touch Sensing and Processing Summer School (TSPSS) aims to provide a stimulating opportunity for young researchers and Ph.D. students to participate and benefit from direct interaction and discussions with world leaders in touch sensing and processing. Participants will also have the possibility to present the results of their research, and to interact with their scientific peers, in an informal and constructive environment."
     },
     {
+        "shortName": "DRIMS2",
+        "name": "Summer School on Singularities of Mechanisms and Robotic Manipulators",
+        "start": "2025-08-24",
+        "end": "2025-08-31",
+        "deadline": "TBD",
+        "city": "Genova",
+        "country": "Italy",
+        "link": "https://www.phdrims.com/",
+        "type": "School",
+        "cost": "TBD",
+        "costNote": "", 
+        "addressLink": "https://maps.app.goo.gl/XjMDYNyC2kSXi4nKA",
+        "note": "The DRIMS2 course is a summer school that is part of the educational program of the National PhD Program in Robotics and Intelligent Machines. It is primarily aimed at PhD students of the program, and it is also open to students from other relevant PhD courses. The course has been designed to provide advanced and specialized training in this rapidly evolving field, with an interdisciplinary approach that integrates theory and practice. Specifically, the course aims to provide the knowledge and skills necessary to develop robots and intelligent machines capable of operating in complex environments, such as those found in biomedical, industrial, and service applications. Participants will gain advanced expertise in fields such as robot design, sensors and artificial perception, control, and human-machine interaction."
+    },
+    {
         "shortName": "M2L",
         "name": "Mediterranean Machine Learning summer school",
         "start": "2025-09-08",
@@ -298,20 +313,5 @@
         "costNote": "IFToMM/not early(late) €425(475)/475(525)", 
         "addressLink": "https://maps.app.goo.gl/chTi8yGzhoj4D3tG8",
         "note": "The school will offer a good balance of theory and practice. The attendees will be introduced to the mathematical theory needed to cope with singularities, but also to the software tools to compute and visualize them."
-    },
-     {
-        "shortName": "DRIMS^2",
-        "name": "Summer School on Singularities of Mechanisms and Robotic Manipulators",
-        "start": "2025-08-24",
-        "end": "2025-08-31",
-        "deadline": "???",
-        "city": "Genova",
-        "country": "Italy",
-        "link": "https://www.phdrims.com/",
-        "type": "School",
-        "cost": "???"
-        "costNote": "", 
-        "addressLink": "https://maps.app.goo.gl/XjMDYNyC2kSXi4nKA",
-        "note": "The DRIMS2 course is a summer school that is part of the educational program of the National PhD Program in Robotics and Intelligent Machines. It is primarily aimed at PhD students of the program, and it is also open to students from other relevant PhD courses. The course has been designed to provide advanced and specialized training in this rapidly evolving field, with an interdisciplinary approach that integrates theory and practice. Specifically, the course aims to provide the knowledge and skills necessary to develop robots and intelligent machines capable of operating in complex environments, such as those found in biomedical, industrial, and service applications. Participants will gain advanced expertise in fields such as robot design, sensors and artificial perception, control, and human-machine interaction."
     }
 ]

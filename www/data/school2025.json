@@ -135,6 +135,21 @@
         "note": "Robotics has become one of the biggest fields of education and research worldwide. The RobotX initiative at ETH Zurich is committed to provide continued education and training to the young generations of researchers and practitioners. This summer school offers lectures and hands-on tutorials to grasp the fundamental concepts that every roboticist around the world should possess."
     },
     {
+        "shortName": "SIGSOFT",
+        "name": "Summer School for Software Engineering in Robotics",
+        "start": "2025-06-30",
+        "end": "2025-07-04",
+        "deadline": "2025-04-30",
+        "city": "Delft",
+        "country": "Netherlands",
+        "link": "https://scivenia.com/en/event/acm-sigsoft-summer-school-for-software-engineering-in-robotic",
+        "type": "School",
+        "cost": "€200",
+        "costNote": "lunch inc.", 
+        "addressLink": "https://www.openstreetmap.org/way/201337847",
+        "note": "Our curriculum is designed to provide a balanced mix of theoretical knowledge and hands-on practice, targeting essential areas of software engineering specifically tailored for robotics."
+    },
+    {
         "shortName": "ORSS",
         "name": "Optimization for Robotics Summer School",
         "start": "2025-07-14",
@@ -178,6 +193,36 @@
         "costNote": "students/academics/professional early(late) : €450(550)/550(650)/700(800)", 
         "addressLink": "https://maps.app.goo.gl/AkxbX1ERcJUkk7VY9",
         "note": "The school will be held at the Polytechnic University of Bari, utilizing the equipment available in the laboratory of the Department of Electrical and Information Engineering the Polytechnic. The school will offer a well-balance blend of theory and practice. The attendees will be introduced to the necessary control and system theory, but also to software tools required to implement control, management policies, diagnosis strategies, and simulation approaches for validating and verifying the proposed techniques. For the practical applications and simulations, the school will employ the equipment and software available in the laboratories of the Department of Electrical and Information Engineering of the Polytechnic."
+    },
+    {
+        "shortName": "UT-CARS",
+        "name": "UniTartu Summer School - Self-Driving Cars",
+        "start": "2025-07-28",
+        "end": "2025-08-08",
+        "deadline": "2025-04-30",
+        "city": "Tartu",
+        "country": "Estonia",
+        "link": "https://ut.ee/en/content/self-driving-cars",
+        "type": "School",
+        "cost": "€850",
+        "costNote": "", 
+        "addressLink": "https://maps.app.goo.gl/AaEyd19H558punxw8",
+        "note": "The course 'Self-driving Cars' introduces basic concepts of self-driving cars using Autoware Mini, the software developed in University of Tartu Autonomous Driving Lab, as an example. The students implement core components of modular autonomy stack from scratch in the Python programming language. They will test their software in virtual Tartu simulation, which is a decimetre-level digital twin of the real city. The course ends with a demo ride in a self-driving Lexus vehicle that is using the very same Autoware Mini software they learned about in the course. The target group of the course is MSc and PhD students interested in furthering their knowledge about autonomous driving systems."
+    },
+    {
+        "shortName": "UT-HRIS",
+        "name": "UniTartu Summer School - HRI-Social Robotics",
+        "start": "2025-07-28",
+        "end": "2025-08-08",
+        "deadline": "2025-04-30",
+        "city": "Tartu",
+        "country": "Estonia",
+        "link": "https://ut.ee/en/content/1st-summer-school-hri-social-robotics",
+        "type": "School",
+        "cost": "€600",
+        "costNote": "", 
+        "addressLink": "https://maps.app.goo.gl/AaEyd19H558punxw8",
+        "note": "This course introduces participants to the foundational principles of Human-Robot Interaction (HRI) with a focus on Social Robotics (SR) in education. Through a blend of lectures, practical workshops, and group assignments, participants will"
     },
     {
         "name": "IEEE RAS Summer School on Multi-robot systems",

@@ -1213,13 +1213,13 @@
     "name": "International Conference on Flexible Electronics and Systems",
     "start": "2025-12-11",
     "end": "2025-12-13",
-    "deadline": "",
+    "deadline": "2025-08-31",
     "city": "Hong Kong",
-    "country": "China",
+    "country": "Hong Kong",
     "link": "http://www.ieee-icfes.org/",
     "type": "Conference",
     "addressLink": "",
-    "note": ""
+    "note": "The IEEE International Conference on Flexible Electronics and Systems (ICFES) is the flagship conference of IEEE-SMC TC on Flexible Electronic Systems, TC on Bio-mechatronics and Bio-robotics Systems, and IEEE-RAS TC on Neuro-Robotics Systems. The ICFES 2024 will be organized by City University of Hong Kong, China, and held in Hong Kong, from December 16th to 18th, 2024. The conference will provide an international forum for researchers, educators, and engineers in general areas of electrical engineering, materials science, computer science, and robotics to disseminate their latest research results and exchange views on the future research directions of these fields."
   },
   {
     "shortName": "MRS",

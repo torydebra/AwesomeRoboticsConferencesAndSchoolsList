@@ -777,7 +777,7 @@
     "link": "http://marss-conference.org/",
     "type": "Conference",
     "addressLink": "https://www.openstreetmap.org/relation/12444296#map=16/40.42781/-86.92443",
-    "note": "MARSS, the annual International Conference on Manipulation, Automation and Robotics at Small Scales, is a non-profit conference run by the microrobotic community and technically supported by IEEE-RAS and IEEE-NTC. MARSS2025 will be held in-person on July 28-August 01, 2025, at Purdue University in West Lafayette, IN, USA. The conference is the flagship forum to discuss cross-disciplinary activities on 1) manipulation, automation, measurement, and characterization at micro/nano scales, and 2) all kinds of small-scale robots (nm – cm) and their applications."
+    "note": "MARSS, the annual International Conference on Manipulation, Automation and Robotics at Small Scales, is a non-profit conference run by the microrobotic community and technically supported by IEEE-RAS and IEEE-NTC. MARSS2025 will be held in-person on July 28-August 01, 2025, at Purdue University in West Lafayette, IN, USA. The conference is the flagship forum to discuss cross-disciplinary activities on 1) manipulation, automation, measurement, and characterization at micro/nano scales, and 2) all kinds of small-scale robots (nm \u2013 cm) and their applications."
   },
   {
     "shortName": "MVA",
@@ -1207,6 +1207,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/FepU67ss4C6vSnP26",
     "note": "As one of the most prestigious and long-standing robotics conferences in the world, ICAR has been at the forefront of robotics innovation since its inception in 1983. Over the years, it has significantly influenced the advancement of robotics, bringing together leading minds to shape the future of the field. ICAR 2025 is proudly supported both technically and financially by the IEEE Robotics and Automation Society. This sponsorship ensures a world-class event featuring a robust technical program and attracting high-caliber attendees from academia, industry, and research institutions globally."
+  },
+  {
+    "shortName": "ICFES",
+    "name": "International Conference on Flexible Electronics and Systems",
+    "start": "2025-12-11",
+    "end": "2025-12-13",
+    "deadline": "",
+    "city": "Hong Kong",
+    "country": "China",
+    "link": "http://www.ieee-icfes.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   },
   {
     "shortName": "MRS",

@@ -150,6 +150,21 @@
         "note": "Our curriculum is designed to provide a balanced mix of theoretical knowledge and hands-on practice, targeting essential areas of software engineering specifically tailored for robotics."
     },
     {
+        "shortName": "MedICSS",
+        "name": "Medical Image Computing and Surgical Sciences Summer School ",
+        "start": "2025-06-30",
+        "end": "2025-07-04",
+        "deadline": "2025-04-25",
+        "city": "London",
+        "country": "UK",
+        "link": "https://www.ucl.ac.uk/hawkes-institute/ucl-medical-image-computing-and-surgical-sciences-medicss-summer-school",
+        "type": "School",
+        "cost": "£250-350",
+        "costNote": "students-others", 
+        "addressLink": "https://www.openstreetmap.org/way/102258945#map=19/51.518216/-0.118137",
+        "note": "MedICSS 2025 will allow early career scientists to engage with world-leading medical imaging experts from academia and industry. Delegates will learn about the newest developments across the field through a series of lectures by scientific leaders and will engage in active learning through interactive computational group projects encouraging collaboration, critical thinking, and scientific discovery."
+    },
+    {
         "shortName": "ORSS",
         "name": "Optimization for Robotics Summer School",
         "start": "2025-07-14",

@@ -195,6 +195,21 @@
         "note": "Artificial Intelligence (AI), and Machine Learning (ML) in particular, advance very rapidly, at a pace that even specialists have difficulties in following it. Its impact, particularly through Large Language Models and Generative AI affect almost all scientific disciplines. AI has a huge social impact, e.g., on education, labor market, politics and governance. Given the fast AI evolution, both industry and academia are interested in fast personnel reskilling and upskilling on AI edge technologies. This event, co-organized by International AI Doctoral Academy (AIDA) and Aristotle University of Thessaloniki (AUTH),  will cater these advanced AI education needs."
     },
     {
+        "shortName": "RLLLMR",
+        "name": "Reinforcement Learning and Large Language Models for Robotics",
+        "start": "2025-07-14",
+        "end": "2025-07-18",
+        "deadline": "",
+        "city": "Padova",
+        "country": "Italy",
+        "link": "https://www.unipd.it/en/reinforcement-learning-llm-robotics",
+        "type": "School",
+        "cost": "free",
+        "costNote": "",
+        "addressLink": "https://www.openstreetmap.org/way/131987790",
+        "note": "The Summer School in 'REINFORCEMENT LEARNING AND LARGE LANGUAGE MODELS FOR ROBOTICS' is designed to equip PhD students, and young researchers with cutting-edge knowledge and practical skills combining artificial intelligence, machine learning, and robotics. Recent advancements in robotics, driven by reinforcement learning and large language models, have enabled robots to perform complex tasks and engage in more intuitive human-robot interactions. This summer school explores the convergence of these fields, aiming to shape the next generation of robots that can both learn and communicate in innovative ways."
+    },
+    {
         "shortName": "CCAA",
         "name": "IEEE RAS Summer School on Cooperative Connected and Autonomous Agents",
         "start": "2025-07-21",

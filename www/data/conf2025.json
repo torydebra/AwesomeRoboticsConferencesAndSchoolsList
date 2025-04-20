@@ -1079,6 +1079,19 @@
     "note": "The IEEE International Conference on Development and Learning (ICDL) conference is a unique meeting gathering researchers from computer science, robotics, psychology, neuroscience, and other disciplines to share and discuss research on how humans and other animals learn and develop and how this can inform and be informed by robotics and machine learning systems."
   },
   {
+    "shortName": "M2VIP",
+    "name": "31st International Conference on Mechatronics and Machine Vision in Practice",
+    "start": "2025-08-19",
+    "end": "2025-08-22",
+    "deadline": "TBA",
+    "city": "Taguig",
+    "country": "Philippines",
+    "link": "https://m2vip.dlsu.edu.ph/",
+    "type": "Conference",
+    "addressLink": "https://www.openstreetmap.org/way/68194576",
+    "note": "The annual M2VIP conference aims to facilitate the exchange of ideas and developments in all aspects of Advances in Mechatronics and Machine Vision. Mechatronics is regarded as the fusion of mechanical, electrical and computer engineering for the design and development of mechatronic products, while machine vision brings a sense of intelligence. With the advent of new functional materials, smart actuators, smart sensors, powerful processors and embedded computing, as well as the latest advances in machine vision, machine learning, deep learning, cloud computing, a lot of more intelligent, powerful, miniaturized, or user-friendly devices, systems and robots are emerging that meet the needs of modern day living and industries and the challenges."
+  },
+  {
     "shortName": "CORL",
     "name": "Conference on Robot Learning",
     "start": "2025-09-27",

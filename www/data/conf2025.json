@@ -520,6 +520,19 @@
     "note": "The explosion of real-time data that is emerging from the physical world requires a rapprochement of areas such as machine learning, control theory, and optimization. While control theory has been firmly rooted in the tradition of model-based design, the availability and scale of data (both temporal and spatial) will require rethinking the foundations of our discipline. From a machine learning perspective, one of the main challenges going forward is to go beyond pattern recognition and address problems in data-driven control and optimization of dynamical processes. Our overall goal is to create a new community of people who think rigorously across the disciplines, ask new questions, and develop the foundations of this new scientific area. We are happy to welcome you to the University of Michigan for the 7th annual L4DC."
   },
   {
+    "shortName": "RAIIE",
+    "name": "4th International Symposium on Robotics, Artificial Intelligence and Information Engineering",
+    "start": "2025-06-06",
+    "end": "2025-06-08",
+    "deadline": "2025-03-21",
+    "city": "Zhenjiang",
+    "country": "China",
+    "link": "https://www.raiie.org/",
+    "type": "Conference",
+    "addressLink": "https://www.openstreetmap.org/way/186439516",
+    "note": "Robotics, Artificial Intelligence (AI), and Information Engineering form an interdependent technological ecosystem. AI equips robots with intelligent capabilities, refining performance through machine learning and deep learning. In addition, Information Engineering provides the essential infrastructure for data processing and transmission, which are crucial in supporting robot functions. The fusion of AI and Information Engineering further facilitates large-scale intelligent analysis, thereby advancing autonomous robots and enabling the development of intelligent systems across diverse applications."
+  },
+  {
     "shortName": "LION",
     "name": "The 2025 Learning and Intelligent Optimization Conference",
     "start": "2025-06-15",
@@ -1057,7 +1070,7 @@
     "name": "International Conference on Social Robotics + AI",
     "start": "2025-09-10",
     "end": "2025-09-12",
-    "deadline": "2025-03-28",
+    "deadline": "2025-04-30",
     "city": "Naples",
     "country": "Italy",
     "link": "https://icsr2025.eu/",
@@ -1117,6 +1130,19 @@
     "addressLink": "https://maps.app.goo.gl/PL9Y8VCkXkAxb5JF9",
     "note": "Robotics enthusiasts, ranging from experts in software and hardware to vision and perception, natural language processing, motion, and dexterity, will come together at COEX from September 27 to October 2. Robotics Week, a dedicated event for robotics and AI enthusiasts, will provide a unique opportunity to explore advancements in humanoid robots and machine learning."
   },
+  {
+    "shortName": "CAIS",
+    "name": "2025 OkIP International Conference on Automated and Intelligent Systems",
+    "start": "2025-10-01",
+    "end": "2025-10-02",
+    "deadline": "2025-07-15",
+    "city": "Oklahoma City",
+    "country": "USA",
+    "link": "https://eventutor.com/event/64/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/bMazMkC98Bkecqqa7",
+    "note": "Oklahoma International Publishing (OkIP) is pleased to host the 2025 OkIP International Conference on Automated and Intelligent Systems (CAIS). The conference aims to unite scholars from different disciplinary backgrounds to emphasize disseminating ongoing research and development. Proposals are solicited describing original works in the fields and related technologies. This event will include a peer-reviewed program of technical, industrial, and poster sessions. Accepted and presented full papers from the tracks below will be published by OkIP and submitted for indexation in major abstract and citation databases of peer-reviewed literature. Extended versions of best papers will be considered for the inaugural issue of the International Journal of Automated and Intelligent Systems."
+  },  
   {
     "shortName": "ICMI",
     "name": "27th ACM International Conference on Multimodal Interaction",

@@ -315,6 +315,21 @@
         "note": "DeepLearn 2025 will be a research training event with a global scope aiming at updating participants on the most recent advances in the critical and fast developing area of deep learning"
     },
     {
+        "name": "Imperial Robotics Summer School",
+        "deadline": "2025-05-02",
+        "city": "London",
+        "country": "UK",
+        "link": "https://www.imperial.ac.uk/robotics/imperial-robotics-summer-school/",
+        "type": "School",
+        "shortName": "IMP",
+        "start": "2024-07-21",
+        "end": "2024-07-25",
+        "cost": "1500GBP",
+        "costNote": "", 
+        "addressLink": "https://www.openstreetmap.org/relation/12233221",
+        "note": "Immerse yourself in a week-long group project embedded within one of our cutting-edge laboratories—choose from the Hamlyn Centre, our flagship aerial arena, Dyson Robotics Lab and more!"
+    },
+    {
         "shortName": "MRSS",
         "name": "Montreal Robotics Summer School",
         "start": "2025-08-10",

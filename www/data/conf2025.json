@@ -899,9 +899,9 @@
   {
     "shortName": "M2VIP",
     "name": "31st International Conference on Mechatronics and Machine Vision in Practice",
-    "start": "2025-08-19",
-    "end": "2025-08-22",
-    "deadline": "2025-05-01",
+    "start": "2025-08-27",
+    "end": "2025-08-30",
+    "deadline": "2025-05-15",
     "city": "Manila",
     "country": "Philippines",
     "link": "https://m2vip.dlsu.edu.ph",
@@ -1220,6 +1220,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/pTLByPfrUKgK9KNQ9",
     "note": "CLAWAR 2025 is the 28th issue of the International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines. The conference will be organized in collaboration with the Shenzhen Technology University, China, and held within the premises of the university, during 05 \u2013 07 September 2025. The technical programme of CLAWAR 2025 will feature plenary, regular and special/invited sessions. The conference proceedings will be published in the Springer\u2019s Lecture Notes in Networks and Systems series and indexed in Scopus, EI and Web of Science."
+  },
+  {
+    "shortName": "ICNSC",
+    "name": "2025 International Conference on Networking, Sensing, and Control",
+    "start": "2025-10-01",
+    "end": "2025-10-03",
+    "deadline": "2025-06-01",
+    "city": "Oulu",
+    "country": "Finland",
+    "link": "https://www.oulu.fi/icnsc2025/",
+    "type": "Conference",
+    "addressLink": "https://www.openstreetmap.org/relation/11536366",
+    "note": "ICNSC 2025, themed 'Autonomous Intelligent Systems', will be held at the University of Oulu in Finland. The conference features plenary speeches, panel sessions, tutorials, workshops, and special sessions. Topics include adaptive systems, autonomous agents, cyber-physical systems, edge computing, federated learning, smart grids, and more. Paper submissions are due by June 1, 2025, with camera-ready copies due by September 15, 2025. The conference is sponsored by the Biomimetics and Intelligent Systems Group at the University of Oulu and Jishou University, China, with technical co-sponsorship from the IEEE SMC Society and IEEE Finland Section."
   },
   {
     "shortName": "ICCAS",

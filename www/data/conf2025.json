@@ -559,17 +559,17 @@
     "note": "We encourage submissions from all disciplines, including (but not limited to) psychology, philosophy, sociology, engineering, education, anthropology, arts and architecture."
   },
   {
-  "shortName": "ICCIR",
-  "name": "5th International Conference on Control and Intelligent Robotics",
-  "start": "2025-06-20",
-  "end": "2025-06-22",
-  "deadline": "2025-05-06",
-  "city": "Tianjin",
-  "country": "China",
-  "link": "https://www.ic-cir.org/",
-  "type": "Conference",
-  "addressLink": "https://maps.google.com/?q=Tianjin,+China",
-  "note": "ICCIR 2025 brings together global researchers and practitioners in control and intelligent robotics. The conference includes keynote speeches, oral and poster sessions, and an academic investigation. Accepted papers will be published and submitted for indexing in major databases."
+    "shortName": "ICCIR",
+    "name": "5th International Conference on Control and Intelligent Robotics",
+    "start": "2025-06-20",
+    "end": "2025-06-22",
+    "deadline": "2025-05-06",
+    "city": "Tianjin",
+    "country": "China",
+    "link": "https://www.ic-cir.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.google.com/?q=Tianjin,+China",
+    "note": "ICCIR 2025 brings together global researchers and practitioners in control and intelligent robotics. The conference includes keynote speeches, oral and poster sessions, and an academic investigation. Accepted papers will be published and submitted for indexing in major databases."
   },
   {
     "shortName": "ICRAS",
@@ -910,6 +910,19 @@
     "note": "It is our great pleasure to invite you to join 2025 the 8th International Conference on Intelligent Robotics and Control Engineering (IRCE), which will be hosted in Kunming, China during August 18-21, 2025. IRCE is sponsored by Kunming University of Science and Technology, China, hosted by Faculty of Mechanical and Electrical Engineering, KUST, patrons are Concordia University, Canada, Northeastern University, China, Nankai University, China, Southeast University, China, Northeast Electric Power University, China, and Tianjin University, China etc.. This event will provide unique opportunity to have fruitful discussions about Intelligent Robotics, Automations and Control Engineering, and best practices that address Artificial Intelligence. The IRCE conference aims to foster interdisciplinary and international collaboration opportunities, and strengthen domestic and international recognition in pure and applied research for the participants."
   },
   {
+    "shortName": "ICMME",
+    "name": "4th International Conference on Mechatronics and Mechanical Engineering",
+    "start": "2025-08-22",
+    "end": "2025-08-24",
+    "deadline": "",
+    "city": "Dalian",
+    "country": "China",
+    "link": "http://www.mmeconf.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "M2VIP",
     "name": "31st International Conference on Mechatronics and Machine Vision in Practice",
     "start": "2025-08-27",
@@ -1155,19 +1168,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/bMazMkC98Bkecqqa7",
     "note": "Oklahoma International Publishing (OkIP) is pleased to host the 2025 OkIP International Conference on Automated and Intelligent Systems (CAIS). The conference aims to unite scholars from different disciplinary backgrounds to emphasize disseminating ongoing research and development. Proposals are solicited describing original works in the fields and related technologies. This event will include a peer-reviewed program of technical, industrial, and poster sessions. Accepted and presented full papers from the tracks below will be published by OkIP and submitted for indexation in major abstract and citation databases of peer-reviewed literature. Extended versions of best papers will be considered for the inaugural issue of the International Journal of Automated and Intelligent Systems."
-  },  
+  },
   {
-  "shortName": "ALIFE",
-  "name": "The 2025 Conference on Artificial Life",
-  "start": "2025-10-06",
-  "end": "2025-10-10",
-  "deadline": "2025-05-11",
-  "city": "Kyoto",
-  "country": "Japan",
-  "link": "https://2025.alife.org/",
-  "type": "Conference",
-  "addressLink": "https://maps.app.goo.gl/Rb33MDrMzjxzUznR8",
-  "note": "ALIFE 2025, themed 'Ciphers of Life', will be held in Kyoto, Japan, from October 6–10, 2025. The conference focuses on artificial life research, exploring how life encodes information and interacts with its environment. Submission deadlines are May 11, 2025, for Full Papers and Summaries, with a possible extension to May 21 upon application. Late Breaking Abstracts are due by September 8, 2025. Accepted Full Papers will be published by MIT Press as open access conference proceedings."
+    "shortName": "ALIFE",
+    "name": "The 2025 Conference on Artificial Life",
+    "start": "2025-10-06",
+    "end": "2025-10-10",
+    "deadline": "2025-05-11",
+    "city": "Kyoto",
+    "country": "Japan",
+    "link": "https://2025.alife.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/Rb33MDrMzjxzUznR8",
+    "note": "ALIFE 2025, themed 'Ciphers of Life', will be held in Kyoto, Japan, from October 6\u201310, 2025. The conference focuses on artificial life research, exploring how life encodes information and interacts with its environment. Submission deadlines are May 11, 2025, for Full Papers and Summaries, with a possible extension to May 21 upon application. Late Breaking Abstracts are due by September 8, 2025. Accepted Full Papers will be published by MIT Press as open access conference proceedings."
   },
   {
     "shortName": "ICMI",

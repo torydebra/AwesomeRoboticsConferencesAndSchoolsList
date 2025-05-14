@@ -180,6 +180,21 @@
         "note": "MedICSS 2025 will allow early career scientists to engage with world-leading medical imaging experts from academia and industry. Delegates will learn about the newest developments across the field through a series of lectures by scientific leaders and will engage in active learning through interactive computational group projects encouraging collaboration, critical thinking, and scientific discovery."
     },
     {
+        "shortName": "RAISE",
+        "name": "International Summer School on Robotics and Artificial Intelligence in Systems Engineering",
+        "start": "2025-07-14",
+        "end": "2025-07-16",
+        "deadline": "2025-06-15",
+        "city": "Sfax",
+        "country": "Tunisia",
+        "link": "https://raiseschool.github.io/RAISE2025/",
+        "type": "School",
+        "cost": "TND400-700",
+        "costNote": "student/academic/industry: TND 400/500/700",
+        "addressLink": "https://maps.app.goo.gl/e37Qqhy974gw7KJTA",
+        "note": "The International Summer School RAISE 2025 is an intensive three-day summer school focused on cutting-edge robotics and artificial intelligence technologies in systems engineering. The program combines theoretical knowledge with hands-on workshops and a competitive challenge."
+    },
+    {
         "shortName": "ORSS",
         "name": "Optimization for Robotics Summer School",
         "start": "2025-07-14",

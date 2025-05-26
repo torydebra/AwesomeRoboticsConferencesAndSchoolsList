@@ -13,6 +13,19 @@
     "note": "IEEE/SICE SII is the premier symposium series presenting the state-of-the-art and future perspectives of system integration, where academic researchers and industry experts share ideas and experiences surrounding frontier technologies, research breakthroughs, and innovative solutions and applications."
   },
   {
+    "shortName": "AeroConf",
+    "name": "IEEE Aerospace Conference",
+    "start": "2025-03-07",
+    "end": "2025-03-14",
+    "deadline": "2024-07-01",
+    "city": "Big Sky",
+    "country": "USA",
+    "link": "https://www.aeroconf.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/KygHk1t18hX5ZaFW8",
+    "note": "The international IEEE Aerospace Conference, with AIAA and PHM Society as technical cosponsors, is organized to promote interdisciplinary understanding of aerospace systems, their underlying science and technology, and their applications to government and commercial endeavors."
+  },
+  {
     "shortName": "HRI",
     "name": "21st ACM/IEEE International Conference on Human-Robot Interaction",
     "start": "2026-03-16",
@@ -50,6 +63,19 @@
     "type": "Conference",
     "addressLink": "",
     "note": ""
+  },
+  {
+    "shortName": "ANTS",
+    "name": "International Conference on Swarm Intelligence",
+    "start": "2026-06-08",
+    "end": "2026-06-10",
+    "deadline": "2025-11-10",
+    "city": "Darmstadt",
+    "country": "Germany",
+    "link": "http://ants2026.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/41apvUfAHXJbAEKN8",
+    "note": "Swarm intelligence is an interdisciplinary and rapidly evolving field, rooted in the study of self-organizing processes in both natural and artificial systems. Researchers from disciplines ranging from ethology to statistical physics have developed models that explain collective phenomena, such as decision-making in social insect colonies and collective movements in human crowds. Swarm-inspired algorithms and methods have proven effective in solving complex optimization problems and creating multi-robot and networked systems of unparalleled resilience, adaptability and scalability. Applications of swarm intelligence continue to grow and become increasingly critical for addressing societal challenges such as environmental sustainability, food security, health, and global conflicts."
   },
   {
     "shortName": "AIM",

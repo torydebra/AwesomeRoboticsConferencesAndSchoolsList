@@ -975,7 +975,7 @@
     "note": "TAROS is the longest-running UK-hosted international conference on robotics and autonomous systems, aimed at the presentation and discussion of the latest results and methods in autonomous robotics research and applications.  In 2025, the RoboStar (robostar.cs.york.ac.uk) centre of excellence on Software Engineering for Robotics, in collaboration with colleagues at the Universities of York and Leeds, are organising TAROS at the University of York, from the 20th to the 22nd of August."
   },
   {
-    "shortName": "ROMAN",
+    "shortName": "RO-MAN",
     "name": "IEEE International Conference on Robot and Human Interactive Communication",
     "start": "2025-08-25",
     "end": "2025-08-29",
@@ -1027,19 +1027,6 @@
     "note": "The 21st century is witnessing a new phase of humanity history characterised by unprecedented crises and rapid technological advancements at the same time, both on a global scale.  The former includes increasingly perilous and widespread conflicts, global health crises, economic inequality and climate change, whilst the latter is driven by smart technology, Industry 4.0 and artificial intelligence.  These global crises are fundamentally linked to issues of quality and sustainability, either directly or indirectly, echoing the prophetic words of quality guru Joseph Juran: The 20th century has been the Century of Productivity, but the 21st century will be the Century of Quality"
   },
   {
-    "shortName": "ICIA",
-    "name": "International Conference on Information and Automation",
-    "start": "2025-08-28",
-    "end": "2025-08-31",
-    "deadline": "",
-    "city": "Lanzhou",
-    "country": "China",
-    "link": "http://www.icia2025.org",
-    "type": "Conference",
-    "addressLink": "https://maps.app.goo.gl/iyyzSCuCayvmg6e27",
-    "note": ""
-  },
-  {
     "shortName": "AGRICONTROL",
     "name": "IFAC Conference on Sensing, Control and Automation Technologies for Agriculture",
     "start": "2025-08-27",
@@ -1051,6 +1038,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/ik5Vp49q4Dc8TmHH6",
     "note": "This conference aims to provide an international forum for new methods and developments in sensing, control, and automation research and emerging results in agricultural production and automation. The conference brings together scientists, researchers, and scholars in the domain of interest from around the world to share ideas, techniques, challenges, and concerns with peers and expand their professional networks."
+  },
+  {
+  "shortName": "ICIA",
+  "name": "2025 IEEE International Conference on Information and Automation",
+  "start": "2025-08-28",
+  "end": "2025-08-31",
+  "deadline": "2025-05-01",
+  "city": "Lanzhou",
+  "country": "China",
+  "link": "http://www.icia2025.org/",
+  "type": "Conference",
+  "addressLink": "https://maps.app.goo.gl/iHZSuXutEwCraJG69",
+  "note": "ICIA 2025, sponsored by the IEEE Robotics and Automation Society, will be held in Lanzhou, China, from August 28 to 31, 2025. The conference focuses on information and automation, covering topics such as artificial intelligence, robotics, image processing, computer vision, digital signal processing, and biomedical engineering. Accepted papers will be submitted for inclusion in IEEE Xplore, subject to meeting IEEE's scope and quality requirements."
   },
   {
     "shortName": "ECMR",

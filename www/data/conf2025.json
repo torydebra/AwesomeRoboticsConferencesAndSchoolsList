@@ -1300,6 +1300,19 @@
     "note": ""
   },
   {
+    "shortName": "IRC",
+    "name": "8th Iberian Robotics Conference",
+    "start": "2025-11-12",
+    "end": "2025-11-14",
+    "deadline": "2025-07-20",
+    "city": "Porto",
+    "country": "Portugal",
+    "link": "https://www.robot2025.pt/",
+    "type": "Conference",
+    "addressLink": "https://www.openstreetmap.org/way/762553617",
+    "note": "We are proud to announce the Eight Iberian Robotics Conference, to be held at the School of Engineering of the Porto Polytechnic, from November 12 to 14, 2025. This conference is a platform for researchers and professionals to share ideas and advancements in several robotic areas. We invite authors to submit original contributions across all robotics domains, covering industrial robots, autonomous systems, educational robotics, and field and service robots. The conference will address modeling and simulation techniques, design methodologies, and practical applications of developed robotic systems. Additionally, we welcome submissions on AI techniques, computer vision and image processing, tactile and haptic devices, control algorithms and architectures, localization, mapping, navigation, and associated economic, ethical, legal, and social considerations. Moreover, the exploration of human-robot interaction, which encompasses personal and social robots, medical robots, and exoskeletons, representing an increasingly active and crucial area are also welcomed."
+  },
+  {
     "shortName": "ICAR",
     "name": "International Conference on Advanced Robotics",
     "start": "2025-12-02",

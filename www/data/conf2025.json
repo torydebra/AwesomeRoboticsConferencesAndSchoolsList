@@ -897,6 +897,19 @@
     "note": "The IEEE International Conference on Automation Science and Engineering (CASE) is the flagship automation conference of the IEEE Robotics and Automation Society (RAS) and constitutes the primary forum for cross-industry and multidisciplinary research in automation. Its goal is to provide broad coverage and dissemination of foundational research in automation among researchers and practitioners."
   },
   {
+    "shortName": "IC-ICEE",
+    "name": "International Conference on Intelligent Control and Electrical Engineering",
+    "start": "2025-08-22",
+    "end": "2025-08-24",
+    "deadline": "",
+    "city": "Changchun",
+    "country": "China",
+    "link": "http://www.ic-icee.org",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "IRCE",
     "name": "8th International Conference on Intelligent Robotics and Control Engineering",
     "start": "2025-08-18",
@@ -1040,17 +1053,17 @@
     "note": "This conference aims to provide an international forum for new methods and developments in sensing, control, and automation research and emerging results in agricultural production and automation. The conference brings together scientists, researchers, and scholars in the domain of interest from around the world to share ideas, techniques, challenges, and concerns with peers and expand their professional networks."
   },
   {
-  "shortName": "ICIA",
-  "name": "2025 IEEE International Conference on Information and Automation",
-  "start": "2025-08-28",
-  "end": "2025-08-31",
-  "deadline": "2025-05-01",
-  "city": "Lanzhou",
-  "country": "China",
-  "link": "http://www.icia2025.org/",
-  "type": "Conference",
-  "addressLink": "https://maps.app.goo.gl/iHZSuXutEwCraJG69",
-  "note": "ICIA 2025, sponsored by the IEEE Robotics and Automation Society, will be held in Lanzhou, China, from August 28 to 31, 2025. The conference focuses on information and automation, covering topics such as artificial intelligence, robotics, image processing, computer vision, digital signal processing, and biomedical engineering. Accepted papers will be submitted for inclusion in IEEE Xplore, subject to meeting IEEE's scope and quality requirements."
+    "shortName": "ICIA",
+    "name": "2025 IEEE International Conference on Information and Automation",
+    "start": "2025-08-28",
+    "end": "2025-08-31",
+    "deadline": "2025-05-01",
+    "city": "Lanzhou",
+    "country": "China",
+    "link": "http://www.icia2025.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/iHZSuXutEwCraJG69",
+    "note": "ICIA 2025, sponsored by the IEEE Robotics and Automation Society, will be held in Lanzhou, China, from August 28 to 31, 2025. The conference focuses on information and automation, covering topics such as artificial intelligence, robotics, image processing, computer vision, digital signal processing, and biomedical engineering. Accepted papers will be submitted for inclusion in IEEE Xplore, subject to meeting IEEE's scope and quality requirements."
   },
   {
     "shortName": "ECMR",
@@ -1272,6 +1285,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/pTLByPfrUKgK9KNQ9",
     "note": "CLAWAR 2025 is the 28th issue of the International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines. The conference will be organized in collaboration with the Shenzhen Technology University, China, and held within the premises of the university, during 05 \u2013 07 September 2025. The technical programme of CLAWAR 2025 will feature plenary, regular and special/invited sessions. The conference proceedings will be published in the Springer\u2019s Lecture Notes in Networks and Systems series and indexed in Scopus, EI and Web of Science."
+  },
+  {
+    "shortName": "ICCMA",
+    "name": "13th International Conference on Control, Mechatronics and Automation",
+    "start": "2025-11-24",
+    "end": "2025-11-26",
+    "deadline": "",
+    "city": "Paris",
+    "country": "France",
+    "link": "http://www.iccma.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   },
   {
     "shortName": "ICNSC",

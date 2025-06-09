@@ -906,7 +906,7 @@
     "country": "China",
     "link": "http://www.ic-icee.org",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/3WjrTfDiVtAMoJcr6",
     "note": ""
   },
   {
@@ -1291,13 +1291,13 @@
     "name": "13th International Conference on Control, Mechatronics and Automation",
     "start": "2025-11-24",
     "end": "2025-11-26",
-    "deadline": "",
+    "deadline": "2025-06-20",
     "city": "Paris",
     "country": "France",
     "link": "http://www.iccma.org/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/AWMMXr9pUoAAKSDq9",
+    "note": "Based on the success of that, in 2025, The 13th International Conference on Control, Mechatronics and Automation (ICCMA 2025) will be held at Paris, France, from November 24-26, 2025. The conference is co-sponsored by University of Versailles and University of Lille, France, provides a platform for researchers, scholars, engineers, and students from around the world to present their research, share ideas, and foster research collaborations between academia and industry. ICCMA is a well-known event worldwide and has been attracting increasing numbers of paper submissions and attendees every year."
   },
   {
     "shortName": "ICNSC",

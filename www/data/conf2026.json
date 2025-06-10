@@ -92,6 +92,19 @@
   },
   {
     "shortName": "AUV",
+    "name": "AUV Symposium",
+    "start": "2026-09-01",
+    "end": "2026-09-03",
+    "deadline": "2026-07-01",
+    "city": "Southampton",
+    "country": "UK",
+    "link": "https://www.auv2026-southampton.com/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/kbMunvEpGmcVv5ML8",
+    "note": "Our focus is on the technologies and applications of autonomous underwater vehicles (AUVs), autonomous surface vessels (ASVs), underwater gliders, and Lagrangian floats, with most papers centered on field robotics or data collected from real-world deployments."
+  },
+  {
+    "shortName": "AUV",
     "name": "IEEE OES AUV",
     "start": "2026-09-01",
     "end": "2026-09-03",

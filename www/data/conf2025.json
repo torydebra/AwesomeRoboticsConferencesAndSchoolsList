@@ -702,6 +702,19 @@
     "note": "WHC is a joint gathering of IEEE Haptics Symposium and Eurohaptics Conference which takes place in alternate years and rotates among North America, Europe and Asia. WHC 2025 will take place in Suwon, South Korea from July, 8th-11th, 2025. The conference will offer an exciting program including cross-cutting challenge sessions, technical paper oral and poster sessions, work-in-progress sessions, demonstrations, industrial exhibits, workshops/tutorials and other technical and social activities."
   },
   {
+    "shortName": "CYBER",
+    "name": "IEEE 15th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems",
+    "start": "2025-07-15",
+    "end": "2025-07-18",
+    "deadline": "",
+    "city": "Shanghai",
+    "country": "China",
+    "link": "http://ieee-cyber.org/2025/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "CABLECON",
     "name": "International Conference on Cable-Driven Parallel Robots",
     "start": "2025-07-08",
@@ -855,6 +868,19 @@
     "link": "http://2025.ieee-icma.org/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/zo8xWmLdP1xsmtfj7",
+    "note": ""
+  },
+  {
+    "shortName": "WRC",
+    "name": "World Robot Conference",
+    "start": "2025-08-08",
+    "end": "2025-08-12",
+    "deadline": "",
+    "city": "Beijing",
+    "country": "China",
+    "link": "http://www.worldrobotconference.com/en",
+    "type": "Conference",
+    "addressLink": "",
     "note": ""
   },
   {

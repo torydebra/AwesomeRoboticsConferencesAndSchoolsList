@@ -52,14 +52,14 @@
     "note": ""
   },
   {
-    "shortName": "ICRA",
-    "name": "IEEE International Conference on Robotics and Automation",
-    "start": "2026-06-01",
-    "end": "2026-06-05",
+    "shortName": "RoboSoft",
+    "name": "IEEE-RAS International Conference on Soft Robotics",
+    "start": "2026",
+    "end": "2026",
     "deadline": "",
-    "city": "Wien",
-    "country": "Austria",
-    "link": "",
+    "city": "Kanazawa",
+    "country": "Japan",
+    "link": "https://robosoft2026.org/",
     "type": "Conference",
     "addressLink": "",
     "note": ""

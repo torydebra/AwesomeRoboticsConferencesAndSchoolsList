@@ -37,5 +37,18 @@
     "type": "Conference",
     "addressLink": "",
     "note": ""
+  },
+  {
+    "shortName": "RoboSoft",
+    "name": "IEEE-RAS International Conference on Soft Robotics",
+    "start": "2027",
+    "end": "20267",
+    "deadline": "",
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "link": "https://robosoft2026.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   }
 ]

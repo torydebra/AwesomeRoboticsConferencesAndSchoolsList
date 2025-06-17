@@ -104,19 +104,6 @@
     "note": "Our focus is on the technologies and applications of autonomous underwater vehicles (AUVs), autonomous surface vessels (ASVs), underwater gliders, and Lagrangian floats, with most papers centered on field robotics or data collected from real-world deployments."
   },
   {
-    "shortName": "AUV",
-    "name": "IEEE OES AUV",
-    "start": "2026-09-01",
-    "end": "2026-09-03",
-    "deadline": "",
-    "city": "Southampton",
-    "country": "UK",
-    "link": "",
-    "type": "Conference",
-    "addressLink": "",
-    "note": ""
-  },
-  {
     "shortName": "EHAPTICS",
     "name": "Eurohaptics",
     "start": "2026",

@@ -136,7 +136,7 @@
     },
     {
         "shortName": "DLCA",
-        "name": " Deep Learning School",
+        "name": "Deep Learning School",
         "start": "2025-06-23",
         "end": "2025-07-04",
         "deadline": "",
@@ -238,6 +238,21 @@
         "costNote": "",
         "addressLink": "https://www.openstreetmap.org/way/131987790",
         "note": "The Summer School in 'REINFORCEMENT LEARNING AND LARGE LANGUAGE MODELS FOR ROBOTICS' is designed to equip PhD students, and young researchers with cutting-edge knowledge and practical skills combining artificial intelligence, machine learning, and robotics. Recent advancements in robotics, driven by reinforcement learning and large language models, have enabled robots to perform complex tasks and engage in more intuitive human-robot interactions. This summer school explores the convergence of these fields, aiming to shape the next generation of robots that can both learn and communicate in innovative ways."
+    },
+    {
+        "shortName": "CROSSROADS",
+        "name": "PhD Summer School CROSSROADS",
+        "start": "2025-07-14",
+        "end": "2025-07-18",
+        "deadline": "",
+        "city": "Genova",
+        "country": "Italy",
+        "link": "https://crossroads.unige.it/",
+        "type": "School",
+        "cost": "free",
+        "costNote": "lunch breaks inc.",
+        "addressLink": "https://maps.app.goo.gl/xDfpJLyQyKnJMBh47",
+        "note": "The school is open to doctorate students of and disciplines, but also to scientists, and practitioners interested to probe further the relevant aspects of the new AI and Robotics technologies and their implications with a transdisciplinary approach"
     },
     {
         "shortName": "CCAA",

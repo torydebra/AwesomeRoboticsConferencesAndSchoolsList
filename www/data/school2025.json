@@ -352,8 +352,8 @@
         "link": "https://deeplearn.irdta.eu/2025/",
         "type": "School",
         "shortName": "DEEPLEARN",
-        "start": "2024-07-21",
-        "end": "2024-07-25",
+        "start": "2025-07-21",
+        "end": "2025-07-25",
         "cost": "340-670€",
         "costNote": "increasing according to deadlines", 
         "addressLink": "https://maps.app.goo.gl/XKZj1ysz96cUkBaZ7",
@@ -367,8 +367,8 @@
         "link": "https://www.imperial.ac.uk/robotics/imperial-robotics-summer-school/",
         "type": "School",
         "shortName": "IMP",
-        "start": "2024-07-21",
-        "end": "2024-07-25",
+        "start": "2025-07-21",
+        "end": "2025-07-25",
         "cost": "1500GBP",
         "costNote": "", 
         "addressLink": "https://www.openstreetmap.org/relation/12233221",
@@ -448,5 +448,20 @@
         "costNote": "IFToMM/not early(late) €425(475)/475(525)", 
         "addressLink": "https://maps.app.goo.gl/chTi8yGzhoj4D3tG8",
         "note": "The school will offer a good balance of theory and practice. The attendees will be introduced to the mathematical theory needed to cope with singularities, but also to the software tools to compute and visualize them."
+    },
+    {
+        "shortName": "IAISS",
+        "name": "A Residential Summer School in AI & Generative AI for Science and Engineering",
+        "start": "2025-09-21",
+        "end": "2025-09-25",
+        "deadline": "",
+        "city": "Castiglione della Pescaia",
+        "country": "Italy",
+        "link": "https://2025.iaiss.cc/",
+        "type": "School",
+        "cost": "€580-630",
+        "costNote": "early/late", 
+        "addressLink": "https://maps.app.goo.gl/KgUyGM3vr5oRj2RQA",
+        "note": "IAISS 2025 is a full-immersion 5-day Summer School in Tuscany on cutting-edge advances in AI and Generative AI with lectures delivered by world-renowned experts."
     }
 ]

@@ -1376,5 +1376,18 @@
     "type": "Conference",
     "addressLink": "https://www.openstreetmap.org/way/729350752",
     "note": "WRS 2025 hosts multiple robotics competitions focusing on future convenience stores (Osaka), disaster response robotics (Fukushima), and manufacturing automation (Aichi). It aims to advance real-world robotic applications."
-  }
+  },
+  {
+    "shortName": "Actuate",
+    "name": "Actuate 2025",
+    "start": "2025-09-23",
+    "end": "2025-09-24",
+    "deadline": "",
+    "city": "San Francisco",
+    "country": "United States",
+    "link": "https://actuate.foxglove.dev/",
+    "addressLink": "https://maps.app.goo.gl/e8rYFRdnyZeLYxBe6",
+    "type": "Conference",
+    "note": "Actuate 2025 by Foxglove is the developer conference for people who build robots."
+ },
 ]

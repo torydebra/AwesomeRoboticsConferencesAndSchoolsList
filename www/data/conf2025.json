@@ -1144,6 +1144,19 @@
     "note": "The annual M2VIP conference aims to facilitate the exchange of ideas and developments in all aspects of Advances in Mechatronics and Machine Vision. Mechatronics is regarded as the fusion of mechanical, electrical and computer engineering for the design and development of mechatronic products, while machine vision brings a sense of intelligence. With the advent of new functional materials, smart actuators, smart sensors, powerful processors and embedded computing, as well as the latest advances in machine vision, machine learning, deep learning, cloud computing, a lot of more intelligent, powerful, miniaturized, or user-friendly devices, systems and robots are emerging that meet the needs of modern day living and industries and the challenges."
   },
   {
+    "shortName": "Actuate",
+    "name": "Actuate 2025",
+    "start": "2025-09-23",
+    "end": "2025-09-24",
+    "deadline": "",
+    "city": "San Francisco",
+    "country": "United States",
+    "link": "https://actuate.foxglove.dev/",
+    "addressLink": "https://maps.app.goo.gl/e8rYFRdnyZeLYxBe6",
+    "type": "Conference",
+    "note": "Actuate 2025 by Foxglove is the developer conference for people who build robots."
+  },
+  {
     "shortName": "CORL",
     "name": "Conference on Robot Learning",
     "start": "2025-09-27",

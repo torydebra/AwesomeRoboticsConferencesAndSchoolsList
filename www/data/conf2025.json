@@ -933,7 +933,20 @@
     "link": "http://www.mmeconf.org/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/ccdEydVjnEQng4QU7",
-    "note": "ICMME has been successfully held for three sessions, the conference aims to be an important forum for researchers and scholars from multiple disciplines to come together to share knowledge, discuss ideas, exchange information, and learn about cutting-edge research in diverse fields with the common theme of mechatronics and mechanical engineering. We look forward to your contributions to ICMME 2025!"
+    "note": "ICMME has been successfully held for three sessions, the conference aims to be an important forum for researchers and scholars from multiple disciplines to come together to share knowledge, discuss ideas, exchange information, and learn about cutting-edge research in diverse fields with the common theme of mechatronics and mechanical engineering. We look forward to your contributions to ICMME 2025"
+  },
+  {
+    "shortName": "ICBIR",
+    "name": "International Conference on Biomimetic Intelligence and Robotics",
+    "start": "2025-08-26",
+    "end": "2025-08-28",
+    "deadline": "2025-07-20",
+    "city": "Zhangye",
+    "country": "China",
+    "link": "https://www.icbir.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.google.com/?q=Zhangye,+Gansu,+China",
+    "note": "Original research papers in AI, Robotics, Biomimetics and related areas, as well as papers reporting novel real-world applications are welcome. All accepted papers will be published by Elsevier and Indexed by EI. Award winning papers will be invited to publish an expanded version of the papers in Biomimetic Intelligence and Robotics and other journals. All accepted and presented papers at the conference will be considered for the five categories of best paper awards."
   },
   {
     "shortName": "M2VIP",
@@ -1066,6 +1079,19 @@
     "note": "We are excited to invite submissions to the 12th European Conference on Mobile Robots (ECMR 2025). Following a successful journey from Radziejowice to Ancona, Freiburg, Mlini/Dubrovnik, \u00d6rebro, Barcelona, Lincoln, Paris, Prague, Bonn, and Coimbra, the next edition will be held in Padova. This time, we will focus on the cognitive capabilities of today\u2019s and tomorrow\u2019s mobile robots, emphasizing cognition, perception, interaction, and AI-enhanced autonomy."
   },
   {
+    "shortName": "CLAWAR",
+    "name": "International Conference on Climbing and Walking Robots and Support Technologies for Mobile Machines",
+    "start": "2025-09-05",
+    "end": "2025-09-07",
+    "deadline": "2025-04-15",
+    "city": "Shenzhen",
+    "country": "China",
+    "link": "https://clawar.org/clawar2025/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/pTLByPfrUKgK9KNQ9",
+    "note": "CLAWAR 2025 is the 28th issue of the International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines. The conference will be organized in collaboration with the Shenzhen Technology University, China, and held within the premises of the university, during 05 \u2013 07 September 2025. The technical programme of CLAWAR 2025 will feature plenary, regular and special/invited sessions. The conference proceedings will be published in the Springer\u2019s Lecture Notes in Networks and Systems series and indexed in Scopus, EI and Web of Science."
+  },
+  {
     "shortName": "ICCB",
     "name": "11th International Conference on Computational Bioengineering",
     "start": "2025-09-08",
@@ -1150,7 +1176,7 @@
     "end": "2025-09-24",
     "deadline": "",
     "city": "San Francisco",
-    "country": "United States",
+    "country": "USA",
     "link": "https://actuate.foxglove.dev/",
     "addressLink": "https://maps.app.goo.gl/e8rYFRdnyZeLYxBe6",
     "type": "Conference",
@@ -1194,6 +1220,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/bMazMkC98Bkecqqa7",
     "note": "Oklahoma International Publishing (OkIP) is pleased to host the 2025 OkIP International Conference on Automated and Intelligent Systems (CAIS). The conference aims to unite scholars from different disciplinary backgrounds to emphasize disseminating ongoing research and development. Proposals are solicited describing original works in the fields and related technologies. This event will include a peer-reviewed program of technical, industrial, and poster sessions. Accepted and presented full papers from the tracks below will be published by OkIP and submitted for indexation in major abstract and citation databases of peer-reviewed literature. Extended versions of best papers will be considered for the inaugural issue of the International Journal of Automated and Intelligent Systems."
+  },
+  {
+    "shortName": "ICNSC",
+    "name": "2025 International Conference on Networking, Sensing, and Control",
+    "start": "2025-10-01",
+    "end": "2025-10-03",
+    "deadline": "2025-06-01",
+    "city": "Oulu",
+    "country": "Finland",
+    "link": "https://www.oulu.fi/icnsc2025/",
+    "type": "Conference",
+    "addressLink": "https://www.openstreetmap.org/relation/11536366",
+    "note": "ICNSC 2025, themed 'Autonomous Intelligent Systems', will be held at the University of Oulu in Finland. The conference features plenary speeches, panel sessions, tutorials, workshops, and special sessions. Topics include adaptive systems, autonomous agents, cyber-physical systems, edge computing, federated learning, smart grids, and more. Paper submissions are due by June 1, 2025, with camera-ready copies due by September 15, 2025. The conference is sponsored by the Biomimetics and Intelligent Systems Group at the University of Oulu and Jishou University, China, with technical co-sponsorship from the IEEE SMC Society and IEEE Finland Section."
   },
   {
     "shortName": "ALIFE",
@@ -1274,43 +1313,30 @@
     "note": "ROSCon is a developers\u2019 conference, in the model of PyCon and BoostCon. Following the success of our past events, this year\u2019s ROSCon will be our fourteenth ROSCon and held in Singapore. Similar to previous years, the three-day program will comprise a mixture of workshops, technical talks, and tutorials that will introduce you to new tools and libraries, as well as teach you more about the ones you already know. The bulk of the program will be presentations, along with panel discussions, lightning talks, demonstrations, and workshops."
   },
   {
-    "shortName": "CLAWAR",
-    "name": "International Conference on Climbing and Walking Robots and Support Technologies for Mobile Machines",
-    "start": "2025-09-05",
-    "end": "2025-09-07",
-    "deadline": "2025-04-15",
-    "city": "Shenzhen",
-    "country": "China",
-    "link": "https://clawar.org/clawar2025/",
-    "type": "Conference",
-    "addressLink": "https://maps.app.goo.gl/pTLByPfrUKgK9KNQ9",
-    "note": "CLAWAR 2025 is the 28th issue of the International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines. The conference will be organized in collaboration with the Shenzhen Technology University, China, and held within the premises of the university, during 05 \u2013 07 September 2025. The technical programme of CLAWAR 2025 will feature plenary, regular and special/invited sessions. The conference proceedings will be published in the Springer\u2019s Lecture Notes in Networks and Systems series and indexed in Scopus, EI and Web of Science."
+  "shortName": "SSRR",
+  "name": "IEEE International Symposium on Safety, Security, and Rescue Robotics",
+  "start": "2025-10-29",
+  "end": "2025-10-31",
+  "deadline": "2025-07-16",
+  "city": "Galway",
+  "country": "Ireland",
+  "link": "https://www.ssrr2025.org/",
+  "type": "Conference",
+  "addressLink": "https://maps.app.goo.gl/mYWEQjvBakv5a9tA8",
+  "note": "SSRR 2025, taking place October 29-31 in Galway, Ireland, focuses on real-world safety, security, and rescue robotics in extreme and disaster scenarios. Extended abstracts (3-4 pages plus references) are due July 16, with full paper deadlines on September 5 and camera-ready submissions due September 30. The conference features single-track sessions, field exercises, and hands-on community engagement, with proceedings published by IEEE." 
   },
   {
-    "shortName": "ICCMA",
-    "name": "13th International Conference on Control, Mechatronics and Automation",
-    "start": "2025-11-24",
-    "end": "2025-11-26",
-    "deadline": "2025-06-20",
-    "city": "Paris",
-    "country": "France",
-    "link": "http://www.iccma.org/",
-    "type": "Conference",
-    "addressLink": "https://maps.app.goo.gl/AWMMXr9pUoAAKSDq9",
-    "note": "Based on the success of that, in 2025, The 13th International Conference on Control, Mechatronics and Automation (ICCMA 2025) will be held at Paris, France, from November 24-26, 2025. The conference is co-sponsored by University of Versailles and University of Lille, France, provides a platform for researchers, scholars, engineers, and students from around the world to present their research, share ideas, and foster research collaborations between academia and industry. ICCMA is a well-known event worldwide and has been attracting increasing numbers of paper submissions and attendees every year."
-  },
-  {
-    "shortName": "ICNSC",
-    "name": "2025 International Conference on Networking, Sensing, and Control",
-    "start": "2025-10-01",
-    "end": "2025-10-03",
-    "deadline": "2025-06-01",
-    "city": "Oulu",
-    "country": "Finland",
-    "link": "https://www.oulu.fi/icnsc2025/",
-    "type": "Conference",
-    "addressLink": "https://www.openstreetmap.org/relation/11536366",
-    "note": "ICNSC 2025, themed 'Autonomous Intelligent Systems', will be held at the University of Oulu in Finland. The conference features plenary speeches, panel sessions, tutorials, workshops, and special sessions. Topics include adaptive systems, autonomous agents, cyber-physical systems, edge computing, federated learning, smart grids, and more. Paper submissions are due by June 1, 2025, with camera-ready copies due by September 15, 2025. The conference is sponsored by the Biomimetics and Intelligent Systems Group at the University of Oulu and Jishou University, China, with technical co-sponsorship from the IEEE SMC Society and IEEE Finland Section."
+  "shortName": "LARS/LARC",
+  "name": "IEEE Latin American Robotics Symposium (LARS) & Competition (LARC)",
+  "start": "2025-10-29",
+  "end": "2025-11-01",
+  "deadline": "2025-09-04",
+  "city": "Monterrey",
+  "country": "Mexico",
+  "link": "https://www.femexrobotica.org/larc-lars2025/",
+  "type": "Symposium & Competition",
+  "addressLink": "https://maps.app.goo.gl/Y2mDehDymMqhMLnX9",
+  "note": "LARS/Symposium and LARC/Competition will be held Oct 29-Nov 1, 2025, in Monterrey, organized by IEEE-RAS Latin American Robotics Council. The symposium features peer-reviewed papers; the competition offers regional robotics contests. The call for papers and program details reflect a combined event promoting research, education, and robotic system development in Latin America"
   },
   {
     "shortName": "ICCAS",
@@ -1326,6 +1352,19 @@
     "note": ""
   },
   {
+    "shortName": "UR-RAD",
+    "name": "The 3rd AAAI Fall Symposium on Unifying Representations for Robot Application Development",
+    "start": "2025-11-06",
+    "end": "2025-11-08",
+    "deadline": "2025-09-29",
+    "city": "Arlington, VA",
+    "country": "USA",
+    "link": "https://ur-rad.github.io/fss_2025/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/ovwLRuCbaeyCg7ea8",
+    "note": "Last year, UR-RAD focused on representation trends in robotics and best practices for adopting existing and new representations. This year, based on community feedback, we are planning on elevating the interaction between junior and senior members of the community."
+  },
+  {
     "shortName": "IRC",
     "name": "8th Iberian Robotics Conference",
     "start": "2025-11-12",
@@ -1337,6 +1376,19 @@
     "type": "Conference",
     "addressLink": "https://www.openstreetmap.org/way/762553617",
     "note": "We are proud to announce the Eight Iberian Robotics Conference, to be held at the School of Engineering of the Porto Polytechnic, from November 12 to 14, 2025. This conference is a platform for researchers and professionals to share ideas and advancements in several robotic areas. We invite authors to submit original contributions across all robotics domains, covering industrial robots, autonomous systems, educational robotics, and field and service robots. The conference will address modeling and simulation techniques, design methodologies, and practical applications of developed robotic systems. Additionally, we welcome submissions on AI techniques, computer vision and image processing, tactile and haptic devices, control algorithms and architectures, localization, mapping, navigation, and associated economic, ethical, legal, and social considerations. Moreover, the exploration of human-robot interaction, which encompasses personal and social robots, medical robots, and exoskeletons, representing an increasingly active and crucial area are also welcomed."
+  },
+  {
+    "shortName": "ICCMA",
+    "name": "13th International Conference on Control, Mechatronics and Automation",
+    "start": "2025-11-24",
+    "end": "2025-11-26",
+    "deadline": "2025-06-20",
+    "city": "Paris",
+    "country": "France",
+    "link": "http://www.iccma.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/AWMMXr9pUoAAKSDq9",
+    "note": "Based on the success of that, in 2025, The 13th International Conference on Control, Mechatronics and Automation (ICCMA 2025) will be held at Paris, France, from November 24-26, 2025. The conference is co-sponsored by University of Versailles and University of Lille, France, provides a platform for researchers, scholars, engineers, and students from around the world to present their research, share ideas, and foster research collaborations between academia and industry. ICCMA is a well-known event worldwide and has been attracting increasing numbers of paper submissions and attendees every year."
   },
   {
     "shortName": "ICAR",

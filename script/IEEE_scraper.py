@@ -125,6 +125,8 @@ def main():
             #ignore roman already present because of bad format
             # if (scraped_conf.name == "34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)"):
             #     continue
+
+            #print(vars(scraped_conf))
             print("Adding ", scraped_conf.shortName, scraped_conf.year)
             json_file_to_update[scraped_conf.year] = True
 

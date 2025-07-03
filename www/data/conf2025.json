@@ -702,6 +702,19 @@
     "note": "WHC is a joint gathering of IEEE Haptics Symposium and Eurohaptics Conference which takes place in alternate years and rotates among North America, Europe and Asia. WHC 2025 will take place in Suwon, South Korea from July, 8th-11th, 2025. The conference will offer an exciting program including cross-cutting challenge sessions, technical paper oral and poster sessions, work-in-progress sessions, demonstrations, industrial exhibits, workshops/tutorials and other technical and social activities."
   },
   {
+    "shortName": "CYBER",
+    "name": "IEEE 15th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems",
+    "start": "2025-07-15",
+    "end": "2025-07-18",
+    "deadline": "2025-05-10",
+    "city": "Shanghai",
+    "country": "China",
+    "link": "http://ieee-cyber.org/2025/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/MqgXScs9qWzMm3iZ6",
+    "note": "IEEE-CYBER is sponsored by IEEE Robotics & Automation Society focusing on the advanced Cyber techniques in automation, control, and intelligent cyber systems. The IEEE Robotics and Automation Society is committed to advancing diversity in Robotics and Automation, and to promoting an inclusive and equitable culture that welcomes, engages, and rewards all who contribute to the field, without regard to ethnicity, religion, gender, disability, age, national origin, sexual orientation, gender identity, or gender expression."
+  },
+  {
     "shortName": "CABLECON",
     "name": "International Conference on Cable-Driven Parallel Robots",
     "start": "2025-07-08",
@@ -856,6 +869,32 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/zo8xWmLdP1xsmtfj7",
     "note": ""
+  },
+  {
+    "shortName": "WRC",
+    "name": "World Robot Conference",
+    "start": "2025-08-08",
+    "end": "2025-08-12",
+    "deadline": "",
+    "city": "Beijing",
+    "country": "China",
+    "link": "http://www.worldrobotconference.com/en",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/izic5DeeTb241uXL8",
+    "note": "The WRC 2025, co-hosted by the Chinese Institute of Electronics (CIE) and the World Robot Cooperation Organization (WRCO), will continue to focus on “Artificial Intelligence + Robotics”, address cutting-edge technological trends, industrial development directions, application fields, standards system development, talent cultivation, and more, and promote both international and domestic cooperation in these fields.The WRC 2025 hopes to join hands with all stakeholders to create a robot-themed event that brings together global wisdom, fosters development opportunities, deepens industry exchanges and writes a new chapter in the future of the robotics industry."
+  },
+  {
+    "shortName": "ARA",
+    "name": "WRC Symposium on Advanced Robotics and Automation (WRC)",
+    "start": "2025-08-10",
+    "end": "2025-08-10",
+    "deadline": "2025-06-23",
+    "city": "Beijing",
+    "country": "China",
+    "link": "https://www.worldrobotconference.com/en/sara/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/izic5DeeTb241uXL8",
+    "note": "The WRC Symposium on Advanced Robotics and Automation (WRC SARA) is scheduled to be held in Beijing on August 10, 2025 during 2025 World Robot Conference (WRC). It is an international symposium focusing on all areas related to roboticsand automation. Over its precious six sessions since 2018, all accepted and presented papers have been included in lEEE Xplore and El indexed."
   },
   {
     "shortName": "COINS",
@@ -1261,6 +1300,19 @@
     "note": "ICMI 2025 is the premier conference on multimodal artificial intelligence and social interaction research, featuring keynote speakers, technical papers, demonstrations, and workshops. It promotes interdisciplinary studies in AI-driven multimodal systems and human-computer interaction."
   },
   {
+    "shortName": "ICRCV",
+    "name": "7th International Conference on Robotics and Computer Vision",
+    "start": "2025-10-24",
+    "end": "2025-10-26",
+    "deadline": "2025-07-15",
+    "city": "Hong Kong",
+    "country": "China",
+    "link": "http://www.icrcv.org",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/UKt3z1bQMnUvSzkg6",
+    "note": "The conference will cover a wide range of important topics, including but not limited to: robot control, microrobotics and micromanipulation technologies, robot perception and data fusion, image/video analysis, image-based modeling and recognition, and other cutting-edge advancements. In addition to keynote and invited speeches, the conference will feature oral presentations and poster sessions, providing a comprehensive platform for the exchange and display of the latest research findings."
+  },
+  {
     "shortName": "CBS",
     "name": "IEEE International Conference on Cyborg and Bionic Systems",
     "start": "2025-10-17",
@@ -1313,30 +1365,30 @@
     "note": "ROSCon is a developers\u2019 conference, in the model of PyCon and BoostCon. Following the success of our past events, this year\u2019s ROSCon will be our fourteenth ROSCon and held in Singapore. Similar to previous years, the three-day program will comprise a mixture of workshops, technical talks, and tutorials that will introduce you to new tools and libraries, as well as teach you more about the ones you already know. The bulk of the program will be presentations, along with panel discussions, lightning talks, demonstrations, and workshops."
   },
   {
-  "shortName": "SSRR",
-  "name": "IEEE International Symposium on Safety, Security, and Rescue Robotics",
-  "start": "2025-10-29",
-  "end": "2025-10-31",
-  "deadline": "2025-07-16",
-  "city": "Galway",
-  "country": "Ireland",
-  "link": "https://www.ssrr2025.org/",
-  "type": "Conference",
-  "addressLink": "https://maps.app.goo.gl/mYWEQjvBakv5a9tA8",
-  "note": "SSRR 2025, taking place October 29-31 in Galway, Ireland, focuses on real-world safety, security, and rescue robotics in extreme and disaster scenarios. Extended abstracts (3-4 pages plus references) are due July 16, with full paper deadlines on September 5 and camera-ready submissions due September 30. The conference features single-track sessions, field exercises, and hands-on community engagement, with proceedings published by IEEE." 
+    "shortName": "SSRR",
+    "name": "IEEE International Symposium on Safety, Security, and Rescue Robotics",
+    "start": "2025-10-29",
+    "end": "2025-10-31",
+    "deadline": "2025-07-16",
+    "city": "Galway",
+    "country": "Ireland",
+    "link": "https://www.ssrr2025.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/mYWEQjvBakv5a9tA8",
+    "note": "SSRR 2025, taking place October 29-31 in Galway, Ireland, focuses on real-world safety, security, and rescue robotics in extreme and disaster scenarios. Extended abstracts (3-4 pages plus references) are due July 16, with full paper deadlines on September 5 and camera-ready submissions due September 30. The conference features single-track sessions, field exercises, and hands-on community engagement, with proceedings published by IEEE."
   },
   {
-  "shortName": "LARS/LARC",
-  "name": "IEEE Latin American Robotics Symposium (LARS) & Competition (LARC)",
-  "start": "2025-10-29",
-  "end": "2025-11-01",
-  "deadline": "2025-09-04",
-  "city": "Monterrey",
-  "country": "Mexico",
-  "link": "https://www.femexrobotica.org/larc-lars2025/",
-  "type": "Conference",
-  "addressLink": "https://maps.app.goo.gl/Y2mDehDymMqhMLnX9",
-  "note": "LARS/Symposium and LARC/Competition will be held Oct 29-Nov 1, 2025, in Monterrey, organized by IEEE-RAS Latin American Robotics Council. The symposium features peer-reviewed papers; the competition offers regional robotics contests. The call for papers and program details reflect a combined event promoting research, education, and robotic system development in Latin America"
+    "shortName": "LARS/LARC",
+    "name": "IEEE Latin American Robotics Symposium (LARS) & Competition (LARC)",
+    "start": "2025-10-29",
+    "end": "2025-11-01",
+    "deadline": "2025-09-04",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "link": "https://www.femexrobotica.org/larc-lars2025/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/Y2mDehDymMqhMLnX9",
+    "note": "LARS/Symposium and LARC/Competition will be held Oct 29-Nov 1, 2025, in Monterrey, organized by IEEE-RAS Latin American Robotics Council. The symposium features peer-reviewed papers; the competition offers regional robotics contests. The call for papers and program details reflect a combined event promoting research, education, and robotic system development in Latin America"
   },
   {
     "shortName": "ICCAS",
@@ -1352,6 +1404,32 @@
     "note": ""
   },
   {
+    "shortName": "ACIRS",
+    "name": "10th Asia-Pacific Conference on Intelligent Robot Systems",
+    "start": "2025-11-14",
+    "end": "2025-11-16",
+    "deadline": "2025-08-05",
+    "city": "Haikou",
+    "country": "China",
+    "link": "http://www.acirs.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/pmyB5QENTQEwUVst5",
+    "note": "ACIRS is an annual event, addressing researchers and industries from all areas of Intelligent Robot Systems. It provides an international forum for the exchange between those fields, to present advances in the state of the art, identify emerging research topics, and together define the future of these exciting research domains."
+  },
+  {
+    "shortName": "ICIR",
+    "name": "IEEE 4th International Conference on Intelligent Reality",
+    "start": "2025-11-16",
+    "end": "2025-11-18",
+    "deadline": "2025-07-25",
+    "city": "Boston MA",
+    "country": "USA",
+    "link": "http://icir.ieee.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/SNx55H6ju8SeWJ7v8",
+    "note": "The IEEE 4th International Conference on Intelligent Reality (ICIR 2025) will be held at The Cabral Center, Northeastern University, Boston, Massachusetts, USA, on November 16-18, 2025. The conference committee invites submissions of innovative work on Intelligent Reality from researchers, educators, and industrial engineers. Western New England University and Northeastern University will support this conference."
+  },
+  {
     "shortName": "UR-RAD",
     "name": "The 3rd AAAI Fall Symposium on Unifying Representations for Robot Application Development",
     "start": "2025-11-06",
@@ -1365,6 +1443,19 @@
     "note": "Last year, UR-RAD focused on representation trends in robotics and best practices for adopting existing and new representations. This year, based on community feedback, we are planning on elevating the interaction between junior and senior members of the community."
   },
   {
+    "shortName": "iSpaRo",
+    "name": "International Conference on Space Robotics",
+    "start": "2025-12-01",
+    "end": "2025-12-04",
+    "deadline": "2025-09-05",
+    "city": "Sendai",
+    "country": "Japan",
+    "link": "http://www.isparo.space",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/5ZcaawzDmNZzt8Lx5",
+    "note": "iSpaRo seeks to fill the gap between established robotics conferences and non-per-reviewed aerospace conferences by allowing the research community and industry professionals to engage in rigorous discussions and share their latest findings in the field. The conference aims to push the boundaries of the field of Space Robotics by exploring new research and development opportunities. The conference will feature speakers from both industry and academia, providing attendees with valuable insights and perspectives on the latest advancements in the field. The iSpaRo conference also aims to create a network of researchers and industry professionals on this topic, including the new generations, fostering future collaborations and innovations."
+  },
+  {
     "shortName": "IRC",
     "name": "8th Iberian Robotics Conference",
     "start": "2025-11-12",
@@ -1376,6 +1467,19 @@
     "type": "Conference",
     "addressLink": "https://www.openstreetmap.org/way/762553617",
     "note": "We are proud to announce the Eight Iberian Robotics Conference, to be held at the School of Engineering of the Porto Polytechnic, from November 12 to 14, 2025. This conference is a platform for researchers and professionals to share ideas and advancements in several robotic areas. We invite authors to submit original contributions across all robotics domains, covering industrial robots, autonomous systems, educational robotics, and field and service robots. The conference will address modeling and simulation techniques, design methodologies, and practical applications of developed robotic systems. Additionally, we welcome submissions on AI techniques, computer vision and image processing, tactile and haptic devices, control algorithms and architectures, localization, mapping, navigation, and associated economic, ethical, legal, and social considerations. Moreover, the exploration of human-robot interaction, which encompasses personal and social robots, medical robots, and exoskeletons, representing an increasingly active and crucial area are also welcomed."
+  },
+  {
+    "shortName": "ROBIO",
+    "name": "IEEE International Conference on Robotics and Biomimetics",
+    "start": "2025-12-03",
+    "end": "2025-12-07",
+    "deadline": "2025-09-01",
+    "city": "Chengdu",
+    "country": "China",
+    "link": "http://www.robio2025.org",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/PhcsD5m4TF2vVRoAA",
+    "note": "2025 IEEE International Conference on Robotics and Biomimetics (IEEE ROBIO 2025) will be held December 3-7, 2025, in Chengdu, Sichuan Province, China. As the 21st in the ROBIO conference series, IEEE ROBIO 2025 will be another tremendous event for fruitful intellectual and social interactions among colleagues and friends in robotics, biomimetics and related fields."
   },
   {
     "shortName": "ICCMA",

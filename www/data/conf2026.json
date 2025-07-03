@@ -52,6 +52,19 @@
     "note": ""
   },
   {
+    "shortName": "ICRA",
+    "name": "IEEE International Conference on Robotics and Automation",
+    "start": "2025-06-01",
+    "end": "2025-06-05",
+    "deadline": "",
+    "city": "Vienna",
+    "country": "Austria",
+    "link": "https://2026.ieee-icra.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": "" 
+  },
+  {
     "shortName": "RoboSoft",
     "name": "IEEE-RAS International Conference on Soft Robotics",
     "start": "2026",

@@ -1545,5 +1545,18 @@
     "type": "Conference",
     "addressLink": "https://www.openstreetmap.org/way/729350752",
     "note": "WRS 2025 hosts multiple robotics competitions focusing on future convenience stores (Osaka), disaster response robotics (Fukushima), and manufacturing automation (Aichi). It aims to advance real-world robotic applications."
+  },
+  {
+    "shortName": "ICSM",
+    "name": "2025 International Conference on Smart Multimedia",
+    "start": "2025-12-19",
+    "end": "2025-12-21",
+    "deadline": "2025-08-01",
+    "city": "Paris",
+    "country": "France",
+    "link": "https://smartmultimedia.org/2025/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/Aq39zLvdhg2FTMf39",
+    "note": "ICSM 2025 is a focused forum to promote the exchange of latest advances in multimedia technologies, systems, and applications. Key submission deadlines include: Regular papers & special sessions by August 1, 2025; short/industrial papers by August 15, 2025. Notifications and camera‑ready submissions are due in mid to late September. Accepted papers are published in IEEE Xplore. The venue is Novotel Paris Centre Bercy, near Accor Arena." 
   }
 ]

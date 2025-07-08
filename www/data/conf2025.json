@@ -1547,6 +1547,19 @@
     "note": "WRS 2025 hosts multiple robotics competitions focusing on future convenience stores (Osaka), disaster response robotics (Fukushima), and manufacturing automation (Aichi). It aims to advance real-world robotic applications."
   },
   {
+  "shortName": "PRIMA",
+  "name": "26th International Conference on Principles and Practice of Multi-Agent Systems",
+  "start": "2025-12-16",
+  "end": "2025-12-19",
+  "deadline": "2025-07-22",
+  "city": "Modena",
+  "country": "Italy",
+  "link": "https://conferences-website.github.io/prima2025/",
+  "type": "Conference",
+  "addressLink": "https://maps.app.goo.gl/xcNB8DvwubehB87W8",
+  "note": "Software systems are rapidly becoming more intelligent in the functionality they offer to users. They are also becoming more decentralized, with components that act autonomously and must communicate among themselves or with human users, to achieve their goals. Examples of such systems include those in healthcare, disaster management, e-business, and smart grids. A multi-agent perspective is crucial to the proper conceptualization, deployment, and governance of such systems. Rooted in solid computational and software engineering foundations, this perspective offers abstractions such as intelligent agents, protocols, norms, organizations, trust and incentives, among others. As a large, but still growing research field of Computer Science, multi-agent systems today remain a unique enabler of interdisciplinary research."
+  },
+  {
     "shortName": "ICSM",
     "name": "2025 International Conference on Smart Multimedia",
     "start": "2025-12-19",

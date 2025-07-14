@@ -881,7 +881,7 @@
     "link": "http://www.worldrobotconference.com/en",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/izic5DeeTb241uXL8",
-    "note": "The WRC 2025, co-hosted by the Chinese Institute of Electronics (CIE) and the World Robot Cooperation Organization (WRCO), will continue to focus on “Artificial Intelligence + Robotics”, address cutting-edge technological trends, industrial development directions, application fields, standards system development, talent cultivation, and more, and promote both international and domestic cooperation in these fields.The WRC 2025 hopes to join hands with all stakeholders to create a robot-themed event that brings together global wisdom, fosters development opportunities, deepens industry exchanges and writes a new chapter in the future of the robotics industry."
+    "note": "The WRC 2025, co-hosted by the Chinese Institute of Electronics (CIE) and the World Robot Cooperation Organization (WRCO), will continue to focus on \u201cArtificial Intelligence + Robotics\u201d, address cutting-edge technological trends, industrial development directions, application fields, standards system development, talent cultivation, and more, and promote both international and domestic cooperation in these fields.The WRC 2025 hopes to join hands with all stakeholders to create a robot-themed event that brings together global wisdom, fosters development opportunities, deepens industry exchanges and writes a new chapter in the future of the robotics industry."
   },
   {
     "shortName": "ARA",
@@ -1090,6 +1090,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/ik5Vp49q4Dc8TmHH6",
     "note": "This conference aims to provide an international forum for new methods and developments in sensing, control, and automation research and emerging results in agricultural production and automation. The conference brings together scientists, researchers, and scholars in the domain of interest from around the world to share ideas, techniques, challenges, and concerns with peers and expand their professional networks."
+  },
+  {
+    "shortName": "MFI",
+    "name": "IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems",
+    "start": "2025-09-02",
+    "end": "2025-09-04",
+    "deadline": "2025-06-20",
+    "city": "College Station",
+    "country": "Texas USA",
+    "link": "http://mfi2025.org",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/QXsFAT41dCTMJhTA6",
+    "note": ""
   },
   {
     "shortName": "ICIA",
@@ -1547,17 +1560,17 @@
     "note": "WRS 2025 hosts multiple robotics competitions focusing on future convenience stores (Osaka), disaster response robotics (Fukushima), and manufacturing automation (Aichi). It aims to advance real-world robotic applications."
   },
   {
-  "shortName": "PRIMA",
-  "name": "26th International Conference on Principles and Practice of Multi-Agent Systems",
-  "start": "2025-12-16",
-  "end": "2025-12-19",
-  "deadline": "2025-07-22",
-  "city": "Modena",
-  "country": "Italy",
-  "link": "https://conferences-website.github.io/prima2025/",
-  "type": "Conference",
-  "addressLink": "https://maps.app.goo.gl/xcNB8DvwubehB87W8",
-  "note": "Software systems are rapidly becoming more intelligent in the functionality they offer to users. They are also becoming more decentralized, with components that act autonomously and must communicate among themselves or with human users, to achieve their goals. Examples of such systems include those in healthcare, disaster management, e-business, and smart grids. A multi-agent perspective is crucial to the proper conceptualization, deployment, and governance of such systems. Rooted in solid computational and software engineering foundations, this perspective offers abstractions such as intelligent agents, protocols, norms, organizations, trust and incentives, among others. As a large, but still growing research field of Computer Science, multi-agent systems today remain a unique enabler of interdisciplinary research."
+    "shortName": "PRIMA",
+    "name": "26th International Conference on Principles and Practice of Multi-Agent Systems",
+    "start": "2025-12-16",
+    "end": "2025-12-19",
+    "deadline": "2025-07-22",
+    "city": "Modena",
+    "country": "Italy",
+    "link": "https://conferences-website.github.io/prima2025/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/xcNB8DvwubehB87W8",
+    "note": "Software systems are rapidly becoming more intelligent in the functionality they offer to users. They are also becoming more decentralized, with components that act autonomously and must communicate among themselves or with human users, to achieve their goals. Examples of such systems include those in healthcare, disaster management, e-business, and smart grids. A multi-agent perspective is crucial to the proper conceptualization, deployment, and governance of such systems. Rooted in solid computational and software engineering foundations, this perspective offers abstractions such as intelligent agents, protocols, norms, organizations, trust and incentives, among others. As a large, but still growing research field of Computer Science, multi-agent systems today remain a unique enabler of interdisciplinary research."
   },
   {
     "shortName": "ICSM",
@@ -1570,6 +1583,6 @@
     "link": "https://smartmultimedia.org/2025/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/Aq39zLvdhg2FTMf39",
-    "note": "ICSM 2025 is a focused forum to promote the exchange of latest advances in multimedia technologies, systems, and applications. Key submission deadlines include: Regular papers & special sessions by August 1, 2025; short/industrial papers by August 15, 2025. Notifications and camera‑ready submissions are due in mid to late September. Accepted papers are published in IEEE Xplore. The venue is Novotel Paris Centre Bercy, near Accor Arena." 
+    "note": "ICSM 2025 is a focused forum to promote the exchange of latest advances in multimedia technologies, systems, and applications. Key submission deadlines include: Regular papers & special sessions by August\u202f1, 2025; short/industrial papers by August\u202f15, 2025. Notifications and camera\u2011ready submissions are due in mid to late September. Accepted papers are published in IEEE Xplore. The venue is Novotel Paris Centre Bercy, near Accor Arena."
   }
 ]

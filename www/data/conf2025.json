@@ -1508,6 +1508,19 @@
     "note": "Based on the success of that, in 2025, The 13th International Conference on Control, Mechatronics and Automation (ICCMA 2025) will be held at Paris, France, from November 24-26, 2025. The conference is co-sponsored by University of Versailles and University of Lille, France, provides a platform for researchers, scholars, engineers, and students from around the world to present their research, share ideas, and foster research collaborations between academia and industry. ICCMA is a well-known event worldwide and has been attracting increasing numbers of paper submissions and attendees every year."
   },
   {
+    "shortName": "ICPRS",
+    "name": "15th IEEE International Conference on Pattern Recognition Systems",
+    "start": "2025-12-01",
+    "end": "2025-12-04",
+    "deadline": "2025-08-01",
+    "city": "Viña del Mar",
+    "country": "Chile",
+    "link": "https://www.icprs.org/",
+    "type": "Conference",
+    "addressLink": "https://www.openstreetmap.org/way/315020119",
+    "note": "ICPRS 2025 is an IEEE-sponsored conference endorsed by IAPR, organized by University Adolfo Ibáñez and ACHiRP in Viña del Mar, Chile. It covers all aspects of pattern recognition systems, including AI, computer vision, biometrics, datasets, signal processing, NLP, and robotics. It features full paper submissions (including dataset papers), double-blind peer review, special student paper awards, and proceedings published in IEEE Xplore and other indexers."
+  },
+  {
     "shortName": "ICAR",
     "name": "International Conference on Advanced Robotics",
     "start": "2025-12-02",

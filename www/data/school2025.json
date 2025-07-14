@@ -463,5 +463,20 @@
         "costNote": "early/late", 
         "addressLink": "https://maps.app.goo.gl/KgUyGM3vr5oRj2RQA",
         "note": "IAISS 2025 is a full-immersion 5-day Summer School in Tuscany on cutting-edge advances in AI and Generative AI with lectures delivered by world-renowned experts."
+    },
+    {
+        "name": "4th Latin American Summer School on Robotics",
+        "deadline": "2025-09-30",
+        "city": "Rancagua",
+        "country": "Chile",
+        "link": "https://www.lacoro.org/",
+        "type": "School",
+        "shortName": "LACORO",
+        "start": "2025-12-09",
+        "end": "2025-12-13",
+        "cost": "free-400USD",
+        "costNote": "student/academic/professional early(late): USD 0(0)/200(300)/300(400)",
+        "addressLink": "https://www.openstreetmap.org/?mlat=-34.16480&mlon=-70.74248#map=18/-34.164800/-70.742480",
+        "note": "The Latin American Summer School on Robotics (LACORO) aims to make cutting-edge knowledge of Artificial Intelligence for Robotics Applications more accessible in the Southern Hemisphere. Moreover, we want to foster intercultural student collaboration within and outside the Americas."
     }
 ]

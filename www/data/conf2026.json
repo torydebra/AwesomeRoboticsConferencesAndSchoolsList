@@ -46,23 +46,36 @@
     "deadline": "",
     "city": "Stavanger",
     "country": "Norway",
-    "link": "",
+    "link": "https://erf2026.eu/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/1iEHtDght6XFgaAQ7",
+    "note": "The European Robotics Forum (ERF) is the leading event for the European robotics and AI community, bringing together over 1,000 participants from industry, academia, and the public sector. Held annually in a different European city, ERF is the go-to platform to explore cutting-edge technologies, foster collaboration, and address the latest challenges and trends shaping the future of robotics in Europe."
+  },
+  {
+    "shortName": "HS",
+    "name": "IEEE Haptics Symposium",
+    "start": "2026-03-29",
+    "end": "2026-04-01",
+    "deadline": "2025-10-13",
+    "city": "Reno, NE",
+    "country": "USA",
+    "link": "https://2026.hapticssymposium.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.google.com/?q=Reno,+Nevada,+USA",
+    "note": "Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum of research in neuroscience, perception, engineering, and design, focused on sharing new advances in our understanding of the sense of touch, sparking new collaborations, and envisioning a future in which physical interactions are enriched through haptic technologies."
   },
   {
     "shortName": "ICRA",
     "name": "IEEE International Conference on Robotics and Automation",
     "start": "2025-06-01",
     "end": "2025-06-05",
-    "deadline": "",
+    "deadline": "2025-09-15",
     "city": "Vienna",
     "country": "Austria",
     "link": "https://2026.ieee-icra.org/",
     "type": "Conference",
-    "addressLink": "",
-    "note": "" 
+    "addressLink": "https://maps.app.goo.gl/cwsTdMBFzD2NAPMG9",
+    "note": "As one of the world’s landmark events in the field, important and exciting developments are consistently unveiled on site at ICRA. With such a rapidly changing landscape, it has never been more important to partake in industry leading events. ICRA 2026 will include plenary and keynote sessions, contributed paper sessions, workshops and tutorial sessions, forums, expo and exhibitions from our corporate partners, robot competitions and numerous social events." 
   },
   {
     "shortName": "RoboSoft",

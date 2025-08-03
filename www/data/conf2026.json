@@ -75,7 +75,7 @@
     "link": "https://2026.ieee-icra.org/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/cwsTdMBFzD2NAPMG9",
-    "note": "As one of the world’s landmark events in the field, important and exciting developments are consistently unveiled on site at ICRA. With such a rapidly changing landscape, it has never been more important to partake in industry leading events. ICRA 2026 will include plenary and keynote sessions, contributed paper sessions, workshops and tutorial sessions, forums, expo and exhibitions from our corporate partners, robot competitions and numerous social events." 
+    "note": "As one of the world\u2019s landmark events in the field, important and exciting developments are consistently unveiled on site at ICRA. With such a rapidly changing landscape, it has never been more important to partake in industry leading events. ICRA 2026 will include plenary and keynote sessions, contributed paper sessions, workshops and tutorial sessions, forums, expo and exhibitions from our corporate partners, robot competitions and numerous social events."
   },
   {
     "shortName": "RoboSoft",
@@ -86,6 +86,19 @@
     "city": "Kanazawa",
     "country": "Japan",
     "link": "https://robosoft2026.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
+    "shortName": "HAPTICS",
+    "name": "IEEE Haptics Symposium",
+    "start": "2026-03-29",
+    "end": "2026-04-01",
+    "deadline": "",
+    "city": "Reno",
+    "country": "Nevada USA",
+    "link": "http://www.hapticssymposium.org",
     "type": "Conference",
     "addressLink": "",
     "note": ""

@@ -4,7 +4,7 @@
     "name": "IEEE/SICE International Symposium on System Integration",
     "start": "2026-01-11",
     "end": "2026-01-14",
-    "deadline": "2025-08-01",
+    "deadline": "2025-08-15",
     "city": "Cancun",
     "country": "Mexico",
     "link": "https://sice-si.org/SII2026/",
@@ -52,7 +52,7 @@
     "note": "The European Robotics Forum (ERF) is the leading event for the European robotics and AI community, bringing together over 1,000 participants from industry, academia, and the public sector. Held annually in a different European city, ERF is the go-to platform to explore cutting-edge technologies, foster collaboration, and address the latest challenges and trends shaping the future of robotics in Europe."
   },
   {
-    "shortName": "HS",
+    "shortName": "HAPTICS",
     "name": "IEEE Haptics Symposium",
     "start": "2026-03-29",
     "end": "2026-04-01",
@@ -75,7 +75,7 @@
     "link": "https://2026.ieee-icra.org/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/cwsTdMBFzD2NAPMG9",
-    "note": "As one of the world’s landmark events in the field, important and exciting developments are consistently unveiled on site at ICRA. With such a rapidly changing landscape, it has never been more important to partake in industry leading events. ICRA 2026 will include plenary and keynote sessions, contributed paper sessions, workshops and tutorial sessions, forums, expo and exhibitions from our corporate partners, robot competitions and numerous social events." 
+    "note": "As one of the world\u2019s landmark events in the field, important and exciting developments are consistently unveiled on site at ICRA. With such a rapidly changing landscape, it has never been more important to partake in industry leading events. ICRA 2026 will include plenary and keynote sessions, contributed paper sessions, workshops and tutorial sessions, forums, expo and exhibitions from our corporate partners, robot competitions and numerous social events."
   },
   {
     "shortName": "RoboSoft",

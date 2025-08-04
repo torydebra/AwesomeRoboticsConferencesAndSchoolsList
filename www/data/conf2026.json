@@ -52,7 +52,7 @@
     "note": "The European Robotics Forum (ERF) is the leading event for the European robotics and AI community, bringing together over 1,000 participants from industry, academia, and the public sector. Held annually in a different European city, ERF is the go-to platform to explore cutting-edge technologies, foster collaboration, and address the latest challenges and trends shaping the future of robotics in Europe."
   },
   {
-    "shortName": "HS",
+    "shortName": "HAPTICS",
     "name": "IEEE Haptics Symposium",
     "start": "2026-03-29",
     "end": "2026-04-01",
@@ -86,19 +86,6 @@
     "city": "Kanazawa",
     "country": "Japan",
     "link": "https://robosoft2026.org/",
-    "type": "Conference",
-    "addressLink": "",
-    "note": ""
-  },
-  {
-    "shortName": "HAPTICS",
-    "name": "IEEE Haptics Symposium",
-    "start": "2026-03-29",
-    "end": "2026-04-01",
-    "deadline": "",
-    "city": "Reno",
-    "country": "Nevada USA",
-    "link": "http://www.hapticssymposium.org",
     "type": "Conference",
     "addressLink": "",
     "note": ""

@@ -478,5 +478,20 @@
         "costNote": "student/academic/professional early(late): USD 0(0)/200(300)/300(400)",
         "addressLink": "https://www.openstreetmap.org/?mlat=-34.16480&mlon=-70.74248#map=18/-34.164800/-70.742480",
         "note": "The Latin American Summer School on Robotics (LACORO) aims to make cutting-edge knowledge of Artificial Intelligence for Robotics Applications more accessible in the Southern Hemisphere. Moreover, we want to foster intercultural student collaboration within and outside the Americas."
+    },
+    {
+        "shortName": "HAMLYN",
+        "name": "Hamlyn Winter School on Surgical Imaging and Vision",
+        "start": "2025-12-01",
+        "end": "2025-12-05",
+        "deadline": "2025-09-12",
+        "city": "London",
+        "country": "UK",
+        "link": "https://www.imperial.ac.uk/hamlyn-centre/events--global-engagement/hamlyn-winter-school-on-surgical-imaging-and-vision/",
+        "type": "School",
+        "cost": "£470-1250",
+        "costNote": "academia-industry", 
+        "addressLink": "https://maps.app.goo.gl/yiDRLhxhiEuHbqxZ6",
+        "note": "Surgical Imaging and Vision is a growing area of research and an integral part of every endeavour in Robotic Surgery. To familiarise researchers with the cutting-edge research of this rapidly expanding field, the Hamlyn Centre for Robotic Surgery, Imperial College London, is organising a dedicated Winter School. The Winter School focuses on both technical and clinical aspects of Surgical Imaging and Vision, with invited lectures, hands-on demonstrations, workshops, and mini-projects"
     }
 ]

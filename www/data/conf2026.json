@@ -15,9 +15,9 @@
   {
     "shortName": "AeroConf",
     "name": "IEEE Aerospace Conference",
-    "start": "2025-03-07",
-    "end": "2025-03-14",
-    "deadline": "2024-07-01",
+    "start": "2026-03-07",
+    "end": "2026-03-14",
+    "deadline": "2025-10-03",
     "city": "Big Sky",
     "country": "USA",
     "link": "https://www.aeroconf.org/",
@@ -43,7 +43,7 @@
     "name": "European Robotics Forum",
     "start": "2026-03-23",
     "end": "2026-03-26",
-    "deadline": "",
+    "deadline": "2025-10-30",
     "city": "Stavanger",
     "country": "Norway",
     "link": "https://erf2026.eu/",
@@ -80,14 +80,14 @@
   {
     "shortName": "RoboSoft",
     "name": "IEEE-RAS International Conference on Soft Robotics",
-    "start": "2026",
-    "end": "2026",
-    "deadline": "",
+    "start": "2026-04-07",
+    "end": "2026-04-11",
+    "deadline": "2025-10-15",
     "city": "Kanazawa",
     "country": "Japan",
     "link": "https://robosoft2026.org/",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/sm1NyfvwCUGza14t9",
     "note": ""
   },
   {
@@ -104,17 +104,17 @@
     "note": "Swarm intelligence is an interdisciplinary and rapidly evolving field, rooted in the study of self-organizing processes in both natural and artificial systems. Researchers from disciplines ranging from ethology to statistical physics have developed models that explain collective phenomena, such as decision-making in social insect colonies and collective movements in human crowds. Swarm-inspired algorithms and methods have proven effective in solving complex optimization problems and creating multi-robot and networked systems of unparalleled resilience, adaptability and scalability. Applications of swarm intelligence continue to grow and become increasingly critical for addressing societal challenges such as environmental sustainability, food security, health, and global conflicts."
   },
   {
-  "shortName": "WAFR",
-  "name": "17th World Symposium on the Algorithmic Foundations of Robotics",
-  "start": "2026-06-15",
-  "end": "2026-06-17",
-  "deadline": "2026-01-15",
-  "city": "Oulu",
-  "country": "Finland",
-  "link": "https://wafr2026.github.io/",
-  "type": "Conference",
-  "addressLink": "https://maps.app.goo.gl/oXrAu1872ixzSkSv8",
-  "note": "WAFR 2026 is the biennial symposium on algorithmic foundations of robotics, focusing on theoretical and practical advances in robotic algorithms—planning, perception, learning, locomotion, and more. Key submission dates (AoE): paper submissions by January 15, 2026; acceptance notifications by March 15, 2026; preliminary papers due by May 15, 2026; symposium runs June 15–17. Proceedings will be published in Springer’s Proceedings in Advanced Robotics (SPAR) series."
+    "shortName": "WAFR",
+    "name": "17th World Symposium on the Algorithmic Foundations of Robotics",
+    "start": "2026-06-15",
+    "end": "2026-06-17",
+    "deadline": "2026-01-15",
+    "city": "Oulu",
+    "country": "Finland",
+    "link": "https://wafr2026.github.io/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/oXrAu1872ixzSkSv8",
+    "note": "WAFR 2026 is the biennial symposium on algorithmic foundations of robotics, focusing on theoretical and practical advances in robotic algorithms\u2014planning, perception, learning, locomotion, and more. Key submission dates (AoE): paper submissions by January 15, 2026; acceptance notifications by March 15, 2026; preliminary papers due by May 15, 2026; symposium runs June 15\u201317. Proceedings will be published in Springer\u2019s Proceedings in Advanced Robotics (SPAR) series."
   },
   {
     "shortName": "L4DC",
@@ -130,14 +130,40 @@
     "note": "The explosion of real-time data arising from devices that sense and control the physical world requires improving synergy in research areas such as machine learning, control theory, and optimization. While control theory has been firmly rooted in the tradition of model-based design, the availability and scale of data (both temporal and spatial) will require rethinking the foundations of the discipline. From a machine learning perspective, one of the main challenges going forward is to go beyond pattern recognition and address problems in data-driven control and optimization of dynamical processes. Our conference has been building a new community of people who think rigorously across the disciplines, ask new questions, and develop the foundations of this new scientific area."
   },
   {
+    "shortName": "EHAPTICS",
+    "name": "Eurohaptics",
+    "start": "2026-07-06",
+    "end": "2026-07-09",
+    "deadline": "2026-01-19",
+    "city": "Siena",
+    "country": "Italy",
+    "link": "https://eurohaptics.org/ehc2026/",
+    "type": "Conference",
+    "addressLink": "https://g.co/kgs/UqiUpmV",
+    "note": "Topics include research in haptic perception, haptic interfaces design, wearable and encouter-type haptics, haptics for virtual reality and extended reality, as well as applications in robotics, healthcare, education and human-computer interaction."
+  },
+  {
     "shortName": "AIM",
     "name": "IEEE/ASME International Conference on Advanced Intelligent Mechatronics",
     "start": "2026-07-07",
-    "end": "2026-07-11",
+    "end": "2026-07-10",
     "deadline": "",
     "city": "Genova",
     "country": "Italy",
-    "link": "",
+    "link": "https://aim2026.com/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/PUCd9Z74fmnucih17",
+    "note": ""
+  },
+  {
+    "shortName": "ICIA",
+    "name": "International Conference on Information Automation",
+    "start": "2026-07-29",
+    "end": "2026-07-31",
+    "deadline": "",
+    "city": "Yin Chuan",
+    "country": "China",
+    "link": "http://2026.icia-ieee.org",
     "type": "Conference",
     "addressLink": "",
     "note": ""
@@ -154,19 +180,6 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/kbMunvEpGmcVv5ML8",
     "note": "Our focus is on the technologies and applications of autonomous underwater vehicles (AUVs), autonomous surface vessels (ASVs), underwater gliders, and Lagrangian floats, with most papers centered on field robotics or data collected from real-world deployments."
-  },
-  {
-    "shortName": "EHAPTICS",
-    "name": "Eurohaptics",
-    "start": "2026",
-    "end": "2026",
-    "deadline": "",
-    "city": "Siena",
-    "country": "Italy",
-    "link": "https://eurohaptics.org/ehc2026/",
-    "type": "Conference",
-    "addressLink": "https://g.co/kgs/UqiUpmV",
-    "note": ""
   },
   {
     "shortName": "IROS",

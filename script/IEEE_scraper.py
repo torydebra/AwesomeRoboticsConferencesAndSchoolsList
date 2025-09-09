@@ -134,8 +134,18 @@ def main():
             #to keep track of the inserted one, since we can not updated existent_confs_dict inserting in "the middle"
             #so this is the offset to add to the index_to_insert
             for shortName, conf in existent_confs_dict[scraped_conf.year].items():
-                conf_date_start = datetime.strptime(conf['start'], '%Y-%m-%d')
-                scraped_conf_date_start = datetime.strptime(scraped_conf.start, '%Y-%m-%d')
+                try:
+                    conf_date_start = datetime.strptime(conf['start'], '%Y-%m-%d')
+                except:
+                    #date invalid (e.g. just year) ignore this entity and put the current one before
+                    break
+                try:
+                    scraped_conf_date_start = datetime.strptime(scraped_conf.start, '%Y-%m-%d')
+                except:
+                    #date invalid (e.g. just year) put as last
+                    index_to_insert = len(existent_confs_dict[scraped_conf.year])
+                    break
+
                 #print(conf_date_start)
                 #print(scraped_conf_date_start)
 

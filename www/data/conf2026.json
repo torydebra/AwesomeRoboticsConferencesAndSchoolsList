@@ -104,6 +104,19 @@
     "note": ""
   },
   {
+    "shortName": "FG",
+    "name": "20th IEEE International Conference on Automatic Face and Gesture Recognition",
+    "start": "2026-05-25",
+    "end": "2026-05-29",
+    "deadline": "2026-01-15",
+    "city": "Kyoto",
+    "country": "Japan",
+    "link": "https://fg2026.ieee-biometrics.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/8RAeR9gdu3rMNdQVA",
+    "note": ""
+  },
+  {
     "shortName": "ANTS",
     "name": "International Conference on Swarm Intelligence",
     "start": "2026-06-08",

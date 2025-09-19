@@ -78,6 +78,19 @@
     "note": ""
   },
   {
+    "shortName": "CROS",
+    "name": "2nd Brazilian Conference on Robotics",
+    "start": "2026-04-27",
+    "end": "2026-04-30",
+    "deadline": "2025-11-28",
+    "city": "João Pessoa, Paraíba",
+    "country": "Brazil",
+    "link": "https://www.sbrobotica.org/cros2026/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/TmNKvydZ8WRjV1Sm8",
+    "note": "The event will feature plenary talks from recognized experts in the field of robotics and technical sessions with oral and poster presentations of full papers that have been submitted and accepted for the conference."
+  },
+  {
     "shortName": "ICRA",
     "name": "IEEE International Conference on Robotics and Automation",
     "start": "2026-06-01",

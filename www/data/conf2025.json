@@ -1430,6 +1430,19 @@
     "note": "ACIRS is an annual event, addressing researchers and industries from all areas of Intelligent Robot Systems. It provides an international forum for the exchange between those fields, to present advances in the state of the art, identify emerging research topics, and together define the future of these exciting research domains."
   },
   {
+    "shortName": "MHS",
+    "name": "International Symposium on Micro-NanoMehatronics and Human Science",
+    "start": "2025-11-23",
+    "end": "2025-11-25",
+    "deadline": "",
+    "city": "Nagoya",
+    "country": "Japan",
+    "link": "http://www.mein.nagoya-u.ac.jp/mhs/MHS2025-Top.html",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "ICIR",
     "name": "IEEE 4th International Conference on Intelligent Reality",
     "start": "2025-11-16",

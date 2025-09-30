@@ -221,6 +221,19 @@
     "note": "Our focus is on the technologies and applications of autonomous underwater vehicles (AUVs), autonomous surface vessels (ASVs), underwater gliders, and Lagrangian floats, with most papers centered on field robotics or data collected from real-world deployments."
   },
   {
+    "shortName": "CORL",
+    "name": "Conference on Robot Learning",
+    "start": "2026-11-09",
+    "end": "2026-11-12",
+    "deadline": "",
+    "city": "Austin (TX)",
+    "country": "USA",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "IROS",
     "name": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
     "start": "2026",

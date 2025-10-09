@@ -83,7 +83,7 @@
     "start": "2026-04-27",
     "end": "2026-04-30",
     "deadline": "2025-11-28",
-    "city": "João Pessoa, Paraíba",
+    "city": "Jo\u00e3o Pessoa, Para\u00edba",
     "country": "Brazil",
     "link": "https://www.sbrobotica.org/cros2026/",
     "type": "Conference",
@@ -156,6 +156,32 @@
     "note": "WAFR 2026 is the biennial symposium on algorithmic foundations of robotics, focusing on theoretical and practical advances in robotic algorithms\u2014planning, perception, learning, locomotion, and more. Key submission dates (AoE): paper submissions by January 15, 2026; acceptance notifications by March 15, 2026; preliminary papers due by May 15, 2026; symposium runs June 15\u201317. Proceedings will be published in Springer\u2019s Proceedings in Advanced Robotics (SPAR) series."
   },
   {
+    "shortName": "ARSO",
+    "name": "IEEE International Conference on Advanced Robotics and its Social Impacts",
+    "start": "2026-06-10",
+    "end": "2026-06-12",
+    "deadline": "",
+    "city": "Vienna",
+    "country": "Austria",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
+    "shortName": "ICICR",
+    "name": "3rd International Conference on Intelligent Computing and Robotics",
+    "start": "2026-06-12",
+    "end": "2026-06-14",
+    "deadline": "2026-02-15",
+    "city": "Paris",
+    "country": "France",
+    "link": "http://www.icrconf.com/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/Wzyv2Sx8a6GYLdze7",
+    "note": ""
+  },
+  {
     "shortName": "L4DC",
     "name": "8th Annual Learning for Dynamics & Control Conference",
     "start": "2026-06-17",
@@ -167,6 +193,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/7BdRUTFTKSM9gzv99",
     "note": "The explosion of real-time data arising from devices that sense and control the physical world requires improving synergy in research areas such as machine learning, control theory, and optimization. While control theory has been firmly rooted in the tradition of model-based design, the availability and scale of data (both temporal and spatial) will require rethinking the foundations of the discipline. From a machine learning perspective, one of the main challenges going forward is to go beyond pattern recognition and address problems in data-driven control and optimization of dynamical processes. Our conference has been building a new community of people who think rigorously across the disciplines, ask new questions, and develop the foundations of this new scientific area."
+  },
+  {
+    "shortName": "ICUAS",
+    "name": "International Conference on Unmanned Aircraft Systems",
+    "start": "2026-06-15",
+    "end": "2026-06-18",
+    "deadline": "2026-02-20",
+    "city": "Corfu",
+    "country": "Greece",
+    "link": "http://www.uasconferences.com",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/jMLrh5ZonQcP4dmf9",
+    "note": ""
   },
   {
     "shortName": "EHAPTICS",
@@ -234,6 +273,32 @@
     "note": ""
   },
   {
+    "shortName": "CBS",
+    "name": "IEEE International Conference on Cyborg and Bionic Systems",
+    "start": "2026-09-02",
+    "end": "2026-09-04",
+    "deadline": "",
+    "city": "Munich",
+    "country": "Germany",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
+    "shortName": "ICDL",
+    "name": "IEEE International Conference on Development and Learning",
+    "start": "2026-09-15",
+    "end": "2026-09-18",
+    "deadline": "",
+    "city": "Kyoto",
+    "country": "Japan",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "IROS",
     "name": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
     "start": "2026",
@@ -244,6 +309,19 @@
     "link": "",
     "type": "Conference",
     "addressLink": "",
+    "note": ""
+  },
+  {
+    "shortName": "Humanoids",
+    "name": "IEEE-RAS 25th International Conference on Humanoid Robots",
+    "start": "2026-12-06",
+    "end": "2026-12-09",
+    "deadline": "",
+    "city": "Santa Clara",
+    "country": "California USA",
+    "link": "http://humanoids.global/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/vrxVS7UwqGExZ9Yg8",
     "note": ""
   },
   {

@@ -1391,6 +1391,19 @@
     "note": "SSRR 2025, taking place October 29-31 in Galway, Ireland, focuses on real-world safety, security, and rescue robotics in extreme and disaster scenarios. Extended abstracts (3-4 pages plus references) are due July 16, with full paper deadlines on September 5 and camera-ready submissions due September 30. The conference features single-track sessions, field exercises, and hands-on community engagement, with proceedings published by IEEE."
   },
   {
+    "shortName": "ICRAE",
+    "name": "10th International Conference on Robotics and Automation Engineering",
+    "start": "2025-11-14",
+    "end": "2025-11-16",
+    "deadline": "",
+    "city": "Haikou",
+    "country": "China",
+    "link": "http://www.icrae.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/btPXhLrDMD3bidMM6",
+    "note": ""
+  },
+  {
     "shortName": "LARS/LARC",
     "name": "IEEE Latin American Robotics Symposium (LARS) & Competition (LARC)",
     "start": "2025-10-29",

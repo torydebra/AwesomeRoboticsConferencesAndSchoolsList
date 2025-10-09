@@ -234,6 +234,19 @@
     "note": ""
   },
   {
+    "shortName": "RSS",
+    "name": "Robotics: Science and System",
+    "start": "2026-07-13",
+    "end": "2026-07-17",
+    "deadline": "",
+    "city": "Sydney",
+    "country": "Australia",
+    "link": "https://roboticsconference.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/J5ZYQJfssoM6sUKM9",
+    "note": ""
+  },
+  {
     "shortName": "ICIA",
     "name": "International Conference on Information Automation",
     "start": "2026-07-29",

@@ -173,12 +173,12 @@
     "name": "3rd International Conference on Intelligent Computing and Robotics",
     "start": "2026-06-12",
     "end": "2026-06-14",
-    "deadline": "",
+    "deadline": "2026-02-15",
     "city": "Paris",
     "country": "France",
     "link": "http://www.icrconf.com/",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/Wzyv2Sx8a6GYLdze7",
     "note": ""
   },
   {
@@ -199,12 +199,12 @@
     "name": "International Conference on Unmanned Aircraft Systems",
     "start": "2026-06-15",
     "end": "2026-06-18",
-    "deadline": "",
+    "deadline": "2026-02-20",
     "city": "Corfu",
     "country": "Greece",
     "link": "http://www.uasconferences.com",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/jMLrh5ZonQcP4dmf9",
     "note": ""
   },
   {
@@ -314,14 +314,14 @@
   {
     "shortName": "Humanoids",
     "name": "IEEE-RAS 25th International Conference on Humanoid Robots",
-    "start": "2026-12-07",
+    "start": "2026-12-06",
     "end": "2026-12-09",
     "deadline": "",
     "city": "Santa Clara",
     "country": "California USA",
     "link": "http://humanoids.global/",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/vrxVS7UwqGExZ9Yg8",
     "note": ""
   },
   {

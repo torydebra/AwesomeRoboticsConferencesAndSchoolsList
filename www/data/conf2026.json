@@ -247,6 +247,19 @@
     "note": ""
   },
   {
+    "shortName": "UR",
+    "name": "International Conference on Ubiquitous Robots",
+    "start": "2026-07-15",
+    "end": "2026-07-18",
+    "deadline": "2026-02-13",
+    "city": "Osaka",
+    "country": "Japan",
+    "link": "https://2026.ubiquitousrobots.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/rkMy1aLJgSYiimmo9",
+    "note": "UR 2026 welcomes contributions from across the foundational spectrum-design, perception, manipulation, mobility, interface, and intelligence- as well as various application domains, including healthcare, defense, disaster response, agriculture, construction, manufacturing, and more."
+  },
+  {
     "shortName": "ICIA",
     "name": "International Conference on Information Automation",
     "start": "2026-07-29",

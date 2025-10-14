@@ -13,5 +13,35 @@
         "costNote": "accomodation and half board inc.",
         "addressLink": "https://maps.app.goo.gl/frJxPhStN6CvXz3aA",
         "note": "The purpose of the winter school is to address the underlying topics of robot handling of deformables and get hands-on experience in the specifics of perception, simulation, use of robots, and applications in the field. We have invited the leading European scientists and practitioners in this field to give lectures and we have prepared interactive sessions / mini projects with the use of collaborative robots and simulation packages. The school is specifically crafted for young and talented Ph.D. students and post-docs."
+    },
+    {
+        "shortName": "AIces",
+        "name": "International School on the Cognitive, Ethical, and Societal Dimensions of Artificial Intelligence",
+        "start": "2026-03-30",
+        "end": "2026-04-03",
+        "deadline": "",
+        "city": "Porto - Maia",
+        "country": "Portugal",
+        "link": "https://aices.irdta.eu/2026/",
+        "type": "School",
+        "cost": "€370-670",
+        "costNote": "increasing according to deadlines",
+        "addressLink": "https://maps.app.goo.gl/MCQ1PpoHuPaxDzoXA",
+        "note": "AIces 2026 will be the first in a series of research training events aiming at updating participants on the most recent multidisciplinary discussions about the foundations, meaning, challenges and risks of AI."
+    },
+    {
+        "name": "13th International School on Deep Learning",
+        "deadline": "",
+        "city": "Orleans",
+        "country": "France",
+        "link": "https://deeplearn.irdta.eu/2026/",
+        "type": "School",
+        "shortName": "DEEPLEARN",
+        "start": "2025-07-20",
+        "end": "2025-07-24",
+        "cost": "€340-670",
+        "costNote": "increasing according to deadlines", 
+        "addressLink": "https://maps.app.goo.gl/zdGquvtLpwwvbEdx8",
+        "note": "DeepLearn 2026 will be a research training event with a global scope aiming at updating participants on the most recent advances in the critical and fast developing area of deep learning."
     }
 ]

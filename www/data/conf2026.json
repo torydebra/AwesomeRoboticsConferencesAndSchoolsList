@@ -13,6 +13,19 @@
     "note": "IEEE/SICE SII is the premier symposium series presenting the state-of-the-art and future perspectives of system integration, where academic researchers and industry experts share ideas and experiences surrounding frontier technologies, research breakthroughs, and innovative solutions and applications."
   },
   {
+    "shortName": "SoRoH",
+    "name": "Soft Robotics in Health Conference",
+    "start": "2026-01-19",
+    "end": "2026-01-20",
+    "deadline": "",
+    "city": "Bristol",
+    "country": "UK",
+    "link": "https://www.softroboticshealth.org.uk/conference-2026/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/vLfnaDfCAF4BoDt5A",
+    "note": "SoRoH 2026 ('Shaping the Future of Soft Robotics in Health') will be held January 19-20, 2026 at Engineers' House, Bristol. The event brings together researchers, clinicians, engineers, regulators, and innovators to discuss soft robotics in healthcare."
+  },
+  {
     "shortName": "AeroConf",
     "name": "IEEE Aerospace Conference",
     "start": "2026-03-07",
@@ -245,6 +258,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/J5ZYQJfssoM6sUKM9",
     "note": ""
+  },
+  {
+    "shortName": "ISRM",
+    "name": "9th IFToMM International Symposium on Robotics and Mechatronics",
+    "start": "2026-07-15",
+    "end": "2026-07-17",
+    "deadline": "2026-02-28",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "link": "https://www.iftomm-isrm2026.org/",
+    "type": "Symposium",
+    "addressLink": "https://maps.app.goo.gl/NAm7cm4hUuT9K6nt7",
+    "note": "ISRM 2026 will take place July 15-17, 2026 in Hanoi, Vietnam. Exact building / conference centre not yet specified on the website. Topics include robotics and mechatronics fields such as mechanism design, sensors/actuators, navigation and motion planning, bio-robotics, etc." 
   },
   {
     "shortName": "UR",

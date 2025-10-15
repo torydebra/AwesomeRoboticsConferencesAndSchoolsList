@@ -493,5 +493,20 @@
         "costNote": "academia-industry", 
         "addressLink": "https://maps.app.goo.gl/yiDRLhxhiEuHbqxZ6",
         "note": "Surgical Imaging and Vision is a growing area of research and an integral part of every endeavour in Robotic Surgery. To familiarise researchers with the cutting-edge research of this rapidly expanding field, the Hamlyn Centre for Robotic Surgery, Imperial College London, is organising a dedicated Winter School. The Winter School focuses on both technical and clinical aspects of Surgical Imaging and Vision, with invited lectures, hands-on demonstrations, workshops, and mini-projects"
+    },
+    {
+        "name": "Annual Nepal AI School",
+        "deadline": "2024-10-16",
+        "city": "Patan",
+        "country": "Nepal",
+        "link": "https://anais.naamii.org.np/",
+        "type": "School",
+        "shortName": "ANAIS",
+        "start": "2025-12-29",
+        "end": "2026-01-08",
+        "cost": "120-360USD",
+        "costNote": "student/professional/academic: USD 240/360",
+        "addressLink": "https://maps.app.goo.gl/UgrKDasYXsVSet7g8",
+        "note": ""
     }
 ]

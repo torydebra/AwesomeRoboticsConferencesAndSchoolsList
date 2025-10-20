@@ -77,7 +77,20 @@
     "addressLink": "https://maps.google.com/?q=Reno,+Nevada,+USA",
     "note": "Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum of research in neuroscience, perception, engineering, and design, focused on sharing new advances in our understanding of the sense of touch, sparking new collaborations, and envisioning a future in which physical interactions are enriched through haptic technologies."
   },
-  {
+{
+    "shortName": "RiE 2026",
+    "name": "Robotics in Education 2026",
+    "start": "2026-04-15",
+    "end": "2026-04-17",
+    "deadline": "2026-01-15",
+    "city": "Wolfenbüttel",
+    "country": "Germany",
+    "link": "https://rie.science/2026",
+    "addressLink": "https://maps.app.goo.gl/G6Wnxgg4s3yYRP9PA",
+    "type": "Conference",
+    "note": "RiE brings together academics, researchers, teachers, engineers, and industry experts from around the world to exchange ideas, share experiences, and present innovations in the field of robotics in education. Proceedings published by Springer (LNNS). Indexed in SCOPUS."
+},
+{
     "shortName": "ISMR",
     "name": "International Symposium on Medical Robotics",
     "start": "2026-04-22",

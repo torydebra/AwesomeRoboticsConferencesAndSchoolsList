@@ -1,5 +1,20 @@
 [
     {
+        "shortName": "RVSS",
+        "name": "Robotic Vision Summer School",
+        "start": "2026-02-01",
+        "end": "2026-02-06",
+        "deadline": "2025-01-15",
+        "city": "Kioloa",
+        "country": "Australia",
+        "link": "https://www.rvss.org.au/",
+        "type": "School",
+        "cost": "",
+        "costNote": "", 
+        "addressLink": "https://maps.app.goo.gl/Zeq8NhEoAVM2jXHL6",
+        "note": ""
+    },
+    {
         "shortName": "RHDO",
         "name": "Robot handling of deformable objects Winter School",
         "start": "2026-02-09",
@@ -28,6 +43,21 @@
         "costNote": "increasing according to deadlines",
         "addressLink": "https://maps.app.goo.gl/MCQ1PpoHuPaxDzoXA",
         "note": "AIces 2026 will be the first in a series of research training events aiming at updating participants on the most recent multidisciplinary discussions about the foundations, meaning, challenges and risks of AI."
+    },
+    {
+        "shortName": "NENGO",
+        "name": "Nengo Summer School",
+        "start": "2026-05-31",
+        "end": "2026-06-12",
+        "deadline": "2025-12-22",
+        "city": "Ontario",
+        "country": "Canada",
+        "link": "https://www.nengo.ai/summer-school/",
+        "type": "School",
+        "cost": "CAD800-1600",
+        "costNote": "academic/industry: CAD800/1600", 
+        "addressLink": "https://maps.app.goo.gl/RhfjXRmemkrVqvTm7",
+        "note": "The Centre for Theoretical Neuroscience at the University of Waterloo is excited to announce our 11th annual Nengo summer school on large-scale brain modelling and neuromorphic computing. As a recurring special feature of the school, participants will be given on-site access to neuromorphic hardware, including Stanford’s mixed digital/analog chip Braindrop, the SpiNNaker chip, and a variety of FPGAs."
     },
     {
         "name": "13th International School on Deep Learning",

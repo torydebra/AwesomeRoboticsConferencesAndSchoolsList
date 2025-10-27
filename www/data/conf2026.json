@@ -80,15 +80,15 @@
   {
     "shortName": "RiE",
     "name": "Robotics in Education",
-    "start": "2026-04-10",
-    "end": "2026-04-12",
+    "start": "2026-04-15",
+    "end": "2026-04-17",
     "deadline": "2026-01-15",
     "city": "Wolfenbüttel",
     "country": "Germany",
     "link": "https://rie.science/2026/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/6WBzLZJ4855Umew69",
-    "note": "RiE 2026 will be hosted at the campus of Ostfalia University of Applied Sciences (Campus Exer 11) in Wolfenbüttel, Lower Saxony, Germany. The event focuses on robotics in education, bringing together researchers, educators, and developers of robotics teaching tools and curricula."
+    "note": "RiE brings together academics, researchers, teachers, engineers, and industry experts from around the world to exchange ideas, share experiences, and present innovations in the field of robotics in education. Proceedings published by Springer (LNNS). Indexed in SCOPUS."
   },
   {
     "shortName": "ISMR",

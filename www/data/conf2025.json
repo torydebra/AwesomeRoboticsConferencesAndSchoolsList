@@ -1365,6 +1365,19 @@
     "note": ""
   },
   {
+    "shortName": "ROBOT",
+    "name": "8th Iberian Robotics Conference",
+    "start": "2025-11-12",
+    "end": "2025-11-14",
+    "deadline": "2025-08-03",
+    "city": "Porto",
+    "country": "Portugal",
+    "link": "http://www.robot2025.pt",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/DtiRuDCSFCkAwznz9",
+    "note": ""
+  },
+  {
     "shortName": "ROSCON",
     "name": "ROS Conference",
     "start": "2025-10-27",

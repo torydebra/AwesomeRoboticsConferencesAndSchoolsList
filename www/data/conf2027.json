@@ -39,6 +39,19 @@
     "note": ""
   },
   {
+    "shortName": "IROS",
+    "name": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
+    "start": "2027",
+    "end": "2027",
+    "deadline": "",
+    "city": "Florence",
+    "country": "Italy",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "RoboSoft",
     "name": "IEEE-RAS International Conference on Soft Robotics",
     "start": "2027",

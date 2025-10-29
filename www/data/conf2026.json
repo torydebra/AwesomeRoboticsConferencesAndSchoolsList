@@ -325,6 +325,19 @@
     "note": "Our focus is on the technologies and applications of autonomous underwater vehicles (AUVs), autonomous surface vessels (ASVs), underwater gliders, and Lagrangian floats, with most papers centered on field robotics or data collected from real-world deployments."
   },
   {
+    "shortName": "ROSCON",
+    "name": "ROS Conference",
+    "start": "2026",
+    "end": "2026",
+    "deadline": "",
+    "city": "Toronto",
+    "country": "Canada",
+    "link": "https://roscon.ros.org/2026/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "CORL",
     "name": "Conference on Robot Learning",
     "start": "2026-11-09",

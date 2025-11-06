@@ -30,6 +30,21 @@
         "note": "The purpose of the winter school is to address the underlying topics of robot handling of deformables and get hands-on experience in the specifics of perception, simulation, use of robots, and applications in the field. We have invited the leading European scientists and practitioners in this field to give lectures and we have prepared interactive sessions / mini projects with the use of collaborative robots and simulation packages. The school is specifically crafted for young and talented Ph.D. students and post-docs."
     },
     {
+        "shortName": "FoMo",
+        "name": "Winter School on Foundation Models",
+        "start": "2026-03-24",
+        "end": "2026-04-27",
+        "deadline": "2025-12-14",
+        "city": "Tolhuistuin Amsterdam",
+        "country": "Netherlands",
+        "link": "https://ivi.fnwi.uva.nl/ellis/events/winter-school-on-foundation-models-fomo-2026-registration-opens-on-14-november-2025/",
+        "type": "School",
+        "cost": "",
+        "costNote": "",
+        "addressLink": "https://maps.app.goo.gl/2sZG4K1eR58FbfJdA",
+        "note": ""
+    },
+    {
         "shortName": "AIces",
         "name": "International School on the Cognitive, Ethical, and Societal Dimensions of Artificial Intelligence",
         "start": "2026-03-30",

@@ -26,6 +26,19 @@
     "note": "SoRoH 2026 ('Shaping the Future of Soft Robotics in Health') will be held January 19-20, 2026 at Engineers' House, Bristol. The event brings together researchers, clinicians, engineers, regulators, and innovators to discuss soft robotics in healthcare."
   },
   {
+    "shortName": "ICARA",
+    "name": "12th International Conference on Automation, Robotics and Applications",
+    "start": "2026-02-05",
+    "end": "2026-02-07",
+    "deadline": "",
+    "city": "Istanbul",
+    "country": "Turkiye",
+    "link": "http://www.icara.us/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "AeroConf",
     "name": "IEEE Aerospace Conference",
     "start": "2026-03-07",
@@ -83,7 +96,7 @@
     "start": "2026-04-15",
     "end": "2026-04-17",
     "deadline": "2026-01-15",
-    "city": "Wolfenbüttel",
+    "city": "Wolfenb\u00fcttel",
     "country": "Germany",
     "link": "https://rie.science/2026/",
     "type": "Conference",
@@ -115,6 +128,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/TmNKvydZ8WRjV1Sm8",
     "note": "The event will feature plenary talks from recognized experts in the field of robotics and technical sessions with oral and poster presentations of full papers that have been submitted and accepted for the conference."
+  },
+  {
+    "shortName": "ERAS",
+    "name": "IEEE Engineering Reliable Autonomous Systems",
+    "start": "2026-05-28",
+    "end": "2026-05-29",
+    "deadline": "",
+    "city": "Zagreb",
+    "country": "Croatia",
+    "link": "http://www.2026-erasrobotics.org",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   },
   {
     "shortName": "ICRA",
@@ -283,7 +309,7 @@
     "link": "https://www.iftomm-isrm2026.org/",
     "type": "Symposium",
     "addressLink": "https://maps.app.goo.gl/NAm7cm4hUuT9K6nt7",
-    "note": "ISRM 2026 will take place July 15-17, 2026 in Hanoi, Vietnam. Exact building / conference centre not yet specified on the website. Topics include robotics and mechatronics fields such as mechanism design, sensors/actuators, navigation and motion planning, bio-robotics, etc." 
+    "note": "ISRM 2026 will take place July 15-17, 2026 in Hanoi, Vietnam. Exact building / conference centre not yet specified on the website. Topics include robotics and mechatronics fields such as mechanism design, sensors/actuators, navigation and motion planning, bio-robotics, etc."
   },
   {
     "shortName": "UR",
@@ -307,6 +333,19 @@
     "city": "Yin Chuan",
     "country": "China",
     "link": "http://2026.icia-ieee.org",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
+    "shortName": "ICMA",
+    "name": "IEEE International Conference on Mechatronics and Automation",
+    "start": "2026-08-02",
+    "end": "2026-08-05",
+    "deadline": "",
+    "city": "Changchun",
+    "country": "Jilin",
+    "link": "http://2026.ieee-icma.org/",
     "type": "Conference",
     "addressLink": "",
     "note": ""

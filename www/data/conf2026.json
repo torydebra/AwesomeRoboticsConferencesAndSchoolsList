@@ -143,6 +143,19 @@
     "note": ""
   },
   {
+    "shortName": "CRV",
+    "name": "Conference on Robots and Vision",
+    "start": "2026-05-25",
+    "end": "2026-05-28",
+    "deadline": "2026-02-03",
+    "city": "Vancouver",
+    "country": "Canada",
+    "link": "https://www.computerrobotvision.org/index.html",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "ICRA",
     "name": "IEEE International Conference on Robotics and Automation",
     "start": "2026-06-01",

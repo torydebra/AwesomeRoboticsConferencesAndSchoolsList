@@ -43,12 +43,12 @@
     "name": "12th International Conference on Mechatronics and Robotics Engineering",
     "start": "2026-03-02",
     "end": "2026-03-04",
-    "deadline": "",
+    "deadline": "2025-12-15",
     "city": "Oldenburg",
     "country": "Germany",
     "link": "http://www.icmre.org/",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/eF4CjdUMwKt6GJhm9",
     "note": ""
   },
   {
@@ -115,6 +115,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/6WBzLZJ4855Umew69",
     "note": "RiE brings together academics, researchers, teachers, engineers, and industry experts from around the world to exchange ideas, share experiences, and present innovations in the field of robotics in education. Proceedings published by Springer (LNNS). Indexed in SCOPUS."
+  },
+  {
+    "shortName": "ICARSC",
+    "name": "International Conference on Autonomous Robot Systems and Competitions",
+    "start": "2026-04-22",
+    "end": "2026-04-23",
+    "deadline": "2025-01-23",
+    "city": "Barcelos",
+    "country": "Portugal",
+    "link": "https://www.icarsc.pt/2026/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   },
   {
     "shortName": "ISMR",
@@ -368,8 +381,8 @@
     "name": "International Conference on Advanced Robotics and Mechatronics",
     "start": "2026-07-31",
     "end": "2026-08-06",
-    "deadline": "",
-    "city": "Gif-sur-Yvette",
+    "deadline": "2026-04-07",
+    "city": "Paris",
     "country": "France",
     "link": "http://www.ieee-arm.org",
     "type": "Conference",

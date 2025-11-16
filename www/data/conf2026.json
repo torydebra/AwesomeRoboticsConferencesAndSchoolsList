@@ -39,6 +39,19 @@
     "note": ""
   },
   {
+    "shortName": "ICMRE",
+    "name": "12th International Conference on Mechatronics and Robotics Engineering",
+    "start": "2026-03-02",
+    "end": "2026-03-04",
+    "deadline": "",
+    "city": "Oldenburg",
+    "country": "Germany",
+    "link": "http://www.icmre.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "AeroConf",
     "name": "IEEE Aerospace Conference",
     "start": "2026-03-07",
@@ -351,6 +364,19 @@
     "note": ""
   },
   {
+    "shortName": "ICARM",
+    "name": "International Conference on Advanced Robotics and Mechatronics",
+    "start": "2026-07-31",
+    "end": "2026-08-06",
+    "deadline": "",
+    "city": "Gif-sur-Yvette",
+    "country": "France",
+    "link": "http://www.ieee-arm.org",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "ICMA",
     "name": "IEEE International Conference on Mechatronics and Automation",
     "start": "2026-08-02",
@@ -361,6 +387,19 @@
     "link": "http://2026.ieee-icma.org/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/TTWu4PzjLZDWt4uQA",
+    "note": ""
+  },
+  {
+    "shortName": "CASE",
+    "name": "IEEE 22nd International Conference on Automation Science and Engineering",
+    "start": "2026-08-17",
+    "end": "2026-08-21",
+    "deadline": "",
+    "city": "Shenyang",
+    "country": "China",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
     "note": ""
   },
   {

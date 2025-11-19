@@ -299,6 +299,19 @@
     "note": ""
   },
   {
+    "shortName": "ARK",
+    "name": "International Symposium on Advances in Robot Kinematics",
+    "start": "2026-06-28",
+    "end": "2026-07-02",
+    "deadline": "2026-01-18",
+    "city": "Barcelona",
+    "country": "Spain",
+    "link": "https://robotkinematics.xyz/ARK2026.html",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/Ja4h61G3zCFLGJeB6",
+    "note": ""
+  },
+  {
     "shortName": "EHAPTICS",
     "name": "Eurohaptics",
     "start": "2026-07-06",

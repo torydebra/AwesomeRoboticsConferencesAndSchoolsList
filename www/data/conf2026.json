@@ -117,6 +117,19 @@
     "note": "RiE brings together academics, researchers, teachers, engineers, and industry experts from around the world to exchange ideas, share experiences, and present innovations in the field of robotics in education. Proceedings published by Springer (LNNS). Indexed in SCOPUS."
   },
   {
+    "shortName": "TRAIL",
+    "name": "Transparent and Interpretable Robots CONFERENCE",
+    "start": "2026-04-16",
+    "end": "2026-04-17",
+    "deadline": "2026-01-16",
+    "city": "Catania",
+    "country": "Italy",
+    "link": "https://sites.google.com/view/trail-conference/home",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/MFKqEMYu5neiLSR76",
+    "note": "We're excited to announce the TRAIL Conference (Transparent and Interpretable Robots), which is specifically designed to foster a supportive community for students and early-stage researchers. It's an ideal platform to share your work, gain valuable feedback, and connect with peers. This year's theme is 'Interpretability and Explainability', exploring the crucial challenges and innovations in Social Robotics and Human-Robot Interaction. If your research touches on these fields, we strongly encourage you to submit."
+  },
+  {
     "shortName": "ICARSC",
     "name": "International Conference on Autonomous Robot Systems and Competitions",
     "start": "2026-04-22",

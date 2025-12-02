@@ -390,6 +390,19 @@
     "note": "UR 2026 welcomes contributions from across the foundational spectrum-design, perception, manipulation, mobility, interface, and intelligence- as well as various application domains, including healthcare, defense, disaster response, agriculture, construction, manufacturing, and more."
   },
   {
+    "shortName": "HFR",
+    "name": " International Workshop on Human-Friendly Robotics",
+    "start": "2026-07-16",
+    "end": "2026-07-17",
+    "deadline": "2026-03-06",
+    "city": "Trento",
+    "country": "Italy",
+    "link": "https://sites.google.com/unitn.it/hfr2026",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/qdNRnyndEdkphZRP8",
+    "note": "The workshop scope mainly focuses on human-robot interaction and robots safely and meaningfully working with/alongside humans in various daily or industrial tasks. We aim to bring together researchers and industry working in the related areas to discuss the recent results, discoveries, applications, and challenges in the field. The workshop has a single-track format to maximize the interaction between all participants."
+  },
+  {
     "shortName": "ICIA",
     "name": "International Conference on Information Automation",
     "start": "2026-07-29",

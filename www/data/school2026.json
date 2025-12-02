@@ -4,15 +4,15 @@
         "name": "Robotic Vision Summer School",
         "start": "2026-02-01",
         "end": "2026-02-06",
-        "deadline": "2025-01-15",
+        "deadline": "2026-01-15",
         "city": "Kioloa",
         "country": "Australia",
         "link": "https://www.rvss.org.au/",
         "type": "School",
-        "cost": "",
-        "costNote": "", 
+        "cost": "AUD990-4500",
+        "costNote": "student-industry", 
         "addressLink": "https://maps.app.goo.gl/Zeq8NhEoAVM2jXHL6",
-        "note": ""
+        "note": "The program incorporates both talks and practical sessions run by world-leading researchers in robotics and computer vision. This is an international summer school which offers a tremendous opportunity to broaden the educational experience and professional networks for attendees."
     },
     {
         "shortName": "RHDO",
@@ -28,6 +28,21 @@
         "costNote": "accomodation and half board inc.",
         "addressLink": "https://maps.app.goo.gl/frJxPhStN6CvXz3aA",
         "note": "The purpose of the winter school is to address the underlying topics of robot handling of deformables and get hands-on experience in the specifics of perception, simulation, use of robots, and applications in the field. We have invited the leading European scientists and practitioners in this field to give lectures and we have prepared interactive sessions / mini projects with the use of collaborative robots and simulation packages. The school is specifically crafted for young and talented Ph.D. students and post-docs."
+    },
+    {
+        "shortName": "PIEZO",
+        "name": "Introduction to Piezoelectric Mechatronics",
+        "start": "2026-02-16",
+        "end": "2026-02-20",
+        "deadline": "2025-02-01",
+        "city": "Tarbes",
+        "country": "France",
+        "link": "https://rakoton.net/Schools/PiezoMechatronics/index.php",
+        "type": "School",
+        "cost": "€200",
+        "costNote": "lunch inc.",
+        "addressLink": "https://maps.app.goo.gl/ogem2Aq83deGJRqq5",
+        "note": "The purpose of this winter school is to introduce to piezoelectric mechatronic systems, from understanding the piezoelectricity principles to advanced modeling of certain systems. The last part of the school will be devoted to introduction to their control. Various applications examples will be presented as well. The winter school encompasses lectures and tutorials. The last day will be devoted to social event."
     },
     {
         "shortName": "FoMo",

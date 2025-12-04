@@ -481,19 +481,6 @@
     "note": ""
   },
   {
-    "shortName": "CORL",
-    "name": "Conference on Robot Learning",
-    "start": "2026-11-09",
-    "end": "2026-11-12",
-    "deadline": "",
-    "city": "Austin (TX)",
-    "country": "USA",
-    "link": "",
-    "type": "Conference",
-    "addressLink": "",
-    "note": ""
-  },
-  {
     "shortName": "CBS",
     "name": "IEEE International Conference on Cyborg and Bionic Systems",
     "start": "2026-09-02",
@@ -520,12 +507,38 @@
     "note": ""
   },
   {
+    "shortName": "CRAS",
+    "name": "Conference on New Technologies for Computer and Robot Assisted Surgery",
+    "start": "2026-09-16",
+    "end": "2026-09-18",
+    "deadline": "2026-04-30",
+    "city": "Leeds",
+    "country": "UK",
+    "link": "https://cras-eu.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/xmb346XDQKAZuZBd8",
+    "note": "Robotic surgery is one of the most appealing fields of modern robotics. With over 3 decades of history, more than 3.800 systems installed worldwide, and over 600.000 robot-assisted interventions conducted per year, the field of robotic surgery is well-established. Despite these impressive figures and increasing popularity in research labs all over the world, the list of technological advances that made it into the operating room (OR) during this last decade remains limited. Long-awaited techniques such as 3D reconstruction, motion compensation, virtual guidance, haptic feedback, understudy in many labs all over the planet did not make their appearance into the market yet. CRAS strives to overcome this status-quo by strengthening the collaboration between the different research groups to boost the efficacy and shorten the development cycle."
+  },
+  {
     "shortName": "IROS",
     "name": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
     "start": "2026",
     "end": "2026",
     "deadline": "",
     "city": "Pittsburgh (PA)",
+    "country": "USA",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
+    "shortName": "CORL",
+    "name": "Conference on Robot Learning",
+    "start": "2026-11-09",
+    "end": "2026-11-12",
+    "deadline": "",
+    "city": "Austin (TX)",
     "country": "USA",
     "link": "",
     "type": "Conference",

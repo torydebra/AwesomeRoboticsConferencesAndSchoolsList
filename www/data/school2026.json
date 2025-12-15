@@ -90,6 +90,21 @@
         "note": "The Centre for Theoretical Neuroscience at the University of Waterloo is excited to announce our 11th annual Nengo summer school on large-scale brain modelling and neuromorphic computing. As a recurring special feature of the school, participants will be given on-site access to neuromorphic hardware, including Stanford’s mixed digital/analog chip Braindrop, the SpiNNaker chip, and a variety of FPGAs."
     },
     {
+        "shortName": "RPL",
+        "name": "RPL Summer School",
+        "start": "2026-06-21",
+        "end": "2026-06-26",
+        "deadline": "2026-01-26",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "link": "https://summer-school.rpl.eecs.kth.se/",
+        "type": "School",
+        "cost": "free",
+        "costNote": "meals accomodation free", 
+        "addressLink": "https://maps.app.goo.gl/QEwFUbKFxbdLc32a7",
+        "note": "The summer school hosts a mix of academic and industrial researchers from around the world and aims to provide a forum that promotes new collaborations. Our school focuses on a diverse range of topics within robotics, perception, and learning, encompassing areas such as Machine Learning, Computer Vision, Robotics, Human-Robot Interaction, Planning, and Decision Making."
+    },
+    {
         "name": "13th International School on Deep Learning",
         "deadline": "",
         "city": "Orleans",
@@ -97,8 +112,8 @@
         "link": "https://deeplearn.irdta.eu/2026/",
         "type": "School",
         "shortName": "DEEPLEARN",
-        "start": "2025-07-20",
-        "end": "2025-07-24",
+        "start": "2026-07-20",
+        "end": "2026-07-24",
         "cost": "€340-670",
         "costNote": "increasing according to deadlines", 
         "addressLink": "https://maps.app.goo.gl/zdGquvtLpwwvbEdx8",

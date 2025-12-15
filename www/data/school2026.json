@@ -103,5 +103,20 @@
         "costNote": "increasing according to deadlines", 
         "addressLink": "https://maps.app.goo.gl/zdGquvtLpwwvbEdx8",
         "note": "DeepLearn 2026 will be a research training event with a global scope aiming at updating participants on the most recent advances in the critical and fast developing area of deep learning."
+    },
+    {
+        "name": "IEEE RAS Summer School on Multi-robot systems",
+        "deadline": "",
+        "city": "Prague",
+        "country": "Czech Republic",
+        "link": "https://mrs.fel.cvut.cz/summer-school-2026/",
+        "type": "School",
+        "shortName": "RASPRAGUE",
+        "start": "2026-07-29",
+        "end": "2026-08-04",
+        "cost": "€598,95 - €883,30",
+        "costNote": "students/academics/professional early(late) : €598,95(665,50)/686,07(762,30)/794,97(883,30)", 
+        "addressLink": "https://maps.app.goo.gl/oWsHhXuNhXr7Do5y9",
+        "note": "Building on the success of our previous Summer Schools held in 2019, 2020, 2022, 2023, 2024 and 2025, we are pleased to announce the IEEE RAS Summer School 2026, which will take place from July 29 to August 4, 2026. As in previous years, the event will be hosted at the Czech Technical University, situated in the heart of one of Europe’s most beautiful and historic cities. The Summer School is dedicated to showcasing the latest advancements in Multi-Robot Systems research and is aimed at students, academic researchers, and industry professionals. The program seeks to bridge the gap between theory and practice, supporting the real-world application of cooperating robotic systems while fostering collaboration and knowledge exchange among participants."
     }
 ]

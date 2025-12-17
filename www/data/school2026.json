@@ -60,6 +60,21 @@
         "note": ""
     },
     {
+        "shortName": "MLPSA",
+        "name": "Spring School on Machine Learning and Perception for Social Awareness",
+        "start": "2026-04-13",
+        "end": "2026-04-16",
+        "deadline": "2026-02-28",
+        "city": "Catania",
+        "country": "Italy",
+        "link": "https://www.sweet.unina.it/sweet-spring-school/",
+        "type": "School",
+        "cost": "free",
+        "costNote": "",
+        "addressLink": "https://maps.app.goo.gl/3PhsSFex24DrpJoM6",
+        "note": "Organized by the SWEET project consortium in conjunction with the TRAIL Conference, this Spring School offers a unique opportunity to deepen your knowledge in social perception for service robotics, with a special emphasis on cutting-edge machine learning, sensing technologies, and algorithmic approaches that enable robots to understand and interact with humans in socially aware ways."
+    },
+    {
         "shortName": "AIces",
         "name": "International School on the Cognitive, Ethical, and Societal Dimensions of Artificial Intelligence",
         "start": "2026-03-30",

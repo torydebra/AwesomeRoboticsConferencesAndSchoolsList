@@ -30,6 +30,21 @@
         "note": "The purpose of the winter school is to address the underlying topics of robot handling of deformables and get hands-on experience in the specifics of perception, simulation, use of robots, and applications in the field. We have invited the leading European scientists and practitioners in this field to give lectures and we have prepared interactive sessions / mini projects with the use of collaborative robots and simulation packages. The school is specifically crafted for young and talented Ph.D. students and post-docs."
     },
     {
+        "shortName": "SoRAIM",
+        "name": "Winter School on Social Robotics, Artificial Intelligence and Multimedia",
+        "start": "2026-02-09",
+        "end": "2026-02-13",
+        "deadline": "2026-01-09",
+        "city": "Autrans",
+        "country": "France",
+        "link": "https://project.inria.fr/soraim/",
+        "type": "School",
+        "cost": "€700-800",
+        "costNote": "early-late. meal accomodations inc.",
+        "addressLink": "https://maps.app.goo.gl/v4CNk1WfKV63HTjJA",
+        "note": "The goal of the school is to bring together researchers from complementary fields—such as computer vision, speech/audio processing, and human-robot interaction—who share a common interest in social robotics. The event aims to foster cross-disciplinary exchange and discussion, both through formal courses and informal interactions."
+    },
+    {
         "shortName": "PIEZO",
         "name": "Introduction to Piezoelectric Mechatronics",
         "start": "2026-02-16",

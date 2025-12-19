@@ -105,6 +105,21 @@
         "note": "AIces 2026 will be the first in a series of research training events aiming at updating participants on the most recent multidisciplinary discussions about the foundations, meaning, challenges and risks of AI."
     },
     {
+        "shortName": "EVS",
+        "name": "Event-driven Vision School",
+        "start": "2026-05-17",
+        "end": "2026-05-23",
+        "deadline": "2025-10-26",
+        "city": "Genova",
+        "country": "Italy",
+        "link": "https://edpr.iit.it/events/2026-evs",
+        "type": "School",
+        "cost": "€1120-2500",
+        "costNote": "academic-industry. Accomodation inc.", 
+        "addressLink": "https://maps.app.goo.gl/5493uxQfhxi7gFJz8",
+        "note": "Event-driven cameras adoption in real-world applications is steadily growing, thanks to their low-power, low latency, high temporal resolution, high dynamic range and highly compressive encoding. The EVS school is the first event focused on teaching computer vision with event cameras. Its aim is to offer students an in-depth knowledge of state-of-the-art methods to process event-driven camera data and teach them the required, practical, skills to develop their own applications"
+    },
+    {
         "shortName": "NENGO",
         "name": "Nengo Summer School",
         "start": "2026-05-31",

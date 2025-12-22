@@ -264,13 +264,13 @@
     "name": "IEEE International Conference on Advanced Robotics and its Social Impacts",
     "start": "2026-06-10",
     "end": "2026-06-12",
-    "deadline": "",
+    "deadline": "2026-01-22",
     "city": "Vienna",
     "country": "Austria",
-    "link": "",
+    "link": "https://ieee-arso.org/",
     "type": "Conference",
     "addressLink": "",
-    "note": ""
+    "note": "The IEEE ARSO 2026 aims to bring together experts from various fields to discuss the impact of advanced robotics on individuals, groups and larger social systems.TU Wien, the Austria’s largest research and educational institution in the field of technology and natural sciences,"
   },
   {
     "shortName": "ICICR",
@@ -325,6 +325,19 @@
     "note": ""
   },
   {
+    "shortName": "ICSR",
+    "name": "International Conference on Social Robotics",
+    "start": "2026-07-01",
+    "end": "2026-07-04",
+    "deadline": "2026-02-15",
+    "city": "London",
+    "country": "UK",
+    "link": "https://icsr2026.uk/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/G8cxdzMWuL3x3BLEA",
+    "note": "For its 18th edition, ICSR 2026 introduces a special theme: “ICSR + Art: Exploring Creative Robotics.” While continuing to embrace all core areas of social robotics, this year’s conference adds a distinctive focus on the intersection of robotics and the arts. This theme invites us to consider how robots can transcend their traditional roles to become creative collaborators, co-designers, performers, and participants. Through the lens of creative robotics, we seek to deepen our understanding of how social robots can inspire and engage with imagination, aesthetic experience, and technological innovation."
+  },
+  {
     "shortName": "EHAPTICS",
     "name": "Eurohaptics",
     "start": "2026-07-06",
@@ -355,13 +368,13 @@
     "name": "Robotics: Science and System",
     "start": "2026-07-13",
     "end": "2026-07-17",
-    "deadline": "",
+    "deadline": "2026-01-30",
     "city": "Sydney",
     "country": "Australia",
     "link": "https://roboticsconference.org/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/J5ZYQJfssoM6sUKM9",
-    "note": ""
+    "note": "RSS has a long history of bringing together researchers in all areas of robotics from around the world for an engaging and focused week of single-track presentations, workshops, poster sessions, and tutorials."
   },
   {
     "shortName": "ISRM",
@@ -418,15 +431,28 @@
   {
     "shortName": "ICARM",
     "name": "International Conference on Advanced Robotics and Mechatronics",
-    "start": "2026-07-31",
-    "end": "2026-08-06",
-    "deadline": "2026-04-07",
+    "start": "2026-07-21",
+    "end": "2026-07-23",
+    "deadline": "2026-01-31",
     "city": "Paris",
     "country": "France",
     "link": "http://www.ieee-arm.org",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/GUWwRmEzDQzPphym7",
     "note": ""
+  },
+  {
+    "shortName": "BioRob",
+    "name": "11th IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics",
+    "start": "2026-08-01",
+    "end": "2026-08-04",
+    "deadline": "2026-01-10",
+    "city": "Edmonton",
+    "country": "Canada",
+    "link": "https://2026.ieeebiorob.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/e6SdzRcmBcPTjrFMA",
+    "note": "BioRob delves into both theoretical and practical challenges arising from the integration of robotics and mechatronics into medicine and biology. The main objective of Biorobotics is to evaluate biological systems through a ‘biomechatronic’ lens, striving to unravel the scientific and engineering principles that underpin their exceptional performance. This deep comprehension of biological system functions, behaviors, and interactions serves two primary purposes: to inform the design and creation of new, high-performance bio-inspired machinery and systems for various applications, and to foster the development of innovative nano-, micro-, and macro-devices that can act upon, replace, or assist human beings in areas such as disease prevention, diagnostics, surgical procedures, prosthetics, rehabilitation, and personal assistance."
   },
   {
     "shortName": "ICMA",
@@ -446,13 +472,26 @@
     "name": "IEEE 22nd International Conference on Automation Science and Engineering",
     "start": "2026-08-17",
     "end": "2026-08-21",
-    "deadline": "",
+    "deadline": "2026-03-01",
     "city": "Shenyang",
     "country": "China",
-    "link": "",
+    "link": "https://2026.ieeecase.org/",
     "type": "Conference",
     "addressLink": "",
     "note": ""
+  },
+  {
+    "shortName": "RO-MAN",
+    "name": "IEEE International Conference on Robot and Human Interactive Communication",
+    "start": "2025-08-24",
+    "end": "2025-08-28",
+    "deadline": "2025-03-15",
+    "city": "Kitakyushu",
+    "country": "Japan",
+    "link": "https://ro-man2026.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/GNCsuTcCizCDvW5s5",
+    "note": "The conference covers a wide range of topics related to Human-Robot Interaction, involving theories, methodologies, technologies, empirical and experimental studies. Papers related to the study of robotic technology, psychology, cognitive science, artificial intelligence, human factors, ethics and policies, interaction-based robot design and other topics related to human-robot interaction are welcome."
   },
   {
     "shortName": "AUV",
@@ -466,19 +505,6 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/kbMunvEpGmcVv5ML8",
     "note": "Our focus is on the technologies and applications of autonomous underwater vehicles (AUVs), autonomous surface vessels (ASVs), underwater gliders, and Lagrangian floats, with most papers centered on field robotics or data collected from real-world deployments."
-  },
-  {
-    "shortName": "ROSCON",
-    "name": "ROS Conference",
-    "start": "2026",
-    "end": "2026",
-    "deadline": "",
-    "city": "Toronto",
-    "country": "Canada",
-    "link": "https://roscon.ros.org/2026/",
-    "type": "Conference",
-    "addressLink": "",
-    "note": ""
   },
   {
     "shortName": "CBS",
@@ -498,13 +524,13 @@
     "name": "IEEE International Conference on Development and Learning",
     "start": "2026-09-15",
     "end": "2026-09-18",
-    "deadline": "",
+    "deadline": "2026-03-13",
     "city": "Kyoto",
     "country": "Japan",
-    "link": "",
+    "link": "https://attend.ieee.org/icdl-2026/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/JBUcxHRiWfXEP7K19",
+    "note": "The IEEE International Conference on Development and Learning (ICDL) is a unique conference gathering researchers from computer science, robotics, psychology, neuroscience, and other disciplines to share and discuss research on how humans and other animals learn and develop and how this can inform and be informed by robotics and machine learning systems."
   },
   {
     "shortName": "CRAS",
@@ -520,10 +546,23 @@
     "note": "Robotic surgery is one of the most appealing fields of modern robotics. With over 3 decades of history, more than 3.800 systems installed worldwide, and over 600.000 robot-assisted interventions conducted per year, the field of robotic surgery is well-established. Despite these impressive figures and increasing popularity in research labs all over the world, the list of technological advances that made it into the operating room (OR) during this last decade remains limited. Long-awaited techniques such as 3D reconstruction, motion compensation, virtual guidance, haptic feedback, understudy in many labs all over the planet did not make their appearance into the market yet. CRAS strives to overcome this status-quo by strengthening the collaboration between the different research groups to boost the efficacy and shorten the development cycle."
   },
   {
-    "shortName": "IROS",
-    "name": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
+    "shortName": "ROSCON",
+    "name": "ROS Conference",
     "start": "2026",
     "end": "2026",
+    "deadline": "",
+    "city": "Toronto",
+    "country": "Canada",
+    "link": "https://roscon.ros.org/2026/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
+    "shortName": "IROS",
+    "name": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
+    "start": "2026-09-27",
+    "end": "2026-10-01",
     "deadline": "",
     "city": "Pittsburgh (PA)",
     "country": "USA",
@@ -556,19 +595,6 @@
     "link": "http://humanoids.global/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/vrxVS7UwqGExZ9Yg8",
-    "note": ""
-  },
-  {
-    "shortName": "BioRob",
-    "name": "11th IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics",
-    "start": "2026-08-01",
-    "end": "2026-08-04",
-    "deadline": "",
-    "city": "Edmonton",
-    "country": "Canada",
-    "link": "",
-    "type": "Conference",
-    "addressLink": "",
     "note": ""
   }
 ]

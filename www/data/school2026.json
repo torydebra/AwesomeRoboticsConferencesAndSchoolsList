@@ -135,6 +135,21 @@
         "note": "The Centre for Theoretical Neuroscience at the University of Waterloo is excited to announce our 11th annual Nengo summer school on large-scale brain modelling and neuromorphic computing. As a recurring special feature of the school, participants will be given on-site access to neuromorphic hardware, including Stanford’s mixed digital/analog chip Braindrop, the SpiNNaker chip, and a variety of FPGAs."
     },
     {
+        "shortName": "MLCC",
+        "name": "Summer School Machine Learning Crash Course",
+        "start": "2026-06-15",
+        "end": "2026-06-19",
+        "deadline": "2026-03-01",
+        "city": "Genova",
+        "country": "Italy",
+        "link": "https://malga.unige.it/education/schools/mlcc2026/",
+        "type": "School",
+        "cost": "€50-300",
+        "costNote": "academic/prof/industry : €50/100/300", 
+        "addressLink": "https://maps.app.goo.gl/nVZn2jeXtZ8z9wjv6",
+        "note": "Machine Learning is key to develop intelligent systems and analyze data in science and engineering. Machine Learning systems enable intelligent technologies such as Siri, Google self-driving car, or Chat-GPT to name a few. At the same time, Machine Learning methods help deciphering the information in our DNA and make sense of the flood of information gathered on the web, forming the basis of a new “Science of Data”. This course introduces the fundamental methods at the core of modern Machine Learning. It covers theoretical foundations as well as essential algorithms."
+    },
+    {
         "shortName": "RPL",
         "name": "RPL Summer School",
         "start": "2026-06-21",

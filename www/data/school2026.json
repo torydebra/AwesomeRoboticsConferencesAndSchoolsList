@@ -45,6 +45,21 @@
         "note": "The goal of the school is to bring together researchers from complementary fields—such as computer vision, speech/audio processing, and human-robot interaction—who share a common interest in social robotics. The event aims to foster cross-disciplinary exchange and discussion, both through formal courses and informal interactions."
     },
     {
+        "shortName": "SEA",
+        "name": "SeaClear2.0 Winter School",
+        "start": "2026-02-09",
+        "end": "2026-02-13",
+        "deadline": "",
+        "city": "Munich",
+        "country": "Germany",
+        "link": "https://www.ce.cit.tum.de/itr/events/winterschool/",
+        "type": "School",
+        "cost": "€50",
+        "costNote": "lunch inc.",
+        "addressLink": "https://maps.app.goo.gl/An8DMkycsTpcMrsk9",
+        "note": "This winter school aims at sharing the latest advancements in the SeaClear2.0 project and other marine robotics initiatives. Join us to explore cutting-edge developments in autonomous underwater systems designed to protect our oceans"
+    },
+    {
         "shortName": "PIEZO",
         "name": "Introduction to Piezoelectric Mechatronics",
         "start": "2026-02-16",
@@ -193,5 +208,20 @@
         "costNote": "students/academics/professional early(late) : €598,95(665,50)/686,07(762,30)/794,97(883,30)", 
         "addressLink": "https://maps.app.goo.gl/oWsHhXuNhXr7Do5y9",
         "note": "Building on the success of our previous Summer Schools held in 2019, 2020, 2022, 2023, 2024 and 2025, we are pleased to announce the IEEE RAS Summer School 2026, which will take place from July 29 to August 4, 2026. As in previous years, the event will be hosted at the Czech Technical University, situated in the heart of one of Europe’s most beautiful and historic cities. The Summer School is dedicated to showcasing the latest advancements in Multi-Robot Systems research and is aimed at students, academic researchers, and industry professionals. The program seeks to bridge the gap between theory and practice, supporting the real-world application of cooperating robotic systems while fostering collaboration and knowledge exchange among participants."
+    },
+    {
+        "shortName": "CGMDCS",
+        "name": "Computational and Geometric Mechanics of Discrete and Continuum Systems",
+        "start": "2026-09-28",
+        "end": "2026-10-02",
+        "deadline": "",
+        "city": "Udine",
+        "country": "Italy",
+        "link": "https://cism.it/en/activities/courses/C2614/",
+        "type": "School",
+        "cost": "€793-976",
+        "costNote": "early-late, lunch inc.", 
+        "addressLink": "https://maps.app.goo.gl/udpoz7BhqQrQYn5y6",
+        "note": "This course will introduce attendees to fundamental concepts and mathematical formulations of geometric mechanics and provide a panoramic overview of current state of research and applications of geometric modeling. It covers theoretical and mathematical foundations, computational methods that allow for practical application to multibody system dynamics, as well as cutting-edge multidisciplinary research."
     }
 ]

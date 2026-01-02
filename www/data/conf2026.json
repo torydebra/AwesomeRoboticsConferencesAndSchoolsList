@@ -572,6 +572,19 @@
     "note": ""
   },
   {
+  "shortName": "SAB",
+  "name": "18th International Conference on the Simulation of Adaptive Behavior",
+  "start": "2026-10-19",
+  "end": "2026-10-22",
+  "deadline": "2026-05-15",
+  "city": "Berlin",
+  "country": "Germany",
+  "link": "https://sab2026.scioi.de/",
+  "type": "Conference",
+  "addressLink": "https://maps.app.goo.gl/M9RxoZgNwJEv4M868",
+  "note": "SAB 2026 will be held at Technische Universität Berlin (TU Berlin), Marchstraße 23, 10587 Berlin, Germany. The conference focuses on adaptive behavior in natural and artificial systems, spanning AI, robotics, neuroscience, biology, and cognitive science. Proceedings are published in Springer’s Lecture Notes in Artificial Intelligence (LNAI)."
+  },
+  {
     "shortName": "CORL",
     "name": "Conference on Robot Learning",
     "start": "2026-11-09",

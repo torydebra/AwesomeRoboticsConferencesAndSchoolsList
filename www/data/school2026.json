@@ -180,6 +180,21 @@
         "note": "The summer school hosts a mix of academic and industrial researchers from around the world and aims to provide a forum that promotes new collaborations. Our school focuses on a diverse range of topics within robotics, perception, and learning, encompassing areas such as Machine Learning, Computer Vision, Robotics, Human-Robot Interaction, Planning, and Decision Making."
     },
     {
+        "shortName": "ICAPS",
+        "name": "ICAPS 2026 Summer School",
+        "start": "2026-06-22",
+        "end": "2026-06-25",
+        "deadline": "",
+        "city": "Dublin",
+        "country": "Ireland",
+        "link": "https://icaps26-dublin-ss.github.io/ICAPS-2026-Summer-School/",
+        "type": "School",
+        "cost": "1250€",
+        "costNote": "lunch and acc. inc.", 
+        "addressLink": "https://maps.app.goo.gl/QEwFUbKFxbdLc32a7",
+        "note": ""
+    },
+    {
         "name": "13th International School on Deep Learning",
         "deadline": "",
         "city": "Orleans",

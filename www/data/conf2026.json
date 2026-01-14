@@ -225,7 +225,7 @@
     "name": "20th IEEE International Conference on Automatic Face and Gesture Recognition",
     "start": "2026-05-25",
     "end": "2026-05-29",
-    "deadline": "2026-01-15",
+    "deadline": "2026-01-25",
     "city": "Kyoto",
     "country": "Japan",
     "link": "https://fg2026.ieee-biometrics.org/",
@@ -416,6 +416,19 @@
     "note": "The workshop scope mainly focuses on human-robot interaction and robots safely and meaningfully working with/alongside humans in various daily or industrial tasks. We aim to bring together researchers and industry working in the related areas to discuss the recent results, discoveries, applications, and challenges in the field. The workshop has a single-track format to maximize the interaction between all participants."
   },
   {
+    "shortName": "ICAPS",
+    "name": "36th International Conference on Automated Planning and Scheduling",
+    "start": "2026-06-27",
+    "end": "2026-07-02",
+    "deadline": "2025-12-08",
+    "city": "Dublin",
+    "country": "Ireland",
+    "link": "https://icaps26.icaps-conference.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/1ruAXUtfArM8fzUFA",
+    "note": "ICAPS 2026, the premier forum on automated planning and scheduling in AI, will take place June 27–July 2, 2026 at the Clayton Hotel Burlington Road in Dublin, Ireland. Abstract submissions are due December 2 and full papers by December 8, 2025, with author notifications by February 20, 2026. The conference covers planning and scheduling theory, applications, and special tracks including robotics and human-aware planning."
+  },
+  {
     "shortName": "ICIA",
     "name": "International Conference on Information Automation",
     "start": "2026-07-29",
@@ -446,7 +459,7 @@
     "name": "11th IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics",
     "start": "2026-08-01",
     "end": "2026-08-04",
-    "deadline": "2026-01-10",
+    "deadline": "2026-01-17",
     "city": "Edmonton",
     "country": "Canada",
     "link": "https://2026.ieeebiorob.org/",

@@ -39,6 +39,19 @@
     "note": ""
   },
   {
+    "shortName": "IRU",
+    "name": "UK & Ireland Chapter Annual Conference 2026",    
+    "start": "2026-02-20",
+    "end": "2026-02-20",
+    "deadline": "",
+    "city": "Renehan Hall",
+    "country": "Ireland",
+    "link": "https://ieee-ras-uk-irl-2026.lovable.app/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/XLydzR8FeeCm3e4eA",
+    "note": "The programme is complemented by panel discussions on emerging research challenges, a peer-reviewed student poster contest, and structured networking designed to strengthen research linkages between the UK and Ireland."
+  },
+  {
     "shortName": "ICMRE",
     "name": "12th International Conference on Mechatronics and Robotics Engineering",
     "start": "2026-03-02",
@@ -322,6 +335,19 @@
     "link": "https://robotkinematics.xyz/ARK2026.html",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/Ja4h61G3zCFLGJeB6",
+    "note": ""
+  },
+  {
+    "shortName": "HERON",
+    "name": "Hellenic Robotics Forum",
+    "start": "2026-07-01",
+    "end": "2026-07-03",
+    "deadline": "2026-03-30",
+    "city": "Athens",
+    "country": "Greece",
+    "link": "https://heron-robotics-coe.eu/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/aCDDwUuv8kphAZVj8",
     "note": ""
   },
   {

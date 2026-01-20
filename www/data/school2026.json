@@ -225,6 +225,21 @@
         "note": "Building on the success of our previous Summer Schools held in 2019, 2020, 2022, 2023, 2024 and 2025, we are pleased to announce the IEEE RAS Summer School 2026, which will take place from July 29 to August 4, 2026. As in previous years, the event will be hosted at the Czech Technical University, situated in the heart of one of Europe’s most beautiful and historic cities. The Summer School is dedicated to showcasing the latest advancements in Multi-Robot Systems research and is aimed at students, academic researchers, and industry professionals. The program seeks to bridge the gap between theory and practice, supporting the real-world application of cooperating robotic systems while fostering collaboration and knowledge exchange among participants."
     },
     {
+        "shortName": "RimA",
+        "name": "Summer School to Enable Walking Robots for Domestic Environments",
+        "start": "2026-08-03",
+        "end": "2026-08-07",
+        "deadline": "2026-03-31",
+        "city": "Karlsruhe",
+        "country": "Germany",
+        "link": "https://www.roboter-im-alltag.org/aktuelles/summer-school-engl/",
+        "type": "School",
+        "cost": "free",
+        "costNote": "lunch inc.", 
+        "addressLink": "https://maps.app.goo.gl/LcDVz47sds64UaDx5",
+        "note": "The FZI Research Center for Information Technology, in cooperation with Karlsruhe Institute of Technology, will organize a summer school to enable walking robots for domestic environments using 3D mapping, semantics, ML, ROS 2, and behavior trees for unknown and dynamic environments."
+    },
+    {
         "shortName": "CGMDCS",
         "name": "Computational and Geometric Mechanics of Discrete and Continuum Systems",
         "start": "2026-09-28",

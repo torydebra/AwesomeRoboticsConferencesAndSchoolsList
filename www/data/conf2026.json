@@ -234,6 +234,19 @@
     "note": ""
   },
   {
+    "shortName": "ICCAR",
+    "name": "International Conference on Control, Automation and Robotics",
+    "start": "2026-04-08",
+    "end": "2026-04-10",
+    "deadline": "2026-02-20",
+    "city": "Nagoya",
+    "country": "Japan",
+    "link": "https://www.iccar.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/SNEYHEkJArrjVTkLA",
+    "note": "Following the success of previous editions, ICCAR 2026 will be held in Nagoya,  Japan. The conference provides a premier platform for researchers to present advancements in control, automation, and robotics."
+  },
+  {
     "shortName": "FG",
     "name": "20th IEEE International Conference on Automatic Face and Gesture Recognition",
     "start": "2026-05-25",

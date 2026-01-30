@@ -186,7 +186,7 @@
     "name": "IEEE Engineering Reliable Autonomous Systems",
     "start": "2026-05-28",
     "end": "2026-05-29",
-    "deadline": "",
+    "deadline": "2026-02-21",
     "city": "Zagreb",
     "country": "Croatia",
     "link": "http://www.2026-erasrobotics.org",
@@ -284,6 +284,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/oXrAu1872ixzSkSv8",
     "note": "WAFR 2026 is the biennial symposium on algorithmic foundations of robotics, focusing on theoretical and practical advances in robotic algorithms\u2014planning, perception, learning, locomotion, and more. Key submission dates (AoE): paper submissions by January 15, 2026; acceptance notifications by March 15, 2026; preliminary papers due by May 15, 2026; symposium runs June 15\u201317. Proceedings will be published in Springer\u2019s Proceedings in Advanced Robotics (SPAR) series."
+  },
+  {
+    "shortName": "ELROB",
+    "name": "European Land Robot Trial",
+    "start": "2026-06-15",
+    "end": "2026-06-19",
+    "deadline": "2026-01-31",
+    "city": "Thun",
+    "country": "Switzerland",
+    "link": "https://elrob.org/elrob-2026/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": "The military ELROB, which takes place for the ninth time now, enables you to get a glance at the latest R&D in the area of unmanned outdoor/off-road ground systems. The scenarios have been developed in closest co-operation with the military users and reflect the up-to-date requirements of the forces. This event offers the fantastic opportunity to mingle with the international experts from the user community, the industry and the R&D sector."
   },
   {
     "shortName": "ARSO",

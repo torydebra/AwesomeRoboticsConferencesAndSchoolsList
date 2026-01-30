@@ -561,15 +561,15 @@
   {
     "shortName": "CBS",
     "name": "IEEE International Conference on Cyborg and Bionic Systems",
-    "start": "2026-09-02",
-    "end": "2026-09-04",
-    "deadline": "",
+    "start": "2026-09-06",
+    "end": "2026-09-08",
+    "deadline": "2026-04-15",
     "city": "Munich",
     "country": "Germany",
-    "link": "",
+    "link": "https://attend.ieee.org/cbs-2026/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/wDNi21KrW1HtoKu99",
+    "note": "CBS is a premier international conference dedicated to frontier research and real-world applications in cyborg and bionic systems. The conference brings together researchers and industry leaders to explore systems based on the hybrid integration of organic, biomechatronic, and artificial components, including bio-hybrid actuators, intelligent sensors, neural interfaces, and embodied control strategies."
   },
   {
     "shortName": "ICDL",

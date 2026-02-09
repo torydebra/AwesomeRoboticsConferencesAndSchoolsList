@@ -165,6 +165,21 @@
         "note": "Machine Learning is key to develop intelligent systems and analyze data in science and engineering. Machine Learning systems enable intelligent technologies such as Siri, Google self-driving car, or Chat-GPT to name a few. At the same time, Machine Learning methods help deciphering the information in our DNA and make sense of the flood of information gathered on the web, forming the basis of a new “Science of Data”. This course introduces the fundamental methods at the core of modern Machine Learning. It covers theoretical foundations as well as essential algorithms."
     },
     {
+        "shortName": "UBISS",
+        "name": "14th International UBI Summer School",
+        "start": "2026-06-15",
+        "end": "2026-06-17",
+        "deadline": "2026-03-08",
+        "city": "Oulu",
+        "country": "Finland",
+        "link": "https://ubicomp.oulu.fi/UBISS2026",
+        "type": "School",
+        "cost": "€300",
+        "costNote": "", 
+        "addressLink": "https://maps.app.goo.gl/CBDmY7D9wDc2ELSk9",
+        "note": "UBISS 2026 invites researchers, students, and industry and public sector professionals to gain theoretical insight and personal hands on experience of selected topics on robotics under the tutelage of distinguished experts. UBISS 2026 continuec the legacy of the previous 13 successful multidisciplinary UBI Summer Schools hosted by us in Oulu in 2010-2025."
+    },
+    {
         "shortName": "RPL",
         "name": "RPL Summer School",
         "start": "2026-06-21",
@@ -193,6 +208,21 @@
         "costNote": "lunch and acc. inc.", 
         "addressLink": "https://maps.app.goo.gl/QEwFUbKFxbdLc32a7",
         "note": ""
+    }, 
+    {
+        "shortName": "ICVSS",
+        "name": "International Computer Vision Summer School",
+        "start": "2026-07-05",
+        "end": "2026-07-11",
+        "deadline": "2026-04-01",
+        "city": "Punta Sampieri - Scicli",
+        "country": "Italy",
+        "link": "https://icvss.dmi.unict.it/icvss2026/",
+        "type": "School",
+        "cost": "€625-1050",
+        "costNote": "students/academics/others : €625/850/1050", 
+        "addressLink": "https://maps.app.goo.gl/W4q3cCn8q9SwyvVs5",
+        "note": "The twentieth edition of the International Computer Vision Summer School aims to provide both an objective and clear overview and an in-depth analysis of the state-of-the-art research in Computer Vision. The last decade has seen a revolution in the theory and application of computer vision and machine learning. The next decade will see machine perception in embodied systems which learn representations for and from action and interaction for spatial intelligence."
     },
     {
         "name": "13th International School on Deep Learning",
@@ -238,6 +268,21 @@
         "costNote": "lunch inc.", 
         "addressLink": "https://maps.app.goo.gl/LcDVz47sds64UaDx5",
         "note": "The FZI Research Center for Information Technology, in cooperation with Karlsruhe Institute of Technology, will organize a summer school to enable walking robots for domestic environments using 3D mapping, semantics, ML, ROS 2, and behavior trees for unknown and dynamic environments."
+    },
+    {
+        "shortName": "PKM",
+        "name": "The 4th Summer School On Parallel Robotics",
+        "start": "2026-09-21",
+        "end": "2026-09-25",
+        "deadline": "2026-05-31",
+        "city": "Montpellier",
+        "country": "France",
+        "link": "http://www.lirmm.fr/pkm-2026/",
+        "type": "School",
+        "cost": "€400/450",
+        "costNote": "IFTOMM members / not", 
+        "addressLink": "https://maps.app.goo.gl/gZKnDcueZ72Pszk87",
+        "note": "The aim of this summer school is to share knowledge on the design, modeling, control, and applications of parallel kinematic manipulators over the course of one week, with a strong focus on realistic prototypes and real-world industrial challenges. The program consists of plenary lectures and hands-on simulation laboratories. The summer school is intended for PhD students, postdoctoral researchers, and researchers who are already active in the field or who have an  interest in parallel kinematic manipulators."
     },
     {
         "shortName": "CGMDCS",

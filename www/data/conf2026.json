@@ -637,6 +637,19 @@
     "note": "Robotic surgery is one of the most appealing fields of modern robotics. With over 3 decades of history, more than 3.800 systems installed worldwide, and over 600.000 robot-assisted interventions conducted per year, the field of robotic surgery is well-established. Despite these impressive figures and increasing popularity in research labs all over the world, the list of technological advances that made it into the operating room (OR) during this last decade remains limited. Long-awaited techniques such as 3D reconstruction, motion compensation, virtual guidance, haptic feedback, understudy in many labs all over the planet did not make their appearance into the market yet. CRAS strives to overcome this status-quo by strengthening the collaboration between the different research groups to boost the efficacy and shorten the development cycle."
   },
   {
+    "shortName": "EUMAS",
+    "name": "The 23rd European Conference on Multi-Agent Systems",
+    "start": "2026-09-21",
+    "end": "2026-09-25",
+    "deadline": "2026-05-18",
+    "city": "Malmö",
+    "country": "Sweden",
+    "link": "https://euramas.github.io/eumas2026/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/Qu3GkifoQN32P43EA",
+    "note": "EUMAS 2026 is an EURAMAS designated event which follows the tradition of previous editions and aims to encourage and support activity in the research and development of multi-agent systems, in academic and industrial effort. EUMAS enables researchers to meet, present challenges, preliminary and mature research results in an open environment."
+  },
+  {
     "shortName": "ROSCON",
     "name": "ROS Conference",
     "start": "2026-09-22",

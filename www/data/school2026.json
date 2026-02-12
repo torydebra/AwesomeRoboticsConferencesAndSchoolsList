@@ -208,6 +208,21 @@
         "costNote": "lunch and acc. inc.", 
         "addressLink": "https://maps.app.goo.gl/QEwFUbKFxbdLc32a7",
         "note": ""
+    },
+    {
+        "shortName": "ROBOSTAR",
+        "name": "RoboStar Summer School",
+        "start": "2026-06-29",
+        "end": "2026-07-02",
+        "deadline": "",
+        "city": "York",
+        "country": "UK",
+        "link": "https://robostar.cs.york.ac.uk/robostar-summer-school/",
+        "type": "School",
+        "cost": "£30",
+        "costNote": "lunch inc.", 
+        "addressLink": "https://maps.app.goo.gl/WLuT5FDwwDGvoedJ7",
+        "note": "The RoboStar Summer School is a four-day, in-person event, hosted at the University of York, dedicated to Software Engineering of trustworthy robotic systems. It brings together leading international researchers and industry practitioners to present the full range of RoboStar technologies, from modelling and simulation to deployment and assurance."
     }, 
     {
         "shortName": "ICVSS",

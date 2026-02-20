@@ -611,6 +611,19 @@
     "note": "CBS is a premier international conference dedicated to frontier research and real-world applications in cyborg and bionic systems. The conference brings together researchers and industry leaders to explore systems based on the hybrid integration of organic, biomechatronic, and artificial components, including bio-hybrid actuators, intelligent sensors, neural interfaces, and embodied control strategies."
   },
   {
+    "shortName": "CLAWAR",
+    "name": "International Conference on Climbing and Walking Robots and Support Technologies for Mobile Machines",
+    "start": "2026-09-14",
+    "end": "2026-09-16",
+    "deadline": "2026-04-01",
+    "city": "Cranfield",
+    "country": "UK",
+    "link": "https://clawar.org/clawar2026/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/nY7bhFymzCyTzuAYA",
+    "note": "CLAWAR 2025 is the 28th issue of the International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines. The conference will be organized in collaboration with the Shenzhen Technology University, China, and held within the premises of the university, during 05 \u2013 07 September 2025. The technical programme of CLAWAR 2025 will feature plenary, regular and special/invited sessions. The conference proceedings will be published in the Springer\u2019s Lecture Notes in Networks and Systems series and indexed in Scopus, EI and Web of Science."
+  },
+  {
     "shortName": "ICDL",
     "name": "IEEE International Conference on Development and Learning",
     "start": "2026-09-15",

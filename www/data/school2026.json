@@ -180,6 +180,21 @@
         "note": "UBISS 2026 invites researchers, students, and industry and public sector professionals to gain theoretical insight and personal hands on experience of selected topics on robotics under the tutelage of distinguished experts. UBISS 2026 continuec the legacy of the previous 13 successful multidisciplinary UBI Summer Schools hosted by us in Oulu in 2010-2025."
     },
     {
+        "shortName": "ETHRSS",
+        "name": "ETH Robotics Summer School",
+        "start": "2025-06-20",
+        "end": "2025-06-26",
+        "deadline": "2025-03-20",
+        "city": "Geneva",
+        "country": "Switzerland",
+        "link": "https://robotx.ethz.ch/education/summer-school.html",
+        "type": "School",
+        "cost": "CHF 200",
+        "costNote": "meals and accomodation inc.", 
+        "addressLink": "https://maps.app.goo.gl/LfPBMdLzvnUWztNUA",
+        "note": "Robotics has become one of the biggest fields of education and research worldwide. The RobotX center at ETH Zurich is committed to provide continued education and training to the young generations of researchers and practitioners. This summer school offers lectures and hands-on tutorials to grasp the fundamental concepts that every roboticist around the world should possess."
+    },
+    {
         "shortName": "RPL",
         "name": "RPL Summer School",
         "start": "2026-06-21",

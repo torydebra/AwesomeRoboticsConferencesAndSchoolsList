@@ -121,12 +121,12 @@
     "name": "12th International Conference on Electrical Engineering, Control and Robotics",
     "start": "2026-04-06",
     "end": "2026-04-08",
-    "deadline": "",
-    "city": "P. R. China",
+    "deadline": "2026-02-26",
+    "city": "Suzhou",
     "country": "China",
-    "link": "https://www.ieee-ras.org/event/2026-12th-international-conference-on-electrical-engineering-control-and-robotics-eecr-69522/",
+    "link": "https://www.eecr.org/index.html",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/T9GVMPiQBYCi144KA",
     "note": ""
   },
   {
@@ -134,12 +134,12 @@
     "name": "7th International Conference on Artificial Intelligence, Robotics, and Control",
     "start": "2026-04-08",
     "end": "2026-04-10",
-    "deadline": "",
-    "city": "GA",
+    "deadline": "2026-02-15",
+    "city": "Savannah, GA",
     "country": "USA",
-    "link": "https://www.ieee-ras.org/event/2026-7th-international-conference-on-artificial-intelligence-robotics-and-control-airc-69745/",
+    "link": "https://www.airc.org/",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/CWgveQKPXX4cZmx27",
     "note": ""
   },
   {
@@ -215,9 +215,9 @@
     "deadline": "",
     "city": "Virudhunagar",
     "country": "India",
-    "link": "https://www.ieee-ras.org/event/2026-international-conference-on-computational-robotics-testing-and-engineering-evaluation-iccrtee-68719/",
+    "link": "https://events.vtools.ieee.org/m/474396",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/s5RK64UHV7vH1nbq7",
     "note": ""
   },
   {
@@ -355,13 +355,13 @@
     "name": "IEEE International Conference on Advanced Robotics and its Social Impacts",
     "start": "2026-06-10",
     "end": "2026-06-12",
-    "deadline": "2026-01-22",
+    "deadline": "2026-02-11",
     "city": "Vienna",
     "country": "Austria",
     "link": "https://ieee-arso.org/",
     "type": "Conference",
-    "addressLink": "",
-    "note": "The IEEE ARSO 2026 aims to bring together experts from various fields to discuss the impact of advanced robotics on individuals, groups and larger social systems.TU Wien, the Austria largest research and educational institution in the field of technology and natural sciences,"
+    "addressLink": "https://maps.app.goo.gl/j9QpRT7YahfZqQoY8",
+    "note": "The IEEE ARSO 2026 aims to bring together experts from various fields to discuss the impact of advanced robotics on individuals, groups and larger social systems. TU Wien, the Austria's largest research and educational institution in the field of technology and natural sciences"
   },
   {
     "shortName": "ICICR",

@@ -270,6 +270,21 @@
         "note": "DeepLearn 2026 will be a research training event with a global scope aiming at updating participants on the most recent advances in the critical and fast developing area of deep learning."
     },
     {
+        "name": "IRCN Neuro-inspired Computation Summer Course",
+        "deadline": "2026-04-06",
+        "city": "Tokyo",
+        "country": "Japan",
+        "link": "https://ircn.jp/en/events/ircncourse2026",
+        "type": "School",
+        "shortName": "IRCN",
+        "start": "2026-07-22",
+        "end": "2026-07-25",
+        "cost": "free",
+        "costNote": "possible travel support", 
+        "addressLink": "https://maps.app.goo.gl/xYCBRdByMsaQyxiq9",
+        "note": "The World Premier International Research Center for Neurointelligence (WPI-IRCN) at The University of Tokyo proudly presents the Neuro-inspired Computation Course, an intensive 4-day program exploring the convergence of neuroscience and artificial intelligence. The course is comprising lectures by distinguished international faculty, poster sessions, and interactive discussion sessions. Beyond academic content, the program offers exceptional networking opportunities with global experts and peers, fostering collaboration and innovation. Participants will have the chance to present their research, exchange ideas, and explore future directions in neuro-inspired computation."
+    },
+    {
         "name": "IEEE RAS Summer School on Multi-robot systems",
         "deadline": "",
         "city": "Prague",

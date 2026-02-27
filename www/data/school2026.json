@@ -240,6 +240,21 @@
         "note": "The RoboStar Summer School is a four-day, in-person event, hosted at the University of York, dedicated to Software Engineering of trustworthy robotic systems. It brings together leading international researchers and industry practitioners to present the full range of RoboStar technologies, from modelling and simulation to deployment and assurance."
     }, 
     {
+        "shortName": "MLSS^R&S",
+        "name": "Machine Learning Summer School on Reliability and Safety",
+        "start": "2026-06-29",
+        "end": "2026-07-03",
+        "deadline": "2026-04-19",
+        "city": "Kraków",
+        "country": "Poland",
+        "link": "https://mlss2026.mlinpl.org/",
+        "type": "School",
+        "cost": "€350-900",
+        "costNote": "students/academics(regular)[late] : €350(400)[450]/700(800)[900]",
+        "addressLink": "https://maps.app.goo.gl/K7cRpcirLPDHaLmt6",
+        "note": "The school is organised as an intensive academic programme built around invited lectures delivered by a carefully selected group of researchers from academia and industry, whose work has significantly contributed to the development of the field. Speakers are actively involved in current research and are invited based on their scientific contributions and expertise."
+    }, 
+    {
         "shortName": "ICVSS",
         "name": "International Computer Vision Summer School",
         "start": "2026-07-05",

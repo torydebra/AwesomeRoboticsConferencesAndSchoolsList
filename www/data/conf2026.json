@@ -40,7 +40,7 @@
   },
   {
     "shortName": "IRU",
-    "name": "UK & Ireland Chapter Annual Conference 2026",    
+    "name": "UK & Ireland Chapter Annual Conference 2026",
     "start": "2026-02-20",
     "end": "2026-02-20",
     "deadline": "",
@@ -117,6 +117,32 @@
     "note": "Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum of research in neuroscience, perception, engineering, and design, focused on sharing new advances in our understanding of the sense of touch, sparking new collaborations, and envisioning a future in which physical interactions are enriched through haptic technologies."
   },
   {
+    "shortName": "EECR",
+    "name": "12th International Conference on Electrical Engineering, Control and Robotics",
+    "start": "2026-04-06",
+    "end": "2026-04-08",
+    "deadline": "",
+    "city": "P. R. China",
+    "country": "China",
+    "link": "https://www.ieee-ras.org/event/2026-12th-international-conference-on-electrical-engineering-control-and-robotics-eecr-69522/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
+    "shortName": "AIRC",
+    "name": "7th International Conference on Artificial Intelligence, Robotics, and Control",
+    "start": "2026-04-08",
+    "end": "2026-04-10",
+    "deadline": "",
+    "city": "GA",
+    "country": "USA",
+    "link": "https://www.ieee-ras.org/event/2026-7th-international-conference-on-artificial-intelligence-robotics-and-control-airc-69745/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "RiE",
     "name": "Robotics in Education",
     "start": "2026-04-15",
@@ -180,6 +206,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/TmNKvydZ8WRjV1Sm8",
     "note": "The event will feature plenary talks from recognized experts in the field of robotics and technical sessions with oral and poster presentations of full papers that have been submitted and accepted for the conference."
+  },
+  {
+    "shortName": "ICCRTEE",
+    "name": "International Conference on Computational Robotics, Testing and Engineering Evaluation",
+    "start": "2026-05-14",
+    "end": "2026-05-16",
+    "deadline": "",
+    "city": "Virudhunagar",
+    "country": "India",
+    "link": "https://www.ieee-ras.org/event/2026-international-conference-on-computational-robotics-testing-and-engineering-evaluation-iccrtee-68719/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   },
   {
     "shortName": "ERAS",
@@ -400,7 +439,7 @@
     "link": "https://icsr2026.uk/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/G8cxdzMWuL3x3BLEA",
-    "note": "For its 18th edition, ICSR 2026 introduces a special theme: “ICSR + Art: Exploring Creative Robotics.” While continuing to embrace all core areas of social robotics, this year’s conference adds a distinctive focus on the intersection of robotics and the arts. This theme invites us to consider how robots can transcend their traditional roles to become creative collaborators, co-designers, performers, and participants. Through the lens of creative robotics, we seek to deepen our understanding of how social robots can inspire and engage with imagination, aesthetic experience, and technological innovation."
+    "note": "For its 18th edition, ICSR 2026 introduces a special theme: \u201cICSR + Art: Exploring Creative Robotics.\u201d While continuing to embrace all core areas of social robotics, this year\u2019s conference adds a distinctive focus on the intersection of robotics and the arts. This theme invites us to consider how robots can transcend their traditional roles to become creative collaborators, co-designers, performers, and participants. Through the lens of creative robotics, we seek to deepen our understanding of how social robots can inspire and engage with imagination, aesthetic experience, and technological innovation."
   },
   {
     "shortName": "EHAPTICS",
@@ -491,7 +530,7 @@
     "link": "https://icaps26.icaps-conference.org/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/1ruAXUtfArM8fzUFA",
-    "note": "ICAPS 2026, the premier forum on automated planning and scheduling in AI, will take place June 27–July 2, 2026 at the Clayton Hotel Burlington Road in Dublin, Ireland. Abstract submissions are due December 2 and full papers by December 8, 2025, with author notifications by February 20, 2026. The conference covers planning and scheduling theory, applications, and special tracks including robotics and human-aware planning."
+    "note": "ICAPS 2026, the premier forum on automated planning and scheduling in AI, will take place June 27\u2013July 2, 2026 at the Clayton Hotel Burlington Road in Dublin, Ireland. Abstract submissions are due December 2 and full papers by December 8, 2025, with author notifications by February 20, 2026. The conference covers planning and scheduling theory, applications, and special tracks including robotics and human-aware planning."
   },
   {
     "shortName": "ICIA",
@@ -530,7 +569,7 @@
     "link": "https://2026.ieeebiorob.org/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/e6SdzRcmBcPTjrFMA",
-    "note": "BioRob delves into both theoretical and practical challenges arising from the integration of robotics and mechatronics into medicine and biology. The main objective of Biorobotics is to evaluate biological systems through a ‘biomechatronic’ lens, striving to unravel the scientific and engineering principles that underpin their exceptional performance. This deep comprehension of biological system functions, behaviors, and interactions serves two primary purposes: to inform the design and creation of new, high-performance bio-inspired machinery and systems for various applications, and to foster the development of innovative nano-, micro-, and macro-devices that can act upon, replace, or assist human beings in areas such as disease prevention, diagnostics, surgical procedures, prosthetics, rehabilitation, and personal assistance."
+    "note": "BioRob delves into both theoretical and practical challenges arising from the integration of robotics and mechatronics into medicine and biology. The main objective of Biorobotics is to evaluate biological systems through a \u2018biomechatronic\u2019 lens, striving to unravel the scientific and engineering principles that underpin their exceptional performance. This deep comprehension of biological system functions, behaviors, and interactions serves two primary purposes: to inform the design and creation of new, high-performance bio-inspired machinery and systems for various applications, and to foster the development of innovative nano-, micro-, and macro-devices that can act upon, replace, or assist human beings in areas such as disease prevention, diagnostics, surgical procedures, prosthetics, rehabilitation, and personal assistance."
   },
   {
     "shortName": "ICMA",
@@ -655,7 +694,7 @@
     "start": "2026-09-21",
     "end": "2026-09-25",
     "deadline": "2026-05-18",
-    "city": "Malmö",
+    "city": "Malm\u00f6",
     "country": "Sweden",
     "link": "https://euramas.github.io/eumas2026/",
     "type": "Conference",
@@ -689,17 +728,17 @@
     "note": ""
   },
   {
-  "shortName": "SAB",
-  "name": "18th International Conference on the Simulation of Adaptive Behavior",
-  "start": "2026-10-19",
-  "end": "2026-10-22",
-  "deadline": "2026-05-15",
-  "city": "Berlin",
-  "country": "Germany",
-  "link": "https://sab2026.scioi.de/",
-  "type": "Conference",
-  "addressLink": "https://maps.app.goo.gl/M9RxoZgNwJEv4M868",
-  "note": "SAB 2026 will be held at Technische Universität Berlin (TU Berlin), Marchstraße 23, 10587 Berlin, Germany. The conference focuses on adaptive behavior in natural and artificial systems, spanning AI, robotics, neuroscience, biology, and cognitive science. Proceedings are published in Springer’s Lecture Notes in Artificial Intelligence (LNAI)."
+    "shortName": "SAB",
+    "name": "18th International Conference on the Simulation of Adaptive Behavior",
+    "start": "2026-10-19",
+    "end": "2026-10-22",
+    "deadline": "2026-05-15",
+    "city": "Berlin",
+    "country": "Germany",
+    "link": "https://sab2026.scioi.de/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/M9RxoZgNwJEv4M868",
+    "note": "SAB 2026 will be held at Technische Universit\u00e4t Berlin (TU Berlin), Marchstra\u00dfe 23, 10587 Berlin, Germany. The conference focuses on adaptive behavior in natural and artificial systems, spanning AI, robotics, neuroscience, biology, and cognitive science. Proceedings are published in Springer\u2019s Lecture Notes in Artificial Intelligence (LNAI)."
   },
   {
     "shortName": "CORL",

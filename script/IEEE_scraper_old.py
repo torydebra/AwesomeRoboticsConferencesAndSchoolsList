@@ -3,7 +3,6 @@ from datetime import datetime, timezone
 from bs4 import BeautifulSoup
 import json
 import glob
-from playwright.sync_api import sync_playwright
 
 class Conference:
     def __init__(self, shortName, name, start, end, deadline, city, country, link, type, addressLink, note, year):
@@ -26,105 +25,70 @@ class Conference:
 
 
 def create_conference(row):
-    print("create cond")
-    is_conf = row.find(attrs={'class':'tec-events-calendar-list__category tribe-events-calendar__category--conferences'})
-    if is_conf is None:
-        return None
-
-    conf_title = row.find(attrs={'class':'tribe-events-calendar-list__event-title-link'})
+    conf_title = row.find(attrs={'class':'conf-title'})
     conf_title_text = ""
 
     link = ""
 
-    if (conf_title.name == 'a') :
-        link = conf_title['href'].strip()
-        conf_title_text = conf_title.text.strip()
+    link_element=conf_title.find('a')
+    if (link_element) :
+        link = link_element['href']
+        conf_title_text = link_element.text
     else :
         conf_title_text = ''.join(conf_title.find_all(string=True, recursive=False)).strip()
 
     #print(conf_title_text)
-    #print(link)
 
     words = conf_title_text.split()
     year = words[0]
     shortName = words[-1]
     name = ' '.join(words[1:-1])
-    #print(year)
-    #print(shortName)
-    #print(name)
 
-    conf_place = row.find(attrs={'class':'tribe-events-calendar-list__event-venue-address'}).text
+    conf_place = row.find(attrs={'class':'conf-place'}).text
     conf_place_split = conf_place.split(',')
-    if (len(conf_place_split) > 0):
-        country = conf_place_split[-1].strip()
+    #print(words)
+    city = conf_place_split[0].strip()
+    if (len(conf_place_split) > 1):
+        country = conf_place_split[1].strip()
     else:
         country = ""
-    if (len(conf_place_split) > 1):
-        city = conf_place_split[-2].strip()
-    else:
-        city = ""
 
-    # print(country)
-    # print(city)
-
-
-    conf_date_start = row.find("time").get("datetime")
-    start_datetime = datetime.strptime(conf_date_start, "%Y-%m-%d")
-    start = start_datetime.strftime("%Y-%m-%d")
-
-    # END DATE
-    conf_date_end = row.find(class_="tribe-event-date-end").text
-    conf_date_end_split = conf_date_end.split("@")[0].strip()
-
-    conf_date_end_with_year = f"{conf_date_end_split} {start_datetime.year}"
-    end = datetime.strptime(conf_date_end_with_year, "%B %d %Y").strftime("%Y-%m-%d")
-
-    # print(start)
-    # print(end)
+    conf_date = row.find(attrs={'class':'conf-date'}).span['title']
+    conf_date_split = conf_date[1:].split('-')
+    start = datetime.fromtimestamp(int(conf_date_split[0]), timezone.utc).strftime('%Y-%m-%d')
+    end = datetime.fromtimestamp(int(conf_date_split[1]), timezone.utc).strftime('%Y-%m-%d')
 
     #deadline
     deadline = ""
-    # abstract_date_element = row.find('div', class_='conf-sub-date')
-    # if abstract_date_element:
-    #   title_attribute = abstract_date_element.find('span', {'title': True})
-    #   timestamp = title_attribute['title'].replace('abs', '')
-    #   deadline = datetime.fromtimestamp(int(timestamp), timezone.utc).strftime('%Y-%m-%d')
+    abstract_date_element = row.find('div', class_='conf-sub-date')
+    if abstract_date_element:
+      title_attribute = abstract_date_element.find('span', {'title': True})
+      timestamp = title_attribute['title'].replace('abs', '')
+      deadline = datetime.fromtimestamp(int(timestamp), timezone.utc).strftime('%Y-%m-%d')
 
-    print(name)
-    print(year)
-    print(shortName[1:-1])
-    print(city)
-    print(country)
-    print(start)
-    print(end)
-    print(" ")
+    #print(name)
+    # print(year)
+    # print(shortName[1:-1])
+    # print(city)
+    # print(country)
+    # print(start)
+    # print(end)
+    # print(" ")
 
     return Conference(shortName[1:-1], name, start, end, deadline, city, country, link, "Conference", "", "", year)
 
 
 def main():
     # Send a GET request to the webpage
-    url = "https://www.ieee-ras.org/events/category/conferences/"
-    soup = None
+    url = "https://www.ieee-ras.org/conferences-workshops/upcoming-conferences"
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36', "Upgrade-Insecure-Requests": "1","DNT": "1","Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8","Accept-Language": "en-US,en;q=0.5","Accept-Encoding": "gzip, deflate"}
+    response = requests.get(url, headers=headers)
+    #print(response.text)
 
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)  # set False to see browser
-        context = browser.new_context()
-        page = context.new_page()
-
-        page.goto(url, wait_until="networkidle")
-
-        # Wait a bit for Cloudflare challenge to complete
-        page.wait_for_timeout(1000)
-
-        html = page.content()
-
-        soup = BeautifulSoup(html, "html.parser")
-
-        browser.close()
-
+    # Parse the HTML content using BeautifulSoup
+    soup = BeautifulSoup(response.text, 'html.parser')
     #print(soup)
-    confs = soup.find_all(attrs={'class':'tribe-events-calendar-list__event-header'})
+    confs = soup.find_all(attrs={'class':'conf-full-item'})
     #print(confs)
 
 
@@ -156,8 +120,6 @@ def main():
     offset_insertion = 0 
     for row in confs:
         scraped_conf = create_conference(row)
-        if scraped_conf is None:
-            continue
 
         if not (scraped_conf.shortName.upper() in existent_confs_dict[scraped_conf.year]):
             #ignore roman already present because of bad format

@@ -330,6 +330,21 @@
         "note": "The FZI Research Center for Information Technology, in cooperation with Karlsruhe Institute of Technology, will organize a summer school to enable walking robots for domestic environments using 3D mapping, semantics, ML, ROS 2, and behavior trees for unknown and dynamic environments."
     },
     {
+        "name": "Touch Sensing and Processing Summer School",
+        "deadline": "2026-03-27",
+        "city": "Dresden",
+        "country": "Germany",
+        "link": "https://lasr.org/tspss2026",
+        "type": "School",
+        "shortName": "TSPSS",
+        "start": "2026-08-24",
+        "end": "2026-08-28",
+        "cost": "€550",
+        "costNote": "accomodation and meals incl.",
+        "addressLink": "https://maps.app.goo.gl/zJpfW26JwKrQKJzVA",
+        "note": "Compared to vision or hearing, touch is a poorly understood sensing modality. Thanks to recent advances in hardware development, it will soon be possible to digitize touch at scale. This creates important opportunities for both basic research and applications, such as robotics. In this context, it is increasingly important the role of Touch Processing – the science of making sense of touch through the use of machine learning."
+    },
+    {
         "shortName": "PKM",
         "name": "The 4th Summer School On Parallel Robotics",
         "start": "2026-09-21",

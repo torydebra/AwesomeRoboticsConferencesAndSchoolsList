@@ -270,6 +270,21 @@
         "note": "The twentieth edition of the International Computer Vision Summer School aims to provide both an objective and clear overview and an in-depth analysis of the state-of-the-art research in Computer Vision. The last decade has seen a revolution in the theory and application of computer vision and machine learning. The next decade will see machine perception in embodied systems which learn representations for and from action and interaction for spatial intelligence."
     },
     {
+        "shortName": "SCREW",
+        "name": "Screw-Theory Based Methods in Robotics",
+        "start": "2026-07-18",
+        "end": "2026-07-26",
+        "deadline": "2026-04-30",
+        "city": "Cork",
+        "country": "Ireland",
+        "link": "https://summer-screws-2026.lovable.app/#home",
+        "type": "School",
+        "cost": "€479-599",
+        "costNote": "students/others(early): €(479)579/(579)599", 
+        "addressLink": "https://maps.app.goo.gl/WyCKn62MuUgJsfRn7",
+        "note": "The International Summer School on Screw-Theory-Based Methods in Robotics (Summer Screws) has been organized since 2009 and has been held ten times around the world. In 2026, our screw-theory summer school travels to the far end of Europe, embarking on an adventure in the Emerald Isle for the first time. A selection of our 8 renowned regular lecturers will join a group of local guest speakers and up to 40 participants at University College Cork (UCC), Cork, Ireland. As always, the school will teach attendees to apply existing screw-theoretical methods and empower them to develop new ones in their own research. This summer school is suitable for M.Sc. students, PhD students, postdoctoral researchers, and early-career academic staff, as well as participants from industry who wish to enhance their skills in this field."
+    },
+    {
         "name": "13th International School on Deep Learning",
         "deadline": "",
         "city": "Orleans",

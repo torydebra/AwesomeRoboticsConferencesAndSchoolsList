@@ -225,13 +225,13 @@
     "name": "IEEE Engineering Reliable Autonomous Systems",
     "start": "2026-05-28",
     "end": "2026-05-29",
-    "deadline": "2026-02-21",
+    "deadline": "2026-03-07",
     "city": "Zagreb",
     "country": "Croatia",
-    "link": "http://www.2026-erasrobotics.org",
+    "link": "https://2026.ieee-eras.org/",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/KEa9KAHdrHsgh6Mf6",
+    "note": "2026 Engineering Reliable Autonomous Systems will be a premier event dedicated to advancing the fields of AI, Robotics and autonomous systems. This conference will bring together leading researchers, practitioners, and industry experts to share their latest findings, innovations, and insights in the realm of autonomous systems. Join us in Zagreb at FER for two days of engaging presentations, discussions, and networking opportunities that will shape the future of autonomous systems technology."
   },
   {
     "shortName": "CRV",

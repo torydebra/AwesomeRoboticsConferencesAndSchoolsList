@@ -273,6 +273,19 @@
     "note": "Following the success of previous editions, ICCAR 2026 will be held in Nagoya,  Japan. The conference provides a premier platform for researchers to present advancements in control, automation, and robotics."
   },
   {
+    "shortName": "RAIIE",
+    "name": "5th International Symposium on Robotics, Artificial Intelligence and Information Engineering",
+    "start": "2026-05-15",
+    "end": "2026-05-17",
+    "deadline": "2026-03-01",
+    "city": "Wuhu",
+    "country": "China",
+    "link": "https://www.raiie.org/",
+    "type": "Conference",
+    "addressLink": "https://www.google.com/maps?q=Wuhu,+Anhui,+China",
+    "note": "The 5th International Symposium on Robotics, Artificial Intelligence and Information Engineering (RAIIE 2026) is scheduled to take place in Wuhu, China from May 15-17, 2026. This conference aims to provide a platform for scientists, scholars, engineers, students from universities worldwide as well as industry professionals to present their ongoing research activities. Such gathering not only fosters research collaborations between academia and industry but also offers opportunities for delegates to exchange new ideas and application experiences face-to-face while establishing potential business or research relations with global partners for future collaboration."
+  },
+  {
     "shortName": "FG",
     "name": "20th IEEE International Conference on Automatic Face and Gesture Recognition",
     "start": "2026-05-25",

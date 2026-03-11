@@ -780,6 +780,19 @@
     "note": ""
   },
   {
+    "shortName": "TELEPRESENCE",
+    "name": "IEEE Conference on Telepresence 2026",
+    "start": "2026-11-09",
+    "end": "2026-11-13",
+    "deadline": "2026-06-12",
+    "city": "Bristol",
+    "country": "UK",
+    "link": "https://conf.telepresence.ieee.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/RcvxUmb2SEjmEiyJ6",
+    "note": "This year theme includes a focus on both the robotics behind teleoperation and the human-computer interface at the heart of telepresence.  While the physical beauty of Bristol's Clifton Suspension Bridge reminds us of the engineering triumphs of the past, our work this week focuses on the bridges of the future—the many disciplines that collaborate to deliver an experience that blurs the line between here and there"
+  },
+  {
     "shortName": "HAI",
     "name": "International Conference on Human-Agent Interaction",
     "start": "2026-11-16",

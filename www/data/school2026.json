@@ -225,6 +225,21 @@
         "note": ""
     },
     {
+        "shortName": "HERON",
+        "name": "1st Summer School in Robotics and AI",
+        "start": "2026-06-29",
+        "end": "2026-06-30",
+        "deadline": "2026-03-30",
+        "city": "Athens",
+        "country": "Greece",
+        "link": "https://heron-robotics-coe.eu/1st-summer-school-in-robotics-and-ai/",
+        "type": "School",
+        "cost": "€100",
+        "costNote": "lunch inc.", 
+        "addressLink": "https://maps.app.goo.gl/VBPp5186o9oeuLfSA",
+        "note": "The goal of the summer school is to introduce students, Ph.D. candidates, and scientists/engineers at a post-doctoral level to some of the most recent state-of-the-art topics at the cross section of Robotics and AI. The scope and the content of the sessions also aim to address needs of engineers in the industrial and service sectors with a strong interest in Robotics."
+    }, 
+    {
         "shortName": "ROBOSTAR",
         "name": "RoboStar Summer School",
         "start": "2026-06-29",

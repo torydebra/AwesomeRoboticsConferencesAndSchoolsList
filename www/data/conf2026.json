@@ -286,6 +286,19 @@
     "note": "The 5th International Symposium on Robotics, Artificial Intelligence and Information Engineering (RAIIE 2026) is scheduled to take place in Wuhu, China from May 15-17, 2026. This conference aims to provide a platform for scientists, scholars, engineers, students from universities worldwide as well as industry professionals to present their ongoing research activities. Such gathering not only fosters research collaborations between academia and industry but also offers opportunities for delegates to exchange new ideas and application experiences face-to-face while establishing potential business or research relations with global partners for future collaboration."
   },
   {
+    "shortName": "MRAI",
+    "name": "International Conference on Mechatronics, Robotics and Automation with Intelligent Systems",
+    "start": "2026-05-22",
+    "end": "2026-05-24",
+    "deadline": "2026-04-13",
+    "city": "Changsha",
+    "country": "China",
+    "link": "https://www.icmrai.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/U4cPDbodR6Chb3h46",
+    "note": ""
+  },
+  {
     "shortName": "FG",
     "name": "20th IEEE International Conference on Automatic Face and Gesture Recognition",
     "start": "2026-05-25",
@@ -429,11 +442,24 @@
     "note": ""
   },
   {
-    "shortName": "HERON",
+    "shortName": "RoboCup",
+    "name": "RoboCup competition",
+    "start": "2026-06-30",
+    "end": "2026-07-06",
+    "deadline": "2026-04-08",
+    "city": "Incheon",
+    "country": "South Korea",
+    "link": "https://2026.robocup.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/tMbt8zaMJfoc9Ho39",
+    "note": ""
+  },
+  {
+    "shortName": "HRF",
     "name": "Hellenic Robotics Forum",
     "start": "2026-07-01",
     "end": "2026-07-03",
-    "deadline": "2026-03-30",
+    "deadline": "2026-04-15",
     "city": "Athens",
     "country": "Greece",
     "link": "https://heron-robotics-coe.eu/",

@@ -793,6 +793,19 @@
     "note": ""
   },
   {
+    "shortName": "CAIS",
+    "name": "OkIP International Conference on Automated and Intelligent Systems",
+    "start": "2026-10-01",
+    "end": "2026-10-02",
+    "deadline": "2026-07-15",
+    "city": "Oklahoma City",
+    "country": "USA",
+    "link": "https://eventutor.com/e/CAIS006",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/Zmnu5gU7NeFzKSZX8",
+    "note": ""
+  },
+  {
     "shortName": "SAB",
     "name": "18th International Conference on the Simulation of Adaptive Behavior",
     "start": "2026-10-19",

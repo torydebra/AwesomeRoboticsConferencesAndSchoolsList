@@ -806,6 +806,19 @@
     "note": ""
   },
   {
+    "shortName": "ICMI",
+    "name": "ACM International Conference on Multimodal Interaction",
+    "start": "2026-10-05",
+    "end": "2026-10-09",
+    "deadline": "2026-04-20",
+    "city": "Napoli",
+    "country": "Italy",
+    "link": "https://icmi.acm.org/2026/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/oL6fFUREZB9kF8Z66",
+    "note": "ICMI is the premier international forum for advancing research at the intersection of multimodal artificial intelligence (AI) and social interaction to create technically innovative, effective, and human-centered multimodal interactive systems. A unique aspect of ICMI is its multidisciplinary nature, bringing together research in AI, multimodal data processing, and human-human and human-computer interaction to bridge behavioural understanding with technology, with an eye towards impactful applications that benefit people and society."
+  },
+  {
     "shortName": "SAB",
     "name": "18th International Conference on the Simulation of Adaptive Behavior",
     "start": "2026-10-19",

@@ -180,6 +180,21 @@
         "note": "UBISS 2026 invites researchers, students, and industry and public sector professionals to gain theoretical insight and personal hands on experience of selected topics on robotics under the tutelage of distinguished experts. UBISS 2026 continuec the legacy of the previous 13 successful multidisciplinary UBI Summer Schools hosted by us in Oulu in 2010-2025."
     },
     {
+        "shortName": "SAIE",
+        "name": "Summer Workshop on Surgical, Assistive, and Interventional Engineering",
+        "start": "2026-06-15",
+        "end": "2026-06-19",
+        "deadline": "2026-04-01",
+        "city": "London",
+        "country": "UK",
+        "link": "https://www.surgerycdt.com/summer-workshop-2026/",
+        "type": "School",
+        "cost": "£450-950",
+        "costNote": "academic-industry", 
+        "addressLink": "https://maps.app.goo.gl/dmYhgSsgro8NqMFh8",
+        "note": "Surgical, Assistive, and Interventional Engineering is transforming healthcare by merging groundbreaking technology with medical innovation. Our Summer Workshop offers a unique opportunity to explore this exciting field through hands-on learning and expert guidance."
+    },
+    {
         "shortName": "ETHRSS",
         "name": "ETH Robotics Summer School",
         "start": "2025-06-20",

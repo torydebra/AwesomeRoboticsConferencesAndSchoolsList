@@ -240,6 +240,21 @@
         "note": ""
     },
     {
+        "shortName": "IiRC",
+        "name": "iRoboCity2030",
+        "start": "2026-06-22",
+        "end": "2026-06-26",
+        "deadline": "",
+        "city": "Madrid",
+        "country": "Spain",
+        "link": "https://intelligentroboticslabs.github.io/RoboCity_ROS2_Summer_School_2026/",
+        "type": "School",
+        "cost": "€350-450",
+        "costNote": "early-normal-late: €350-400-450", 
+        "addressLink": "https://www.openstreetmap.org/?mlat=40.4065&mlon=-3.7095#map=19/40.406458/-3.709852",
+        "note": ""
+    },
+    {
         "shortName": "HERON",
         "name": "1st Summer School in Robotics and AI",
         "start": "2026-06-29",
@@ -285,6 +300,21 @@
         "note": "The school is organised as an intensive academic programme built around invited lectures delivered by a carefully selected group of researchers from academia and industry, whose work has significantly contributed to the development of the field. Speakers are actively involved in current research and are invited based on their scientific contributions and expertise."
     }, 
     {
+        "shortName": "SSSSER",
+        "name": "3rd Summer School for Systems & Software Engineering in Robotics",
+        "start": "2026-06-29",
+        "end": "2026-07-03",
+        "deadline": "2026-03-31",
+        "city": "Delft",
+        "country": "Netherlands",
+        "link": " https://www.scivenia.com/en/event/acm-sigsoft-summer-school-for-software-engineering-in-robotics_9163",
+        "type": "School",
+        "cost": "€250",
+        "costNote": "lunch inc.",
+        "addressLink": "https://maps.app.goo.gl/NXEaU6mUiipvy76c6",
+        "note": "Our target audience includes PhD students and early-career professionals interested in systems and software engineering, as well as cognitive robotics."
+    }, 
+    {
         "shortName": "ICVSS",
         "name": "International Computer Vision Summer School",
         "start": "2026-07-05",
@@ -298,6 +328,21 @@
         "costNote": "students/academics/others : €625/850/1050", 
         "addressLink": "https://maps.app.goo.gl/W4q3cCn8q9SwyvVs5",
         "note": "The twentieth edition of the International Computer Vision Summer School aims to provide both an objective and clear overview and an in-depth analysis of the state-of-the-art research in Computer Vision. The last decade has seen a revolution in the theory and application of computer vision and machine learning. The next decade will see machine perception in embodied systems which learn representations for and from action and interaction for spatial intelligence."
+    },
+    {
+        "shortName": "SSTCT",
+        "name": "IEEE Summer School on Telerobotics and Cyborg Technologies",
+        "start": "2026-07-13",
+        "end": "2026-07-17",
+        "deadline": "2026-05-01",
+        "city": "Rochester NY",
+        "country": "USA",
+        "link": "https://www.ieeesmc.org/telepresence/summerschool/",
+        "type": "School",
+        "cost": "$250",
+        "costNote": "meals and accomodation inc.", 
+        "addressLink": "https://maps.app.goo.gl/QyCdSfDZ3kir7j5R9",
+        "note": ""
     },
     {
         "shortName": "SCREW",

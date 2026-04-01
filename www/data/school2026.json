@@ -150,6 +150,21 @@
         "note": "The Centre for Theoretical Neuroscience at the University of Waterloo is excited to announce our 11th annual Nengo summer school on large-scale brain modelling and neuromorphic computing. As a recurring special feature of the school, participants will be given on-site access to neuromorphic hardware, including Stanford’s mixed digital/analog chip Braindrop, the SpiNNaker chip, and a variety of FPGAs."
     },
     {
+        "shortName": "ACDL",
+        "name": "A Residential Course: From AI Agents to Agentic AI",
+        "start": "2026-06-08",
+        "end": "2026-06-12",
+        "deadline": "",
+        "city": "Riva del Sole Resort & SPA",
+        "country": "Italy",
+        "link": "https://acdl2026.icas.events/",
+        "type": "School",
+        "cost": "€580-630",
+        "costNote": "early-late", 
+        "addressLink": "https://maps.app.goo.gl/mUySo8QxFkUvPPvF7",
+        "note": "ACDL 2026  is a full-immersion 5-day course in Riva del Sole Resort & SPA - Tuscany on cutting-edge advances in AI, Deep Learning, LLMs, Data Sc., Generative AI, AI Agents & Agentic AI  with lectures delivered by world-renowned experts"
+    },
+    {
         "shortName": "MLCC",
         "name": "Summer School Machine Learning Crash Course",
         "start": "2026-06-15",
@@ -193,6 +208,21 @@
         "costNote": "academic-industry", 
         "addressLink": "https://maps.app.goo.gl/dmYhgSsgro8NqMFh8",
         "note": "Surgical, Assistive, and Interventional Engineering is transforming healthcare by merging groundbreaking technology with medical innovation. Our Summer Workshop offers a unique opportunity to explore this exciting field through hands-on learning and expert guidance."
+    },
+    {
+        "shortName": "AURORA",
+        "name": "AURORA Rising - Robotics Summer School",
+        "start": "2026-06-15",
+        "end": "2026-06-28",
+        "deadline": "2026-04-15",
+        "city": "Gandhinagar",
+        "country": "India",
+        "link": "https://absixrobotics.com/aurora",
+        "type": "School",
+        "cost": "₹45000 + GST",
+        "costNote": "acc. and meals incl.; scolarships available", 
+        "addressLink": "https://maps.app.goo.gl/XcnQW3sz9t3vpJ8d9",
+        "note": ""
     },
     {
         "shortName": "ETHRSS",

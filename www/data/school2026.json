@@ -360,6 +360,36 @@
         "note": "The twentieth edition of the International Computer Vision Summer School aims to provide both an objective and clear overview and an in-depth analysis of the state-of-the-art research in Computer Vision. The last decade has seen a revolution in the theory and application of computer vision and machine learning. The next decade will see machine perception in embodied systems which learn representations for and from action and interaction for spatial intelligence."
     },
     {
+        "shortName": "AIxHRI",
+        "name": "AI for Human–Robot Interaction summer school",
+        "start": "2026-07-06",
+        "end": "2026-07-10",
+        "deadline": "2026-04-25",
+        "city": "Nancy",
+        "country": "France",
+        "link": "https://aihumanrobot.sciencesconf.org/",
+        "type": "School",
+        "cost": "€540-900",
+        "costNote": "students/academics/others : €540/600/900", 
+        "addressLink": "https://maps.app.goo.gl/N6KfvNiRUroc8mS79",
+        "note": "The AI for Human–Robot Interaction summer school offers an intensive 5-day program of keynotes, lectures and practical sessions led by experienced AI and robotics experts. Participants will engage with top researchers and will be tutored to use AI models and methods on real robots, advancing in their knowledge to deploy human–robot interaction systems grounded in recent advances in artificial intelligence. They will have the opportunity to engage with industry leaders building and deploying AI methods in the real world."
+    },
+    {
+        "shortName": "EHaptics",
+        "name": "EuroHaptics School",
+        "start": "2026-07-10",
+        "end": "2026-07-12",
+        "deadline": "2026-04-20",
+        "city": "Siena",
+        "country": "Italy",
+        "link": "https://eurohaptics.org/school/",
+        "type": "School",
+        "cost": "free?",
+        "costNote": "", 
+        "addressLink": "https://maps.app.goo.gl/CkYvuEv7jNeMCQYs9",
+        "note": "It will focus on hands-on techniques and skills that are needed for running haptic research projects in academia and industry. The school aims to provide knowledge encompassing the ideation at the start of any project, prototyping methods to build experiments and devices, evaluation paradigms, and analysis methods. Keynotes, courses, and workshops will focus on specific topics of the project progress chain in both academic and industrial contexts. The school will encourage the application of the knowledge through participation in teams in a hackathon, as well as networking during social events. A dedicated session will be held to present and discuss your research with the other participants. The program will feature a mixture of keynotes from recognized haptic researchers in academia and industry (as well as exchange time with them), tutorials, and networking events."
+    },
+    {
         "shortName": "SSTCT",
         "name": "IEEE Summer School on Telerobotics and Cyborg Technologies",
         "start": "2026-07-13",

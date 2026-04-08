@@ -498,7 +498,7 @@
     "name": "Eurohaptics",
     "start": "2026-07-06",
     "end": "2026-07-09",
-    "deadline": "2026-01-19",
+    "deadline": "2026-01-23",
     "city": "Siena",
     "country": "Italy",
     "link": "https://eurohaptics.org/ehc2026/",
@@ -702,6 +702,19 @@
     "note": "Our focus is on the technologies and applications of autonomous underwater vehicles (AUVs), autonomous surface vessels (ASVs), underwater gliders, and Lagrangian floats, with most papers centered on field robotics or data collected from real-world deployments."
   },
   {
+    "shortName": "SEAA",
+    "name": "Euromicro Conference on Software Engineering and Advanced Applications",
+    "start": "2026-09-02",
+    "end": "2026-09-04",
+    "deadline": "2026-04-15",
+    "city": "Krakow",
+    "country": "Poland",
+    "link": "https://dsd-seaa.com/seaa2026/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/nJGgpRLwASHpLehv9",
+    "note": ""
+  },
+  {
     "shortName": "CBS",
     "name": "IEEE International Conference on Cyborg and Bionic Systems",
     "start": "2026-09-06",
@@ -715,6 +728,19 @@
     "note": "CBS is a premier international conference dedicated to frontier research and real-world applications in cyborg and bionic systems. The conference brings together researchers and industry leaders to explore systems based on the hybrid integration of organic, biomechatronic, and artificial components, including bio-hybrid actuators, intelligent sensors, neural interfaces, and embodied control strategies."
   },
   {
+    "shortName": "TAROS",
+    "name": "Towards Autonomous Robotic Systems",
+    "start": "2026-09-07",
+    "end": "2026-09-09",
+    "deadline": "2026-04-24",
+    "city": "Manchester",
+    "country": "UK",
+    "link": "https://taros-conference.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/PXLQsLizJgzyVBRM8",
+    "note": ""
+  },
+  {
     "shortName": "CLAWAR",
     "name": "International Conference on Climbing and Walking Robots and Support Technologies for Mobile Machines",
     "start": "2026-09-14",
@@ -726,6 +752,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/nY7bhFymzCyTzuAYA",
     "note": "CLAWAR 2025 is the 28th issue of the International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines. The conference will be organized in collaboration with the Shenzhen Technology University, China, and held within the premises of the university, during 05 \u2013 07 September 2025. The technical programme of CLAWAR 2025 will feature plenary, regular and special/invited sessions. The conference proceedings will be published in the Springer\u2019s Lecture Notes in Networks and Systems series and indexed in Scopus, EI and Web of Science."
+  },
+  {
+    "shortName": "AM-SMART",
+    "name": "International Conference on Additive Manufacturing of Smart Materials",
+    "start": "2026-09-14",
+    "end": "2026-09-16",
+    "deadline": "2026-05-01",
+    "city": "Twente",
+    "country": "Netherlands",
+    "link": "https://am-smart.net/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/WDoxVdhQq6UfD6yv8",
+    "note": ""
   },
   {
     "shortName": "ICDL",

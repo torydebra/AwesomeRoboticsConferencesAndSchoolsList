@@ -510,6 +510,21 @@
         "note": "The aim of this summer school is to share knowledge on the design, modeling, control, and applications of parallel kinematic manipulators over the course of one week, with a strong focus on realistic prototypes and real-world industrial challenges. The program consists of plenary lectures and hands-on simulation laboratories. The summer school is intended for PhD students, postdoctoral researchers, and researchers who are already active in the field or who have an  interest in parallel kinematic manipulators."
     },
     {
+        "shortName": "WHERE",
+        "name": "International Summer School on Legged Robots, from Basics to Frontier Research",
+        "start": "2026-09-21",
+        "end": "2026-09-27",
+        "deadline": "2026-06-30",
+        "city": "Trento",
+        "country": "Italy",
+        "link": "https://eventi.unitn.it/en/where-walk-future",
+        "type": "School",
+        "cost": "€250/420",
+        "costNote": "IRIM members/not early(late): €250(320)/350(420)", 
+        "addressLink": "https://maps.app.goo.gl/RLkMANXoZtEzLAwx8",
+        "note": ""
+    },
+    {
         "shortName": "CGMDCS",
         "name": "Computational and Geometric Mechanics of Discrete and Continuum Systems",
         "start": "2026-09-28",

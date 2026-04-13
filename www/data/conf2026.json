@@ -416,6 +416,19 @@
     "note": ""
   },
   {
+    "shortName": "ICARII",
+    "name": "International Conference on Artificial Intelligence, Robotics and Intelligent Interaction",
+    "start": "2026-06-12",
+    "end": "2026-06-14",
+    "deadline": "2026-04-15",
+    "city": "Wuhan",
+    "country": "China",
+    "link": "https://www.icarii.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/SLLKicx2Ke7DG96i8",
+    "note": ""
+  },
+  {
     "shortName": "L4DC",
     "name": "8th Annual Learning for Dynamics & Control Conference",
     "start": "2026-06-17",
@@ -563,7 +576,7 @@
     "name": " International Workshop on Human-Friendly Robotics",
     "start": "2026-07-16",
     "end": "2026-07-17",
-    "deadline": "2026-03-06",
+    "deadline": "2026-04-25",
     "city": "Trento",
     "country": "Italy",
     "link": "https://sites.google.com/unitn.it/hfr2026",
@@ -869,6 +882,32 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/M9RxoZgNwJEv4M868",
     "note": "SAB 2026 will be held at Technische Universit\u00e4t Berlin (TU Berlin), Marchstra\u00dfe 23, 10587 Berlin, Germany. The conference focuses on adaptive behavior in natural and artificial systems, spanning AI, robotics, neuroscience, biology, and cognitive science. Proceedings are published in Springer\u2019s Lecture Notes in Artificial Intelligence (LNAI)."
+  },
+  {
+    "shortName": "SRR",
+    "name": "IEEE International Symposium on Safety, Security, and Rescue Robotics",
+    "start": "2026-11-02",
+    "end": "2026-11-04",
+    "deadline": "2026-08-31",
+    "city": "Incheon",
+    "country": "South Korea",
+    "link": "https://www.ssrr-ieee.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/R2M5yqoUMnR8pMQi6",
+    "note": ""
+  },
+  {
+    "shortName": "HRFEST",
+    "name": "International Conference on Humanoid Robotics, Innovation & Leadership",
+    "start": "2026-11-05",
+    "end": "2026-11-07",
+    "deadline": "2026-07-05",
+    "city": "Callao",
+    "country": "Peru",
+    "link": "https://hrfest.org/congress/2026/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/nR3ZsUkjMSXZYQo49",
+    "note": "While advanced and humanoid robotics is the flagship theme of HRFEST 2026, our vision encompasses the broader spectrum of technological progress. Under our pillars of Innovation and Leadership, we strongly welcome and encourage submissions in pure Artificial Intelligence, Applied Technologies, and Engineering Management. Your research does not need to be exclusively applied to robotics to be accepted; we seek high-impact technological contributions that drive our region forward."
   },
   {
     "shortName": "CORL",

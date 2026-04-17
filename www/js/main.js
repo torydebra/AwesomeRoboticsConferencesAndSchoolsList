@@ -194,7 +194,7 @@ $(document).ready(function() {
     $.fn.dataTable.ext.search.push(pastDeadlineFilter);
 
     var currentYear = new Date().getFullYear();
-    var firstYear = 2024
+    var firstYear = 2022
     var lastYear = 2029
     
     var allYears = [];

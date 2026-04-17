@@ -194,12 +194,13 @@ $(document).ready(function() {
     $.fn.dataTable.ext.search.push(pastDeadlineFilter);
 
     var currentYear = new Date().getFullYear();
+    var firstYear = 2024
     var lastYear = 2029
     
     var allYears = [];
     var futureYears = [];
 
-    for (var year = 2022; year <= lastYear; year++) {
+    for (var year = firstYear; year <= lastYear; year++) {
         allYears.push(year.toString());
     }
     for (var year = currentYear; year <= lastYear; year++) {

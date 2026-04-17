@@ -337,12 +337,27 @@
         "deadline": "2026-03-31",
         "city": "Delft",
         "country": "Netherlands",
-        "link": " https://www.scivenia.com/en/event/acm-sigsoft-summer-school-for-software-engineering-in-robotics_9163",
+        "link": "https://www.scivenia.com/en/event/acm-sigsoft-summer-school-for-software-engineering-in-robotics_9163",
         "type": "School",
         "cost": "€250",
         "costNote": "lunch inc.",
         "addressLink": "https://maps.app.goo.gl/NXEaU6mUiipvy76c6",
         "note": "Our target audience includes PhD students and early-career professionals interested in systems and software engineering, as well as cognitive robotics."
+    }, 
+    {
+        "shortName": "DEFROB",
+        "name": "Deformations in Robotics",
+        "start": "2026-06-29",
+        "end": "2026-07-03",
+        "deadline": "2026-04-31",
+        "city": "Villeneuve d'Ascq (Lille)",
+        "country": "France",
+        "link": "https://defrobotics2026.sciencesconf.org/",
+        "type": "School",
+        "cost": "free",
+        "costNote": "possible travel support",
+        "addressLink": "https://maps.app.goo.gl/c3bxSXiJFBUNh7p16",
+        "note": "The use of deformations in robotics is one of the most active fields of application and research. To train the next generation of researchers and engineers, the PEPR O2R, Inria, CNRS, Centrale Lille and the University of Lille are joining forces to organize summer schools. During one week, participants will attend lectures and practical sessions on the fundamental concepts (modelling, simulation and control) necessary for the use of deformable materials in soft robotics, continuum robotics, hybrid rigid/deformable robotics as well as in rigid robotics interacting with a deformable environment."
     }, 
     {
         "shortName": "ICVSS",

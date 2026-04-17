@@ -364,6 +364,19 @@
     "note": "Swarm intelligence is an interdisciplinary and rapidly evolving field, rooted in the study of self-organizing processes in both natural and artificial systems. Researchers from disciplines ranging from ethology to statistical physics have developed models that explain collective phenomena, such as decision-making in social insect colonies and collective movements in human crowds. Swarm-inspired algorithms and methods have proven effective in solving complex optimization problems and creating multi-robot and networked systems of unparalleled resilience, adaptability and scalability. Applications of swarm intelligence continue to grow and become increasingly critical for addressing societal challenges such as environmental sustainability, food security, health, and global conflicts."
   },
   {
+    "shortName": "ISCER",
+    "name": "International Symposium on Control Engineering and Robotics",
+    "start": "2026-06-12",
+    "end": "2026-06-14",
+    "deadline": "2025-03-27",
+    "city": "Chengdu",
+    "country": "China",
+    "link": "https://www.iscer.net/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/6UpQ8yhKGyfwXpWU6",
+    "note": "The 2026 5th International Symposium on Control Engineering and Robotics (ISCER 2026) will be held on June 12-14, 2026 in Chengdu, China. The progress of control engineering plays an irreplaceable role in the development of modern industry. It can not only effectively control the cost but also enhance the safety of the project and the accuracy of detection. Robots have a wide range of applications in practically every industry imaginable. Undoubtedly, there are strong relationships between control engineering and robotics."
+  },
+  {
     "shortName": "WAFR",
     "name": "17th World Symposium on the Algorithmic Foundations of Robotics",
     "start": "2026-06-15",

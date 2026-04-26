@@ -221,6 +221,19 @@
     "note": "The event will feature plenary talks from recognized experts in the field of robotics and technical sessions with oral and poster presentations of full papers that have been submitted and accepted for the conference."
   },
   {
+    "shortName": "ICCRE",
+    "name": "11th International Conference on Control and Robotics Engineering",
+    "start": "2026-05-08",
+    "end": "2026-05-10",
+    "deadline": "",
+    "city": "Kyoto",
+    "country": "Kyoto",
+    "link": "https://www.ieee-ras.org/event/2026-11th-international-conference-on-control-and-robotics-engineering-iccre-69951/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "ICCRTEE",
     "name": "International Conference on Computational Robotics, Testing and Engineering Evaluation",
     "start": "2026-05-14",
@@ -455,6 +468,19 @@
     "note": "The explosion of real-time data arising from devices that sense and control the physical world requires improving synergy in research areas such as machine learning, control theory, and optimization. While control theory has been firmly rooted in the tradition of model-based design, the availability and scale of data (both temporal and spatial) will require rethinking the foundations of the discipline. From a machine learning perspective, one of the main challenges going forward is to go beyond pattern recognition and address problems in data-driven control and optimization of dynamical processes. Our conference has been building a new community of people who think rigorously across the disciplines, ask new questions, and develop the foundations of this new scientific area."
   },
   {
+    "shortName": "ASCC",
+    "name": "15th Asian Control Conference",
+    "start": "2026-06-17",
+    "end": "2026-06-21",
+    "deadline": "",
+    "city": "Bali",
+    "country": "Indonesia",
+    "link": "https://www.ieee-ras.org/event/2026-15th-asian-control-conference-ascc-70886/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "ICUAS",
     "name": "International Conference on Unmanned Aircraft Systems",
     "start": "2026-06-15",
@@ -465,6 +491,32 @@
     "link": "http://www.uasconferences.com",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/jMLrh5ZonQcP4dmf9",
+    "note": ""
+  },
+  {
+    "shortName": "MED",
+    "name": "34th Mediterranean Conference on Control and Automation",
+    "start": "2026-06-23",
+    "end": "2026-06-26",
+    "deadline": "",
+    "city": "Ancona",
+    "country": "Italy",
+    "link": "https://www.ieee-ras.org/event/2026-34th-mediterranean-conference-on-control-and-automation-med-70602/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
+    "shortName": "ICIR",
+    "name": "IEEE 5th International Conference on Intelligent Reality",
+    "start": "2026-06-25",
+    "end": "2026-06-26",
+    "deadline": "",
+    "city": "Pisa",
+    "country": "Italy",
+    "link": "https://www.ieee-ras.org/event/2026-ieee-5th-international-conference-on-intelligent-reality-icir-70631/",
+    "type": "Conference",
+    "addressLink": "",
     "note": ""
   },
   {

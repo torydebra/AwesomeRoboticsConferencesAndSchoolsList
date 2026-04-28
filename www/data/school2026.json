@@ -376,7 +376,7 @@
     },
     {
         "shortName": "AIxHRI",
-        "name": "AI for Human–Robot Interaction summer school",
+        "name": "AI for Human-Robot Interaction summer school",
         "start": "2026-07-06",
         "end": "2026-07-10",
         "deadline": "2026-04-25",
@@ -387,7 +387,22 @@
         "cost": "€540-900",
         "costNote": "students/academics/others : €540/600/900", 
         "addressLink": "https://maps.app.goo.gl/N6KfvNiRUroc8mS79",
-        "note": "The AI for Human–Robot Interaction summer school offers an intensive 5-day program of keynotes, lectures and practical sessions led by experienced AI and robotics experts. Participants will engage with top researchers and will be tutored to use AI models and methods on real robots, advancing in their knowledge to deploy human–robot interaction systems grounded in recent advances in artificial intelligence. They will have the opportunity to engage with industry leaders building and deploying AI methods in the real world."
+        "note": "The AI for Human-Robot Interaction summer school offers an intensive 5-day program of keynotes, lectures and practical sessions led by experienced AI and robotics experts. Participants will engage with top researchers and will be tutored to use AI models and methods on real robots, advancing in their knowledge to deploy human–robot interaction systems grounded in recent advances in artificial intelligence. They will have the opportunity to engage with industry leaders building and deploying AI methods in the real world."
+    },
+    {
+        "shortName": "SSAS",
+        "name": "Summer School on Autonomous Systems",
+        "start": "2026-07-06",
+        "end": "2026-07-08",
+        "deadline": "2026-05-31",
+        "city": "Belval",
+        "country": "Luxembourg",
+        "link": "https://www.uni.lu/snt-en/conferences/summer-school-autonomous-systems/",
+        "type": "School",
+        "cost": "€100",
+        "costNote": "", 
+        "addressLink": "https://maps.app.goo.gl/KJFMWDeU9SNBsgHB8",
+        "note": "The Summer School on Autonomous Systems targets doctoral candidates and early-stage researchers in autonomous systems, distributed systems, robotics, artificial intelligence, and cyber-physical systems, providing advanced interdisciplinary training at the intersection of embodied and physical AI, distributed and data-driven intelligence, as well as safety and trustworthiness in autonomous systems."
     },
     {
         "shortName": "EHaptics",
@@ -463,6 +478,21 @@
         "costNote": "possible travel support", 
         "addressLink": "https://maps.app.goo.gl/xYCBRdByMsaQyxiq9",
         "note": "The World Premier International Research Center for Neurointelligence (WPI-IRCN) at The University of Tokyo proudly presents the Neuro-inspired Computation Course, an intensive 4-day program exploring the convergence of neuroscience and artificial intelligence. The course is comprising lectures by distinguished international faculty, poster sessions, and interactive discussion sessions. Beyond academic content, the program offers exceptional networking opportunities with global experts and peers, fostering collaboration and innovation. Participants will have the chance to present their research, exchange ideas, and explore future directions in neuro-inspired computation."
+    },
+    {
+        "shortName": "CIS",
+        "name": "Foundational Models Meet Robotics",
+        "start": "2026-07-27",
+        "end": "2026-07-30",
+        "deadline": "2026-06-10",
+        "city": "Paderborn",
+        "country": "Germany",
+        "link": "https://upb-rat.github.io/ieee-summer-school/",
+        "type": "School",
+        "cost": "€90-500",
+        "costNote": "mast/phd/postdoc/others : €90/120/240/400", 
+        "addressLink": "https://maps.app.goo.gl/XLD6RRyTD2Fri1Ab8",
+        "note": "Foundation models are fundamentally transforming artificial intelligence (AI) and robotics. Integrating these models into robotics and embodied AI marks a decisive paradigm shift from rigid, task-specific pipelines to scalable, data-driven intelligence capable of generalization and adaptation in the real world. This summer school explores the role of foundation and generative models in robotic planning, control, perception, and design, with the goal of developing adaptable, context-aware autonomous robots"
     },
     {
         "name": "IEEE RAS Summer School on Multi-robot systems",

@@ -672,6 +672,19 @@
     "country": "China",
     "link": "http://2026.icia-ieee.org",
     "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/HhJc9j8pjjh6Hh937",
+    "note": ""
+  },
+  {
+    "shortName": "TRC",
+    "name": "Turkish Robotics Conference",
+    "start": "2026-07-19",
+    "end": "2026-07-21",
+    "deadline": "2026-06-01",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "link": "https://research.ku.edu.tr/turkish-robotics-conference/",
+    "type": "Conference",
     "addressLink": "",
     "note": ""
   },
@@ -712,6 +725,19 @@
     "link": "http://2026.ieee-icma.org/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/TTWu4PzjLZDWt4uQA",
+    "note": ""
+  },
+  {
+    "shortName": "ICBIR",
+    "name": "International Conference on Biomimetic Intelligence and Robotics",
+    "start": "2026-08-08",
+    "end": "2026-08-11",
+    "deadline": "2026-06-01",
+    "city": "Zhongwei",
+    "country": "China",
+    "link": "https://www.icbir.org/",
+    "type": "Conference",
+    "addressLink": "",
     "note": ""
   },
   {
@@ -797,7 +823,7 @@
     "name": "IEEE International Conference on Cyborg and Bionic Systems",
     "start": "2026-09-06",
     "end": "2026-09-08",
-    "deadline": "2026-04-15",
+    "deadline": "2026-04-30",
     "city": "Munich",
     "country": "Germany",
     "link": "https://attend.ieee.org/cbs-2026/",
@@ -1027,16 +1053,42 @@
     "note": "The Fourteenth International Conference on Human-Agent Interaction (HAI 2026) aims to be the premier interdisciplinary venue for discussing and disseminating state-of-the-art research and results that have implications across conventional interaction boundaries including robots, virtual agents and digitally-mediated human-human communication. HAI will gather researchers from fields spanning engineering, computer science, psychology and sociology, and will cover diverse topics, including: human-robot interaction, affective computing, computer-supported collaborative work, gaming and serious games, artificial intelligence, and more."
   },
   {
+    "shortName": "AsiaHaptics",
+    "name": "AsiaHaptics",
+    "start": "2026-11-17",
+    "end": "2026-11-20",
+    "deadline": "2026-06-26",
+    "city": "Incheon",
+    "country": "Korea",
+    "link": "https://asiahaptics2026.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/wUesat4jThyygAU18",
+    "note": ""
+  },
+  {
     "shortName": "Humanoids",
     "name": "IEEE-RAS 25th International Conference on Humanoid Robots",
     "start": "2026-12-06",
     "end": "2026-12-09",
-    "deadline": "2026-07-31",
+    "deadline": "2026-07-24",
     "city": "Santa Clara",
     "country": "California USA",
     "link": "https://2026.ieee-humanoids.org/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/VocJ5pUnYPs65aoS8",
     "note": "Humanoids 2026 aims at bringing together top researchers from humanoid robotics and related disciplines with leading companies in the field. In light of a year of rapidly evolving humanoid technologies with several new platforms coming onto the market and bringing us closer to a wider real-world deployment. Our community envisions innovative areas in humanoid robotics that lie at the intersection of general-purpose physical, cognitive, and motor capabilities, while also considering the scientific understanding of interactions with humanoid and anthropomorphic systems."
+  },
+  {
+    "shortName": "ECoR",
+    "name": "European Conference on Robotics",
+    "start": "2026-12-14",
+    "end": "2026-12-16",
+    "deadline": "2026-07-10",
+    "city": "Oxford",
+    "country": "UK",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   }
 ]

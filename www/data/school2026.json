@@ -438,7 +438,7 @@
         "shortName": "SCREW",
         "name": "Screw-Theory Based Methods in Robotics",
         "start": "2026-07-18",
-        "end": "2026-07-26",
+        "end": "2026-07-25",
         "deadline": "2026-04-30",
         "city": "Cork",
         "country": "Ireland",
@@ -493,6 +493,21 @@
         "costNote": "mast/phd/postdoc/others : €90/120/240/400", 
         "addressLink": "https://maps.app.goo.gl/XLD6RRyTD2Fri1Ab8",
         "note": "Foundation models are fundamentally transforming artificial intelligence (AI) and robotics. Integrating these models into robotics and embodied AI marks a decisive paradigm shift from rigid, task-specific pipelines to scalable, data-driven intelligence capable of generalization and adaptation in the real world. This summer school explores the role of foundation and generative models in robotic planning, control, perception, and design, with the goal of developing adaptable, context-aware autonomous robots"
+    },
+    {
+        "shortName": "DSRHI",
+        "name": "Designing Social Robots for Human Interaction",
+        "start": "2026-07-27",
+        "end": "2026-08-07",
+        "deadline": "2026-05-20",
+        "city": "Tartu",
+        "country": "Estonia",
+        "link": "https://ut.ee/en/content/designing-social-robots-human-interaction",
+        "type": "School",
+        "cost": "€650",
+        "costNote": "", 
+        "addressLink": "https://maps.app.goo.gl/xiQ5QGfGW3bQs5X7A",
+        "note": "This course introduces participants to the foundational principles of human-robot interaction (HRI) with a focus on social robotics (SR) in education"
     },
     {
         "name": "IEEE RAS Summer School on Multi-robot systems",

@@ -1027,6 +1027,19 @@
     "note": "While advanced and humanoid robotics is the flagship theme of HRFEST 2026, our vision encompasses the broader spectrum of technological progress. Under our pillars of Innovation and Leadership, we strongly welcome and encourage submissions in pure Artificial Intelligence, Applied Technologies, and Engineering Management. Your research does not need to be exclusively applied to robotics to be accepted; we seek high-impact technological contributions that drive our region forward."
   },
   {
+    "shortName": "METROSEA",
+    "name": "IEEE MetroSea",
+    "start": "2026-11-05",
+    "end": "2026-11-07",
+    "deadline": "2026-05-31",
+    "city": "Sibenik",
+    "country": "Croatia",
+    "link": "https://www.metrosea.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/i8PDHcZgiv7tvubw5",
+    "note": "IEEE MetroSea 2026 aims to gather people who work in developing instrumentation and measurement methods for the sea. Attention is paid, but not limited to, new technology for sea environment monitoring, metrology-assisted production in sea industry, ship component measurement, sensors and associated signal conditioning for the sea, and calibration methods for electronic test and measurement for marine applications."
+  },
+  {
     "shortName": "CORL",
     "name": "Conference on Robot Learning",
     "start": "2026-11-09",

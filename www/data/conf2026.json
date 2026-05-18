@@ -975,6 +975,19 @@
     "note": "ICMI is the premier international forum for advancing research at the intersection of multimodal artificial intelligence (AI) and social interaction to create technically innovative, effective, and human-centered multimodal interactive systems. A unique aspect of ICMI is its multidisciplinary nature, bringing together research in AI, multimodal data processing, and human-human and human-computer interaction to bridge behavioural understanding with technology, with an eye towards impactful applications that benefit people and society."
   },
   {
+    "shortName": "IWAI",
+    "name": "International Workshop on Active Inference",
+    "start": "2026-10-14",
+    "end": "2026-10-16",
+    "deadline": "2026-05-24",
+    "city": "Madrid",
+    "country": "Spain",
+    "link": "https://iwaiworkshop.github.io/index.html",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/MiicrWGQa4V4Ah8s8",
+    "note": "The 7th International Conference on Active Inference is an interdisciplinary venue that wants to bring together researchers on Active Inference and related research fields to discuss current trends, novel results, and real-world applications. We have an interest in exploring the extent to which active inference can be used in modern machine learning settings, such as in hybrid setups combining it with deep learning, as well as to unify the latest psychological and neurological insights, and to determine how it can best be used to understand action, optimization, and decision making."
+  },
+  {
     "shortName": "SAB",
     "name": "18th International Conference on the Simulation of Adaptive Behavior",
     "start": "2026-10-19",
@@ -1012,6 +1025,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/R2M5yqoUMnR8pMQi6",
     "note": ""
+  },
+  {
+    "shortName": "iSpaRo",
+    "name": "International Conference on Space Robotics",
+    "start": "2026-11-03",
+    "end": "2026-11-06",
+    "deadline": "2026-06-16",
+    "city": "Cologne",
+    "country": "Germany",
+    "link": "https://isparo.space/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/5ZZuHGpJouQTdYCb6",
+    "note": "In 2026, for the first time, the international Symposium on Artificial Intelligence, Robotics and Automation in Space (i-SAIRAS) and the international Conference on Space Robotics (iSpaRo) will be held jointly at Confex in Cologne, Germany, from 03–06 November 2026 — bringing together space technology communities from industry, science and government."
   },
   {
     "shortName": "HRFEST",

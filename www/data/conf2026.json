@@ -521,7 +521,7 @@
   },
   {
     "shortName": "CRAE",
-    "name": " International Conference on Computer Vision, Robotics and Automation Engineering",
+    "name": "International Conference on Computer Vision, Robotics and Automation Engineering",
     "start": "2026-06-26",
     "end": "2026-06-28",
     "deadline": "2026-03-23",
@@ -530,6 +530,19 @@
     "link": "https://www.ic-crae.org/",
     "type": "Conference",
     "addressLink": "",
+    "note": ""
+  },
+  {
+    "shortName": "ICCIR",
+    "name": "International Conference on Control and Intelligent Robotics ",
+    "start": "2026-06-26",
+    "end": "2026-06-28",
+    "deadline": "2026-06-26",
+    "city": "Tianjin",
+    "country": "China",
+    "link": "https://www.ic-cir.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/6R89Z6haCwaj5nuU7",
     "note": ""
   },
   {
@@ -914,7 +927,7 @@
     "name": "The 23rd European Conference on Multi-Agent Systems",
     "start": "2026-09-21",
     "end": "2026-09-25",
-    "deadline": "2026-05-18",
+    "deadline": "2026-05-24",
     "city": "Malm\u00f6",
     "country": "Sweden",
     "link": "https://euramas.github.io/eumas2026/",
@@ -1115,6 +1128,19 @@
     "link": "https://asiahaptics2026.org/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/wUesat4jThyygAU18",
+    "note": ""
+  },
+  {
+    "shortName": "ROBOT2026",
+    "name": "Iberian Robotics Conference",
+    "start": "2026-11-18",
+    "end": "2026-11-20",
+    "deadline": "2026-06-23",
+    "city": "Barcelona",
+    "country": "Spain",
+    "link": "https://robot2026.upc.edu/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/MSsToPecRL7yjifk9",
     "note": ""
   },
   {

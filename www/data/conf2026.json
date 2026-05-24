@@ -624,6 +624,19 @@
     "note": ""
   },
   {
+    "shortName": "CoDIT",
+    "name": "12th International Conference on Control, Decision and Information Technologies",
+    "start": "2026-07-13",
+    "end": "2026-07-16",
+    "deadline": "",
+    "city": "Bari",
+    "country": "Italy",
+    "link": "https://www.ieee-ras.org/event/2026-12th-international-conference-on-control-decision-and-information-technologies-codit-70676/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "RSS",
     "name": "Robotics: Science and System",
     "start": "2026-07-13",
@@ -1050,7 +1063,7 @@
     "link": "https://isparo.space/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/5ZZuHGpJouQTdYCb6",
-    "note": "In 2026, for the first time, the international Symposium on Artificial Intelligence, Robotics and Automation in Space (i-SAIRAS) and the international Conference on Space Robotics (iSpaRo) will be held jointly at Confex in Cologne, Germany, from 03–06 November 2026 — bringing together space technology communities from industry, science and government."
+    "note": "In 2026, for the first time, the international Symposium on Artificial Intelligence, Robotics and Automation in Space (i-SAIRAS) and the international Conference on Space Robotics (iSpaRo) will be held jointly at Confex in Cologne, Germany, from 03\u201306 November 2026 \u2014 bringing together space technology communities from industry, science and government."
   },
   {
     "shortName": "HRFEST",

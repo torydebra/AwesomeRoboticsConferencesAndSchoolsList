@@ -480,6 +480,21 @@
         "note": "The World Premier International Research Center for Neurointelligence (WPI-IRCN) at The University of Tokyo proudly presents the Neuro-inspired Computation Course, an intensive 4-day program exploring the convergence of neuroscience and artificial intelligence. The course is comprising lectures by distinguished international faculty, poster sessions, and interactive discussion sessions. Beyond academic content, the program offers exceptional networking opportunities with global experts and peers, fostering collaboration and innovation. Participants will have the chance to present their research, exchange ideas, and explore future directions in neuro-inspired computation."
     },
     {
+        "shortName": "EAIA",
+        "name": "Advanced School on Artificial Intelligence",
+        "start": "2026-07-23",
+        "end": "2026-07-24",
+        "deadline": "",
+        "city": "Aveiro",
+        "country": "Portugal",
+        "link": "https://appia.pt/eaia2026/",
+        "type": "School",
+        "cost": "€230-550",
+        "costNote": "students/acedameic/industry(early): €280/(230)/430/(380)/550(500)", 
+        "addressLink": "https://maps.app.goo.gl/Rp4KP1m7T4ChoqZk6",
+        "note": "The Advanced School on Artificial Intelligence (EAIA 2026) is a premier event dedicated to exploring the latest frontiers of AI. This two-day school brings together leading researchers, students, and industry professionals to discuss cutting-edge developments, foster collaboration, and inspire the next generation of AI innovators."
+    },
+    {
         "shortName": "CIS",
         "name": "Foundational Models Meet Robotics",
         "start": "2026-07-27",

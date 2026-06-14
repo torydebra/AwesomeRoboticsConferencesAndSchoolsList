@@ -715,6 +715,19 @@
     "note": ""
   },
   {
+    "shortName": "MARSS",
+    "name": "International Conference on Manipulation, Automation and Robotics at Small Scales",
+    "start": "2026-07-28",
+    "end": "2026-07-31",
+    "deadline": "",
+    "city": "Hangzhou",
+    "country": "China",
+    "link": "https://www.ieee-ras.org/event/2026-international-conference-on-manipulation-automation-and-robotics-at-small-scales-marss-70227/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "ICIA",
     "name": "International Conference on Information Automation",
     "start": "2026-07-29",

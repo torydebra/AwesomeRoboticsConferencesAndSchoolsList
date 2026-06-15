@@ -715,6 +715,19 @@
     "note": ""
   },
   {
+    "shortName": "MARSS",
+    "name": "International Conference on Manipulation, Automation and Robotics at Small Scales",
+    "start": "2026-07-27",
+    "end": "2026-07-31",
+    "deadline": "2026-04-15",
+    "city": "Hangzhou",
+    "country": "China",
+    "link": "https://marss-conference.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/5Sv3BW9FHf35wsbQA",
+    "note": ""
+  },
+  {
     "shortName": "ICIA",
     "name": "International Conference on Information Automation",
     "start": "2026-07-29",
@@ -1129,6 +1142,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/RcvxUmb2SEjmEiyJ6",
     "note": "This year theme includes a focus on both the robotics behind teleoperation and the human-computer interface at the heart of telepresence.  While the physical beauty of Bristol's Clifton Suspension Bridge reminds us of the engineering triumphs of the past, our work this week focuses on the bridges of the future\u2014the many disciplines that collaborate to deliver an experience that blurs the line between here and there"
+  },
+  {
+    "shortName": "ISRED",
+    "name": "International Symposium on Social Robots and Ethical Design",
+    "start": "2026-11-10",
+    "end": "2026-11-11",
+    "deadline": "2026-07-31",
+    "city": "Fukoka",
+    "country": "Japan",
+    "link": "https://www.isred-ethical.design/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/6UFQuxjHZr3A7DG7A",
+    "note": "As technological progress consistently outpaces traditional legislative processes, there is an urgent need for 'compliance by design' in the development of social robots. This symposium explores how Design Thinking — a human-centric, iterative methodology — can serve as a foundational framework for Responsible Robotics."
   },
   {
     "shortName": "HAI",

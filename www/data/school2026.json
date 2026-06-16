@@ -613,5 +613,20 @@
         "costNote": "early-late, lunch inc.", 
         "addressLink": "https://maps.app.goo.gl/udpoz7BhqQrQYn5y6",
         "note": "This course will introduce attendees to fundamental concepts and mathematical formulations of geometric mechanics and provide a panoramic overview of current state of research and applications of geometric modeling. It covers theoretical and mathematical foundations, computational methods that allow for practical application to multibody system dynamics, as well as cutting-edge multidisciplinary research."
+    },
+    {
+        "shortName": "LUCIA",
+        "name": "Lucia Winter School on AI & Robotics",
+        "start": "2026-12-07",
+        "end": "2026-12-11",
+        "deadline": "2026-09-10",
+        "city": "Örebro",
+        "country": "Sweden",
+        "link": "https://lucia2026.aass.oru.se/",
+        "type": "School",
+        "cost": "free",
+        "costNote": "accomodation not inc.", 
+        "addressLink": "https://maps.app.goo.gl/iBFVaZ77BzRwoGS59",
+        "note": "AI and robotics are too often considered separate fields. Typical graduate student curricula concentrate on AI or on robotics, but rarely on both. This school continues the tradition of the successful series of Lucia Schools on AI and Robotics, which aim at filling this educational gap and providing future researchers with theoretical and methodological knowledge to realize integrated intelligent robots. The courses in this school are focused towards topics that are complementary to the ones usually encountered in graduate programs."
     }
 ]

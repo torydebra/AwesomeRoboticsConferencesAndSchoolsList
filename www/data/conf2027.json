@@ -1,5 +1,18 @@
 [
   {
+    "shortName": "HMDS",
+    "name": "International Symposium on Heterogeneous and Multi-Domain Systems",
+    "start": "2027-03-30",
+    "end": "2027-04-02",
+    "deadline": "2026-11-15",
+    "city": "Tokyo",
+    "country": "Japan",
+    "link": "https://hmds2027.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/wsdEakbMTWwNzASUA",
+    "note": "An international scientific symposium on modeling, integration, coordination, and operation of systems spanning multiple engineering and computational domains."
+  },
+  {
     "shortName": "ICRA",
     "name": "IEEE International Conference on Robotics and Automation",
     "start": "2027-05-24",

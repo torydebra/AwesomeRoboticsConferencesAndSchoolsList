@@ -832,6 +832,19 @@
     "note": ""
   },
   {
+    "shortName": "IFAC",
+    "name": "IFAC World Congress",
+    "start": "2026-08-23",
+    "end": "2026-08-28",
+    "deadline": "2025-11-02",
+    "city": "Busan",
+    "country": "South Korea",
+    "link": "https://www.ifac2026.org/fairDash.do",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/qCkdKVG4E1GzJGvH9",
+    "note": "The IFAC World Congress is a premier mega-conference in the field of control, attracting 3,000 to 4,000 participants. Held every three years, it serves as a unifying event that brings together all workshops and conferences organized by the International Federation of Automatic Control (IFAC) under one roof. Since its inception in 1960, the World Congress has been a cornerstone of the control community. In 2026, it will be held for the 23rd time." 
+  },
+  {
     "shortName": "RO-MAN",
     "name": "IEEE International Conference on Robot and Human Interactive Communication",
     "start": "2026-08-24",

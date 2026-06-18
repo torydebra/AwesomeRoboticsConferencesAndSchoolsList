@@ -11,5 +11,18 @@
     "type": "Conference",
     "addressLink": "",
     "note": ""
+  },
+  {
+    "shortName": "IFAC",
+    "name": "IFAC World Congress",
+    "start": "2029",
+    "end": "2029",
+    "deadline": "",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   }
 ]

@@ -1229,9 +1229,22 @@
     "deadline": "2026-07-10",
     "city": "Oxford",
     "country": "UK",
-    "link": "",
+    "link": "https://ecor.cc/",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/98giC2cJ26jLQfv38",
     "note": ""
+  },
+  {
+    "shortName": "ROBIO",
+    "name": "International Conference on Robotics and Biomimetics",
+    "start": "2026-12-16",
+    "end": "2026-12-20",
+    "deadline": "2026-08-01",
+    "city": "Tengchong",
+    "country": "China",
+    "link": "https://www.robio2026.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/P34fNisb5WXAevR37",
+    "note": "The theme of IEEE ROBIO 2026 is “Biomimetic Robots Empowered by AI”, reflecting the ever-growing interests in research, development, and applications in the dynamic and exciting areas of robotics and biomimetics."
   }
 ]

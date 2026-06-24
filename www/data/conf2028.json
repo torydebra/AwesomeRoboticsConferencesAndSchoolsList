@@ -24,5 +24,18 @@
     "type": "Conference",
     "addressLink": "",
     "note": ""
+  },
+  {
+    "shortName": "RoboSoft",
+    "name": "IEEE-RAS International Conference on Soft Robotics",
+    "start": "2028",
+    "end": "2028",
+    "deadline": "",
+    "city": "Edmonton",
+    "country": "Canada",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   }
 ]

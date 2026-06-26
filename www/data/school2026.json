@@ -570,6 +570,21 @@
         "note": "Compared to vision or hearing, touch is a poorly understood sensing modality. Thanks to recent advances in hardware development, it will soon be possible to digitize touch at scale. This creates important opportunities for both basic research and applications, such as robotics. In this context, it is increasingly important the role of Touch Processing – the science of making sense of touch through the use of machine learning."
     },
     {
+        "shortName": "RASDE",
+        "name": "IEEE RAS Summer School in Germany",
+        "start": "2026-09-06",
+        "end": "2026-09-11",
+        "deadline": "2026-07-10",
+        "city": "Abtei Frauenwörth",
+        "country": "Germany",
+        "link": "https://r8.ieee.org/germany-ras/2026/05/11/ieee-ras-german-summer-schools-2026/",
+        "type": "School",
+        "cost": "€700/800",
+        "costNote": "student / not", 
+        "addressLink": "https://maps.app.goo.gl/hVnuCbnvQLF7YRr4A",
+        "note": "The programme advances cognitive robotics by integrating AI-based decision-making methods, coupling high-level and low-level autonomy so that robots can pursue goals in interactive, dynamic, and probabilistic environments."
+    },
+    {
         "shortName": "PKM",
         "name": "The 4th Summer School On Parallel Robotics",
         "start": "2026-09-21",

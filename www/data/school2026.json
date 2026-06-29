@@ -570,6 +570,21 @@
         "note": "Compared to vision or hearing, touch is a poorly understood sensing modality. Thanks to recent advances in hardware development, it will soon be possible to digitize touch at scale. This creates important opportunities for both basic research and applications, such as robotics. In this context, it is increasingly important the role of Touch Processing – the science of making sense of touch through the use of machine learning."
     },
     {
+        "shortName": "DRIMS",
+        "name": "Doctoral Summer School on Robotics and Intelligent Machines",
+        "start": "2026-08-30",
+        "end": "2026-09-06",
+        "deadline": "2026-06-29",
+        "city": "Piombino",
+        "country": "Italy",
+        "link": "https://www.phdrims.com/",
+        "type": "School",
+        "cost": "0/300/500€",
+        "costNote": "firsts/RAS/others", 
+        "addressLink": "https://maps.app.goo.gl/g7wAw6D1NjotFfhF9",
+        "note": "Specifically, the course aims to provide the knowledge and skills necessary to develop robots and intelligent machines capable of operating in complex environments, such as those found in biomedical, industrial, and service applications. Participants will gain advanced expertise in fields such as robot design, tactile and vision sensors and artificial perception, control, and human-machine interaction."
+    },
+    {
         "shortName": "RASDE",
         "name": "IEEE RAS Summer School in Germany",
         "start": "2026-09-06",

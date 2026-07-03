@@ -26,6 +26,32 @@
     "note": "An international scientific symposium on modeling, integration, coordination, and operation of systems spanning multiple engineering and computational domains."
   },
   {
+    "shortName": "HRI",
+    "name": "ACM/IEEE International Conference on Human-Robot Interaction",
+    "start": "2027-03-08",
+    "end": "2027-03-12",
+    "deadline": "",
+    "city": "Santa Clara, CA",
+    "country": "USA",
+    "link": "https://humanrobotinteraction.org/2027/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
+    "shortName": "RoboSoft",
+    "name": "IEEE-RAS International Conference on Soft Robotics",
+    "start": "2027-04-05",
+    "end": "2027-04-09",
+    "deadline": "2026-10-15",
+    "city": "Brisbane",
+    "country": "Australia",
+    "link": "https://robosoft27.com/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/GJwih3LoXPteBdsc7",
+    "note": "The theme for the 10th IEEE International Conference on Soft Robotics (Robosoft27) centres on “Soft Robotics in the Wild”, emphasizing both the source of endless bioinspiration that drives our field, and the ongoing maturation of soft robotics technology into deployment in tough natural environments."
+  },
+  {
     "shortName": "ICRA",
     "name": "IEEE International Conference on Robotics and Automation",
     "start": "2027-05-24",
@@ -65,19 +91,6 @@
     "note": ""
   },
   {
-    "shortName": "HRI",
-    "name": "ACM/IEEE International Conference on Human-Robot Interaction",
-    "start": "2027-03-08",
-    "end": "2027-03-12",
-    "deadline": "",
-    "city": "Santa Clara, CA",
-    "country": "USA",
-    "link": "https://humanrobotinteraction.org/2027/",
-    "type": "Conference",
-    "addressLink": "",
-    "note": ""
-  },
-  {
     "shortName": "IROS",
     "name": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
     "start": "2027",
@@ -89,18 +102,5 @@
     "type": "Conference",
     "addressLink": "",
     "note": ""
-  },
-  {
-    "shortName": "RoboSoft",
-    "name": "IEEE-RAS International Conference on Soft Robotics",
-    "start": "2027-04-05",
-    "end": "2027-04-09",
-    "deadline": "",
-    "city": "Brisbane",
-    "country": "Australia",
-    "link": "https://robosoft27.com/",
-    "type": "Conference",
-    "addressLink": "https://maps.app.goo.gl/GJwih3LoXPteBdsc7",
-    "note": "The theme for the 10th IEEE International Conference on Soft Robotics (Robosoft27) centres on “Soft Robotics in the Wild”, emphasizing both the source of endless bioinspiration that drives our field, and the ongoing maturation of soft robotics technology into deployment in tough natural environments."
   }
 ]

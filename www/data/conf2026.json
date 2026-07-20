@@ -793,6 +793,19 @@
     "note": ""
   },
   {
+    "shortName": "IRCE",
+    "name": "9th International Conference on Intelligent Robotics and Control Engineering",
+    "start": "2026-08-03",
+    "end": "2026-08-06",
+    "deadline": "",
+    "city": "Urumqi",
+    "country": "China",
+    "link": "https://www.irce.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "ICBIR",
     "name": "International Conference on Biomimetic Intelligence and Robotics",
     "start": "2026-08-08",
@@ -801,6 +814,19 @@
     "city": "Zhongwei",
     "country": "China",
     "link": "https://www.icbir.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
+    "shortName": "RCAR",
+    "name": "IEEE International Conference on Real-time Computing and Robotics",
+    "start": "2026-08-16",
+    "end": "2026-08-22",
+    "deadline": "2026-04-30",
+    "city": "Seychelles",
+    "country": "Seychelles",
+    "link": "https://www.ieee-ras.org/event/2026-ieee-international-conference-on-real-time-computing-and-robotics-rcar-70436/",
     "type": "Conference",
     "addressLink": "",
     "note": ""
@@ -842,7 +868,7 @@
     "link": "https://www.ifac2026.org/fairDash.do",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/qCkdKVG4E1GzJGvH9",
-    "note": "The IFAC World Congress is a premier mega-conference in the field of control, attracting 3,000 to 4,000 participants. Held every three years, it serves as a unifying event that brings together all workshops and conferences organized by the International Federation of Automatic Control (IFAC) under one roof. Since its inception in 1960, the World Congress has been a cornerstone of the control community. In 2026, it will be held for the 23rd time." 
+    "note": "The IFAC World Congress is a premier mega-conference in the field of control, attracting 3,000 to 4,000 participants. Held every three years, it serves as a unifying event that brings together all workshops and conferences organized by the International Federation of Automatic Control (IFAC) under one roof. Since its inception in 1960, the World Congress has been a cornerstone of the control community. In 2026, it will be held for the 23rd time."
   },
   {
     "shortName": "RO-MAN",
@@ -1167,7 +1193,7 @@
     "link": "https://www.isred-ethical.design/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/6UFQuxjHZr3A7DG7A",
-    "note": "As technological progress consistently outpaces traditional legislative processes, there is an urgent need for 'compliance by design' in the development of social robots. This symposium explores how Design Thinking — a human-centric, iterative methodology — can serve as a foundational framework for Responsible Robotics."
+    "note": "As technological progress consistently outpaces traditional legislative processes, there is an urgent need for 'compliance by design' in the development of social robots. This symposium explores how Design Thinking \u2014 a human-centric, iterative methodology \u2014 can serve as a foundational framework for Responsible Robotics."
   },
   {
     "shortName": "HAI",
@@ -1245,6 +1271,6 @@
     "link": "https://www.robio2026.org/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/P34fNisb5WXAevR37",
-    "note": "The theme of IEEE ROBIO 2026 is “Biomimetic Robots Empowered by AI”, reflecting the ever-growing interests in research, development, and applications in the dynamic and exciting areas of robotics and biomimetics."
+    "note": "The theme of IEEE ROBIO 2026 is \u201cBiomimetic Robots Empowered by AI\u201d, reflecting the ever-growing interests in research, development, and applications in the dynamic and exciting areas of robotics and biomimetics."
   }
 ]

@@ -1235,6 +1235,19 @@
     "note": ""
   },
   {
+    "shortName": "M2VIP",
+    "name": "IEEE 32nd International Conference on Mechatronics and Machine Vision in Practice",
+    "start": "2026-11-20",
+    "end": "2026-11-22",
+    "deadline": "2026-08-15",
+    "city": "Nanjing",
+    "country": "China",
+    "link": "https://ieee-m2vip.cc/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/tDKvYn7LoDAyMNsy9",
+    "note": ""
+  },
+  {
     "shortName": "Humanoids",
     "name": "IEEE-RAS 25th International Conference on Humanoid Robots",
     "start": "2026-12-06",

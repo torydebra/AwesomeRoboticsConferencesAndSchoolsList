@@ -858,6 +858,45 @@
     "note": ""
   },
   {
+    "shortName": "ICCRT",
+    "name": "4th International Conference on Control and Robot Technology",
+    "start": "2026-08-18",
+    "end": "2026-08-20",
+    "deadline": "",
+    "city": "Hiratsuka",
+    "country": "Japan",
+    "link": "https://www.ieee-ras.org/event/2026-4th-international-conference-on-control-and-robot-technology-iccrt-70781/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
+    "shortName": "MMAR",
+    "name": "30th International Conference on Methods and Models in Automation and Robotics",
+    "start": "2026-08-18",
+    "end": "2026-08-21",
+    "deadline": "",
+    "city": "Mi\u0119dzyzdroje",
+    "country": "Poland",
+    "link": "https://www.ieee-ras.org/event/2026-30th-international-conference-on-methods-and-models-in-automation-and-robotics-mmar-70562/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
+    "shortName": "WRC",
+    "name": "World Robot Conference",
+    "start": "2026-08-19",
+    "end": "2026-08-23",
+    "deadline": "",
+    "city": "Beijing",
+    "country": "China",
+    "link": "https://www.ieee-ras.org/event/2026-world-robot-conference-wrc-71391/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "IFAC",
     "name": "IFAC World Congress",
     "start": "2026-08-23",

@@ -786,7 +786,7 @@
     "end": "2026-08-05",
     "deadline": "2026-04-10",
     "city": "Changchun",
-    "country": "Jilin",
+    "country": "China",
     "link": "http://2026.ieee-icma.org/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/TTWu4PzjLZDWt4uQA",
@@ -802,7 +802,7 @@
     "country": "China",
     "link": "https://www.irce.org/",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/23QGzkwDKNP21gqi9",
     "note": ""
   },
   {
@@ -826,9 +826,9 @@
     "deadline": "2026-04-30",
     "city": "Seychelles",
     "country": "Seychelles",
-    "link": "https://www.ieee-ras.org/event/2026-ieee-international-conference-on-real-time-computing-and-robotics-rcar-70436/",
+    "link": "https://rcar2026.org/",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/q5FdobpKmPpxUdBn7",
     "note": ""
   },
   {
@@ -854,7 +854,46 @@
     "country": "China",
     "link": "https://2026.ieeecase.org/",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/RrFXj3HHZMq2k5bn6",
+    "note": ""
+  },
+  {
+    "shortName": "ICCRT",
+    "name": "4th International Conference on Control and Robot Technology",
+    "start": "2026-08-18",
+    "end": "2026-08-20",
+    "deadline": "2026-07-10",
+    "city": "Hiratsuka",
+    "country": "Japan",
+    "link": "https://www.iccrt.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/JbYHPuP1fHsWbYgL6",
+    "note": ""
+  },
+  {
+    "shortName": "MMAR",
+    "name": "30th International Conference on Methods and Models in Automation and Robotics",
+    "start": "2026-08-18",
+    "end": "2026-08-21",
+    "deadline": "2026-04-08",
+    "city": "Mi\u0119dzyzdroje",
+    "country": "Poland",
+    "link": "https://mmar.edu.pl/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/ehB1D8LTZew4o1UD7",
+    "note": ""
+  },
+  {
+    "shortName": "WRC",
+    "name": "World Robot Conference",
+    "start": "2026-08-19",
+    "end": "2026-08-23",
+    "deadline": "",
+    "city": "Beijing",
+    "country": "China",
+    "link": "https://www.worldrobotconference.com/en",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/Ct4SwS8YL61Y3Duk6",
     "note": ""
   },
   {

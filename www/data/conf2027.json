@@ -52,6 +52,19 @@
     "note": "The theme for the 10th IEEE International Conference on Soft Robotics (Robosoft27) centres on “Soft Robotics in the Wild”, emphasizing both the source of endless bioinspiration that drives our field, and the ongoing maturation of soft robotics technology into deployment in tough natural environments."
   },
   {
+    "shortName": "SAC-IRMAS",
+    "name": "Symposium on Applied Computing - Intelligent Robotics and Multi-Agent Systems",
+    "start": "2027-04-05",
+    "end": "2027-04-09",
+    "deadline": "2026-10-02",
+    "city": "Gwangju",
+    "country": "South Korea",
+    "link": "https://sac2027-irmas.isr.uc.pt/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/PcPHyTMoKruPwFVW9",
+    "note": "The ACM Symposium on Applied Computing (SAC) has been a primary gathering forum for applied computer scientists, computer engineers, software engineers, and application developers from around the world. SAC 2027 is sponsored by the ACM Special Interest Group on Applied Computing (SIGAPP), and will be held in Gwangju, South Korea. In SAC 2015, the technical track on Intelligent Robotics and Multi-Agent Systems (IRMAS) joined the former tracks on Intelligent Robotic Systems (ROBOT) and Cooperative Multi-Agent Systems and Applications (CMASA) which had been organized as separate technical tracks in past editions of SAC. The IRMAS track will be organized for the thirteenth time in SAC 2027, exploiting the inherent synergy between Robotics and Multi-Agent Systems (MAS), thus aiming to bring together these highly related and exciting research fields."
+  },
+  {
     "shortName": "ICRA",
     "name": "IEEE International Conference on Robotics and Automation",
     "start": "2027-05-24",

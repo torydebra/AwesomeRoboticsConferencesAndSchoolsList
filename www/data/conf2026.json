@@ -988,6 +988,19 @@
     "note": ""
   },
   {
+    "shortName": "RAMT",
+    "name": "International Conference on Robotics and Advanced Manufacturing Technology",
+    "start": "2026-09-11",
+    "end": "2026-09-13",
+    "deadline": "2026-08-17",
+    "city": "Zhengzhou",
+    "country": "China",
+    "link": "https://iramt.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/LQSrpaqbuNo6F1Ju8",
+    "note": ""
+  },
+  {
     "shortName": "CLAWAR",
     "name": "International Conference on Climbing and Walking Robots and Support Technologies for Mobile Machines",
     "start": "2026-09-14",
@@ -1194,6 +1207,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/i8PDHcZgiv7tvubw5",
     "note": "IEEE MetroSea 2026 aims to gather people who work in developing instrumentation and measurement methods for the sea. Attention is paid, but not limited to, new technology for sea environment monitoring, metrology-assisted production in sea industry, ship component measurement, sensors and associated signal conditioning for the sea, and calibration methods for electronic test and measurement for marine applications."
+  },
+  {
+    "shortName": "AIRIM",
+    "name": "An International Conference on AI, Robotics, and Intelligent Manufacturing",
+    "start": "2026-11-05",
+    "end": "2026-11-07",
+    "deadline": "2026-08-30",
+    "city": "Andhra Pradesh",
+    "country": "India",
+    "link": "https://www.srmap.edu.in/airim-2026/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/XGMBobVFySjG5ZEa8",
+    "note": "This conference aims to create a vibrant ecosystem by uniting academia, industry, and startups under a single umbrella. It will facilitate the sharing of cutting-edge research, technological advancements, and real-world applications, enabling participants to explore new opportunities and address emerging challenges in the field."
   },
   {
     "shortName": "CORL",

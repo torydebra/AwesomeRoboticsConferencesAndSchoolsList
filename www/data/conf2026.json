@@ -1001,6 +1001,19 @@
     "note": ""
   },
   {
+    "shortName": "ICEAR",
+    "name": "International Conference on Embodied AI and Robotics",
+    "start": "2026-09-11",
+    "end": "2026-09-13",
+    "deadline": "2026-09-16",
+    "city": "Haikou",
+    "country": "China",
+    "link": "https://www.iceir.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/fp5TKM7rLmsbqgJz8",
+    "note": ""
+  },
+  {
     "shortName": "CLAWAR",
     "name": "International Conference on Climbing and Walking Robots and Support Technologies for Mobile Machines",
     "start": "2026-09-14",

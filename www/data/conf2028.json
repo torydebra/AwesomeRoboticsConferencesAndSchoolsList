@@ -1,5 +1,18 @@
 [
   {
+    "shortName": "RoboSoft",
+    "name": "IEEE-RAS International Conference on Soft Robotics",
+    "start": "2028",
+    "end": "2028",
+    "deadline": "",
+    "city": "Edmonton",
+    "country": "Canada",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "ICRA",
     "name": "IEEE International Conference on Robotics and Automation",
     "start": "2028-05-13",
@@ -7,6 +20,19 @@
     "deadline": "",
     "city": "Guadalajara",
     "country": "Mexico",
+    "link": "",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
+    "shortName": "CASE",
+    "name": "International Conference on Automation Science and Engineering",
+    "start": "2028",
+    "end": "2028",
+    "deadline": "",
+    "city": "Chicago, IL",
+    "country": "USA",
     "link": "",
     "type": "Conference",
     "addressLink": "",

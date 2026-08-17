@@ -69,7 +69,7 @@
     "name": "IEEE International Conference on Robotics and Automation",
     "start": "2027-05-24",
     "end": "2027-05-28",
-    "deadline": "",
+    "deadline": "2026-09-15",
     "city": "Seoul",
     "country": "South Korea",
     "link": "https://2027.ieee-icra.org/",
@@ -78,17 +78,30 @@
     "note": ""
   },
   {
+    "shortName": "IV",
+    "name": "The 38th IEEE Intelligent Vehicles Symposium",
+    "start": "2027-06-15",
+    "end": "2027-06-18",
+    "deadline": "2026-11-15",
+    "city": "Perth",
+    "country": "Australia",
+    "link": "https://ieee-iv.org/2027/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/271DzJFLLSP4sHfs5",
+    "note": "The IEEE Intelligent Vehicles Symposium is a premier forum sponsored by the IEEE Intelligent Transportation Systems Society (ITSS). Researchers, engineers, practitioners, and students from industry, universities, and government agencies are invited to present their latest work and to discuss research and applications for Intelligent Vehicles and Vehicle–Infrastructure Cooperation. The conference offers technical sessions, workshops, poster sessions, exhibitions, and more."
+  },
+  {
     "shortName": "AIM",
     "name": "IEEE/ASME International Conference on Advanced Intelligent Mechatronics",
-    "start": "2027-07-12",
-    "end": "2027-07-16",
-    "deadline": "",
-    "city": "Boulder, CO",
-    "country": "USA",
-    "link": "",
+    "start": "2027-06-29",
+    "end": "2027-07-02",
+    "deadline": "2027-01-26",
+    "city": "Calgary",
+    "country": "Canada",
+    "link": "https://aim2027.com/",
     "type": "Conference",
     "addressLink": "",
-    "note": ""
+    "note": " This meeting not only provides a platform for dissemination and discussion of the state-of-the-art in research but also creates opportunities for networking with colleagues from around the world. The conference features conference awards, contributed sessions, invited sessions, tutorial workshops, special sessions, plenary talks, student programs, as well as committee meetings, industry programs, and social functions."
   },
   {
     "shortName": "CableCon",
@@ -113,7 +126,7 @@
     "country": "Italy",
     "link": "",
     "type": "Conference",
-    "addressLink": "",
-    "note": ""
+    "addressLink": "https://maps.app.goo.gl/RuFsdTq3TdiZCAaG7",
+    "note": "Human-centric robotics development is a mandatory challenge for real deployment of cooperative, trustworthy and acceptable robotic solutions and services. Digital transformation will also involve robotics, favoring synergies with artificial intelligence and IOT and spreading their use in every daily life environments. Robotics for sustainability in today’s world is a promising challenge to address climate change, enhance recycling, make manufacturing, mobility, food and daily life more and more."
   }
 ]

@@ -1,2 +1,17 @@
 [
+    {
+        "shortName": "SoRAIM",
+        "name": "ACM Europe Winter School on Social Robotics, Artificial Intelligence and Multimedia",
+        "start": "2027-02-01",
+        "end": "2027-02-05",
+        "deadline": "",
+        "city": "Autrans",
+        "country": "France",
+        "link": "https://project.inria.fr/soraim/",
+        "type": "School",
+        "cost": "€700-850",
+        "costNote": "with room: shared-individual", 
+        "addressLink": "https://maps.app.goo.gl/iufhY2899sXZ7cxP7",
+        "note": "SoRAIM aims to bring together researchers from complementary fields — such as computer vision, speech and audio processing, affective computing, and human-robot interaction — who share a common interest in social robotics and socially intelligent systems. The school fosters cross-disciplinary exchange and discussion, both through formal courses given by internationally recognised experts and through the many opportunities for informal interaction in a relaxed mountain setting."
+    }
 ]

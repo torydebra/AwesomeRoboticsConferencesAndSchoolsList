@@ -897,6 +897,19 @@
     "note": ""
   },
   {
+    "shortName": "ACIRS",
+    "name": "11th Asia-Pacific Conference on Intelligent Robotic Systems",
+    "start": "2026-08-21",
+    "end": "2026-08-23",
+    "deadline": "2026-05-07",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "link": "https://www.acirs.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/uruZLTR6eoiTo6hp8",
+    "note": ""
+  },
+  {
     "shortName": "IFAC",
     "name": "IFAC World Congress",
     "start": "2026-08-23",
@@ -949,6 +962,19 @@
     "note": "Our focus is on the technologies and applications of autonomous underwater vehicles (AUVs), autonomous surface vessels (ASVs), underwater gliders, and Lagrangian floats, with most papers centered on field robotics or data collected from real-world deployments."
   },
   {
+    "shortName": "MFI",
+    "name": "IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems",
+    "start": "2026-09-02",
+    "end": "2026-09-04",
+    "deadline": "2026-08-17",
+    "city": "Pilsen",
+    "country": "Czech Republic",
+    "link": "https://www.mfi2026.org/",
+    "type": "Conference",
+    "addressLink": "https://www.openstreetmap.org/?mlat=49.72681&mlon=13.35152#map=18/49.726810/13.351520&layers=N",
+    "note": ""
+  },
+  {
     "shortName": "SEAA",
     "name": "Euromicro Conference on Software Engineering and Advanced Applications",
     "start": "2026-09-02",
@@ -975,6 +1001,19 @@
     "note": "CBS is a premier international conference dedicated to frontier research and real-world applications in cyborg and bionic systems. The conference brings together researchers and industry leaders to explore systems based on the hybrid integration of organic, biomechatronic, and artificial components, including bio-hybrid actuators, intelligent sensors, neural interfaces, and embodied control strategies."
   },
   {
+    "shortName": "COINS",
+    "name": "IEEE International Conference on Omni Layer Intelligent Systems",
+    "start": "2026-09-07",
+    "end": "2026-09-09",
+    "deadline": "2026-04-29",
+    "city": "Bologna",
+    "country": "Italy",
+    "link": "https://coinsconf.com/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/ftcaW9q9f9y3WD7p9",
+    "note": ""
+  },
+  {
     "shortName": "TAROS",
     "name": "Towards Autonomous Robotic Systems",
     "start": "2026-09-07",
@@ -985,6 +1024,19 @@
     "link": "https://taros-conference.org/",
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/PXLQsLizJgzyVBRM8",
+    "note": ""
+  },
+  {
+    "shortName": "ICOM",
+    "name": "10th International Conference on Mechatronics Engineering",
+    "start": "2026-09-08",
+    "end": "2026-09-09",
+    "deadline": "2026-07-26",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "link": "https://conference.iium.edu.my/icom/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/MmsRNpbucbytimJ47",
     "note": ""
   },
   {
@@ -1025,6 +1077,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/nY7bhFymzCyTzuAYA",
     "note": "CLAWAR 2025 is the 28th issue of the International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines. The conference will be organized in collaboration with the Shenzhen Technology University, China, and held within the premises of the university, during 05 \u2013 07 September 2025. The technical programme of CLAWAR 2025 will feature plenary, regular and special/invited sessions. The conference proceedings will be published in the Springer\u2019s Lecture Notes in Networks and Systems series and indexed in Scopus, EI and Web of Science."
+  },
+  {
+    "shortName": "SICE",
+    "name": "SICE Festival with Annual Conference",
+    "start": "2026-09-14",
+    "end": "2026-09-17",
+    "deadline": "2026-05-07",
+    "city": "Yokohama",
+    "country": "Japan",
+    "link": "https://sicefes26.sice.jp/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/sAMQxMc5iqi5yjV18",
+    "note": ""
   },
   {
     "shortName": "AM-SMART",

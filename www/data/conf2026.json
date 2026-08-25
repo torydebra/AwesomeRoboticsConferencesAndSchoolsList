@@ -901,12 +901,12 @@
     "name": "11th Asia-Pacific Conference on Intelligent Robotic Systems",
     "start": "2026-08-21",
     "end": "2026-08-23",
-    "deadline": "",
+    "deadline": "2026-05-07",
     "city": "Hong Kong",
     "country": "Hong Kong",
-    "link": "https://www.ieee-ras.org/event/2026-11th-asia-pacific-conference-on-intelligent-robotic-systems-acirs-71253/",
+    "link": "https://www.acirs.org/",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/uruZLTR6eoiTo6hp8",
     "note": ""
   },
   {
@@ -966,12 +966,12 @@
     "name": "IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems",
     "start": "2026-09-02",
     "end": "2026-09-04",
-    "deadline": "",
+    "deadline": "2026-08-17",
     "city": "Pilsen",
     "country": "Czech Republic",
-    "link": "https://www.ieee-ras.org/event/2026-ieee-international-conference-on-multisensor-fusion-and-integration-for-intelligent-systems-mfi-71415/",
+    "link": "https://www.mfi2026.org/",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://www.openstreetmap.org/?mlat=49.72681&mlon=13.35152#map=18/49.726810/13.351520&layers=N",
     "note": ""
   },
   {
@@ -1005,12 +1005,12 @@
     "name": "IEEE International Conference on Omni Layer Intelligent Systems",
     "start": "2026-09-07",
     "end": "2026-09-09",
-    "deadline": "",
+    "deadline": "2026-04-29",
     "city": "Bologna",
     "country": "Italy",
-    "link": "https://www.ieee-ras.org/event/2026-ieee-international-conference-on-omni-layer-intelligent-systems-coins-69995/",
+    "link": "https://coinsconf.com/",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/ftcaW9q9f9y3WD7p9",
     "note": ""
   },
   {
@@ -1031,12 +1031,12 @@
     "name": "10th International Conference on Mechatronics Engineering",
     "start": "2026-09-08",
     "end": "2026-09-09",
-    "deadline": "",
+    "deadline": "2026-07-26",
     "city": "Kuala Lumpur",
     "country": "Malaysia",
-    "link": "https://www.ieee-ras.org/event/2026-10th-international-conference-on-mechatronics-engineering-icom-71159/",
+    "link": "https://conference.iium.edu.my/icom/",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/MmsRNpbucbytimJ47",
     "note": ""
   },
   {
@@ -1079,16 +1079,16 @@
     "note": "CLAWAR 2025 is the 28th issue of the International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines. The conference will be organized in collaboration with the Shenzhen Technology University, China, and held within the premises of the university, during 05 \u2013 07 September 2025. The technical programme of CLAWAR 2025 will feature plenary, regular and special/invited sessions. The conference proceedings will be published in the Springer\u2019s Lecture Notes in Networks and Systems series and indexed in Scopus, EI and Web of Science."
   },
   {
-    "shortName": "ES",
-    "name": "SICE Festival with Annual Conference (SICE",
+    "shortName": "SICE",
+    "name": "SICE Festival with Annual Conference",
     "start": "2026-09-14",
     "end": "2026-09-17",
-    "deadline": "",
+    "deadline": "2026-05-07",
     "city": "Yokohama",
     "country": "Japan",
-    "link": "https://www.ieee-ras.org/event/2026-sice-festival-with-annual-conference-sice-fes-71276/",
+    "link": "https://sicefes26.sice.jp/",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/sAMQxMc5iqi5yjV18",
     "note": ""
   },
   {

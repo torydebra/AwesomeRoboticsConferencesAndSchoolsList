@@ -1391,6 +1391,19 @@
     "note": ""
   },
   {
+    "shortName": "ACRA",
+    "name": "Australasian Conference on Robotics and Automation",
+    "start": "2026-11-30",
+    "end": "2026-12-02",
+    "deadline": "2026-09-20",
+    "city": "Canberra",
+    "country": "Australia",
+    "link": "https://www.araa.asn.au/conference/acra-2026/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/SzddXW8cRw4droCG7",
+    "note": "The 2026 Australasian Conference on Robotics and Automation (ACRA 2026) is organised by the University of Canberra, Collaborative Robotics Lab, and the Australian Robotics and Automation Association (ARAA)."
+  },
+  {
     "shortName": "Humanoids",
     "name": "IEEE-RAS 25th International Conference on Humanoid Robots",
     "start": "2026-12-06",

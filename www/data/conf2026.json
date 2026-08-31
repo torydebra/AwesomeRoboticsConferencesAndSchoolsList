@@ -1079,7 +1079,7 @@
     "note": "CLAWAR 2025 is the 28th issue of the International Conference Series on Climbing and Walking Robots and the Support Technologies for Mobile Machines. The conference will be organized in collaboration with the Shenzhen Technology University, China, and held within the premises of the university, during 05 \u2013 07 September 2025. The technical programme of CLAWAR 2025 will feature plenary, regular and special/invited sessions. The conference proceedings will be published in the Springer\u2019s Lecture Notes in Networks and Systems series and indexed in Scopus, EI and Web of Science."
   },
   {
-    "shortName": "SICE",
+    "shortName": "ES",
     "name": "SICE Festival with Annual Conference",
     "start": "2026-09-14",
     "end": "2026-09-17",
@@ -1209,6 +1209,19 @@
     "note": "The 7th International Conference on Active Inference is an interdisciplinary venue that wants to bring together researchers on Active Inference and related research fields to discuss current trends, novel results, and real-world applications. We have an interest in exploring the extent to which active inference can be used in modern machine learning settings, such as in hybrid setups combining it with deep learning, as well as to unify the latest psychological and neurological insights, and to determine how it can best be used to understand action, optimization, and decision making."
   },
   {
+    "shortName": "ICMME",
+    "name": "5th International Conference on Mechatronics and Mechanical Engineering",
+    "start": "2026-10-16",
+    "end": "2026-10-18",
+    "deadline": "2026-09-10",
+    "city": "Dalian",
+    "country": "China",
+    "link": "https://www.icmme.net/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/sJ2i9hk7P29r3i1ZA",
+    "note": ""
+  },
+  {
     "shortName": "SAB",
     "name": "18th International Conference on the Simulation of Adaptive Behavior",
     "start": "2026-10-19",
@@ -1220,6 +1233,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/M9RxoZgNwJEv4M868",
     "note": "SAB 2026 will be held at Technische Universit\u00e4t Berlin (TU Berlin), Marchstra\u00dfe 23, 10587 Berlin, Germany. The conference focuses on adaptive behavior in natural and artificial systems, spanning AI, robotics, neuroscience, biology, and cognitive science. Proceedings are published in Springer\u2019s Lecture Notes in Artificial Intelligence (LNAI)."
+  },
+  {
+    "shortName": "ICAIRS",
+    "name": "International Conference on Artificial Intelligence and Robotic Systems",
+    "start": "2026-10-23",
+    "end": "2026-10-25",
+    "deadline": "2026-09-20",
+    "city": "Tianjin",
+    "country": "China",
+    "link": "https://www.icairs.net/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/88sCQawgajXCDiFc7",
+    "note": ""
   },
   {
     "shortName": "ICIST",

@@ -1080,19 +1080,6 @@
   },
   {
     "shortName": "ES",
-    "name": "SICE Festival with Annual Conference (SICE",
-    "start": "2026-09-14",
-    "end": "2026-09-17",
-    "deadline": "",
-    "city": "Yokohama",
-    "country": "Japan",
-    "link": "https://www.ieee-ras.org/event/2026-sice-festival-with-annual-conference-sice-fes-71276/",
-    "type": "Conference",
-    "addressLink": "",
-    "note": ""
-  },
-  {
-    "shortName": "SICE",
     "name": "SICE Festival with Annual Conference",
     "start": "2026-09-14",
     "end": "2026-09-17",
@@ -1226,12 +1213,12 @@
     "name": "5th International Conference on Mechatronics and Mechanical Engineering",
     "start": "2026-10-16",
     "end": "2026-10-18",
-    "deadline": "",
-    "city": "China",
+    "deadline": "2026-09-10",
+    "city": "Dalian",
     "country": "China",
-    "link": "https://www.ieee-ras.org/event/2026-5th-international-conference-on-mechatronics-and-mechanical-engineering-icmme-70424/",
+    "link": "https://www.icmme.net/",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/sJ2i9hk7P29r3i1ZA",
     "note": ""
   },
   {
@@ -1252,12 +1239,12 @@
     "name": "International Conference on Artificial Intelligence and Robotic Systems",
     "start": "2026-10-23",
     "end": "2026-10-25",
-    "deadline": "",
+    "deadline": "2026-09-20",
     "city": "Tianjin",
     "country": "China",
-    "link": "https://www.ieee-ras.org/event/2026-international-conference-on-artificial-intelligence-and-robotic-systems-icairs-72058/",
+    "link": "https://www.icairs.net/",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/88sCQawgajXCDiFc7",
     "note": ""
   },
   {

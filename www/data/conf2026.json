@@ -1248,6 +1248,19 @@
     "note": ""
   },
   {
+    "shortName": "ISRIMT",
+    "name": "International Symposium on Robotics & Intelligent Manufacturing Technology",
+    "start": "2026-10-23",
+    "end": "2026-10-25",
+    "deadline": "2026-09-23",
+    "city": "Changzhou",
+    "country": "China",
+    "link": "https://www.isrimt.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/CMRUWT2ejR4ncoyr8",
+    "note": ""
+  },
+  {
     "shortName": "ICIST",
     "name": "International Conference on Information Science and Technology",
     "start": "2026-11-01",

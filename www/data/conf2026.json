@@ -1261,6 +1261,19 @@
     "note": ""
   },
   {
+    "shortName": "ICCAS",
+    "name": "26th International Conference on Control, Automation and Systems",
+    "start": "2026-10-27",
+    "end": "2026-10-30",
+    "deadline": "",
+    "city": "Sapporo",
+    "country": "Japan",
+    "link": "https://www.ieee-ras.org/event/2026-26th-international-conference-on-control-automation-and-systems-iccas-71419/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "ICIST",
     "name": "International Conference on Information Science and Technology",
     "start": "2026-11-01",

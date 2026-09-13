@@ -1287,6 +1287,19 @@
     "note": ""
   },
   {
+    "shortName": "SSRR",
+    "name": "IEEE International Symposium on Safety Security Rescue Robotics",
+    "start": "2026-11-02",
+    "end": "2026-11-04",
+    "deadline": "",
+    "city": "Incheon",
+    "country": "Korea (South)",
+    "link": "https://www.ieee-ras.org/event/2026-ieee-international-symposium-on-safety-security-rescue-robotics-ssrr-71773/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "SRR",
     "name": "IEEE International Symposium on Safety, Security, and Rescue Robotics",
     "start": "2026-11-02",
@@ -1352,6 +1365,19 @@
     "note": "This conference aims to create a vibrant ecosystem by uniting academia, industry, and startups under a single umbrella. It will facilitate the sharing of cutting-edge research, technological advancements, and real-world applications, enabling participants to explore new opportunities and address emerging challenges in the field."
   },
   {
+    "shortName": "ICRCV",
+    "name": "8th International Conference on Robotics and Computer Vision",
+    "start": "2026-11-06",
+    "end": "2026-11-08",
+    "deadline": "",
+    "city": "China",
+    "country": "China",
+    "link": "https://www.ieee-ras.org/event/2026-8th-international-conference-on-robotics-and-computer-vision-icrcv-71437/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "CORL",
     "name": "Conference on Robot Learning",
     "start": "2026-11-09",
@@ -1389,6 +1415,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/6UFQuxjHZr3A7DG7A",
     "note": "As technological progress consistently outpaces traditional legislative processes, there is an urgent need for 'compliance by design' in the development of social robots. This symposium explores how Design Thinking \u2014 a human-centric, iterative methodology \u2014 can serve as a foundational framework for Responsible Robotics."
+  },
+  {
+    "shortName": "REM",
+    "name": "23rd International Conference on Research and Education in Mechatronics",
+    "start": "2026-11-12",
+    "end": "2026-11-13",
+    "deadline": "",
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "link": "https://www.ieee-ras.org/event/2026-23rd-international-conference-on-research-and-education-in-mechatronics-rem-71834/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   },
   {
     "shortName": "HAI",

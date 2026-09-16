@@ -1261,6 +1261,19 @@
     "note": ""
   },
   {
+    "shortName": "IAR",
+    "name": "International Conference on Intelligent Algorithms and Robotics",
+    "start": "2026-10-23",
+    "end": "2026-10-25",
+    "deadline": "2026-09-20",
+    "city": "Guangzhou",
+    "country": "China",
+    "link": "https://www.ic-iar.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/zpWDytyxSQDdckaF7",
+    "note": ""
+  },
+  {
     "shortName": "ICCAS",
     "name": "26th International Conference on Control, Automation and Systems",
     "start": "2026-10-27",
@@ -1493,6 +1506,45 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/VocJ5pUnYPs65aoS8",
     "note": "Humanoids 2026 aims at bringing together top researchers from humanoid robotics and related disciplines with leading companies in the field. In light of a year of rapidly evolving humanoid technologies with several new platforms coming onto the market and bringing us closer to a wider real-world deployment. Our community envisions innovative areas in humanoid robotics that lie at the intersection of general-purpose physical, cognitive, and motor capabilities, while also considering the scientific understanding of interactions with humanoid and anthropomorphic systems."
+  },
+  {
+    "shortName": "NeurIPS",
+    "name": "The Fortieth Annual Conference on Neural Information Processing Systems",
+    "start": "2026-12-06",
+    "end": "2026-12-09",
+    "deadline": "2026-05-04",
+    "city": "Sydney",
+    "country": "Australia",
+    "link": "https://neurips.cc/Conferences/2026",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/9trhCwxddp7yGTJE6",
+    "note": ""
+  },
+  {
+    "shortName": "NeurIPS_S",
+    "name": "The Fortieth Annual Conference on Neural Information Processing Systems - Satellite",
+    "start": "2026-12-06",
+    "end": "2026-12-09",
+    "deadline": "2026-05-04",
+    "city": "Paris",
+    "country": "France",
+    "link": "https://neurips.cc/Conferences/2026",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/92CpKaPcxtr7o8NN8",
+    "note": ""
+  },
+  {
+    "shortName": "NeurIPS_S2",
+    "name": "The Fortieth Annual Conference on Neural Information Processing Systems - Satellite",
+    "start": "2026-12-06",
+    "end": "2026-12-09",
+    "deadline": "2026-05-04",
+    "city": "Atlanta",
+    "country": "USA",
+    "link": "https://neurips.cc/Conferences/2026",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/kGY1fcbg7UqCsbbU7",
+    "note": ""
   },
   {
     "shortName": "ECoR",

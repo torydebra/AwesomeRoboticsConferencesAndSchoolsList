@@ -91,6 +91,19 @@
     "note": "The IEEE Intelligent Vehicles Symposium is a premier forum sponsored by the IEEE Intelligent Transportation Systems Society (ITSS). Researchers, engineers, practitioners, and students from industry, universities, and government agencies are invited to present their latest work and to discuss research and applications for Intelligent Vehicles and Vehicle–Infrastructure Cooperation. The conference offers technical sessions, workshops, poster sessions, exhibitions, and more."
   },
   {
+    "shortName": "L4DC",
+    "name": "Learning for Dynamics and Control Conference",
+    "start": "2027-06-16",
+    "end": "2027-06-17",
+    "deadline": "2026-11-13",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "link": "https://l4dc2027.control.ee.ethz.ch/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "AIM",
     "name": "IEEE/ASME International Conference on Advanced Intelligent Mechatronics",
     "start": "2027-06-29",

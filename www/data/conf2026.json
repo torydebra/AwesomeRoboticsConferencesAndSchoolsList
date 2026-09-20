@@ -1456,6 +1456,19 @@
     "note": ""
   },
   {
+    "shortName": "ROBOT",
+    "name": "9th Iberian Robotics Conference",
+    "start": "2026-11-18",
+    "end": "2026-11-20",
+    "deadline": "",
+    "city": "Barcelona",
+    "country": "Spain",
+    "link": "https://www.ieee-ras.org/event/2026-9th-iberian-robotics-conference-robot-71646/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "ROBOT2026",
     "name": "Iberian Robotics Conference",
     "start": "2026-11-18",
@@ -1493,6 +1506,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/SzddXW8cRw4droCG7",
     "note": "The 2026 Australasian Conference on Robotics and Automation (ACRA 2026) is organised by the University of Canberra, Collaborative Robotics Lab, and the Australian Robotics and Automation Association (ARAA)."
+  },
+  {
+    "shortName": "MHS",
+    "name": "International Symposium on Micro-NanoMechatronics and Human Science",
+    "start": "2026-12-01",
+    "end": "2026-12-03",
+    "deadline": "",
+    "city": "Nagoya",
+    "country": "Nagoya",
+    "link": "https://www.ieee-ras.org/event/2026-international-symposium-on-micro-nanomechatronics-and-human-science-mhs-72660/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
   },
   {
     "shortName": "Humanoids",

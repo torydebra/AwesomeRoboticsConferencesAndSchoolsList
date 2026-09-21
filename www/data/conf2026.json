@@ -1457,19 +1457,6 @@
   },
   {
     "shortName": "ROBOT",
-    "name": "9th Iberian Robotics Conference",
-    "start": "2026-11-18",
-    "end": "2026-11-20",
-    "deadline": "",
-    "city": "Barcelona",
-    "country": "Spain",
-    "link": "https://www.ieee-ras.org/event/2026-9th-iberian-robotics-conference-robot-71646/",
-    "type": "Conference",
-    "addressLink": "",
-    "note": ""
-  },
-  {
-    "shortName": "ROBOT2026",
     "name": "Iberian Robotics Conference",
     "start": "2026-11-18",
     "end": "2026-11-20",
@@ -1512,12 +1499,12 @@
     "name": "International Symposium on Micro-NanoMechatronics and Human Science",
     "start": "2026-12-01",
     "end": "2026-12-03",
-    "deadline": "",
+    "deadline": "2026-09-30",
     "city": "Nagoya",
-    "country": "Nagoya",
-    "link": "https://www.ieee-ras.org/event/2026-international-symposium-on-micro-nanomechatronics-and-human-science-mhs-72660/",
+    "country": "Japan",
+    "link": "https://www.mein.nagoya-u.ac.jp/mhs/mhs2026-Top.html",
     "type": "Conference",
-    "addressLink": "",
+    "addressLink": "https://maps.app.goo.gl/KcTykprYVp37Hhq39",
     "note": ""
   },
   {

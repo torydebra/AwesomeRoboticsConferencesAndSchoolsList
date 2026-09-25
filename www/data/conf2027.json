@@ -130,6 +130,19 @@
     "note": ""
   },
   {
+    "shortName": "ROSCON",
+    "name": "ROS Conference",
+    "start": "2027-10-22",
+    "end": "2027-10-24",
+    "deadline": "",
+    "city": "Krakov",
+    "country": "Poland",
+    "link": "https://roscon.ros.org/2027/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "IROS",
     "name": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
     "start": "2027",

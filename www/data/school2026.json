@@ -658,5 +658,20 @@
         "costNote": "accomodation not inc.", 
         "addressLink": "https://maps.app.goo.gl/iBFVaZ77BzRwoGS59",
         "note": "AI and robotics are too often considered separate fields. Typical graduate student curricula concentrate on AI or on robotics, but rarely on both. This school continues the tradition of the successful series of Lucia Schools on AI and Robotics, which aim at filling this educational gap and providing future researchers with theoretical and methodological knowledge to realize integrated intelligent robots. The courses in this school are focused towards topics that are complementary to the ones usually encountered in graduate programs."
+    },
+    {
+        "shortName": "ANAIS",
+        "name": "Annual Nepal AI School",
+        "start": "2026-12-28",
+        "end": "2027-01-07",
+        "deadline": "2026-10-10",
+        "city": "Suryabinayak",
+        "country": "Nepal",
+        "link": "https://anais.naamii.org.np/home",
+        "type": "School",
+        "cost": "140-450USD",
+        "costNote": "student/professional/academic: USD 280/430/440/450",
+        "addressLink": "https://maps.app.goo.gl/vFFV7AMuwh4U67776",
+        "note": "The Annual Nepal AI School (ANAIS) is a unique platform in South Asia that brings together scientists, faculty, and participants from all over the world for an intensive 11-day program of in-person AI lectures, labs, and project work. The course covers depth from fundamentals to a wide range of applications and domains, including the frontier of recently developed ideas and methods. ANAIS attracts diverse audiences, from senior undergraduates and graduates to PhD students, teaching faculty, and industry professionals."
     }
 ]

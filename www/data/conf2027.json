@@ -130,6 +130,19 @@
     "note": ""
   },
   {
+    "shortName": "RSS",
+    "name": "Robotics: Science and System",
+    "start": "2027-07-06",
+    "end": "2026-07-11",
+    "deadline": "2026-12-04",
+    "city": "Athens",
+    "country": "Greece",
+    "link": "https://roboticsconference.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/t7ZLHRy9DRUL3DE5A",
+    "note": ""
+  },
+  {
     "shortName": "ROSCON",
     "name": "ROS Conference",
     "start": "2027-10-22",

@@ -1313,6 +1313,19 @@
     "note": ""
   },
   {
+    "shortName": "ICCMA",
+    "name": "14th International Conference on Control, Mechatronics and Automation",
+    "start": "2026-11-03",
+    "end": "2026-11-05",
+    "deadline": "",
+    "city": "Bari",
+    "country": "Italy",
+    "link": "https://www.ieee-ras.org/event/2026-14th-international-conference-on-control-mechatronics-and-automation-iccma-72631/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "iSpaRo",
     "name": "International Conference on Space Robotics",
     "start": "2026-11-03",

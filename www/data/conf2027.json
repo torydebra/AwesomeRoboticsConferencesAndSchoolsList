@@ -65,6 +65,19 @@
     "note": "The ACM Symposium on Applied Computing (SAC) has been a primary gathering forum for applied computer scientists, computer engineers, software engineers, and application developers from around the world. SAC 2027 is sponsored by the ACM Special Interest Group on Applied Computing (SIGAPP), and will be held in Gwangju, South Korea. In SAC 2015, the technical track on Intelligent Robotics and Multi-Agent Systems (IRMAS) joined the former tracks on Intelligent Robotic Systems (ROBOT) and Cooperative Multi-Agent Systems and Applications (CMASA) which had been organized as separate technical tracks in past editions of SAC. The IRMAS track will be organized for the thirteenth time in SAC 2027, exploiting the inherent synergy between Robotics and Multi-Agent Systems (MAS), thus aiming to bring together these highly related and exciting research fields."
   },
   {
+    "shortName": "AIRC",
+    "name": "8th International Conference on Artificial Intelligence, Robotics and Control ",
+    "start": "2027-04-06",
+    "end": "2027-04-08",
+    "deadline": "2026-11-20",
+    "city": "Tempe, AZ",
+    "country": "USA",
+    "link": "https://www.airc.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/pWW3fAjuhMVf2u5h8",
+    "note": "AIRC brings together researchers and engineers working across AI, robotics, and control systems, including topics such as machine learning, computer vision, autonomous systems, collaborative and humanoid robots, and the integration of control with AI and IoT. Accepted and registered papers are peer-reviewed and published in the conference proceedings. Recent AIRC proceedings have been indexed in IEEE Xplore, Ei Compendex, and Scopus."
+  },
+  {
     "shortName": "ICRA",
     "name": "IEEE International Conference on Robotics and Automation",
     "start": "2027-05-24",

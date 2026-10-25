@@ -1482,6 +1482,19 @@
     "note": ""
   },
   {
+    "shortName": "ICRAE",
+    "name": "11th International Conference on Robotics and Automation Engineering",
+    "start": "2026-11-20",
+    "end": "2026-11-22",
+    "deadline": "",
+    "city": "Nagoya",
+    "country": "Japan",
+    "link": "https://www.ieee-ras.org/event/2026-11th-international-conference-on-robotics-and-automation-engineering-icrae-72721/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "M2VIP",
     "name": "IEEE 32nd International Conference on Mechatronics and Machine Vision in Practice",
     "start": "2026-11-20",

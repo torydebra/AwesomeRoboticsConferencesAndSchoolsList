@@ -143,6 +143,19 @@
     "note": ""
   },
   {
+    "shortName": "ICSR",
+    "name": "International Conference on Social Robotics",
+    "start": "2027-07-25",
+    "end": "2027-07-28",
+    "deadline": "2027-02-15",
+    "city": "Potsdam",
+    "country": "Germany",
+    "link": "https://icsr2027.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/7GqaePETiFfwcvyu9",
+    "note": ""
+  },
+  {
     "shortName": "RSS",
     "name": "Robotics: Science and System",
     "start": "2027-07-06",

@@ -1547,6 +1547,19 @@
     "note": ""
   },
   {
+    "shortName": "ICCR",
+    "name": "8th International Conference on Control and Robotics",
+    "start": "2026-12-03",
+    "end": "2026-12-05",
+    "deadline": "",
+    "city": "Tokyo",
+    "country": "Japan",
+    "link": "https://www.ieee-ras.org/event/2026-8th-international-conference-on-control-and-robotics-iccr-72055/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "Humanoids",
     "name": "IEEE-RAS 25th International Conference on Humanoid Robots",
     "start": "2026-12-06",

@@ -16,10 +16,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout files
-        uses: Bhacaz/checkout-files@v2
+        uses: actions/checkout@v4
         with:
-          files: www/data
-          branch: ${{ github.head_ref || github.ref_name }}
+          sparse-checkout: |
+            www/data
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:

@@ -13,5 +13,33 @@
         "costNote": "with room: shared-individual", 
         "addressLink": "https://maps.app.goo.gl/iufhY2899sXZ7cxP7",
         "note": "SoRAIM aims to bring together researchers from complementary fields — such as computer vision, speech and audio processing, affective computing, and human-robot interaction — who share a common interest in social robotics and socially intelligent systems. The school fosters cross-disciplinary exchange and discussion, both through formal courses given by internationally recognised experts and through the many opportunities for informal interaction in a relaxed mountain setting."
+    },
+    {
+        "shortName": "RoboTXpower",
+        "name": "RoboTXpower - Textile robotics for human empowerment",
+        "start": "2027-02-01",
+        "end": "2027-02-05",
+        "deadline": "2026-12-07",
+        "city": "Pisa",
+        "country": "Italy",
+        "link": "https://www.santannapisa.it/it/formazione/seasonalschool/RoboTXpower-textile-robotics-human-26-27",
+        "type": "Conference",
+        "addressLink": "https://maps.app.goo.gl/yE2cpqW6pN21nz6c8",
+        "note": "The Seasonal School will introduce participants to the urgent topic of textile-based robotics, providing them with interdisciplinary tools to design robots based on textiles, how to leverage the unique properties of these materials to devise wearable and non-wearable robotic tools, and for the understanding of their role in human empowerment, combining engineering, biomechanical, clinical, and regulatory aspects. This objective will be pursued through a mix of theoretical lessons accompanied by hands-on laboratory activities, fulfilling the gap between theoretical and practical aspects."
+    },
+    {
+        "shortName": "RASPRAGUE",
+        "name": "IEEE RAS Summer School on Multi-robot systems",
+        "start": "2027-08-04",
+        "end": "2027-08-10",
+        "deadline": "",
+        "city": "Prague",
+        "country": "Czech Republic",
+        "link": "https://mrs.fel.cvut.cz/summer-school-2027/",
+        "type": "School",
+        "cost": "€625 - €930",
+        "costNote": "students/academics/professional early(late) : €625(695)/725(805)/835(930)", 
+        "addressLink": "https://maps.app.goo.gl/oWsHhXuNhXr7Do5y9",
+        "note": "The Summer School aims to promote the newest achievements in multi-robot systems and swarm robotics to students, academic researchers, and industrial practitioners to enable putting systems of cooperating robots into practice. The content of the Summer School will be focused but not limited to systems of cooperating unmanned aerial (UAVs), surface (USVs), underwater (UUVs), and ground vehicles (UGVs). The topics addressed by well-recognised experts in the field of Multi-Robot Systems are composed to provide the participants necessary knowledge for understanding the available theory and for realisation of real-world experiments with a fleet of autonomous micro aerial vehicles on the last day of the Summer School. The outdoor experiment will be motivated by industrial applications of fully decentralised swarming in challenging scenarios."
     }
 ]

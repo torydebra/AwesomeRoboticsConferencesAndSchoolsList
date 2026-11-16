@@ -91,6 +91,19 @@
     "note": ""
   },
   {
+    "shortName": "AIRodyssey",
+    "name": "AI & Robotics Odyssey",
+    "start": "2027-06-14",
+    "end": "2027-06-18",
+    "deadline": "2026-12-01",
+    "city": "Lavrio (cruise)",
+    "country": "Greece",
+    "link": "https://icsdweb.aegean.gr/aegeanrbtcs/airodyssey/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/4oE9Aw8UsJnC8PwH8",
+    "note": "AIRodyssey is a single-track residential conference bringing AI and robotics researchers together for four days, with one thematic day"
+  },
+  {
     "shortName": "IV",
     "name": "The 38th IEEE Intelligent Vehicles Symposium",
     "start": "2027-06-15",
@@ -115,6 +128,19 @@
     "type": "Conference",
     "addressLink": "",
     "note": ""
+  },
+  {
+    "shortName": "ReMAR",
+    "name": "International Conference on Reconfigurable Mechanisms and Robots",
+    "start": "2027-06-27",
+    "end": "2027-06-30",
+    "deadline": "2027-02-15",
+    "city": "London",
+    "country": "UK",
+    "link": "https://remarconference.org/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/vYqQbaeetjKg4hen9",
+    "note": "The conference brings together researchers, engineers, and practitioners from academia and industry to exchange the latest developments in theory, design, modelling, analysis, control, and applications of reconfigurable mechanisms and robots. ReMAR2027 aims to foster interdisciplinary collaboration across robotics, mechanism science, manufacturing, deployable structures, soft robotics, engineering origami, and adaptive systems."
   },
   {
     "shortName": "AIM",

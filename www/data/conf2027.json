@@ -182,6 +182,19 @@
     "note": ""
   },
   {
+    "shortName": "ECMR",
+    "name": "European Conference on Mobile Robots",
+    "start": "2027-08-31",
+    "end": "2027-09-03",
+    "deadline": "2027-02-26",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "link": "https://ecmr2027.gr/",
+    "type": "Conference",
+    "addressLink": "https://www.google.com/maps/search/?api=1&query=Thessaloniki%20Olympic%20Museum%2C%20Agiou%20Dimitriou%20%26%203rd%20September%20Str%2C%20Thessaloniki%2C%20Greece",
+    "note": "The European Conference on Mobile Robots (ECMR) is a well-established biennial conference in the area of mobile robotics and mobile human-robot systems. The 13th edition takes place at the Thessaloniki Olympic Museum, Greece, including workshops and tutorials on 31 August and the main conference on 1-3 September 2027."
+  },
+  {
     "shortName": "ROSCON",
     "name": "ROS Conference",
     "start": "2027-10-22",

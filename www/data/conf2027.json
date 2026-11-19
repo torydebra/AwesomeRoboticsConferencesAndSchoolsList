@@ -182,6 +182,19 @@
     "note": ""
   },
   {
+    "shortName": "ICAR",
+    "name": "IEEE 23rd International Conference on Advanced Robotics",
+    "start": "2027-07-12",
+    "end": "2027-07-16",
+    "deadline": "",
+    "city": "Zagreb",
+    "country": "Croatia",
+    "link": "https://www.ieee-ras.org/event/2027-ieee-23rd-international-conference-on-advanced-robotics-icar-73471/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": "ICAR is a long-running international robotics conference covering robotic vision, cognitive robotics, humanoid robots, and related topics."
+  },
+  {
     "shortName": "ECMR",
     "name": "European Conference on Mobile Robots",
     "start": "2027-08-31",

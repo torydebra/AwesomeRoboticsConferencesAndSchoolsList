@@ -186,13 +186,13 @@
     "name": "IEEE 23rd International Conference on Advanced Robotics",
     "start": "2027-07-12",
     "end": "2027-07-16",
-    "deadline": "",
+    "deadline": "2027-03-21",
     "city": "Zagreb",
     "country": "Croatia",
-    "link": "https://www.ieee-ras.org/event/2027-ieee-23rd-international-conference-on-advanced-robotics-icar-73471/",
+    "link": "https://2027.ieee-icar.org/",
     "type": "Conference",
-    "addressLink": "",
-    "note": "ICAR is a long-running international robotics conference covering robotic vision, cognitive robotics, humanoid robots, and related topics."
+    "addressLink": "https://maps.app.goo.gl/G7EynhLwvYPHNkbW7",
+    "note": "Since 1983, ICAR has led the way in robotics innovation. A comprehensive range of robotics issues, including robotic vision, cognitive robotics, humanoid robots, and many more, will be covered through oral presentations, practical workshops, and plenary speeches by well-known specialists. ICAR has always been a driving force behind innovative contributions, ground-breaking concepts, and novel viewpoints that push the limits of robotics technology and research. This edition will focus on DEEP TECH ROBOTICS AND EMBODIED AI and will target the issues and opportunities – for research and science-driven innovation – of applying AI to Robotics, in particular for biomedical robotics, biorobotics, soft robotics and the intertwining of them. We will provide a gathering occasion for a large bustling area spanning from an Austro-Hungarian mittel-europa to the Adriatic , the southern Slavic countries, Greece and Turkey. We will offer a stage to local unicorns and technology companies." 
   },
   {
     "shortName": "ECMR",

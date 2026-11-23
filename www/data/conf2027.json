@@ -91,6 +91,19 @@
     "note": ""
   },
   {
+    "shortName": "CogSIMA",
+    "name": "Conference on Cognitive & Computational Aspects of Situation Management",
+    "start": "2027-06-01",
+    "end": "2027-06-04",
+    "deadline": "2026-12-04",
+    "city": "Veszprém",
+    "country": "Hungary",
+    "link": " https://2027.cogsima.org",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/KLvnATEggqAQWhpm7",
+    "note": "Now in its 17th edition, CogSIMA brings together researchers across AI and machine learning, cognitive science, human factors and ergonomics, robotics and autonomous systems, information fusion, modeling and simulation, and systems engineering to advance the interdisciplinary study of situation awareness, situation assessment, and cognitive situation management."
+  },
+  {
     "shortName": "AIRodyssey",
     "name": "AI & Robotics Odyssey",
     "start": "2027-06-14",

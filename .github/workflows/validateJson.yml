@@ -24,4 +24,4 @@ jobs:
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: www/data/schema.json
-          INPUT_JSONS: www/data/conf2026.json,www/data/school2026.json,www/data/conf2027.json,www/data/school2027.json,www/data/conf2028.json,www/data/school2028.json,www/data/conf2029.json,www/data/school2029.json,,www/data/conf2030.json,www/data/school2030.json
+          INPUT_JSONS: www/data/conf2026.json,www/data/school2026.json,www/data/conf2027.json,www/data/school2027.json,www/data/conf2028.json,www/data/school2028.json,www/data/conf2029.json,www/data/school2029.json,www/data/conf2030.json,www/data/school2030.json

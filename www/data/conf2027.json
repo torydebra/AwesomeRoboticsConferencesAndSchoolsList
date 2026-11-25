@@ -66,7 +66,7 @@
   },
   {
     "shortName": "AIRC",
-    "name": "8th International Conference on Artificial Intelligence, Robotics and Control ",
+    "name": "8th International Conference on Artificial Intelligence, Robotics and Control",
     "start": "2027-04-06",
     "end": "2027-04-08",
     "deadline": "2026-11-20",
@@ -76,6 +76,19 @@
     "type": "Conference",
     "addressLink": "https://maps.app.goo.gl/pWW3fAjuhMVf2u5h8",
     "note": "AIRC brings together researchers and engineers working across AI, robotics, and control systems, including topics such as machine learning, computer vision, autonomous systems, collaborative and humanoid robots, and the integration of control with AI and IoT. Accepted and registered papers are peer-reviewed and published in the conference proceedings. Recent AIRC proceedings have been indexed in IEEE Xplore, Ei Compendex, and Scopus."
+  },
+  {
+    "shortName": "ISMR",
+    "name": "International Symposium on Medical Robotics",
+    "start": "2027-04-27",
+    "end": "2027-04-29",
+    "deadline": "2026-11-10",
+    "city": "Nashville",
+    "country": "USA",
+    "link": "https://ismr.gatech.edu/2027/2027-welcome",
+    "type": "Conference",
+    "addressLink": "",
+    "note": "The 2027 International Symposium on Medical Robotics (ISMR) will be held in Nashville, Tennessee, at Vanderbilt University from April 27-29, 2027. The symposium will begin with the workshop(s)/tutorial(s) held on April 27, and the subsequent single-track symposium presentations from April 28-29. This symposium will feature invited talks and workshops in addition to single-track oral/poster presentations of original research."
   },
   {
     "shortName": "ICRA",
@@ -219,6 +232,19 @@
     "type": "Conference",
     "addressLink": "https://www.google.com/maps/search/?api=1&query=Thessaloniki%20Olympic%20Museum%2C%20Agiou%20Dimitriou%20%26%203rd%20September%20Str%2C%20Thessaloniki%2C%20Greece",
     "note": "The European Conference on Mobile Robots (ECMR) is a well-established biennial conference in the area of mobile robotics and mobile human-robot systems. The 13th edition takes place at the Thessaloniki Olympic Museum, Greece, including workshops and tutorials on 31 August and the main conference on 1-3 September 2027."
+  },
+  {
+    "shortName": "CARA",
+    "name": "Conference on Agricultural Robotics and Automation",
+    "start": "2027-09-23",
+    "end": "2027-09-24",
+    "deadline": "2027-02-28",
+    "city": "Wageningen",
+    "country": "Netherlands",
+    "link": "https://agriroboticsconference.com/",
+    "type": "Conference",
+    "addressLink": "https://maps.app.goo.gl/v49T1BtWFrWWCCfD8",
+    "note": "The Conference on Agricultural Robotics and Automation aims to bring together researchers working on both fundamental developments in robotics and automation and their application in agriculture."
   },
   {
     "shortName": "ROSCON",

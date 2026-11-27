@@ -1,10 +1,23 @@
 [
   {
+    "shortName": "RPIC",
+    "name": "International Conference on Robot Perception and Intelligent Control",
+    "start": "2027-01-22",
+    "end": "2027-01-24",
+    "deadline": "2026-12-22",
+    "city": "Tokyo",
+    "country": "Japan",
+    "link": "https://www.icrpic.org/",
+    "type": "Conference",
+    "addressLink": "",
+    "note": ""
+  },
+  {
     "shortName": "ICARA",
     "name": "International Conference on Automation, Robotics and Applications",
     "start": "2027-02-25",
     "end": "2027-02-27",
-    "deadline": "",
+    "deadline": "2026-12-20",
     "city": "Paris",
     "country": "France",
     "link": "https://www.icara.us/",
